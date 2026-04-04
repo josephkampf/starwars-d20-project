@@ -6,18 +6,13 @@
 
 il ]OENUER iy WEIGHT
 
-ABILITY MP
-MODIFIER
+ABILITY MP MODIFIER
 
 gs
 
-CROSS SKIL
-UME
-eae") THROWS cuss N i
+CROSS SKIL UME eae") THROWS cuss N i
 
-= OOOO
-emO-OOO00
-ee ee
+= OOOO emO-OOO00 ee ee
 
 WEAPON
 
@@ -33,11 +28,7 @@ saws
 
 KEY _ABIUTY
 
-ABILITY MODIFIER
-nx
-HA
-TR"
-iNT
+ABILITY MODIFIER nx HA TR" iNT
 
 je INT
 
@@ -47,8 +38,7 @@ RANKS
 
 DARK SIDE POINTS
 
-Ho)
-ist em
+Ho) ist em
 
 oui anIFER
 
@@ -56,13 +46,11 @@ oui anIFER
 
 TOTAL WEIGHT CARRIED
 
-e)
-e)
+e) e)
 
 HECK GIRDLE IF CHARALTER
 
-[e)
-(e)
+[e) (e)
 
 ATE (N THE LANGUAG!
 
@@ -70,74 +58,43 @@ ATE (N THE LANGUAG!
 
 cs ——|
 
-Alter Control O Sense
-© Compassion Attuned O Aware
-Focus © Burst of Speed O Force Mind
-O Farce Flight O Force Speed Impraved Force Mind
+Alter Control O Sense © Compassion Attuned O Aware Focus © Burst of Speed O Force Mind O Farce Flight O Force Speed Impraved Force Mind
 
 ) Force Whirlwind ) Knight Mind
 
 Mind Trick
 
-© Knight Speed
-© Master Speed Master Mind
-)Dissipate Energy Link
-) Lightsaber Defense Malavolent
-) Knight Deten
-Master Defeng
-Mettle
-Rage
-Force Mastery
-CO High Force Mastery
+© Knight Speed © Master Speed Master Mind )Dissipate Energy Link ) Lightsaber Defense Malavolent ) Knight Deten Master Defeng Mettle Rage Force Mastery CO High Force Mastery
 
-Precise Shot
-Rapid Shot
-Multishot
+Precise Shot Rapid Shot Multishot
 
-© Acrobatic
-O Aeertness
-O Ambidexterity
-) Animal Affinity Shot on the Run
-) Armor Praficiency (ight) Power Attack
+© Acrobatic O Aeertness O Ambidexterity ) Animal Affinity Shot on the Run ) Armor Praficiency (ight) Power Attack
 
 Armor Proficiency (medium) Ch
 
-Armor Proficiency (heavy)
-Armar Proficiency (powered)
+Armor Proficiency (heavy) Armar Proficiency (powered)
 
 ) Improved Bantha Rush
 
-Athletic © Sunder
-Blind-Fight © Quick Draw
-Cautious © Dhickness (J
+Athletic © Sunder Blind-Fight © Quick Draw Cautious © Dhickness (J
 
-© Combat Expertise
-© Improved Disarm
+© Combat Expertise © Improved Disarm
 
 © Rugged
 
 O Run
 
-kill Emp
-ill Emphasis
-Skill Emphasis
+kill Emp ill Emphasis Skill Emphasis
 
-© Improved Trip )
-© Whirlwind Attack
-© Combat Refloxes
+© Improved Trip ) © Whirlwind Attack © Combat Refloxes
 
-Dodge Sharp-Eyed
-Nobility Spacer
-Spring Attack nina
+Dodge Sharp-Eyed Nobility Spacer Spring Attack nina
 
-Endurance
-Exotic Neapon Proficiency
+Endurance Exotic Neapon Proficiency
 
-Starship Dodge
-arship Dodge
+Starship Dodge arship Dodge
 
-Fame arship Operation
-Force-Sensitive O Starship Operation
+Fame arship Operation Force-Sensitive O Starship Operation
 
 O Frightful Presence Steady
 
@@ -159,60 +116,23 @@ O Improved Critical Trick
 
 © Iron Will Weapon Finesse
 
-Weapon Finesse
-Weapon Fines
-Weapon Focus
+Weapon Finesse Weapon Fines Weapon Focus
 
 ) Weapon Focus
 
-Lightning Reflexes
-D Low Prafile
-© Martial Arts
-Defensive Martial Arts
-© Improved Martial Arts
-© Advanced Martial Arts
-O Mimic
-O Nimble
-© Persuasive
-) Paint Blank Shot
-Far Shot (
+Lightning Reflexes D Low Prafile © Martial Arts Defensive Martial Arts © Improved Martial Arts © Advanced Martial Arts O Mimic O Nimble © Persuasive ) Paint Blank Shot Far Shot (
 
-© Weapon Facus
-© Weapan Group
-© Weapon 6
-© Weapon Group
-© Weapon Group
-Weapon Group
-Tero-6 Training
+© Weapon Facus © Weapan Group © Weapon 6 © Weapon Group © Weapon Group Weapon Group Tero-6 Training
 
 WAX RANKS —
 
 Ea ———— _
 
-CROSS SKILL KEY ABILITY MISC.
-CLASS. AME FEAT ABIUTY MODIFIER RANKS woairen
+CROSS SKILL KEY ABILITY MISC. CLASS. AME FEAT ABIUTY MODIFIER RANKS woairen
 
-‘Mifect Mind Alter + + s
-Battlemind Cantal + + =
-Dain Energy #>@® Alter + + =
-Empathy Force + + =
-Enhance Ability Force * + .
-Fareeeing ‘ + =
-Fear > @® + + 2
-Force Defense + + *
-force Brp +@ + + .
-Force Lightning «> A + + .
-Force Stealth « Control ~ + hi =
-Force Strike 4 Alter + + .
-Friendship 4 Force + + =
-Heal Alter + + L
-Heal Sef Contra + a
-Musion Mier CHA + + —
-Move Object +> Alter INT -
+‘Mifect Mind Alter + + s Battlemind Cantal + + = Dain Energy #>@® Alter + + = Empathy Force + + = Enhance Ability Force * + . Fareeeing ‘ + = Fear > @® + + 2 Force Defense + + * force Brp +@ + + . Force Lightning «> A + + . Force Stealth « Control ~ + hi = Force Strike 4 Alter + + . Friendship 4 Force + + = Heal Alter + + L Heal Sef Contra + a Musion Mier CHA + + — Move Object +> Alter INT -
 
-Force «> Sense + +
-Telepathy Sense WIS * +
-Sills marked 4+» can be used untrained (0 sil ranks). “Armor check penalty, any app
+Force «> Sense + + Telepathy Sense WIS * + Sills marked 4+» can be used untrained (0 sil ranks). “Armor check penalty, any app
 
 TG lsu of this skill earns a dark side point
 
