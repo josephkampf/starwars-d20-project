@@ -1,0 +1,15 @@
+# Conversion temp files
+.convert_tmp/
+
+# Obsidian workspace files
+.obsidian/
+
+# macOS metadata
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
