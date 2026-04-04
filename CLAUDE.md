@@ -11,11 +11,13 @@ This repository is an **Obsidian vault** containing the *Star Wars D20 Revised C
 converted from a scanned PDF into chapter-level markdown files.
 
 - `SWD20 Core Rulebook/` — generated chapter markdown files (the vault content)
-- `convert_pdf_to_vault.sh` — full pipeline: rasterize → OCR → assemble markdown
-- `convert_tables.py` — converts plain-text table data into markdown pipe tables
-- `format_vault.py` — initial formatting pass on fresh OCR output; **run once, not idempotent**
-- `improve_formatting.py` — post-processing formatting improvements; **idempotent**, safe to re-run
-- `revert_bad_tables.py` — reverts tables that were converted incorrectly
+- `scripts/` — utility scripts for OCR processing and formatting
+  - `convert_pdf_to_vault.sh` — full pipeline: rasterize → OCR → assemble markdown
+  - `convert_tables.py` — converts plain-text table data into markdown pipe tables
+  - `format_vault.py` — initial formatting pass on fresh OCR output; **run once, not idempotent**
+  - `improve_formatting.py` — post-processing formatting improvements; **idempotent**, safe to re-run
+  - `revert_bad_tables.py` — reverts tables that were converted incorrectly
+  - `unwrap_paragraphs.py` — joins lines within paragraphs; **idempotent**
 
 ---
 
@@ -90,33 +92,3 @@ When working with large PDFs that cannot be read directly:
 *(INDEX 380–382 is intentionally excluded — see Chapter map rules above.)*
 
 ---
-
-## Markdown Formatting Conventions
-
-- Each chapter file starts with: `# Chapter Title`, then `*Pages N–M (PDF)*`, then `---`
-- Page breaks are marked with HTML comments: `<!-- page N -->`
-- Tables are converted to markdown pipe format by `convert_tables.py`
-- `format_vault.py` is a **one-shot** script — do not re-run on already-formatted files
-- `improve_formatting.py` is **idempotent** — safe to re-run to apply additional improvements
-
----
-
-## ~/Data Reference Library
-
-`~/Data` contains extracted `.txt` files used as primary sources. Always check `~/Data` **before**
-web searching for Forgotten Realms lore, Waterdeep, or Tyranny of Dragons / Wrath of the Dragon
-Queen campaign content.
-
-Key files:
-
-| File | Contents |
-|------|----------|
-| `1374214-ToDR.txt` | Tyranny of Dragons (Hoard of the Dragon Queen + Rise of Tiamat) |
-| `City Of Splendors - Waterdeep.txt` | Waterdeep sourcebook — districts, NPCs, factions |
-| `Volo's Guide to Waterdeep.txt` | Inns, taverns, shops, street-level Waterdeep detail |
-| `Noble Houses of Waterdeep.txt` | Noble families, heraldry, politics |
-
-Search pattern:
-```bash
-grep -in "search term" ~/Data/filename.txt | head -40
-```
