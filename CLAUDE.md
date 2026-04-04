@@ -21,6 +21,19 @@ converted from a scanned PDF into chapter-level markdown files.
 
 ---
 
+## Git Workflow
+
+**All changes must be made on a feature branch and submitted as a pull request before merging to main.**
+
+- Create a feature branch: `git checkout -b descriptive-branch-name`
+- Make changes and commit: `git commit -m "Clear, descriptive commit message"`
+- Push to remote: `git push -u origin descriptive-branch-name`
+- Create a PR on GitHub with a clear summary of changes
+- PRs are reviewed before merging to main
+- Never commit directly to main
+
+---
+
 ## PDF Extraction Workflow
 
 When working with large PDFs that cannot be read directly:
