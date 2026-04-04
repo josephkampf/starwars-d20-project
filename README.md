@@ -25,11 +25,12 @@ into a searchable, linkable [Obsidian](https://obsidian.md) vault — free and o
 We welcome volunteers of all skill levels. No coding experience required — if you can read Star Wars
 D20 and spot a typo, you can contribute.
 
-1. **Fork** this repository
-2. **Open** the vault in Obsidian (point Obsidian at your fork's root folder)
-3. **Pick a chapter** — find an open pull request or browse the files in `SWD20 Core Rulebook/`
-4. **Edit** — fix OCR errors, restore formatting, correct tables
-5. **Submit a pull request** with your corrections
+1. **Request access** — open an issue titled "Contributor Access Request" and we'll add you as a collaborator
+2. **Clone** the repository once access is granted
+3. **Open** the vault in Obsidian (point Obsidian at the cloned folder)
+4. **Pick a chapter** — find an open pull request or browse the files in `SWD20 Core Rulebook/`
+5. **Edit** — fix OCR errors, restore formatting, correct tables
+6. **Submit a pull request** with your corrections
 
 All pull requests require a review before merging, so your changes will be checked before they go in.
 
