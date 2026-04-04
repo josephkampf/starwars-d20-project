@@ -78,7 +78,7 @@ When working with large PDFs that cannot be read directly:
 - The master nav file is `SWD20 Core Rulebook/Index.md` and contains wiki-links to all chapters.
 - Other low-value appendices (playtesters, character sheets) can be included or skipped.
 
-### Hardcoded chapter page ranges (PDF page numbers, verified)
+### Core Rulebook chapter page ranges (PDF page numbers, verified)
 
 | Chapter | Start | End |
 |---------|-------|-----|
@@ -103,5 +103,14 @@ When working with large PDFs that cannot be read directly:
 | CHARACTER_SHEET | 383 | 384 |
 
 *(INDEX 380–382 is intentionally excluded — see Chapter map rules above.)*
+
+### Additional SWD20 Books
+
+**Hero's Guide** (`SWD20 Heros Guide/`)
+- Expansion book with character templates, prestige classes, and advanced options
+- 3 chapters after OCR processing and splitting
+- Files: `00-introduction.md`, `02-skills-feats.md`, `03-force-adept-traditions.md`
+- Index: `Index.md` (Obsidian wiki-links)
+- Generated using `scripts/convert_pdf_to_vault_generic.sh`
 
 ---
