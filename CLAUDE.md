@@ -78,7 +78,7 @@ When working with large PDFs that cannot be read directly:
 - The master nav file is `SWD20 Core Rulebook/Index.md` and contains wiki-links to all chapters.
 - Other low-value appendices (playtesters, character sheets) can be included or skipped.
 
-### Hardcoded chapter page ranges (PDF page numbers, verified)
+### Core Rulebook chapter page ranges (PDF page numbers, verified)
 
 | Chapter | Start | End |
 |---------|-------|-----|
@@ -103,5 +103,29 @@ When working with large PDFs that cannot be read directly:
 | CHARACTER_SHEET | 383 | 384 |
 
 *(INDEX 380–382 is intentionally excluded — see Chapter map rules above.)*
+
+### Additional SWD20 Books
+
+**Hero's Guide** (`SWD20 Heros Guide/`)
+- Expansion book with character templates, prestige classes, and advanced options
+- 9 chapters split from OCR output on 2026-04-03
+- Index: `Index.md` (Obsidian wiki-links)
+- Generated using `scripts/convert_pdf_to_vault_generic.sh`
+
+#### Hero's Guide chapter page ranges (PDF page numbers)
+
+| Chapter | File | Start | End |
+|---------|------|-------|-----|
+| INTRODUCTION | `00-introduction.md` | 1 | 12 |
+| CHARACTER_ARCHETYPES | `01-archetypes.md` | 13 | 31 |
+| SKILLS_AND_FEATS | `02-skills-and-feats.md` | 32 | 54 |
+| PRESTIGE_CLASSES | `03-prestige-classes.md` | 55 | 72 |
+| HEROIC_ASSOCIATIONS | `04-heroic-associations.md` | 73 | 116 |
+| EQUIPMENT | `05-equipment.md` | 117 | 132 |
+| COMBAT | `06-combat.md` | 133 | 138 |
+| THE_FORCE | `07-the-force.md` | 139 | 151 |
+| DROIDS | `08-droids.md` | 152 | 185 |
+
+*(Pages 173–185 contain bundled web enhancement content OCR'd with the main book scan.)*
 
 ---

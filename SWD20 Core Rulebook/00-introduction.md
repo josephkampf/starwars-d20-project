@@ -6,7 +6,7 @@
 
 ## Introduction
 
-The Star Wars films depict an amazing galaxy of strange aliens, wondrous machinery, mystical powers, epic struggles, great heroes, and terrible villains, From the moment the first Star Destroyer blazed across the screen, the story of Star Wars captivated the world. With this game, you can recreate the story of the films or craft your own adventures in the Star Wars universe. All you need is some dice, a few friends, and your imagination.
+The Star Wars films depict an amazing galaxy of strange aliens, wondrous machinery, mystical powers, epic struggles, great heroes, and terrible villains.  From the moment the first Star Destroyer blazed across the screen, the story of Star Wars captivated the world. With this game, you can recreate the story of the films or craft your own adventures in the Star Wars universe. All you need is some dice, a few friends, and your imagination.
 
 ## This Is Star Wars
 
