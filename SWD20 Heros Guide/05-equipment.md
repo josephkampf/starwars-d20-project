@@ -6,17 +6,11 @@
 
 <!-- page 117 -->
 
-Every Star Wars hero relies to some extent on her equipment—whether it’s to let the hero do something she ordinarily couldn't do, or just to give her a little added edge. This section expands upon the rules presented in the Star Wars Roleplaying Game, giving starting credits for characters above Ist level, present ing some specialized equipment relating to special rganizations outlined in this book, and giving heroes the option of exploring the world of cybernetics.
+Every Star Wars hero relies to some extent on her equipment—whether it’s to let the hero do something she ordinarily couldn't do, or just to give her a little added edge. This section expands upon the rules presented in the Star Wars Roleplaying Game, giving starting credits for characters above 1st level, presenting some specialized equipment relating to special organizations outlined in this book, and giving heroes the option of exploring the world of cybernetics.
 
 Starting Credits for Higher-Level Characters
 
-When GMs allow players to create characters that start
-
-off at higher than Ist level, the question inevitably
-
-arises: How many credits do they have? Certainly,
-
-such characters, even at 2nd level, have accumulated more credits than what they might have started with at 1st level, and the players will want to spend those credits on more gear.
+When GMs allow players to create characters that start off at higher than 1st level, the question inevitably arises: How many credits do they have? Certainly, such characters, even at 2nd level, have accumulated more credits than what they might have started with at 1st level, and the players will want to spend those credits on more gear.
 
 Table 6-1 shows starting credits for higher-level characters. Most characters simply use the starting credits as shown on the table. There are two notable exceptions: Jedi in the Rise of the Empire era, and nobles.
 
@@ -66,15 +60,13 @@ The subspace network operates with compression and encryption even tighter than 
 
 A tall polearm with a single-edged blade on one end, the wan-shen is the chosen weapon of the Matukai adepts (see Chapter Eight: The Force), who use it as their external focus for the Force. It can be wielded like a quarterstaff, and a proficient Matukai can whip the weapon around his body, using himself as the central axis for a whirlwind of metal and blade. The weapon is constructed of a hard but lightweight metal, and the blade at the tip is forged and molded with the aid of the Force, making it exceptionally hard. All wan-shen are considered mastercraft weapons (see Mastercraft Items in Chapter Seven of the Star Wars Roleplaying Game). Each Matukai warrior’s wan-shen is different, with patterns and artwork etched into the blade to represent something significant to the individual warrior.
 
-Additionally, most wan-
+Additionally, most wan-shen are designed to break down into smaller parts to allow for stowage and easy carrying; assembling or disassembling a wan-shen is a full-round action,
 
-shen are designed to break down into smaller parts to allow for stowage and easy carrying; assembling or disassembling a wan-shen is a full-round action,
-
-Zenji Needle Damage: 144
+Zenji Needle Damage: 1d4
 
 Range Increment: 4m Weight: 0.1 kg Group: Exotic
 
-The zenji needle is a thin lacquered needle roughly the length of a Human hand that can be hurled with incredible speed and is capable of piercing even stormtrooper armor when thrown with enough strength. The zenji needle is often disguised as a decoration wom by Human females in their hair, effectively appearing as a part of her attire rather than a deadly weapon.
+The zenji needle is a thin lacquered needle roughly the length of a Human hand that can be hurled with incredible speed and is capable of piercing even stormtrooper armor when thrown with enough strength. The zenji needle is often disguised as a decoration worn by Human females in their hair, effectively appearing as a part of her attire rather than a deadly weapon.
 
 Computers
 
@@ -120,9 +112,9 @@ Common Side Effects Alignment error: —1 on Spot 1/6
 
 computers connected to comlinks from a distance of up to 10 meters away.
 
-The standard borg construct incorporates a top-of-the-line Biotech digital data computer. This computer is not connected to the HoloNet or other computer systems, and therefore cannot be used on its own to conduct complex searches, alter programs on other computers, break computer security, operate remotes, ‘or use ship systems.
+The standard borg construct incorporates a top-of-the-line Biotech digital data computer. This computer is not connected to the HoloNet or other computer systems, and therefore cannot be used on its own to conduct complex searches, alter programs on other computers, break computer security, operate remotes, or use ship systems.
 
-When the subject uses an extemal computer, however, the borg construct provides a +5 equipment bonus on Computer Use checks to conduct complex searches. It also reduces the time required to operate remotes by one-half.
+When the subject uses an external computer, however, the borg construct provides a +5 equipment bonus on Computer Use checks to conduct complex searches. It also reduces the time required to operate remotes by one-half.
 
 A datacard port in the back of the unit allows for the insertion of a standard datacard (see Chapter Seven of the Star Wars Roleplaying Game). Models with additional datacard slots cost an additional 500 credits per each extra slot, to a maximum of four additional slots at 2,000 credits.
 
@@ -176,7 +168,7 @@ Tracking error: 0/3
 
 500 (3,750)
 
-~2 on ranged attack rolls
+-2 on ranged attack rolls
 
 Telescopic Eye Reduced Spot range penalties Indistinguishable from
 
@@ -184,7 +176,7 @@ original eye
 
 Custom Duplicate
 
-Astigmatism: —2 on Spot O/3 and Search checks Deterioration: -4 Charisma
+Astigmatism: —2 on Spot 0/3 and Search checks Deterioration: -4 Charisma
 
 500 (3,750)
 

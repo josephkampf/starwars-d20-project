@@ -6,97 +6,39 @@
 
 <!-- page 73 -->
 
-Nearly every sentient species subscribes to the theory of strength in numbers. People gather together along
+Nearly every sentient species subscribes to the theory of strength in numbers. People gather together along species lines, political affiliations, mercantile associations, and even just hobbies and interests, to pool their abilities and resources in the furtherance of their common philosophies and goals.
 
-species lines, political affiliations, mercantile associa tions, and even just hobbies and interests, to pool their abilities and resources in the furtherance of their common philosophies and goals.
-
-In Star Wars, the most famous examples are the Rebel Alliance and the Galactic Empire—groups whose
-
-power and influence spread across the galaxy, touch
-
-ing lives everywhere for good or ill. Anyone can join these or other organizations, and the following
-
-section explains not only how heroes can go about
-
-joining, but what benefits they derive from member
-
-ship—and what risks they face
+In Star Wars, the most famous examples are the Rebel Alliance and the Galactic Empire—groups whose power and influence spread across the galaxy, touching lives everywhere for good or ill. Anyone can join these or other organizations, and the following section explains not only how heroes can go about joining, but what benefits they derive from membership—and what risks they face.
 
 Sympathy
 
-In the Star Wars Roleplaying Game, some of the benefit of good relations and fame within an organi zation is represented by a character's Reputation bonus. A positive Reputation grants a bonus on skill checks involving interaction with other characters (Bluff, Diplomacy, Entertain, Gather Information, and Intimidate). This bonus can become a penalty in some
+In the Star Wars Roleplaying Game, some of the benefit of good relations and fame within an organization is represented by a character's Reputation bonus. A positive Reputation grants a bonus on skill checks involving interaction with other characters (Bluff, Diplomacy, Entertain, Gather Information, and Intimidate). This bonus can become a penalty in some situations, when the character is better known for disreputable deeds than for good ones. (See Chapter Six of the Star Wars Roleplaying Game for more information about Reputation.)
 
-situations, when the character is better known for
-
-disreputable deeds than for good ones. (See Chapter Six of the Star Wars Roleplaying Game for more information about Reputation.)
-
-Sympathy, on the other hand, determines how
-
-strongly affiliated a character is with a given faction or organization. The higher the Sympathy with a given faction, the more trust and aid that faction affords the character. Sympathy and Reputation are related in terms of effect. The following system
-
-explains how to award and apply Sympathy bonuses.
+Sympathy, on the other hand, determines how strongly affiliated a character is with a given faction or organization. The higher the Sympathy with a given faction, the more trust and aid that faction affords the character. Sympathy and Reputation are related in terms of effect. The following system explains how to award and apply Sympathy bonuses.
 
 Gaining Sympathy
 
 A character gains a point of Sympathy whenever she completes an adventure. The player can apply that point of Sympathy to any of the factions with which she interacted positively during the adventure. A character’s Sympathy score for any given faction can never exceed +5. Each player needs to keep track of his Sympathy bonuses for cach faction with which he has Sympathy.
 
-Sympathy works the same as, and stacks with, Reputation. Whenever a character interacts with a member of a faction with which he has Sympathy, ind would normally get to add his Reputation bonus. to a roll, he can also add his Sympathy bonus,
+Sympathy works the same as, and stacks with, Reputation. Whenever a character interacts with a member of a faction with which he has Sympathy, and would normally get to add his Reputation bonus to a roll, he can also add his Sympathy bonus.
 
 <!-- page 74 -->
 
 <!-- page 76 -->
 
-being who was tumed down for Jedi training. Kaskutal, a Gotal with limited Force sensitivity, had been turned away as a child by Timpel himself and had gone on to become a very successful and wealthy businessman specializing in trade negotiations and intercessions. The two become fast friends, and during their discussions Timpel expressed his frustrations with
-
-the limitations his Jedi
-
-lifestyle put on his travels
-
-and available resources.
-
-Kaskutal, still harboring
-
-admiration for the Jedi
-
-despite being
-
-turned away,
-
-offered to help
-
-and raised funds
-
-and resources
-
-from donors and
-
-investors to create an
-
-organization to help alle-
-
-viate those problems. This organization came to be
-
-known as the Antarian Rangers,
-
-and it soon spread beyond Antar
-
-4 into the rest of the galaxy.
+being who was turned down for Jedi training. Kaskutal, a Gotal with limited Force sensitivity, had been turned away as a child by Timpel himself and had gone on to become a very successful and wealthy businessman specializing in trade negotiations and intercessions. The two became fast friends, and during their discussions Timpel expressed his frustrations with the limitations his Jedi lifestyle put on his travels and available resources. Kaskutal, still harboring admiration for the Jedi despite being turned away, offered to help and raised funds and resources from donors and investors to create an organization to help alleviate those problems. This organization came to be known as the Antarian Rangers, and it soon spread beyond Antar 4 into the rest of the galaxy.
 
 In the early years, the organization was small but ambitious. Kaskutal, the first true Antarian Ranger, used his minor Force sensitivity, Gotal senses, and business acumen to assist Timpel throughout the rest of his career. Upon Timpel’s death, Kaskutal relegated himself to a more administrative role, seeing to it that the organization formed branches throughout the galaxy. Within 50 years, the Antarian Rangers had divisions
 
-good investment decisions and some sawy business deals, Kaskutal ensured that the Rangers were financially stable, if not overly wealthy. As the Clone Wars approached and the Jedi Council took a more traditionalist stance in policy, the
+good investment decisions and some savvy business deals, Kaskutal ensured that the Rangers were financially stable, if not overly wealthy. As the Clone Wars approached and the Jedi Council took a more traditionalist stance in policy, the
 
-Rangers found fewer and fewer
-
-Jedi calling upon them for help. Some branches disbanded due to inactivity, while others used their combat training and entrepreneurial skills to become freelance mercenaries or sector defense forces.
+Rangers found fewer and fewer Jedi calling upon them for help. Some branches disbanded due to inactivity, while others used their combat training and entrepreneurial skills to become freelance mercenaries or sector defense forces.
 
 The organization, reduced to less than half its former size, found a brief revitalization with
 
 the onset of the Clone Wars. The Rangers found themselves suddenly in demand; the Jedi, outnumbered and unable to sufficiently defend the galaxy against the threat of the Separatists, once again called upon the Rangers for aid. As Jedi-Ranger
 
-pairings become more commonplace
-
-once more, the group saw a brief surge in membership before the rise of the Empire.
+pairings become more commonplace once more, the group saw a brief surge in membership before the rise of the Empire.
 
 As the Sith Lord Darth Vader and the Emperor eradicated the Jedi, the Antarian Rangers found themselves hunted in a similar fashion. With a bounty on the heads of known Rangers and the threat of Inquisitors looming over them, the remaining branches of the Antarian Rangers went into hiding. One group of Antarian Rangers, led by a Feeorin named Solm, openly opposed the tyranny of the Empire, but for the most part the Rangers became secluded or disbanded entirely in order to avoid capture. The hidden enclave at Toprawa, home of Wraith Squadron member Tyria Sarkin, was eliminated by the Empire in a case that became typical of the eventual destruction of the Rangers.
 
@@ -171,7 +113,7 @@ The goal—indeed, the very point—of the Corporate Sector is profit, free from
 
 Corporate Sector Sympathy
 
-The Corporate Sector Authority hires many independent contractors, and while it is not as draconian as the Empire or as greedily opportunistic as the Hutts, the CSA can be difficult to work with. Even short-term labor contracts can be exasperatingly long and loaded with clauses and sub-clauses that can cost the unwary, operator a fortune in fines and fees.
+The Corporate Sector Authority hires many independent contractors, and while it is not as draconian as the Empire or as greedily opportunistic as the Hutts, the CSA can be difficult to work with. Even short-term labor contracts can be exasperatingly long and loaded with clauses and sub-clauses that can cost the unwary operator a fortune in fines and fees.
 
 The work is steady, even if the pay isn’t particularly high. The CSA makes it quite clear that the higher-paying assignments go to CSA operatives, and independent contractors only pick up the overage (of which there is usually plenty to go around). One must be willing to drop everything else (sometimes literally) and rush off to the Corporate Sector—or risk being put at the bottom of the long list of preferred contractors.
 
@@ -193,9 +135,9 @@ working in groups larger than two or three. As a
 
 result, allying with the Mistryl can be difficult at best, given the decentralized nature of the organization. The Eleven Elders of the People, now made up of former Shadow Guards, determines the direction and
 
-_ motives of the organization as a whole and has the power to commandeer the services of any member at any time.
+motives of the organization as a whole and has the power to commandeer the services of any member at any time.
 
-Demonstrating motives and goals aligned with those of the Eleven Elders is the best way to earn the good graces of the organization; even then, the Shadow Guards are a selective and secretive group. Helping an individual member of the Mistryl Shadow Guards is tantamount to aiding the organization as a whole, and the Mistry! always repay their debts. Of course, anyone willing to employ a member of the Shadow Guards gains some measure of sympathy, as their money goes back to Emberlene to help the devastated population.
+Demonstrating motives and goals aligned with those of the Eleven Elders is the best way to earn the good graces of the organization; even then, the Shadow Guards are a selective and secretive group. Helping an individual member of the Mistryl Shadow Guards is tantamount to aiding the organization as a whole, and the Mistryl always repay their debts. Of course, anyone willing to employ a member of the Shadow Guards gains some measure of sympathy, as their money goes back to Emberlene to help the devastated population.
 
 Joining
 
@@ -240,17 +182,15 @@ Although the Rebellion doesn’t place the same kinds of demands on its allies a
 
 Emperor's time with frivolous designs. The same goes for company head and founder Raith Sienar. Despite
 
-_ being something of a dreamer himself—rumor has it
+being something of a dreamer himself—rumor has it
 
 that the Death Star was originally his idea—Sienar has a keen grasp of his company’s value to the Empire. So long as Sienar Fleet Systems continues to develop and produce weapons of destruction for the Emperor, SFS—and, by extension, its CEO—will survive. He doesn't like to think about the alternative.
 
-Originally Republic Sienar Systems, Raith’s company ‘was a major commercial and military starship manufacturer in the waning days of the Old Republic. But his company metamorphosed into something more focused on military applications, starting a few years before the commencement of the Clone Wars. Among their most popular designs—with the Empire, at any rate—are the TIE fighter, TIE bomber, and TIE interceptor, Darth Vader's TIE Advanced x1, the Interdictor cruiser, Lambda-class shuttle, and the Skipray blastboat. Sienar Fleet Systems is famous as the leading manufacturer of starfighters, though that’s certainly not all SFS does. Every year, SFS engineers crank out hundreds of designs for armed transports, battle cruisers, assault shuttles, and even battle stations. And the Empire always snaps up the best of the designs.
+Originally Republic Sienar Systems, Raith’s company was a major commercial and military starship manufacturer in the waning days of the Old Republic. But his company metamorphosed into something more focused on military applications, starting a few years before the commencement of the Clone Wars. Among their most popular designs—with the Empire, at any rate—are the TIE fighter, TIE bomber, and TIE interceptor, Darth Vader's TIE Advanced x1, the Interdictor cruiser, Lambda-class shuttle, and the Skipray blastboat. Sienar Fleet Systems is famous as the leading manufacturer of starfighters, though that’s certainly not all SFS does. Every year, SFS engineers crank out hundreds of designs for armed transports, battle cruisers, assault shuttles, and even battle stations. And the Empire always snaps up the best of the designs.
 
 Perhaps the only drawback to joining Sienar Fleet Systems is the lack of individual recognition—though given the penalty for truly useless designs, perhaps spreading the responsibility around is not such a bad idea. Sienar Fleet Systems pays well, though: Everyone from the least line technician on up to the geniuses in the think tank draws a substantial pay stub, with significant benefits. The only people who don't seem to prosper in SFS are the bureaucrats and accountants; Raith Sienar has never liked them, and it shows.
 
-Sienar Sympathy Characters who do good work for Sienar Fleet Systems, even on a short-contract basis, are well rewarded by SFS—especially if they are engineers. Sienar Fleet Systems is fond of contractors who come in and solve design problems, but who don’t require a steady paycheck or benefits (though SFS still employs plenty of those). Contractors are often paid in product—including, sometimes, the prototypes of their own designs. Sienar considers this a fair trade: SFS gets all production and modification rights to a ship design, and the engineer who dreamed it up gets one to fly around the galaxy. But the company doesn't extend this offer to just anyone. Only top-notch designs are even considered; otherwise, the ship doesn’t sell enough units to justify giving one away for free. Sienar Fleet Systems offers employment only to the best technicians and engineers in the Empire. There is very little upward mobility in SFS; an employee almost never works his way up to Research & Design from the assembly line. Within R&D, however, there is plenty of room for
-
-advancement, assuming an engineer can keep up with the grueling schedule and still crank out quality designs. Sienar Fleet Systems isn’t as draconian as the Corporate Sector, though. Brilliant designers are valuable resources, and if they require a little pampering to be happy and productive, it’s a small price for SFS to pay.
+Sienar Sympathy Characters who do good work for Sienar Fleet Systems, even on a short-contract basis, are well rewarded by SFS—especially if they are engineers. Sienar Fleet Systems is fond of contractors who come in and solve design problems, but who don’t require a steady paycheck or benefits (though SFS still employs plenty of those). Contractors are often paid in product—including, sometimes, the prototypes of their own designs. Sienar considers this a fair trade: SFS gets all production and modification rights to a ship design, and the engineer who dreamed it up gets one to fly around the galaxy. But the company doesn't extend this offer to just anyone. Only top-notch designs are even considered; otherwise, the ship doesn’t sell enough units to justify giving one away for free. Sienar Fleet Systems offers employment only to the best technicians and engineers in the Empire. There is very little upward mobility in SFS; an employee almost never works his way up to Research & Design from the assembly line. Within R&D, however, there is plenty of room for advancement, assuming an engineer can keep up with the grueling schedule and still crank out quality designs. Sienar Fleet Systems isn’t as draconian as the Corporate Sector, though. Brilliant designers are valuable resources, and if they require a little pampering to be happy and productive, it’s a small price for SFS to pay.
 
 The major benefit of working in a Sienar think tank is the amazing technological toy box that comes with it. Laboratories at SFS are jammed with all manner of high-tech tools and testing apparatus—the best available, in the case of the senior engineers. But perhaps the best benefit is the atmosphere of academic competition, where brilliant engineers can discuss their latest design theories with other engineers who not only understand the theories but also make constructive suggestions. This sharing of ideas is why SFS insists that every employee sign both a nondisclosure agreement and a noncompete agreement. Perhaps the most difficult aspect of working for Sienar Fleet Systems is the latter: An SFS employee cannot do the same or similar job for another company in the same field (ship design) without risking legal action. If Sienar Fleet Systems doesn’t have any use for an engineer's designs, they simply languish in a file archive somewhere.
 

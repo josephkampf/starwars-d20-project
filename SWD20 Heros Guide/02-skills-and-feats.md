@@ -6,23 +6,15 @@
 
 <!-- page 32 -->
 
-CHAPTER THREE
-
-SKILLS AND FEATS
-
 <!-- page 33 -->
 
 In the Star Wars Roleplaying Game, characters differ from one another through choices of skills and feats. The existing Star Wars Roleplaying Game skills and feats provide a solid foundation to build nearly any kind of character, but additional options may help to refine a specific character concept. In this chapter, you'll find new uses for the skills your heroes already have as well as new feats for them to explore
 
-Gamemasters are strongly encouraged to look through this chapter and discuss the new material with their play groups. Some feats may be inappropri ate for the nature of the campaign, and the GM may wish to disallow them. Some new skill uses may also fall beyond the boundaries of the campaign. At the very least, players should check with their GMs before they select any of these feats for their heroes, or try new uses for old skills during play
+Gamemasters are strongly encouraged to look through this chapter and discuss the new material with their play groups. Some feats may be inappropriate for the nature of the campaign, and the GM may wish to disallow them. Some new skill uses may also fall beyond the boundaries of the campaign. At the very least, players should check with their GMs before they select any of these feats for their heroes, or try new uses for old skills during play.
 
 Old Skills, New Tricks
 
-The skill system in the Star Wars Roleplaying Game
-
-is designed as a broad-use mechanic, so that every skill can have multiple applications as the Gamemaster deems fit. However, alternative uses for
-
-skills beyond the descriptions in the Star Wars Roleplaying Game are not always evident. The exam ples below provide suggestions for skill use.
+The skill system in the Star Wars Roleplaying Game is designed as a broad-use mechanic, so that every skill can have multiple applications as the Gamemaster deems fit. However, alternative uses for skills beyond the descriptions in the Star Wars Roleplaying Game are not always evident. The examples below provide suggestions for skill use.
 
 Each entry begins with a brief overview of the more common uses of the skill, followed by one or more unusual uses you might not have thought of (and, in some cases, clarifications on frequently misunderstood uses of the skill). Unless otherwise noted, the details regarding retries, special rules, and time are unchanged from the Star Wars Roleplaying Game
 
@@ -44,7 +36,7 @@ Sending a Secret Message: You can use Bluff to send and understand secret messag
 
 Anyone listening in on a secret message can attempt a Sense Motive check (DC equal to the sender's Bluff check result). If successful, the eavesdropper realizes that a secret message is contained in the communication. If the eavesdropper beats the DC by 5 or more, he understands the secret message.
 
-Whether trying to send or intercept a message, a failure by 5 or more points means that one side or the other misinterprets the message in some fashion. The GM should always roll such Bluff checks in secret. if the message is being communicated from one hero to another, the sender should write the message down and give it to the GM, who in turn makes the secret Bluff check, then copies the note and hands the copy to the intended recipient.
+Whether trying to send or intercept a message, a failure by 5 or more points means that one side or the other misinterprets the message in some fashion. The GM should always roll such Bluff checks in secret. If the message is being communicated from one hero to another, the sender should write the message down and give it to the GM, who in turn makes the secret Bluff check, then copies the note and hands the copy to the intended recipient.
 
 Climb (Str)
 
@@ -87,11 +79,15 @@ Handle Animal (Cha) You can drive a team of beasts of burden, teach a predator t
 
 Organic Technology: You can operate organic technology, such as that utilized by the Yuuzhan
 
-Table 3-1: Chain of Command pc
+Table 3-1: Chain of Command
 
-Organization Cost Public 10 50
-
-Private 15 100. Exclusive 20 250 Secretive 25 500 “Nonexistent” 30 1,000
+| Organization | DC | Cost |
+|---|---|---|
+| Public | 10 | 50 |
+| Private | 15 | 100 |
+| Exclusive | 20 | 250 |
+| Secretive | 25 | 500 |
+| “Nonexistent” | 30 | 1,000 |
 
 Vong. A Handle Animal check, in this application, allows you to immediately grasp not only the function of organic tools, but to quickly work out how to operate them with a prior demonstration. The basic DC for most such attempts is only 10, but the GM may rule that more complex organisms call for a higher DC.
 
@@ -107,11 +103,7 @@ A target aware of being tailed has the option of trying to lose the pursuer, or 
 
 To lure the pursuer into a trap (which can be anything from an ambush to a pointless chase), the target can attempt a Bluff check as an attack action, opposed by the pursuer’s Sense Motive check. If the pursuer’s check is higher, he realizes that the target is aware of him and is attempting to mislead him, and can react accordingly. The GM should roll both checks in secret; the player should not know if the Sense Motive succeeded or failed (regardless of whether his character is the pursuer or the target).
 
-Examples
-
-Local government, social club, labor guild
-
-Jedi Order, commerce guild, private club, military Hutt family, “invitation-only” club, local criminals Rebel Alliance, espionage agency, criminal cartel Black Sun, “shadow” government, secret police
+*Examples by type: Public — local government, social club, labor guild. Private — Jedi Order, commerce guild, private club, military. Exclusive — Hutt family, “invitation-only” club, local criminals. Secretive — Rebel Alliance, espionage agency, criminal cartel. “Nonexistent” — Black Sun, “shadow” government, secret police.*
 
 <!-- page 38 -->
 
@@ -153,7 +145,7 @@ Mounted Combat You are skilled in mounted combat.
 
 Prerequisite: Ride 1 rank.
 
-Benefit: Once per round when your mount is hit in combat, you may make a Ride check to negate the hit. The hit is negated if your Ride check is greater than the attack roll (essentially, the Ride check becomes the mount’s Defense Bonus if it’s higher than the mount'’s regular Defense).
+Benefit: Once per round when your mount is hit in combat, you may make a Ride check to negate the hit. The hit is negated if your Ride check is greater than the attack roll (essentially, the Ride check becomes the mount’s Defense Bonus if it’s higher than the mount’s regular Defense).
 
 Special: A soldier can choose this feat as one of his soldier bonus feats.
 
@@ -199,7 +191,7 @@ Prerequisite: Force-Sensitive.
 
 Benefit: Using a Force skill or feat costs you one less than the normal vitality cost. However, activating a Force skill or feat requires a full-round action (unless it ordinarily requires longer) and provokes an attack of opportunity if you are in a threatened square when you begin the activation. If you take damage during the activation of the skill or feat, you lose the vitality required for the activation, and the skill or feat has no effect.
 
-Special: You must take this feat at Ist level, or before you take your first level of Force adept. A character with levels in a Jedi class may not take this feat. A Force adept with this feat who later becomes a Jedi may still use the feat until her Jedi level equals or exceeds that of her Force adept level.
+Special: You must take this feat at 1st level, or before you take your first level of Force adept. A character with levels in a Jedi class may not take this feat. A Force adept with this feat who later becomes a Jedi may still use the feat until her Jedi level equals or exceeds that of her Force adept level.
 
 
 Spirited Charge You are trained at making a devastating mounted charge.
@@ -214,7 +206,7 @@ Street Smart You have lived among the scum of the galaxy, in a place such as Tat
 
 Benefit: You gain a +2 aptitude bonus on all Bluff and Gather Information checks.
 
-Special: This feat may only be taken at Ist level.
+Special: This feat may only be taken at 1st level.
 
 Stunning Strike You know how to incapacitate opponents using unarmed strikes by hitting them in vulnerable areas.
 
@@ -258,9 +250,9 @@ Benefit: As a full-round action, you may attempt a single coup de grace attack o
 
 target, he automatically escapes the grapple.
 
-Echani Mastery As a master in the echani martial arts style, you are adept at making your most effective strikes even more potent. Prerequisite: Advanced Martial Arts, Echani, Echani Expertise, Improved Martial Arts, Martial Arts. Benefit: Any time a character with this feat scores a threat on an unarmed attack, the character gains a +4 bonus on his attack toll to confirm the critical hit.
+Echani Mastery As a master in the echani martial arts style, you are adept at making your most effective strikes even more potent. Prerequisite: Advanced Martial Arts, Echani, Echani Expertise, Improved Martial Arts, Martial Arts. Benefit: Any time a character with this feat scores a threat on an unarmed attack, the character gains a +4 bonus on his attack roll to confirm the critical hit.
 
-K'tara K’tara is a martial arts style . often practiced by Special ¥ Forces units in order to maximize damage to an opponent while minimizing the amount of noise made by the attack. K’tara focuses on short, quick motions. Most maneuvers begin from the set position and move within a small rectangle framed by the target’s shoulders and hips. A soldier using the K’tara style can quietly disarm an opponent and reduce him to unconsciousness within a single round of combat, attracting little attention. This martial arts style emphasizes stealth.
+K’tara K’tara is a martial arts style often practiced by Special Forces units in order to maximize damage to an opponent while minimizing the amount of noise made by the attack. K’tara focuses on short, quick motions. Most maneuvers begin from the set position and move within a small rectangle framed by the target’s shoulders and hips. A soldier using the K’tara style can quietly disarm an opponent and reduce him to unconsciousness within a single round of combat, attracting little attention. This martial arts style emphasizes stealth.
 
 Prerequisite: Martial Arts.
 
@@ -278,9 +270,9 @@ Form V also stems from a desire for more power when dueling with a lightsaber, b
 
 Form V focuses on turning an enemy’s own strength against him and then following with overwhelming force. It seeks to perfect the art of blaster bolt redirection and is thought of by some as the best defense against any threat.
 
-Form V1 is a consolidation of many of the lessons taught by Forms ], Ill, IV, and V. It was the most common style in use during the early days of the Clone Wars. Form VI does not require the intensity of many other forms, but rather seeks to create harmony between all the other styles. It's sometimes referred to as the “diplomat’s form” because its study allows time for the pursuit of other fields such as politics, negotiation, and diplomacy.
+Form VI is a consolidation of many of the lessons taught by Forms I, III, IV, and V. It was the most common style in use during the early days of the Clone Wars. Form VI does not require the intensity of many other forms, but rather seeks to create harmony between all the other styles. It's sometimes referred to as the “diplomat’s form” because its study allows time for the pursuit of other fields such as politics, negotiation, and diplomacy.
 
-Form Vij, the chosen style of Master Mace Windu, is among the most difficult styles for a Jedi to master, It is one of unpredictable movements and direct assaults, constantly throwing opponents off-guard thanks to continual and seemingly unconnected movements. Still being developed by the style’s masters, Form VII, is composed of many
+Form VII, the chosen style of Master Mace Windu, is among the most difficult styles for a Jedi to master. It is one of unpredictable movements and direct assaults, constantly throwing opponents off-guard thanks to continual and seemingly unconnected movements. Still being developed by the style’s masters, Form VII is composed of many
 
 LIGHTSABER FORM |
 
