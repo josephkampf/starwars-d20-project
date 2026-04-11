@@ -14,19 +14,9 @@ This chapter includes several new prestige classes. Look for more prestige class
 
 Chief Engineer
 
-Commonplace throughout the galaxy, engineers are
-
-nd necessary members of society, responsible
-
-or the continued improvement of weapons, vehicles,
-
-starships, and more. Every new droid design or
-
-hyperdrive model produced by a manufacturer begins with an engineer's inspiration to create it. Major corporations such as BlasTcch, Kuat Drive rds, Rothana Heavy Engineering, and Baktoid Combat Automata would not be as successful or powerful as they are without the intellect and ingenuity of the engineers who produce the designs.
+Commonplace throughout the galaxy, engineers are and necessary members of society, responsible for the continued improvement of weapons, vehicles, starships, and more. Every new droid design or hyperdrive model produced by a manufacturer begins with an engineer's inspiration to create it. Major corporations such as BlasTech, Kuat Drive Yards, Rothana Heavy Engineering, and Baktoid Combat Automata would not be as successful or powerful as they are without the intellect and ingenuity of the engineers who produce the designs.
 
 Chief engineers are not restricted to working in design labs or shipyards, however. Some of the best and brightest engineers in the galaxy work for outlaw groups such as the Rebel Alliance, or ply their wares on the streets of Nar Shaddaa. They work with special forces troops to sabotage enemy infrastructure or design new starfighters for wealthy pirate groups. Chief engineers use their knowledge of the way things are put together to more effectively take them apart, and are often called in to bypass security measures or whip up special weapons for field troops.
-
-in dangerous situations
 
 <!-- page 56 -->
 
@@ -50,9 +40,7 @@ in dangerous situations
 
 Class Features The following are class features of the sharpshooter prestige class.
 
-weapon (the effects stack) or to a different weapon. This ability stacks with the Weapon Focus feat, as well as any other bonuses that increase the sharpshooter's ranged attack bonus with the preferred weapon.
-
-Preferred Weapon At Ist, 5th, and 9th level, the sharpshooter gains a +1 bonus on attack rolls with a single ranged weapon of his choice. Choose one weapon with which the sharpshooter is proficient. Each time this ability is gained, it may be applied to the same
+Preferred Weapon At 1st, 5th, and 9th level, the sharpshooter gains a +1 bonus on attack rolls with a single ranged weapon of his choice. Choose one weapon with which the sharpshooter is proficient. Each time this ability is gained, it may be applied to the same weapon (the effects stack) or to a different weapon. This ability stacks with the Weapon Focus feat, as well as any other bonuses that increase the sharpshooter's ranged attack bonus with the preferred weapon.
 
 Ranged Sneak Attack Beginning at 2nd level, if an opponent is unable to defend herself effectively from the attack, the sharpshooter can strike a vital spot for extra damage. The sharpshooter must take a full-round action to precisely line up his target. If at that point the sharpshooter's target would be denied her Dexterity bonus to Defense (regardless of whether she has a Dexterity bonus) and the sharpshooter suffers no range penalties, his ranged attacks deal +1d6 points of damage. At 6th level, this bonus improves to +2d6. At 10th level, it improves to +3d6.
 

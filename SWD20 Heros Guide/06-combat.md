@@ -6,23 +6,17 @@
 
 <!-- page 133 -->
 
-Combat in the Star Wars Roleplaying Game is designed to handle most situations that crop up in conflict encounters. But players are known for coming up with interesting strategies involving creative uses of their characters’ skills and abilities, nonstandard appli cations of their equipment, and simple devious ingenuity. Furthermore, playing groups might want combat to be just a little more gritty and realistic, or to have more of a tactical feel
+Combat in the Star Wars Roleplaying Game is designed to handle most situations that crop up in conflict encounters. But players are known for coming up with interesting strategies involving creative uses of their characters’ skills and abilities, nonstandard applications of their equipment, and simple devious ingenuity. Furthermore, playing groups might want combat to be just a little more gritty and realistic, or to have more of a tactical feel.
 
 This section endeavors to provide enough additional rules to cover the kinds of questions and situations that pop up regularly—and hopefully, an idea or two you hadn't thought of yourself.
 
 New Combat Actions
 
-Continued conflicts throughout the galaxy have
+Continued conflicts throughout the galaxy have ensured that martial training has never gone out of style. Beyond the basic combat training, however, many soldiers and commanders have developed new combat tactics and maneuvers that have become a vital part of warfare. Additionally, many of these tactics have bled over into conventional knowledge and are frequently applied in firefights and melees outside of conventional warfare.
 
-ensured that martial training has never gone out of style. Beyond the basic combat training, however,
+This section deals with combat tactics not specifically covered in the Star Wars Roleplaying Game. GMs and players should discuss the ramifications of these additional rules before using them in play.
 
-many soldiers and commanders have developed new
-
-bat tactics and maneuvers that have become vital part of warfare. Additionally, many of these tactics have bled over into conventional knowledge and are frequently applied in firefights and melees outside of conventional warfare
-
-This section deals with combat tactics not specifi cally covered in the Star Wars Roleplaying Game GMs and players should discuss the ramifications of these additional rules before using them in play
-
-Aiming As a full-round action, you can try to zero in on a target using a ranged weapon. The weapon must not be a thrown weapon. Aiming can deny a target its Dexterity bonus to Defense and reduce range penal ties. You cannot aim with a thrown weapon.
+Aiming As a full-round action, you can try to zero in on a target using a ranged weapon. The weapon must not be a thrown weapon. Aiming can deny a target its Dexterity bonus to Defense and reduce range penalties. You cannot aim with a thrown weapon.
 
 To aim, make a ranged touch attack against the target. (This touch attack is not an actual attack and
 
@@ -40,13 +34,13 @@ Position: A lower center of gravity both stabilizes the weapon and reduces recoi
 
 Mounted weapons, primitive weapons, and thrown weapons cannot gain a benefit from position. The benefit of position stacks with that of support, below.
 
-Support: Support holds the weapon steady, reducing variations from minute muscle movements. Improvised support (a vehicle, crate, tree, or wall) decreases the range penalty on the attack by 1. A fixed support (a bipod, tripod, or weapon mount) decreases the range penalty by 2. Preparing support is a move action provokes attacks of opportunity.
+Support: Support holds the weapon steady, reducing variations from minute muscle movements. Improvised support (a vehicle, crate, tree, or wall) decreases the range penalty on the attack by 1. A fixed support (a bipod, tripod, or weapon mount) decreases the range penalty by 2. Preparing support is a move action and provokes attacks of opportunity.
 
-Mounted weapons, primitive weapons, and thrown weapons cannot gain a benefit from position. The benefit of position stacks with that of position, above.
+Mounted weapons, primitive weapons, and thrown weapons cannot gain a benefit from support. The benefit of support stacks with that of position, above.
 
 Suppression Fire
 
-A standard tactic when facing off against an enemy that has taken refuge behind impervious cover is to use suppression fire to force him to keep his head down and reduce the accuracy of his aim. A character ‘on the receiving end of suppression fire has less time to peek out from behind the safety of cover, and as a result must take shots before getting a chance to target them properly.
+A standard tactic when facing off against an enemy that has taken refuge behind impervious cover is to use suppression fire to force him to keep his head down and reduce the accuracy of his aim. A character on the receiving end of suppression fire has less time to peek out from behind the safety of cover, and as a result must take shots before getting a chance to target them properly.
 
 The suppression fire action can only be performed with a ranged weapon that has multifire or autofire capability. To lay down suppression fire, a character must target a 4-meter-by-4-meter area and make an attack roll against a Defense of 10 (modified by the range increment penalty for the area he is firing on).
 
@@ -72,7 +66,7 @@ For example, take a 6th-level Human soldier who carries two blaster pistols. He 
 
 The soldier's class and level give him a base attack bonus of +6/+1; thus, he gets two attacks when making a full attack. Wielding a second blaster gives him an additional attack. Since blaster pistols have the multifire capability, he may choose to use the multifire attack option, giving him an additional attack. He can also use Rapid Shot. That brings his total up to five attacks per round when making a full attack. (When making a regular attack action, none of these bonus attacks is allowed; the soldier gets only a single attack at his highest attack bonus.)
 
-Only two other things can increase the number of attacks a character can make in a round: additional attacks due to an increased base attack bonus (for example, the soldier gets a third attack when his base attack bonus reaches +11 and a fourth when it reaches +16) and the Improved Two- Weapon Fighting feat (which grants a second attack with an off-hand weapon). Thus, at most, a soldier can make eight attacks in a single round with a full attack action: four attributed to a high base attack bonus, one for using a second weapon, one for using the multifire attack option, and one each for the Improved Two-Weapon Fighting and Rapid Shot feats.
+Only two other things can increase the number of attacks a character can make in a round: additional attacks due to an increased base attack bonus (for example, the soldier gets a third attack when his base attack bonus reaches +11 and a fourth when it reaches +16) and the Improved Two-Weapon Fighting feat (which grants a second attack with an off-hand weapon). Thus, at most, a soldier can make eight attacks in a single round with a full attack action: four attributed to a high base attack bonus, one for using a second weapon, one for using the multifire attack option, and one each for the Improved Two-Weapon Fighting and Rapid Shot feats.
 
 <!-- page 136 -->
 

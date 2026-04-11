@@ -81,11 +81,11 @@ A berserker droid can only sneak attack creatures with discernible anatomies. (F
 
 Also, the berserker droid must also be able to see the target well enough to pick out a vital spot, and must be able to reach it. The berserker droid cannot sneak attack while striking a creature with concealment or striking the limbs of a creature whose vitals are beyond reach.
 
-Ifa berserker droid gets a sneak attack bonus from another source (such as the bounty hunter prestige class), the bonus damage stacks.
+If a berserker droid gets a sneak attack bonus from another source (such as the bounty hunter prestige class), the bonus damage stacks.
 
 Killing Machine
 
-The berserker droid eventually reaches the point where destroying its enemies is more important than survival. At 5th level, whenever the berserker droid is dying (that is, when its wound point total is between ~1 and -9), it may take one attack action on its tum every round until it reaches -10 wound points. (Ordinarily, a dying creature or droid falls unconscious when its wound point total reaches -1 or lower, and can take no actions at all.)
+The berserker droid eventually reaches the point where destroying its enemies is more important than survival. At 5th level, whenever the berserker droid is dying (that is, when its wound point total is between -1 and -9), it may take one attack action on its turn every round until it reaches -10 wound points. (Ordinarily, a dying creature or droid falls unconscious when its wound point total reaches -1 or lower, and can take no actions at all.)
 
 <!-- page 161 -->
 
@@ -246,9 +246,9 @@ The GM should carefully monitor the use of favors to ensure that this ability is
 
 Table 1: The Holovid Star
 
-Base Fort Ref will Level Attack Save Save Save Ist +0 +0 +1 42 2nd +1 +0 42 +3 3rd +1 +1 +2 +3 4th +2 +1 42 +4 5th 42 +1 43 +4
+Base Fort Ref will Level Attack Save Save Save 1st +0 +0 +1 +2 2nd +1 +0 +2 +3 3rd +1 +1 +2 +3 4th +2 +1 +2 +4 5th +2 +1 +3 +4
 
-Defense Reputation Special Bonus Bonus Celebrity, bonus class skill +1 +2 Bonus feat +1 +2 Favor +2 +2 42 Look-a-likes 42 +3, Major celebrity, bonus feat 43 43
+Defense Reputation Special Bonus Bonus Celebrity, bonus class skill +1 +2 Bonus feat +1 +2 Favor +2 +2 +2 Look-a-likes +2 +3 Major celebrity, bonus feat +3 +3
 
 <!-- page 166 -->
 
@@ -299,7 +299,7 @@ Skill Points at Each Level: 6 + Int modifier.
 
 Table 2: The Spirit Master
 
-Base Fort Ref will Level Attack Save Save Save Ist +0 +1 +0 42 2nd +1 +2 +0 +3 3rd +1 +2 +1 +3 4th +2 +2 +1 +4 Sth +2 +3, +1 +4 6th +3 +3 +2 +5 7th +3 +4 +2 23 8th +4 +4 +2 +6 9th +4 +4 +3 +6 loth +5 +5 +3 +7
+Base Fort Ref will Level Attack Save Save Save 1st +0 +1 +0 +2 2nd +1 +2 +0 +3 3rd +1 +2 +1 +3 4th +2 +2 +1 +4 5th +2 +3 +1 +4 6th +3 +3 +2 +5 7th +3 +4 +2 +6 8th +4 +4 +2 +6 9th +4 +4 +3 +6 10th +5 +5 +3 +7
 
 Defense Reputation
 
@@ -332,11 +332,11 @@ Beginning at 2nd level, the spirit master can commune with the spirits (or rathe
 
 Spirit Focus
 
-At Sth level, the spirit master is able to “call upon the power of the spirits" to vex her foes in battle. As an attack action, the spirit master can focus the attention of the spirits on a target individual. The target then receives a -2 penalty on attack rolls, damage rolls, saving throws, and skill checks. This penalty lasts for as long as the spirit master continues to use
+At 5th level, the spirit master is able to “call upon the power of the spirits” to vex her foes in battle. As an attack action, the spirit master can focus the attention of the spirits on a target individual. The target then receives a -2 penalty on attack rolls, damage rolls, saving throws, and skill checks. This penalty lasts for as long as the spirit master continues to use
 
 an attack action each round to maintain it; that is, it lasts each round from the beginning of the spirit master’s turn until right before his turn in the next round.
 
-Unseen Defender At 6th level, the spirits begin to protect the spirit master from physical harm. Small objects within a few meters of the spirit master lift into the air and surround her (in reality, a subconscious manifestation of the spirit master's Alter feat), absorbing some of the incoming damage. Asa full-round action, the spirit master may expend a number of vitality points equal to half her spirit master level to receive an equivalent amount of damage reduction (which is applicable only to wound damage). The DR stacks with DR from armor or other sources, and lasts for 1 round per the spirit master’s class level.
+Unseen Defender At 6th level, the spirits begin to protect the spirit master from physical harm. Small objects within a few meters of the spirit master lift into the air and surround her (in reality, a subconscious manifestation of the spirit master's Alter feat), absorbing some of the incoming damage. As a full-round action, the spirit master may expend a number of vitality points equal to half her spirit master level to receive an equivalent amount of damage reduction (which is applicable only to wound damage). The DR stacks with DR from armor or other sources, and lasts for 1 round per the spirit master’s class level.
 
 This ability does not function if no loose objects are present within 4 meters of the spirit master.
 
@@ -348,7 +348,7 @@ The spirit master can use Force skills and feats through the spirit form, and th
 
 Creating a spirit form is a full-round action. The spirit form appears anywhere within 60 meters of the spirit master, and can travel anywhere in this area, though it does not travel any differently than the spirit master. (That is, if the spirit master does not have the ability to fly, neither does the spirit form.) The initial act of manifesting the spirit form costs the spirit master 10 vitality points, and maintaining the spirit form costs 4 vitality points per round.
 
-Those who encounter a spirit form can detect that it is not truly the spirit master with a successful Will save (DC 20 + the spirit master's Charisma modifier). In order to attempt this Will save, however, a character must study the spirit form carefully (taking no other actions), or interact with it ina significant faction. Characters who attempt to touch the spirit form, or who successfully attack it, gain a +4 circumstance bonus on their Will saves. Force spirits, including dark side spirits, also gain a +4 circumstance bonus on their Will saves to detect that the spirit form is only a duplicate of the spirit master.
+Those who encounter a spirit form can detect that it is not truly the spirit master with a successful Will save (DC 20 + the spirit master's Charisma modifier). In order to attempt this Will save, however, a character must study the spirit form carefully (taking no other actions), or interact with it in a significant fashion. Characters who attempt to touch the spirit form, or who successfully attack it, gain a +4 circumstance bonus on their Will saves. Force spirits, including dark side spirits, also gain a +4 circumstance bonus on their Will saves to detect that the spirit form is only a duplicate of the spirit master.
 
 Force-users who encounter a spirit form can use Force skills and feats on it as though the spirit master herself were physically present. The Force ability affects the spirit master, rather than the spirit form. If a Force ability damages the
 
@@ -398,15 +398,15 @@ Personal Transport
 
 At 2nd level, the Corporate Viceprex is provided with a starship for his personal use. This ship is always a space transport, and is most commonly the Corporate Sector equivalent of a stock Guardian-class light cruiser (though the GM can assign the character any space transport, at her discretion).
 
-The ship belongs to the Corporate Viceprex and is his to do with as he pleases. If it is ever destroyed, lost, sold, or otherwise disposed of, the Corporate Viceprex can attempt to replace it. Doing so requires a Diplomacy check (DC 20; if failed it may be retried in 1 week), costs 1 point of Corporate Sector Authority Sympathy, and takes 248 days.
+The ship belongs to the Corporate Viceprex and is his to do with as he pleases. If it is ever destroyed, lost, sold, or otherwise disposed of, the Corporate Viceprex can attempt to replace it. Doing so requires a Diplomacy check (DC 20; if failed it may be retried in 1 week), costs 1 point of Corporate Sector Authority Sympathy, and takes 2d8 days.
 
 Favor Her powerful financial clout allows a Corporate Viceprex to ask and usually receive favors from those she knows. By making a Favor check, the Corporate Viceprex can call upon contacts to gain important information without going through the time and trouble of research. Favors can also be used to acquire the loan of equipment or documents from influential acquaintances.
 
-To call in a favor, the Corporate Viceprex makes a Favor check. Roll a d20 and add the Corporate Viceprex’s Favor bonus (+1 at 2nd level, +2 at Sth level). The GM sets the DC
+To call in a favor, the Corporate Viceprex makes a Favor check. Roll a d20 and add the Corporate Viceprex’s Favor bonus (+1 at 2nd level, +2 at 5th level). The GM sets the DC
 
 Table 3: The Corporate Viceprex
 
-Base Fort Ref will Level Attack Save Save Save Ist +0 +1 41 +1 2nd +1 +2 +2 +2 3rd +2 +2 +2 +2 4th +3 +2 +2 +2 Sth +3 +3 +3 +3
+Base Fort Ref will Level Attack Save Save Save 1st +0 +1 +1 +1 2nd +1 +2 +2 +2 3rd +2 +2 +2 +2 4th +3 +2 +2 +2 5th +3 +3 +3 +3
 
 Defense Reputation
 
@@ -479,7 +479,7 @@ Table 4: The Imperial Moff Base Fort Ref will Defense Reputation
 
 Level Attack Save Save Save Special Bonus Bonus
 
-Ist +0 +0 +1 +2 Starting feat, backup, resource access +1 +1
+1st +0 +0 +1 +2 Starting feat, backup, resource access +1 +1
 
 2nd +1 +0 +2 +3 Bonus feat +2 +2
 
@@ -538,7 +538,7 @@ In addition to the other ships in his fleet, the Imperial Moff is given an Imper
 
 Personal Transport
 
-At Sth level, the Imperial Moff is provided with a starship for his personal use. This ship is most commonly an Imperial - class Star Destroyer (though the GM can assign the character any appropriate ship, at her discretion).
+At 5th level, the Imperial Moff is provided with a starship for his personal use. This ship is most commonly an Imperial - class Star Destroyer (though the GM can assign the character any appropriate ship, at her discretion).
 
 The ship belongs to the Imperial Moff and is his to do with as he pleases. If it is ever destroyed, lost, sold, or otherwise disposed of, the Imperial Moff can attempt to replace it. Doing so requires a Diplomacy check (DC 20; if failed it may be retried in 1 week), costs 1 point of Imperial Sympathy, and takes 2d8 days.
 
@@ -548,7 +548,7 @@ An Imperial Moff who abandons the Empire (for example, by joining another factio
 
 About the Authors
 
-JD Wiker worked in Wizards of the Coast's RPG R&D department on the ALrERNITY line, including the DARK*MATIER campaign setting, before joining the fledgling Star Wars Roleplaying Game design team. Some of JD's Star Wars titles include the core rulebook, The Dark Side Sourcebook, The New Jedi Order Sourcebook, and the Power of the Jedi Sourcebook. JD is currently freelancing, while also working as president of The Game Mechanics, a d20 design studio.
+JD Wiker worked in Wizards of the Coast's RPG R&D department on the Alternity line, including the DARK*MATTER campaign setting, before joining the fledgling Star Wars Roleplaying Game design team. Some of JD's Star Wars titles include the core rulebook, The Dark Side Sourcebook, The New Jedi Order Sourcebook, and the Power of the Jedi Sourcebook. JD is currently freelancing, while also working as president of The Game Mechanics, a d20 design studio.
 
 Rodney Thompson is a freelance writer and developer from Chattanooga, TN. In addition to working on the Star Wars Roleplaying Game line, he is a member of the Spycraft/Shadowforce Archer Design Team for Alderac Entertainment Group and full-time webmaster of the SWRPGNetwork website. Rodney's work also appears in the pages of Dungeon/Polyhedron Magazine for both the Star Wars and d20 Modern games.
 
@@ -627,7 +627,7 @@ Value per Metric Ton 1,000,000 credits 300,000 credits 500,000 credits 50,000 cr
 
 Table 2-D: Parts
 
-D20__—‘Type of Parts Value per Metric Ton 1-8 — Computer parts 1,000 credits 9-14 Droid parts 2,000 credits 15-18 Vehicle parts 3,000 credits 19-20 _ Starship parts 4,000 credits Taste 2-E: CHEMICALS D20 Type of Chemical Value per Metric Ton
+D20__—‘Type of Parts Value per Metric Ton 1-8 — Computer parts 1,000 credits 9-14 Droid parts 2,000 credits 15-18 Vehicle parts 3,000 credits 19-20 _ Starship parts 4,000 credits Table 2-E: CHEMICALS D20 Type of Chemical Value per Metric Ton
 
 1-10 Inert chemicals 11-12 Flammable liquids 13-14 — Corrosive substances 15-17 Lubricants 18-19 Adhesives
 
@@ -669,14 +669,6 @@ D20 ‘Type of Droid
 
 Value per Metric Ton 4,800 credits 12,000 credits 12,500 credits 12,900 credits 13,500 credits 14,400 credits
 
-o
-|
-a
-
-aq m a QO “ rn] c o m m o m vd cc
->
-a o m <
-
 <!-- page 174 -->
 
 
@@ -700,7 +692,7 @@ D20 ‘Type of Weapon
 
 4-6 Combat gloves (800 pairs) 7-8 Stun batons (400) 9-10  Vibrodaggers (800)
 
-W Vibroblades (400)
+11 Vibroblades (400)
 
 12 Vibro-axes (300) 13-15 — Hold-out blasters (1,500) 16-17 Blaster pistols (400)
 
@@ -720,7 +712,7 @@ Value per Metric Ton 2,100 credits (10,500 total) 6,000 credits 3,000 credits (1
 
 2,000 credits
 
-4 metric tons of storage) (8,000 total) Taste 2-K: STARSHIPS D6 _‘Type of Starship Value per Metric Ton
+4 metric tons of storage) (8,000 total) Table 2-K: STARSHIPS D6 _‘Type of Starship Value per Metric Ton
 
 1 Escape pod (requires 2 metric tons of storage) (20,000 total)
 
@@ -802,14 +794,6 @@ Demand, like supply, is a factor determined by the GM. If demand is low, the pri
 
 So, for example, if demand for livestock is “low” at the selling point, the buyer—now the seller—can expect to get only 1,350 credits per ton. They're better off trying someplace else, where demand is “high” or “very high,” and they can get 1,800 credits or even 1,950 credits per ton. (Remember, the supply at the point of origin dictated that they had to pay 1,650 credits per ton, so if demand at the selling point is only “above average,” the seller makes no profit—unless he negotiated particularly well when he bought the merchandise in the first place.)
 
-oS
-|
-an
-
-aq m a QO “ rn] c o m m o m vd cc
->
-a o m <
-
 <!-- page 176 -->
 
 
@@ -879,7 +863,7 @@ Picking Up Additional Cargo: A ship carrying cargo for someone else always has t
 
 <!-- page 177 -->
 
-original cargo? The simple resolution is for the GM to roll another 18-1, as normal, to determine the delivery time of the additional cargo. If this result is equal to or less than the time remaining on the current delivery minus two days (for loading and unloading), the heroes can safely deliver the new cargo without losing time on their original delivery.
+original cargo? The simple resolution is for the GM to roll another 1d8-1, as normal, to determine the delivery time of the additional cargo. If this result is equal to or less than the time remaining on the current delivery minus two days (for loading and unloading), the heroes can safely deliver the new cargo without losing time on their original delivery.
 
 Cargo Priority
 
@@ -913,12 +897,6 @@ The Shadow Wing is unique in many of its methods, chief among those being the wa
 
 The Shadow Wing also assembles its pirate fleet almost completely from stolen ships. Whenever a raid is completed, any combat-worthy starship is immediately added to the active fleet, while those too heavily damaged either go to repair bays or are scrapped for parts. Consisting mostly of corvette-sized ships and a few capital warships, the Shadow Wing fleet may not be strong enough to take on a force like
 
-i=] =] 3
-
-aq m a QO “ rn] c o m m o m vd cc
->
-a o m <
-
 <!-- page 178 -->
 
 
@@ -936,7 +914,7 @@ The Shadow Wing is composed of roughly 2,000 pirates at any given time, most of 
 
 Shadow Wing Sympathy
 
-The Shadow Wing spends the majority of its time raiding targets of significant value: potential starship additions to their fleet, foodstuffs and other consumables, rare and valuable cargoes, and similar items. Thus, anyone with access to information about such targets could quickly find himself in the good graces of Shadow Wing pirates by simple passing on hyperspace route coordinates, security codes, or just the time and place that a certain cargo is set to be delivered. Starship repair bays sympathetic to the Shadow Wing frequently offer a discounted rate on labor and parts, and in exchange receive not only immunity from Shadow Wing attacks but also access to any difficult-to-procure starship parts. Many other businesses have arrangements with the Shadow Wing that are mutually beneficial—arrangements that have thus far allowed the Shadow Wing to grow into a formidable force and eliminated the competition of many allied businesses.
+The Shadow Wing spends the majority of its time raiding targets of significant value: potential starship additions to their fleet, foodstuffs and other consumables, rare and valuable cargoes, and similar items. Thus, anyone with access to information about such targets could quickly find himself in the good graces of Shadow Wing pirates by simply passing on hyperspace route coordinates, security codes, or just the time and place that a certain cargo is set to be delivered. Starship repair bays sympathetic to the Shadow Wing frequently offer a discounted rate on labor and parts, and in exchange receive not only immunity from Shadow Wing attacks but also access to any difficult-to-procure starship parts. Many other businesses have arrangements with the Shadow Wing that are mutually beneficial—arrangements that have thus far allowed the Shadow Wing to grow into a formidable force and eliminated the competition of many allied businesses.
 
 Being in the good graces of the Shadow Wing can mean more than safety and profit, however. Abin-Ral-Xufush does not appreciate it when others threaten or harm his “business associates,” and the Shadow Wing has been known to lean on other local criminal organizations that attempt to strong-arm its allies. In fact, a common tale in the cantinas of worlds that have been subjected to the might of the Shadow Wing tells of an up-and-coming Hutt crime lord, still young and impetuous by Hutt standards, who was driven off by the Shadow Wing.
 
@@ -1015,7 +993,7 @@ Spot (Wis).
 * This skill actually encompasses a number of unrelated skills. Each time
 this skill is learned, a specific category must also be chosen. Examples include Knowledge (politics) and Knowledge (tactics).
 
-‘Skill Points at Each Level: 6 + Int modifier.
+Skill Points at Each Level: 6 + Int modifier.
 
 Class Features The following are features of the Shadow Wing captain prestige class.
 
@@ -1050,7 +1028,7 @@ Cooperative Mark Starting at 5th level, the Shadow Wing captain may add his Shad
 
 Table B: The Shadow Wing Captain
 
-Base Fort Ref will Level Attack Save Save Save Ist +0 +1 42 +1 2nd +1 +2 +3 +2 3rd +2 +2 +3 +2 4th +3 +2 +4 +2 5th 43 43 +4 43
+Base Fort Ref will Level Attack Save Save Save 1st +0 +1 +2 +1 2nd +1 +2 +3 +2 3rd +2 +2 +3 +2 4th +3 +2 +4 +2 5th +3 +3 +4 +3
 
 Defense Reputation Special Bonus Bonus Teamwork +2 +0 Disabling shot 43 +1 Recruits +3 +1 Boarding party +4 +2 Cooperative mark +4 +2
 
@@ -1072,13 +1050,13 @@ Though the seven lightsaber forms discussed in the Hero's Guide are the most com
 
 Sokan is a style that focuses on mobility and evasion as a part of lightsaber dueling. Originating during the great wars with the Sith Empire, the style often led to lightsaber duels that spanned large amounts of terrain as they ran their course. In the time just before the Clone Wars, Sokan warriors integrated many elements of Master Yoda's highly kinetic use of Form IV into their own ancient techniques to create a blend of styles that relies on mobility and agility. The style encompasses everything from quick, darting movements to smooth tumbles and strikes that arc toward the vital areas of an opponent's body.
 
-The variant form known as Shien is a rarely seen style that, while effective, is almost a topic of controversy among lightsaber masters due to the drastically different grip taught by practitioners of the form. The style calls for the Jedi to hold the lightsaber horizontally with the tip of the blade out away from the body, and alll strikes are made by sweeping the arm forward as though throwing a punch while whipping the blade forward quickly in a broad arc. Adi Gallia was one of the few Jedi around the time of the Clone Wars known to actively practice the form, as was the Anzati Jedi called Nikkos Tyris.
+The variant form known as Shien is a rarely seen style that, while effective, is almost a topic of controversy among lightsaber masters due to the drastically different grip taught by practitioners of the form. The style calls for the Jedi to hold the lightsaber horizontally with the tip of the blade out away from the body, and all strikes are made by sweeping the arm forward as though throwing a punch while whipping the blade forward quickly in a broad arc. Adi Gallia was one of the few Jedi around the time of the Clone Wars known to actively practice the form, as was the Anzati Jedi called Nikkos Tyris.
 
 Another uncommon form called Niman is a style often taught in the Jedi Order but rarely mastered by more than a few Jedi each generation. Niman teaches the use of two lightsabers simultaneously, which can be used as a pair of offensive weapons, or as an offensive weapon and a parrying blade. Many Jedi study the basics of Niman, and such rudimentary training has often been the edge needed to prevail over a foe.
 
 Sokan Mastery (Force Feat) You are skilled in Sokan lightsaber combat, using your mobility and agility to penetrate an enemy's defenses. Prerequisites: Base attack bonus +8, Dodge, Exotic Weapon Proficiency (lightsaber), Mobility, Spring Attack. Benefit: When wielding a lightsaber you may move through, within, or away from a threatened area without drawing an attack of opportunity a number of times as determined by the following table:
 
-Jedi Level Times Per Day Ist-5th 1 6th-10th 2 11th-15th 3 16th-20th 4
+Jedi Level Times Per Day 1st-5th 1 6th-10th 2 11th-15th 3 16th-20th 4
 
 Shien Mastery (Force Feat) You are skilled in Shien lightsaber combat and practice an unorthodox method of holding the lightsaber to perform long, sweeping strikes to take down several enemies at a time.
 
@@ -1094,7 +1072,7 @@ Niman Mastery (Force Feat)
 
 You are skilled in Niman lightsaber combat and can wield two lightsabers simultaneously with great speed and deadliness.
 
-Prerequisites: Base attack bonus +8, Ambidexterity, Exotic Weapon Proficiency (lightsaber), Improved Two- Weapon Fighting, Two-Weapon Fighting.
+Prerequisites: Base attack bonus +8, Ambidexterity, Exotic Weapon Proficiency (lightsaber), Improved Two-Weapon Fighting, Two-Weapon Fighting.
 
 Benefit: When fighting with two lightsabers, the off-hand lightsaber is always considered a light weapon for the purposes of determining the penalty for fighting with two weapons.
 
@@ -1135,8 +1113,6 @@ After immersion in the White Current can be achieved with relative ease, student
 <!-- page 184 -->
 
 the White Current frequently takes one who has immersed herself down paths of new knowledge and understanding.
-
-<!-- page 184 -->
 
 Force Powers The most useful ability displayed by the Fallanassi is their talent for complete immersion in the White Current. This not only conceals them in the Force from other beings but also hides them from sight as well, making them completely invisible to the naked eye and to electronic sensors. Fallanassi can create incredibly advanced illusions. The White Current allows them to make reflections of themselves in the form of “doppelgangers”—illusory duplicates of the Fallanassi who create them. Beyond that, the Fallanassi teach some limited healing talents but abhor the use of the Force to harm other living beings.
 
@@ -1195,9 +1171,9 @@ The Fallanassi use a unique form of script for leaving hidden messages that is v
 
 Table 1: THE WHITE CURRENT ADEPT
 
-Base Fort Ref will Level Attack Save Save Save Ist +0 +0 +1 42 2nd +1 +1 +2 +3 3rd +2 +2 +2 +3 4th +3 +2 +2 +4 5th 43 43 43 +4
+Base Fort Ref will Level Attack Save Save Save 1st +0 +0 +1 +2 2nd +1 +1 +2 +3 3rd +2 +2 +2 +3 4th +3 +2 +2 +4 5th +3 +3 +3 +4
 
-Defense Reputation Special Bonus Bonus Starting feats +1 +0 Immersion 42 +0 Read/write Fallanassi script +2 +0 Hidden powers +2 +0 Immerse another +3 +0
+Defense Reputation Special Bonus Bonus Starting feats +1 +0 Immersion +2 +0 Read/write Fallanassi script +2 +0 Hidden powers +2 +0 Immerse another +3 +0
 
 <!-- page 185 -->
 

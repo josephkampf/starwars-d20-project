@@ -10,7 +10,7 @@ Jedi (and their counterparts, dark Jedi and the Sith) have been discussed in The
 
 New Force Techniques Every good student pushes the boundaries of accepted wisdom, and students of the Force are no different. The techniques they develop can be used by any Force-using hero who meets the requirements Gamemasters and players may want to invent other new Force techniques or use these examples as templates for alternative uses of Force skills in their campaigns
 
-Force techniques can be combined, but any given effect cannot be employed multiple times for the same skill check. For example, Enlarge Force can be combined with Maximize Force to deal 24 points of damage to a target 20 meters away with Force Lightning. However, the Force-user could not use Enlarge Force twice with the same Force Lightning check to use the skill on someone farther than 20 way. The exception to this rule is Split Force, which can be used to split a single check multiple times to affect multiple additional targets.
+Force techniques can be combined, but any given effect cannot be employed multiple times for the same skill check. For example, Enlarge Force can be combined with Maximize Force to deal 24 points of damage to a target 20 meters away with Force Lightning. However, the Force-user could not use Enlarge Force twice with the same Force Lightning check to use the skill on someone farther than 20 meters away. The exception to this rule is Split Force, which can be used to split a single check multiple times to affect multiple additional targets.
 
 Empower Force
 
@@ -26,7 +26,7 @@ Enlarge Force
 
 The range of an enlarged Force skill is doubled. Force skills whose ranges are not defined by distance (such as Control-based skills) are not affected.
 
-Examples of Force skills that can be enlarged include Affect Mind, Drain Energy, Fear, Foree Grip, Force Lightning, Force Strike, Friendship, Heal Another, and Move Object. Illusion and Telepathy can also be affected by this technique, though it is only cost-effective to do so at their listed maximum range.
+Examples of Force skills that can be enlarged include Affect Mind, Drain Energy, Fear, Force Grip, Force Lightning, Force Strike, Friendship, Heal Another, and Move Object. Illusion and Telepathy can also be affected by this technique, though it is only cost-effective to do so at their listed maximum range.
 
 Vitality Point Cost: Normal cost x2
 
@@ -74,7 +74,7 @@ Unlike dark side spirits, Force spirits cannot remain apart from the Force forev
 
 Force Travel: A Force spirit is able to use the Force to travel more or less instantaneously to any point in the galaxy, though there must be Force energy there to act as a beacon. (The presence of living creatures, and a lack of any circumstance that might block the Force, is sufficient to provide this beacon.) The Force spirit must already be familiar with the destination; he cannot simply jump blindly to a destination by targeting an artifact he has only heard of, for example. To use this ability, the Force spirit attempts a Will save:
 
-Distance Will Save DC Same city 0 Same continent 5 Same planet 10 Same system 15 ‘Same sector 20 Same region 25 Same galaxy 30
+Distance Will Save DC Same city 0 Same continent 5 Same planet 10 Same system 15 Same sector 20 Same region 25 Same galaxy 30
 
 It is difficult to travel to a location where the dark side is strong. The GM can modify this save based on the power of the dark side at the target destination.
 
@@ -82,9 +82,9 @@ Dark Side Save
 
 Power Level Modifier Example
 
-Nonexistent ° Anything not touched by the dark side
+Nonexistent 0 Anything not touched by the dark side
 
-Dim ~2 A person with Dark Side Points equal to half his or her Wisdom score or less
+Dim -2 A person with Dark Side Points equal to half his or her Wisdom score or less
 
 Faint 5 A person with Dark Side Points greater than half his or her Wisdom score
 
@@ -106,13 +106,13 @@ Sample Force Spirit: Force Adept 6/Fringer 3; Init +1; Defense 18 (+1 Dex, +7 cl
 
 Equipment: None.
 
-SI Craft (simple and primitive weapons) +5, Diplomacy +7, Knowledge (world lore) +5, Search +13, Sense Motive +12, Survival +10.
+Skills: Craft (simple and primitive weapons) +5, Diplomacy +7, Knowledge (world lore) +5, Search +13, Sense Motive +12, Survival +10.
 
 Force Skills: Affect Mind +15, Empathy +9, Enhance Ability +4, Farseeing +13, Force Defense +10, Move Object +6, See Force +9, Telepathy +10.
 
 Feats: Alertness, Force-Sensitive, Resist Poison, Sharp-Eyed, Skill Emphasis (Affect Mind), Weapon Group Proficiency (primitive weapons, simple weapons).
 
-Force Feats: Alter, Control, Dissipate Energy, Link, Sense, Spellcaster. =:
+Force Feats: Alter, Control, Dissipate Energy, Link, Sense, Spellcaster.
 
 Saves: Same as the base character.
 
