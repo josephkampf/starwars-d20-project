@@ -26,7 +26,7 @@ Demagogue Though the name has gotten a bad reputation from too many ambitious po
 
 <!-- page 20 -->
 
-Variant |: Unassuming Appearance
+Variant 1: Unassuming Appearance
 
 (4th level)
 
@@ -40,7 +40,7 @@ The Jedi Wanderer's travels have taught her much about the galaxy at large, and 
 
 Contact*, Consular’s Guidance”, Cosmopolitan, Low Profile, Mimic, Persuasive, Sharp-Eyed, Spacer, Street Smart*, Trustworthy.
 
-‘This feat is described in Chapter Three: Skills and Feats.
+*This feat is described in Chapter Three: Skills and Feats.*
 
 Outlaw Tech Some of the most brilliant technical minds of the galaxy never undergo formal training in any engineering academy, While the engineers of the galaxy receive acclaim and repute, some fringe mechanics have as much natural talent as their professional counterparts. The outlaw techs build, take apart, and design equipment with an almost uncanny instinct to guide them, using spare parts and junkyard salvage almost as frequently as factory replacements. Considerably more unorthodox in their methods than those who work within the bounds of the law, outlaw techs frequently make additions and repairs involving contraband parts or illegal modifications.
 
@@ -58,14 +58,11 @@ Like slicers, outlaw techs have a reputation for being notoriously absent-minded
 
 <!-- page 22 -->
 
-Prowler Everywhere in the galaxy, predators make their living by stealing the possessions of others. Most of these criminals are simply labeled thieves, but prowlers represent a specific breed of thief, Talented in both infiltration and stealth, a prowler can sneak in, get the prize, and sneak out before anyone even knows she was there. Prowlers steal more for the thrill of the heist than out of sheer greed (though the credits usually have a little something to do with it, too). Some prowlers set their sights on the most complex security systems, the most dangerous jobs, and the most profitable targets. Most prefer cover of night, when they can slip in and slip out unnoticed, but some make their move in broad daylight, counting on their daring and audacity to protect them from whatever guards the object of their desire. Whatever the preferred method of entry, the prowler always makes sure she is nearly invisible and silent to avoid alerting the authorities to her presence.
+Prowler Everywhere in the galaxy, predators make their living by stealing the possessions of others. Most of these criminals are simply labeled thieves, but prowlers represent a specific breed of thief. Talented in both infiltration and stealth, a prowler can sneak in, get the prize, and sneak out before anyone even knows she was there. Prowlers steal more for the thrill of the heist than out of sheer greed (though the credits usually have a little something to do with it, too). Some prowlers set their sights on the most complex security systems, the most dangerous jobs, and the most profitable targets. Most prefer cover of night, when they can slip in and slip out unnoticed, but some make their move in broad daylight, counting on their daring and audacity to protect them from whatever guards the object of their desire. Whatever the preferred method of entry, the prowler always makes sure she is nearly invisible and silent to avoid alerting the authorities to her presence.
 
 Roleplaying Notes
 
-Prowlers can be from almost any walk of life. Some steal because they think they must to survive, while others are the wild children of noble houses determined to rebel against their parents. Any character with the skills, talents, and desire to pursue a life of crime can certainly do so. Their skills often make
-
-
-them arrogant, but a good prowler knows when she is outmatched. She nevertheless lives to prove that there is no perfect security system, no fortress she cannot infiltrate, and no building she cannot breach.
+Prowlers can be from almost any walk of life. Some steal because they think they must to survive, while others are the wild children of noble houses determined to rebel against their parents. Any character with the skills, talents, and desire to pursue a life of crime can certainly do so. Their skills often make them arrogant, but a good prowler knows when she is outmatched. She nevertheless lives to prove that there is no perfect security system, no fortress she cannot infiltrate, and no building she cannot breach.
 
 Prowlers are usually nimble and stealthy, able to move without making noise or attracting attention to themselves. Despite this, many prowlers are almost as conceited as slicers, leaving behind calling cards so that investigators know who committed the burglary. Such calling cards range from a small statue to a card from a sabacc deck, and can be any small common item that the prowler associates with herself. A prowler hailing from a tropical world might leave behind a single leaf from a tropical plant of her home planet as a sign of her presence. Leaving behind a calling card gives the prowler a sense of flair or style, but also provides law enforcement officials with clues to her identity.
 
@@ -87,43 +84,43 @@ Level Levels Attack Save Save Save Special Bonus Bonus
 
 1st Soldier 1 +1 +2 +0 +0 Soldier starting feats +3 +0
 
-2nd Soldier 2 +2 +3 +0 +0 — Soldier bonus feat +3 +H
+2nd Soldier 2 +2 +3 +0 +0 — Soldier bonus feat +3 +1
 
 3rd = Soldier 3 +3 +3 +1 +1 Soldier bonus feat +4 +1
 
-4th — Soldier 4 +4 +4 +1. +1 Soldier bonus feat +4 +1
+4th — Soldier 4 +4 +4 +1 +1 Soldier bonus feat +4 +1
 
 5th Soldier 4/Noble 1 +4 +4 +2 +3 Noble starting feats, +4 +2
 
 bonus class skill, favor +1
 
-6th — Soldier 5/Noble 1 +5 Se) +5 +2
+6th — Soldier 5/Noble 1 +5 +4 +3 +4 — +5 +2
 
 7th — Soldier 5/Noble 2 +6/+1 +4 +3 +4 Inspire confidence +6 +2
 
 8th Soldier 5/Noble 2/ +6/+1 +5 +4 +5 Leadership +7 +3 Officer 1
 
-gth Soldier 5/Noble 2/ 47/42 46-45 «+6 +8 +3 Officer 2
+9th Soldier 5/Noble 2/ +7/+2 +6 +5 +6 — +8 +3 Officer 2
 
 10th Soldier 5/Noble 2/ +8/+3 +6 +5 +6 Requisition supplies +8 +4 Officer 3
 
 11th Soldier 5/Noble 2/ +9/+4 +8 +6 +7 — Elite trooper starting feats +9 +4 Officer 3/Elite Trooper 1
 
-12th Soldier 5/Noble 2/ +10/+5 +8 +6 +7 Officer bonus feat nae +4 Officer 4/Elite Trooper 1
+12th Soldier 5/Noble 2/ +10/+5 +8 +6 +7 Officer bonus feat — +4 Officer 4/Elite Trooper 1
 
 13th Soldier 5/Noble 2/ +10/+5 +9 +7 +8 — Tactics +10 +5 Officer 5/Elite Trooper 1
 
-14th Soldier 5/Noble 2/ +11/+6/+1 +9 $7: +10 +5 Officer 6/Elite Trooper 1
+14th Soldier 5/Noble 2/ +11/+6/+1 +9 +7 +10 +5 Officer 6/Elite Trooper 1
 
-15th Soldier 5/Noble 2/ 412/47/42 +10 +8 +9 Weapon Focus +11 +6 Officer 6/Elite Trooper 2
+15th Soldier 5/Noble 2/ +12/+7/+2 +10 +8 +9 Weapon Focus +11 +6 Officer 6/Elite Trooper 2
 
-16th Soldier 5/Noble 2/ +13/4+8/4+3 +11 +9 = =+10 Uncanny survival +12 +7 Officer 7/Elite Trooper 2
+16th Soldier 5/Noble 2/ +13/+8/+3 +11 +9 +10 Uncanny survival +12 +7 Officer 7/Elite Trooper 2
 
-17th Soldier 5/Noble 2/ +14/+9/+4 +11 +9 «+10 Officer bonus feat +12 +7 Officer 8/Elite Trooper 2
+17th Soldier 5/Noble 2/ +14/+9/+4 +11 +9 +10 Officer bonus feat +12 +7 Officer 8/Elite Trooper 2
 
-18th Soldier 5/Noble 2/ +14/49/44 +11. +9 +10 Improved tactics +12 +8 Officer 9/Elite Trooper 2
+18th Soldier 5/Noble 2/ +14/+9/+4 +11 +9 +10 Improved tactics +12 +8 Officer 9/Elite Trooper 2
 
-19th Soldier 5/Noble 2/ +15/+10/+5 +1 +9 +10 Uncanny dodge (Dex bonus) +12 +8 Officer 9/Elite Trooper 3
+19th Soldier 5/Noble 2/ +15/+10/+5 +11 +9 +10 Uncanny dodge (Dex bonus) +12 +8 Officer 9/Elite Trooper 3
 
 20th Soldier 5/Noble 2/ +16/+11/4+6/+1 +12 +10 +11 +13 +9
 
@@ -133,7 +130,7 @@ trooper prestige classes. While a character may find more efficient ways to meet
 
 Roleplaying Notes
 
-The role of Rebel officer is a good choice for a player looking for plenty of combat and the occasional gut-wrenchingly tough command decision. The character is little more than a foot-soldier until 5th level, when she advances to the rank of sergeant. Upon reaching 8th level, the character has been promoted to lieutenant, and may have a small command—perhaps consisting of, or in association with, the other heroes in the group. The very nature of service in the Rebel Alliance means that the Rebel officer's group will regularly be assigned to independent missions, spending a great deal of time out of communication with the rest of the Alliance. This gives them a great deal of freedom to work however they wish. In time, the Rebel officer may become a trusted operative of the Alliance High Command, and perhaps even a ranking officer. If the character is extremely lucky, she'll live long enough to see the end of the Galactic Civil War
+The role of Rebel officer is a good choice for a player looking for plenty of combat and the occasional gut-wrenchingly tough command decision. The character is little more than a foot-soldier until 5th level, when she advances to the rank of sergeant. Upon reaching 8th level, the character has been promoted to lieutenant, and may have a small command—perhaps consisting of, or in association with, the other heroes in the group. The very nature of service in the Rebel Alliance means that the Rebel officer's group will regularly be assigned to independent missions, spending a great deal of time out of communication with the rest of the Alliance. This gives them a great deal of freedom to work however they wish. In time, the Rebel officer may become a trusted operative of the Alliance High Command, and perhaps even a ranking officer. If the character is extremely lucky, she'll live long enough to see the end of the Galactic Civil War.
 
 <!-- page 26 -->
 
