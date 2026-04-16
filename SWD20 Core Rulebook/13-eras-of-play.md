@@ -12,7 +12,7 @@ If you don’t have the previous edition of the Star Wars Roleplaying Game, you 
 
 We reorganized the chapter, putting all of the major film characters at the front and providing their statistics at different periods in the saga. We've added characters and events from Attack of the Clones, including Jango Fett and Count Dooku. We've added expanded universe favorites such as Jorus C’baoth and Warmaster Tsavong Lah. To make room, we removed a few characters, such as Jar Jar Binks and Sebulba.
 
-Life in the Galaxy
+## Life in the Galaxy
 
 From the metropolis worlds of the Core to the frontier settlements of the Outer Rim, technology and technological devices permeate everyday life. Technology, however, isn’t the driving force in the galaxy—it simply provides the tools necessary to make a galactic civilization possible. In many ways, the technological wonders have become commonplace; they fade into the background of everyday life—present, significant, but not overly important from moment to moment. The intelligent beings of the galaxy don’t give a second thought to the amazing tools they have at their disposal. Blasters, hyperdrives, droids, bacta tanks—while miraculous from the point of view of less advanced societies, these devices and others like them are just familiar parts of life in the galaxy,
 
@@ -34,31 +34,27 @@ Finally, a galactic society requires open communications to flourish. The Old Re
 
 While the rules allow you to create a campaign in any Star Wars time frame, we're focusing that great expanse a bit and providing details on three eras.
 
-The Rise of the Empire era represents a time of political unrest: the slow dissolution and ultimate demise of the Old Republic, the rise to power of Chancellor Palpatine, and the Clone Wars. Specifically, it’s the years around Star Wars Episode I: The Phantom Menace and Episode Il: Attack of the Clones.
+The Rise of the Empire era represents a time of political unrest: the slow dissolution and ultimate demise of the Old Republic, the rise to power of Chancellor Palpatine, and the Clone Wars. Specifically, it’s the years around Star Wars Episode I: The Phantom Menace and Episode II: Attack of the Clones.
 
 The Rebellion era covers the time of the Galactic Civil War, as depicted in Episode IV: A New Hope, Episode V: The Empire Strikes Back, and Episode VI: Return of the Jedi.
 
 Finally, The New Jedi Order era is set twenty-five years after A New Hope. The New Republic has been established, Luke Skywalker's Jedi Knights are growing stronger, and the Yuuzhan Vong have begun an invasion of the galaxy. This is the time period detailed in the Del Rey novel series.
 
-The Rise of the Empire (22 to 32 Years before A New Hope) A campaign set in this era focuses on the slow decline and corruption of the Republic. As The Phantom Menace comes to an end, the future for the galaxy looks bright. The charismatic and popular Palpatine has been elected as Supreme Chancellor, the Trade Federation has seemingly been dismantled, and the Jedi Knights are at their peak of power and influence. However, there's a sinister shadow creeping across the galaxy, The vile Sith have returned. Crime is on the rise. Politicians continue to bicker and look after their owi petty interests. Nothing is what it seems.
+The Rise of the Empire (22 to 32 Years before A New Hope) A campaign set in this era focuses on the slow decline and corruption of the Republic. As The Phantom Menace comes to an end, the future for the galaxy looks bright. The charismatic and popular Palpatine has been elected as Supreme Chancellor, the Trade Federation has seemingly been dismantled, and the Jedi Knights are at their peak of power and influence. However, there's a sinister shadow creeping across the galaxy, The vile Sith have returned. Crime is on the rise. Politicians continue to bicker and look after their own petty interests. Nothing is what it seems.
 
 Attack of the Clones unfolds with a galaxy torn asunder by strife, hatred, and greed. Led by a charismatic Separatist named Count Dooku, thousands of worlds have broken away from the Republic. This “confederacy of independent systems” wants to free itself from the yoke of the corrupt Senate, unaware that their galactic insurrection could spell the rise of an even greater evil.
 
-As war foments and erupts between the Republic and the Separatists, plenty of opportunities for adventure present themselves. Heroes working for the Supreme Chancellot, the Jedi Council, or Count Dooku might undertake assignments to try to stem the tide of decay that grows stronger with every passing year. Remember that no matter what you or your players might think they know about Chancellor Palpatine, most people living in this era consider Palpatine a good, fair leader and the best hope of the Republic. His true machinations have yet to reveal themselves. Similarly, Count Dooku seems to have the best inter ests of the galaxy at heart. Under his august leadership, he seeks a galaxy restored to order and prosperity. No one suspects that this former Jedi Master has fallen to the dark side of the Force.
+As war foments and erupts between the Republic and the Separatists, plenty of opportunities for adventure present themselves. Heroes working for the Supreme Chancellor, the Jedi Council, or Count Dooku might undertake assignments to try to stem the tide of decay that grows stronger with every passing year. Remember that no matter what you or your players might think they know about Chancellor Palpatine, most people living in this era consider Palpatine a good, fair leader and the best hope of the Republic. His true machinations have yet to reveal themselves. Similarly, Count Dooku seems to have the best interests of the galaxy at heart. Under his august leadership, he seeks a galaxy restored to order and prosperity. No one suspects that this former Jedi Master has fallen to the dark side of the Force.
 
-During the era, all species are equal. For every Human senator, there are many more alien species on the Senate. Some species from the later eras haven't been encountered yet (such as Ewoks), and some have made only cursory visi
+During the era, all species are equal. For every Human senator, there are many more alien species on the Senate. Some species from the later eras haven't been encountered yet (such as Ewoks), and some have made only cursory visits to the galaxy (such as the advance scouts from the Yuuzhan Vong).
 
-<!-- page 296 -->
+<!-- page 296 --> The Order of the Jedi Knights is held together by the Jedi Council, and some ten thousand Knights roam the galaxy as the defenders of the Republic. Many more Forcesensitive beings train in Jedi academies throughout the Republic, each hoping to be selected as a Padawan learner. Those who aren't selected for advanced training use the skills they have acquired to help the Republic in some other way. Some, for example, become farmers in the Agri-Corps or healers in the Medi-Corps.
 
-to the galaxy (such as the advance scouts from the Yuuzhan Vong). The Order of the Jedi Knights is held together by the Jedi Council, and some ten thousand Knights roam the galaxy as the defenders of the Republic. Many more Forcesensitive beings train in Jedi academies throughout the Republic, each hoping to be selected as a Padawan learner. Those who aren't selected for advanced training use the skills they have acquired to help the Republic in some other way. Some, for example, become farmers in the Agri-Corps or healers in the Medi-Corps.
+Corrupt officials, various criminals, evil corporations, assassins, petty warlords, and dark Jedi abound in this time frame. New worlds still await discovery, and new alien species are encountered all the time. Any of these topics can become the seeds for great adventures. Remember also that the Jedi Council wants to learn more about the new Sith menace. From its chamber high atop the Jedi Temple in Coruscant, the capital world of the Republic, the Jedi Council quietly directs key members of the Jedi Order to investigate incidents that might somehow be tied to the Sith. Although the Sith started as an empire controlled by corrupt Jedi, eventually Darth Bane altered the nature of the Sith forever. He dictated the rule of the new Sith order: There could be only two Sith at any time, a master and an apprentice. This doesn’t limit the number of followers and lackeys the Sith could utilize, just the number of actual Sith. ‘The current Sith master, Lord Darth Sidious, lost one apprentice, Darth Maul, battling the Jedi. However, he has since found another apprentice in Darth Tyranus. Their plans for galactic domination and the destruction of the Jedi are in place, and it seems that nothing can stand in the way of their eventual victory.
 
-Corrupt officials, various criminals, evil corporations, assassins, petty warlords, and dark Jedi abound in this time frame. New worlds still await discovery, and new alien species are encountered all the time. Any of these topics can become the seeds for great adventures. Remember also that the Jedi Council wants to learn more about the new Sith menace. From its chamber high atop the Jedi Temple in Coruscant, the capital world of the Republic, the Jedi Council quietly directs key members of the Jedi Order to investigate incidents that might somehow be tied to the Sith. Although the Sith started as an empire controlled by corrupt Jedi, eventually Darth Bane altered the nature of the Sith forever. He dictated the rule of the new Sith order: There could be only two Sith at any time, a master and an apprentice. This doesn’t limit the number of followers and lackeys the Sith could utilize, just the number of actual Sith. ‘The current Sith master, Lord Darth Sidious, lost one apprentice, Darth Maul, battling the Jedi. However, he has since found another apprentice in Darth Tyranus. Their plans for galactic domination and the destruction of the Jedi are in place, and it seems that nothing can stand in the yay of their eventual victory.
+The Rebellion Era (0 to S Years after A New Hope) Acampaign set in this period focuses on the war for freedom, The Rebel Alliance challenges the rule of the Empire, seeking to end the tyranny and restore the glory of the Old Republic. The primary villain of the time is the Empire. The galaxy-wide military machine controls world-destroying Death Stars, a fleet of powerful Star Destroyers, and a seemingly endless number of armor-clad stormtroopers. Alien species are persecuted and enslaved. Outer Rim worlds are devastated and stripped clean to support the Imperial war effort. It is a dark time for the galaxy.
 
-The Rebellion Era (0 to S Years after A New Hope) Acampaign set in this period focuses on the war for freedom, The Rebel Alliance challenges the rule of the Empire, seeking to end the tyranny and restore the glory of the Old Republic. The primary villain of the time is the Empire. The galaxywide military machine controls worlddestroying Death Stars, a fleet of powerful Star Destroyers, and a seemingly endless number of armor-clad stormtroopers. Alien species are persecuted and enslaved. Outer Rim worlds are devastated and stripped clean to support the Imperial war effort. It is a dark time for the galaxy.
-
-The Emperor rules with an iron will. His key supporters include Dark Lord Darth Vader, Moffs and Grand Moffs of varying degrees of power and influence, military commanders, and a variety of secret police, spies, and assassins. The feared agents of the Imperial Security Bureau (the ISB) scour the alaxy for traitors and Rebels. The once-great Jedi Order has ‘been eliminated, and only a handful of Force-sensitive indi- \iduals remain in hiding on out-of-the-way planets—other than those darksiders working for the Emperor's New Order. The Senate has been disbanded. The HoloNet has been restricted. The Core worlds have been effectively cut off fiom the rest of the galaxy. Alderaan, a world of peace and influence, has been destroyed. The Emperor's Grand ‘Aimirals command the vast Imperial military machine, and
-
-hundreds of worlds have been tasked with keeping that machine going—no matter what the cost. New weapons of war appear regularly, from modified stormtroopers to walkers, TIE fighters to Star Destroyers. Interdictor cruisers capa~ ble of pulling ships out of hyperspace are seeing wider use. No starship, private or otherwise, is safe from Imperial inspection, and boardings occur on a regular basis.
+The Emperor rules with an iron will. His key supporters include Dark Lord Darth Vader, Moffs and Grand Moffs of varying degrees of power and influence, military commanders, and a variety of secret police, spies, and assassins. The feared agents of the Imperial Security Bureau (the ISB) scour the galaxy for traitors and Rebels. The once-great Jedi Order has been eliminated, and only a handful of Force-sensitive individuals remain in hiding on out-of-the-way planets—other than those darksiders working for the Emperor’s New Order. The Senate has been disbanded. The HoloNet has been restricted. The Core worlds have been effectively cut off from the rest of the galaxy. Alderaan, a world of peace and influence, has been destroyed. The Emperor’s Grand Admirals command the vast Imperial military machine, and hundreds of worlds have been tasked with keeping that machine going—no matter what the cost. New weapons of war appear regularly, from modified stormtroopers to walkers, TIE fighters to Star Destroyers. Interdictor cruisers capable of pulling ships out of hyperspace are seeing wider use. No starship, private or otherwise, is safe from Imperial inspection, and boardings occur on a regular basis.
 
 Heroes in this time frame work for the Rebel Alliance. They can be part of a Rebel cell, attached directly to Alliance High Command, or independents drawn to the Alliance’s cause. In addition to the Empire, opponents in this period include crime lords, smugglers, bounty hunters, and traitors to the Alliance. It’s up to the heroes to help tum the tide of Imperial domination.
 
@@ -68,21 +64,18 @@ Nom Anor, an advance agent for the Yuuzhan Vong, sows additional seeds of discor
 
 The Yuuzhan Vong are humanoids that follow a religion of pain and nature. They hate machines of all kinds, using instead living technology that they have bioengineered to serve as ships, weapons, and tools. These fierce, holy warriors seek to conquer the galaxy and bring their faith to the infidels who regularly make use of unclean machines. Their invasion begins on far-flung worlds such as Belkadan and Helska, but they quickly widen their hold on key sectors of the Outer and Mid Rim, terraforming worlds to produce the yorik coral and other living materials that serve as their ships and weapons. The Jedi learn, to their horror, that this. intractable new enemy cannot be sensed through the Force. The Jedi, former guardians of peace, become the hunted prey of the Yuuzhan Vong. Meanwhile, the extragalactic intruders continue their relentless advance toward the Core, crushing any force that dares stand in their way. A few worlds surrender without a fight, while those that resist are rendered uninhabitable. In time Coruscant itself falls, signaling the death of the New Republic.
 
-nm en
-
-7 u r Se
-
 <!-- page 297 -->
-
-“ 7 u f b <
 
 Dark and terrible times have once again come upon the galaxy. In this era, heroes must work to turn the tide of opinion, strive to keep the New Republic together, and battle to defeat the Yuuzhan Vong invaders.
 
-Main Characters The following section describes the main protagonists from Episodes I-II and Episodes IV-VI.
+## Main Characters
+
+The following section describes the main protagonists from Episodes I–II and Episodes IV–VI.
 
 As of Episode I: The Phantom Menace, Obi-Wan Kenobi is a Jedi apprentice on the verge of becoming a Jedi Knight. Resourceful and quick-witted, he is an excellent Padawan, gifted with a noble spirit and a remarkable commitment to the Jedi path. Perhaps this, more than his abilities, is what led the Jedi Master Qui-Gon Jinn to finally accept Obi-Wan as his student despite his initial reluctance. Still, Obi-Wan has
 
 proven himself time and again, and Qui-Gon Jinn could not be more proud of his apprentice.
+
 
 For a long time it appeared as though Qui-Gon would not take Obi-Wan as his Padawan, Marked for the Agricultural Corps to tend to sick crops after being passed over by a number of potential Jedi Masters, Obi-Wan was even: tually given a chance to prove himself by dueling with other hopefuls. He defeated a rival student named Bruck, but was still passed over by Qui-Gon Jinn. In fact, Qui-Gon did not finally accept Obi-Wan as his Padawan until after the youth helped bring Qui-Gon’s previous apprentice—now a fallen Jedi—to justice
 
@@ -92,17 +85,15 @@ perhaps less aware of the living Force than Qui-Gon would prefer, lacking the ki
 
 Obi-Wan is still a young man, only 25 years of age, when the blockade of Naboo becomes an invasion. Wearing his hair close-cropped (except for the traditional long, thin braid of a Human Padawan), Obi-Wan goes clean-shaven
 
-ICONIC CHARACTER STATISTICS Here's a summary of the abbreviated game statistics included for each iconic character.
-
-Character’s Name: Gender Species Class Level; Init (initiative modifier); Defense; DR (damage reduction from armor); Spd
-
-(speed); VP/WP (vitality and wound points); Atk (attack bonuses, attack type, and damage); SQ (special qualities or class features); SV (Fortitude, Reflex, and Will save bonuses); SZ (size); FP (Force Points); DSP (Dark Side Points); Rep (Reputation bonus); Str (Strength), Dex (Dexterity), Con (Constitution), Int (Intelligence), Wis (Wisdom), Cha (Charisma). Challenge Code. «+
+> **Iconic Character Statistics**
+>
+> Here’s a summary of the abbreviated game statistics included for each iconic character.
+>
+> *Character’s Name:* Gender Species Class Level; Init (initiative modifier); Defense; DR (damage reduction from armor); Spd (speed); VP/WP (vitality and wound points); Atk (attack bonuses, attack type, and damage); SQ (special qualities or class features); SV (Fortitude, Reflex, and Will save bonuses); SZ (size); FP (Force Points); DSP (Dark Side Points); Rep (Reputation bonus); Str (Strength), Dex (Dexterity), Con (Constitution), Int (Intelligence), Wis (Wisdom), Cha (Charisma). Challenge Code.
 
 and wears the customary Jedi cloak and robes. He also carries a blue-bladed lightsaber of his own construction one more sign that he is ready to advance. In personality, he is quiet, serious, and occasionally sarcastic,
 
-After Obi-Wan Kenobi defeated Darth Maul, the Sith who had slain Qui-Gon Jinn, the Jedi High Council decided that Obi-Wan had proven himself worthy of becoming a Jedi Knight. The High Council was less pleased with his decision to honor Master Qui-Gon’s dying wish and train Anakin Skywalker to become a Jedi. Even if Obi-Wan were ready to train a Padawan, surely he was not ready to train a boy who showed alll the signs of being a vergence in the Force focus of vast power, but without the forbearance to use it
-
-wisel
+After Obi-Wan Kenobi defeated Darth Maul, the Sith who had slain Qui-Gon Jinn, the Jedi High Council decided that Obi-Wan had proven himself worthy of becoming a Jedi Knight. The High Council was less pleased with his decision to honor Master Qui-Gon’s dying wish and train Anakin Skywalker to become a Jedi. Even if Obi-Wan were ready to train a Padawan, surely he was not ready to train a boy who showed all the signs of being a vergence in the Force—a focus of vast power—but without the forbearance to use it wisely.
 
 Obi-Wan has a lingering fear that the High Council's concerns about Anakin might be justified. The young Padawan’s rebelliousness and casual use of the Force is a constant source of frustration and embarrassment for Obi Wan. Despite his concerns, Obi-Wan can't shirk his responsibilities and abandon the promise made to Qui-Gon that he would complete Anakin’s training. He knows that if he passes Anakin off to another Master, the new Master would remand the young boy to the ranks of the Jedi Exploration Corps, and Anakin would never become a Jedi Knight.
 
@@ -116,77 +107,45 @@ The Clone Wars foreshadow the rise of the Empire, the treachery of Anakin Skywal
 
 Almost two decades earlier, Obi-Wan brought an infant boy to Owen and asked Lars to raise and care for the child—the son of Owen's stepbrother, Anakin Skywalker. Persuaded by his wife, Owen grudgingly agreed—but on the condition that Ben keep his distance. He believed that his stepbrother’s problems were somehow tied to Kenobi, and he didn't want Anakin’s son following that path,
 
-Obi-Wan agreed to Owen's demand. Kenobi set up a small homestead in the barren desert and watched Luke grow up. from afar—all the while keeping a watchful eye on the stars, knowing what would happen to Luke if his father or the
+Obi-Wan agreed to Owen’s demand. Kenobi set up a small homestead in the barren desert and watched Luke grow up from afar—all the while keeping a watchful eye on the stars, knowing what would happen to Luke if his father or the Emperor were to discover him and his strong connection to the Force. Like his father, Luke could be turned to evil—a tragedy Kenobi sought desperately to avoid.
 
 <!-- page 298 -->
 
-(S)) ICONIC CHARACTER VARIATIONS
+> **Iconic Character Variations**
+>
+> The iconic characters presented in this chapter have game statistics derived from the various classes and prestige classes presented in this rulebook. However, alternative versions of these characters can be created using prestige classes featured in supplementary source material. Use whichever versions of these characters best suit your Star Wars campaign.
 
-“ =" ate SES RE
+Ben remained in hiding, meditating on the Force and living off the land. Although he desired to teach young Luke about the Force, he could not approach the boy due to Owen’s fear of the consequences. Even when Luke and a friend crashed their skyhopper in Beggar’s Canyon and had to be rescued by Ben, Owen angrily chased Ben away and forbade Luke to have anything more to do with “that crazy sorcerer.”
 
-The iconic characters presented in this chapter have game statistics
+Kenobi is content to keep his distance, though he senses that one day the Force will bring him and Luke together. That day comes in A New Hope, when Ben rescues Luke from the Sand People.
 
-derived from the various classes and prestige classes presented in
+Ben tells Luke the truth about his father—some of it, at any rate. Both he and Luke’s father had been Jedi Knights who had fought together in the Clone Wars. He gives Luke his father’s lightsaber, and explains—with some careful embellishment—how Luke’s father, Anakin, had been betrayed and murdered by the villainous Darth Vader.
 
-this rulebook. However, alternative versions of these characters
-
-can be created using prestige classes featured in supplementary source material. Use whichever versions of these characters best suit your Star Wars campaign.
-
-Emperor were to discover him and his strong connection to the Force, Like his father, Luke could be turned to evil—a tragedy Kenobi sought desperately to avoid.
-
-Ben remained in hiding, meditating on the Force and living off the land. Although he desired to teach young luke about the Force, he could not approach the boy due to Owen's fear of the consequences. Even when Luke and a friend crashed their skyhopper in Beggar's Canyon and had to be rescued by Ben, Owen angrily chased Ben away and forbade Luke to have anything more to do with “that crazy sorcerer.”
-
-Kenobi is content to keep his distance, though he senses that one day the Force will bring him and Luke together. That day comes in A New Hope, when Ben rescues Luke from the Sand People,
-
-Ben tells Luke the truth about his father—some of it, at ‘any rate; Both he and Luke’s father had been Jedi Knights who had fought together in the Clone Wars, He his father’s lightsaber, and explains—with some careful embellishment—how Luke's father, Anakin, had been betrayed and murdered by the villainous Darth Vader.
-
-After viewing a holographic plea from Princess Lei Organa, Ben urges Luke to accompany him to Alderaan to lean about the Force while Ben delivers the Death Star schematics to his old friend, Bail Organa. However, it isn’t until stormtroopers kill Owen and Beru Lars that Luke
-
-gives Luke
-
-decides to leave Tatooine. Traveling to Mos Eisley spaceport,
-
-Hen arranges transport to Alderaan with a cocky Corellian smuggler named Han Solo. Although Ben has enough time to tee
-
-‘h young Luke some rudimentary lessons about the force on the journey to Alderaan, the planet is destroyed by the Death Star. Stealing aboard the battle station, Ben senses the presence of Darth Vader and orders Luke to stay with Han Solo while he deactivates the Death Star's tractor beam so that the Millennium Falcon can escape. “Your
-
-destiny lies along a different path from mine,” Ben tells
-
-luke, knowing what would happen if Vader discovered Luke
-
-inthe Empire’s stronghold. With that, Ben performs the ultimate act of heroism by facing his former student one last time,
-
-Obi-Wan Kenobi (beginning of Episode II): Male Human Jedi Guardian 7/Jedi Master 2/Jedi Investigator 1; Init +3 (Dex); Defense 22 (+9 class, +3 Dex); Spd 10 m; VP/WP 82/14; Atk +14/+9* melee (`4d8+2`/19-20, lightsaber) or +13/+8 ranged; SQ Deflect (defense +2), deflect (attack -4), deflect (extend defense and attack), force secret (Affect Mind), profile, target bonus +1; SV Fort +9, Ref +10,
+After viewing a holographic plea from Princess Leia Organa, Ben urges Luke to accompany him to Alderaan to learn about the Force while Ben delivers the Death Star schematics to his old friend, Bail Organa. However, it isn’t until stormtroopers kill Owen and Beru Lars that Luke decides to leave Tatooine. Traveling to Mos Eisley spaceport, Ben arranges transport to Alderaan with a cocky Corellian smuggler named Han Solo. Although Ben has enough time to teach young Luke some rudimentary lessons about the Force on the journey to Alderaan, the planet is destroyed by the Death Star. Stealing aboard the battle station, Ben senses the presence of Darth Vader and orders Luke to stay with Han Solo while he deactivates the Death Star’s tractor beam so that the Millennium Falcon can escape. “Your destiny lies along a different path from mine,” Ben tells Luke, knowing what would happen if Vader discovered Luke in the Empire’s stronghold. With that, Ben performs the ultimate act of heroism by facing his former student one last time.
 
 ## OBI-WAN KENOBI
 
-Will +8; SZ M; FP 5; DSP 0; Rep +3; Str 15, Dex 16, Con 14, Int 13, Wis 13, Cha 13. Challenge Code D.
+**Obi-Wan Kenobi (beginning of Episode II):** Male Human Jedi Guardian 7/Jedi Master 2/Jedi Investigator 1; Init +3 (Dex); Defense 22 (+9 class, +3 Dex); Spd 10 m; VP/WP 82/14; Atk +14/+9\* melee (`4d8+2`/19–20, lightsaber) or +13/+8 ranged; SQ Deflect (defense +2), deflect (attack −4), deflect (extend defense and attack), force secret (Affect Mind), profile, target bonus +1; SV Fort +9, Ref +10, Will +8; SZ M; FP 5; DSP 0; Rep +3; Str 15, Dex 16, Con 14, Int 13, Wis 13, Cha 13. Challenge Code D.
 
-Equipment: Lightsaber’, Jedi robes, utility belt, comlink.
+Equipment: Lightsaber\*, Jedi robes, utility belt, comlink.
 
-“Obi-Wan Kenobi has constructed his own lightsaber.
+\*Obi-Wan Kenobi has constructed his own lightsaber.
 
-Skills: Balance +8, Craft (lightsaber) +6, Diplomacy Gather Information +7, Jump +6, Knowledge (Jedi lore) +5, Pilot +8, Read/Write Basic, Repair +3, Search +4, Sense Motive +9, Speak Basic, Speak Shyriiwook, Tumble +9.
+Skills: Balance +8, Craft (lightsaber) +6, Diplomacy +7, Gather Information +7, Jump +6, Knowledge (Jedi lore) +5, Pilot +8, Read/Write Basic, Repair +3, Search +4, Sense Motive +9, Speak Basic, Speak Shyriiwook, Tumble +9.
 
 Force Skills: Affect Mind +7, Battlemind +4, Enhance Ability +4, Enhance Senses +5, Force Stealth +4, Force Strike +4, Move Object +5, See Force +7.
 
-Feats: Acrobatic, Dodge, Exotic Weapon (lightsaber),
+Feats: Acrobatic, Dodge, Exotic Weapon Proficiency (lightsaber), Force-Sensitive, Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-(lightsaber), Weapon Group Proficiencies (blaster pistols, simple weapons).
+Force Feats: Alter, Burst of Speed, Control, Knight Defense, Lightsaber Defense, Sense.
 
-## Force Feats: Alter, Burst of Speed, Control, Knight
+**Obi-Wan Kenobi (beginning of Episode IV):** Male Human Jedi Guardian 7/Jedi Master 5/Jedi Investigator 3; Init +2 (Dex); Defense 23 (+11 class, +2 Dex); Spd 10 m; VP/WP 110/13; Atk +18/+13/+8\* melee (`5d8+2`/17–20, lightsaber) or +17/+12/+7 ranged; SQ Deflect (defense +3), deflect (attack −4), deflect (extend defense and attack), force secret (Affect Mind, Force Defense), profile, target bonus +2, contact, favor +1; SV Fort +10, Ref +12, Will +12; SZ M; FP 7; DSP 0; Rep +4; Str 14, Dex 15, Con 13, Int 14, Wis 15, Cha 14. Challenge Code F.
 
-Defense, Lightsaber Defense, Sense.
+Equipment: Lightsaber\*, Jedi robes, training remote.
 
-Obi-Wan Kenobi (beginning of Episode IV): Male Human Jedi Guardian 7/Jedi Master 5/Jedi Investigator 3; Init +2 (Dex); Defense 23 (+11 class, +2 Dex); Spd 10 m; VP/WP 110/13; Atk +18/+13/+8* melee (`5d8+2`/17-20, lightsaber) or +17/+12/+7 ranged; SQ Deflect (defense +3), deflect (attack -4), deflect (extend defense and attack), force secret (Affect Mind, Force Defense), profile, target bonus +2, contact, favor +1; SV Fort +10, Ref +12, Will +12; SZ M; FP 7; DSP 0; Rep +4; Str 14, Dex 15, Con 13, Int 14, Wis 15, Cha 14. Challenge Code F Equipment: Lightsaber’, Jedi robes, training remote. *Obi-Wan Kenobi has constructed his own lightsaber.
-
-287
-
-” 7a u c
+\*Obi-Wan Kenobi has constructed his own lightsaber.
 
 <!-- page 299 -->
-
-Al “ 7 U
 
 Skills: Balance +10, Craft (lightsaber) +7, Diplomacy +8, Gather Information +11, Jump +10, Knowledge (Jedi lore) +7, Pilot +9, Read/Write Basic, Repair +4, Search +5, Sense Motive +10, Speak Basic, Speak Jawa Trade Language, Speak Shyriiwook, Survival +4, Tumble +8.
 
@@ -196,13 +155,11 @@ Feats: Acrobatic, Dodge, Exotic Weapon (lightsaber), Force-Sensitive, Improved C
 
 Force Feats: Alter, Burst of Speed, Control, Knight Defense, Lightsaber Defense, Master Defense, Sense.
 
-Padmé Amidala Amidala was not the youngest monarch to govern Naboo, but she ranks among the most beloved. During her eightyear reign as Naboo’s elected queen, Amidala wished only to serve her people well. At the end of Episode I: The Phantom Menace, she proved herself a skilled diplomat and cagey tactician by forming bonds of friendship with the Gungans and thwarting the machinations of Viceroy Nute Gunray, freeing her planet from Trade Federation occupation. Amidala's closest friend in those days was Sabé, one of her handmaidens. Although the duties of all five handmaidens were nominally to assist the queen with etiquette and appearance, each of them also secretly acted as a bodyguard, protecting Amidala from danger. It was no accident that these courageous young girls also resembled their queen, since part of the responsibility of protecting the queen means
+## PADMÉ AMIDALA
 
-## PADME AMIDALA
+Amidala was not the youngest monarch to govern Naboo, but she ranks among the most beloved. During her eight-year reign as Naboo’s elected queen, Amidala wished only to serve her people well. At the end of Episode I: The Phantom Menace, she proved herself a skilled diplomat and cagey tactician by forming bonds of friendship with the Gungans and thwarting the machinations of Viceroy Nute Gunray, freeing her planet from Trade Federation occupation. Amidala’s closest friend in those days was Sabé, one of her handmaidens. Although the duties of all five handmaidens were nominally to assist the queen with etiquette and appearance, each of them also secretly acted as a bodyguard, protecting Amidala from danger. It was no accident that these courageous young girls also resembled their queen, since part of the responsibility of protecting the queen means occasionally posing as her in public—a secret shared only by the queen, her handmaidens, and her Chief of Security.
 
-occasionally posing as her in public—a secret shared only by the queen, her handmaidens, and her Chief of Security.
-
-Amidala herself imitates a fictional handmaiden, Padmé Naberrie—an identity that she and Sabé fabricated (and which leads most people to believe she actually has six handmaidens). Amidala puts her Padmé disguise to good use, frequently walking among her subjects, observing finsthand how they live, what they desire most, and what they think of their government—information she could never entirely trust when delivered to her in her royal persona. Amidala’s ability to travel unrecognized among her own subjects sometimes puts her into interesting positions, She has in the past been forced to seek temporary employment to afford quarters (“an enlightening perspective on working conditions") before returning to the palace, and once debated a small gathering of political pundits—disputing her own decisions and policies “as a way to challenge their assertions, and my own.”
+Amidala herself imitates a fictional handmaiden, Padmé Naberrie—an identity that she and Sabé fabricated (and which leads most people to believe she actually has six handmaidens). Amidala puts her Padmé disguise to good use, frequently walking among her subjects, observing firsthand how they live, what they desire most, and what they think of their government—information she could never entirely trust when delivered to her in her royal persona. Amidala’s ability to travel unrecognized among her own subjects sometimes puts her into interesting positions, She has in the past been forced to seek temporary employment to afford quarters (“an enlightening perspective on working conditions") before returning to the palace, and once debated a small gathering of political pundits—disputing her own decisions and policies “as a way to challenge their assertions, and my own.”
 
 In her role as queen, Padmé wears richly detailed costumes—a tradition for Naboo's elected royalty—and has a variety of outfits, all designed to convey a certain mood befitting different occasions. She also wears a traditional white face makeup, with red accents on her cheeks and lower lip—the traditional “scar of remembrance,” in memory of Naboo's period of suffering before “the Great Time of Peace.” In public, as Queen Amidala, she is serene, regal, and austere, while in private, or disguised as Padmé, she is warm, friendly, and humble.
 
@@ -218,31 +175,23 @@ Wis 16, Cha 18. Challenge Code D.
 
 <!-- page 300 -->
 
-Equipment: Blaster pistol, comlink, senatorial wardrobe, senatorial transport, astromech droid (R2-`D2`).
+Equipment: Blaster pistol, comlink, senatorial wardrobe, senatorial transport, astromech droid (R2-D2).
 
-Skills: Appraise +4, Bluff +12, Computer Use +6, Diplomacy +18, Disguise +14, Hide +4, Intimidate +4, Knowledge (Naboo) +12, Knowledge (politics) +12, Knowltdge (history) +10, Move Silently +4, Pilot +6, Read/Write Basic, Read/Write Mon Calamarian, Read/Write Ithorese, Repair +4, Sense Motive +10, Speak Basic, Speak Mon Calamarian, Speak Ithorese, Treat Injury +5.
+Skills: Appraise +4, Bluff +12, Computer Use +6, Diplomacy +18, Disguise +14, Hide +4, Intimidate +4, Knowledge (Naboo) +12, Knowledge (politics) +12, Knowledge (history) +10, Move Silently +4, Pilot +6, Read/Write Basic, Read/Write Mon Calamarian, Read/Write Ithorese, Repair +4, Sense Motive +10, Speak Basic, Speak Mon Calamarian, Speak Ithorese, Treat Injury +5.
 
-Feats: Fame, Influence, Mimic, Point Blank Shot, Precise Shot, Skill Emphasis (Diplomacy), Weapon Focus (blaster sistol), Weapon Group Proficiencies (blaster pistols, simple weapons).
+Feats: Fame, Influence, Mimic, Point Blank Shot, Precise Shot, Skill Emphasis (Diplomacy), Weapon Focus (blaster pistol), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
 ## Anakin Skywalker (Lord Darth Vader)
 
-Anakin Skywalker’s destiny and the fate of the entire galaxy are linked inexorably. He studies the ways of the Jedi but allows feelings of anger, fear, and hate to enslave him. As Darth Vader, he uses the power of the dark side of the Force to betray and murder his fellow Jedi and enslave the galaxy. With the help of his son, the man once known 4s Anakin Skywalker finds redemption, bringing balance
+Anakin Skywalker’s destiny and the fate of the entire galaxy are linked inexorably. He studies the ways of the Jedi but allows feelings of anger, fear, and hate to enslave him. As Darth Vader, he uses the power of the dark side of the Force to betray and murder his fellow Jedi and enslave the galaxy. With the help of his son, the man once known as Anakin Skywalker finds redemption, bringing balance to the Force by ending the tyranny of the Emperor and the Sith.
 
-{0 the Force by ending the tyranny of the Emperor and
+The 9-year-old Anakin Skywalker introduced in Episode I: The Phantom Menace knows nothing of evil or tyranny. Anakin dreams of being a famous starfighter pilot, and even aJedi Knight. As a slave, Anakin knows in his heart that his dreams are just childish fantasies. What he does not realize that within him the Force is stronger than in any other living being, and that his dreams might actually be premonitions of things that will one day come to pass. For the time being, though, he works as an assistant to his Toydaran master, Watto, scavenging spare parts to repair and sell, bartering with Jawas, and piloting Watto’s Podracer in the local heats. To Anakin, flying a Podracer is the next best thing to being in the cockpit of a starfighter.
 
-the Sith.
+Anakin’s life changes suddenly with the arrival of a Jedi Master named Qui-Gon Jinn, who sees in the young boy something Anakin's mother has long suspected: a destiny greater than anyone could imagine. Qui-Gon barters with Watto for Anakin’s freedom, gambling on the boy’s ability as a Podracer pilot. When Anakin wins the Boonta Eve Classic Podrace, the Toydarian has no choice but to release the boy into the Jedi’s custody. No longer a slave, Anakin leaves Tatooine with Qui-Gon Jinn and Obi-Wan Kenobi, vowing someday to return and free his mother and the other slaves.
 
-The 9-year-old Anakin Skywalker introduced in Episode I: The Phantom Menace knows nothing of evil or tyranny. Anakin dreams of being a famous starfighter pilot, and even aJedi Knight. As a slave, Anakin knows in his heart that his dreams are just childish fantasies. What he does not realize that within him the Force is stronger than in any other living being, and that his dreams might actually be premoritions of things that will one day come to pass. For the ‘ime being, though, he works as an assistant to his Toydaran master, Watto, scavenging spare parts to repair and sell, bartering with Jawas, and piloting Watto’s Podracer in the jocal heats. To Anakin, flying a Podracer is the next best thing to being in the cockpit of a starfighter.
+Anakin again demonstrates his piloting skills in a climac- ‘ic space battle against the capricious Trade Federation, single-handedly taking out the droid control ship. His heroism does not go unnoticed, with Chancellor Palpatine himself promising to watch the young boy’s career with “great interest.”
 
-Anakin’s life changes suddenly with the arrival of a Jedi Master named Qui-Gon Jinn, who sees in the young boy something Anakin's mother has long suspected: a destiny grater than anyone could imagine. Qui-Gon barters with \atto for Anakin’s freedom, gambling on the boy's ability 4 a Podracer pilot. When Anakin wins the Boonta Eve Classic Podrace, the Toydarian has no choice but to release ihe bay into the Jedi’s custody. No longer a slave, Anakin leaves Tatooine with Qui-Gon Jinn and Obi-Wan Kenobi, \owing someday to return and free his mother and the other slaves.
-
-Anakin again demonstrates his piloting skills in a climac- ‘ic space battle against the capricious Trade Federation, sngle-handedly taking out the droid control ship. His heroisn does not go unnoticed, with Chancellor Palpatine himself promising to watch the young boy’s career with “great interest.
-
-## By : Attack of the Clones, Anakin Skywalker
-
-6 grown into a capable young Jedi. Under the tutelage of Obi-Wan Kenobi, Anakin has learned the basics of using
-
-the Force and become a capable Padawan, almost ready to undergo the trial of Knighthood. Though occasionally thoughtful and even insightful, he is more often rash and impulsive—as though the Force is always speaking to him,
+By Attack of the Clones, Anakin Skywalker has grown into a capable young Jedi. Under the tutelage of Obi-Wan Kenobi, Anakin has learned the basics of using the Force and become a capable Padawan, almost ready to undergo the trial of Knighthood. Though occasionally thoughtful and even insightful, he is more often rash and impulsive—as though the Force is always speaking to him,
 
 isode II
 
@@ -254,27 +203,15 @@ slave on Tatooine. He has not seen her in ten years, and his concer for her wear
 
 Padmé Amidala’s return to Coruscant makes it even more difficult for Anakin to focus on his studies. Although Anakin knows that a Jedi is not allowed to form emotional attachments, he also knows that he can’t deny how he feels for the Naboo senator. Padmé is too beautiful to ignore—and at 19 years old, Anakin still lacks the self-control he needs to keep emotional distance. When the Jedi Council assigns Obi-Wan and Anakin to guard Padmé following an assassination attempt on the senator's life, the young Padawan allows his love for Padmé to overwhelm him—even though his Jedi vows forbid him from getting too close. Later, he is briefly reunited with his mother—only to see her die at the hands of Tusken Raiders. His conflicting feelings about Padmé and his place in the Jedi Order, coupled with rage over the death of his mother, form the basis for Anakin’s rising darkness.
 
-How an innocent and idealistic child named Anakin Skywalker becomes the most feared man in the galaxy, the Emperor's black-clad enforcer, is a mystery known only to a few. Unable to manage his hatred, anger, and fear, Anakin is seduced by the dark side of the Force. Giving himself over to
-
-## ANAKIN SKYWALKER
-
-299
-
-“ U Db ng
+How an innocent and idealistic child named Anakin Skywalker becomes the most feared man in the galaxy, the Emperor's black-clad enforcer, is a mystery known only to a few. Unable to manage his hatred, anger, and fear, Anakin is seduced by the dark side of the Force. Giving himself over to evil, he turns against his erstwhile Jedi Master and sheds the last vestiges of his humanity to become Darth Vader, Dark Lord of the Sith.
 
 <!-- page 301 -->
 
-a“ 7 u lia o2
-
-evil, he turns against his erstwhile Jedi Master and sheds the last vestiges of his humanity to become Darth Vader, Dark Lord of the Sith.
-
-Sustained now by machinery and unable to live without his je body armor, Vader sets about establishing himself as the heir to all the secrets of the Sith order, using what he learns to destroy the Jedi. When his Master assumes the mantle of Emperor, Darth Vader becomes the second most powerful being in the known galaxy.
+Sustained now by machinery and unable to live without his the body armor, Vader sets about establishing himself as the heir to all the secrets of the Sith order, using what he learns to destroy the Jedi. When his Master assumes the mantle of Emperor, Darth Vader becomes the second most powerful being in the known galaxy.
 
 With the end of the Jedi Order and the consolidation of the Emperor's power, Lord Vader has time to tum his attention to training others in the dark side of the Force and cultivating followers, among them the Noghri. Though Vader still performs missions of terror and assassination for the Emperor, he has time to meditate and hone his skills. By the time the Emperor assigns him to assist Grand Moff Tarkin in the construction of the Death Star battle station, Vader is the deadliest warrior of his generation, shielded by imposing
 
-custom-ma
-
-armor, steeled by countless combats, and empowered by the dark side of the Force.
+custom-made armor, steeled by countless combats, and empowered by the dark side of the Force.
 
 Even with the dark side as his formidable ally, Vader did not anticipate the destruction of the Death Star. As the Emperor set about replacing this dread weapon with another, Vader did everything in his power to track down the heroic pilot responsible for this setback: Luke Skywalker, his son. Their paths cross several times over the next few years, but it isn’t until the fall of Bespin that Vader confronts Luke and reveals their true relationship. Vader attempts to tum Luke, inviting him to rule the galaxy at his side. Luke refuses and escapes.
 
@@ -282,11 +219,9 @@ Vader confronts his son again on the second Death Star, The Emperor pits Vader a
 
 ## DARTH VADER
 
-|
+feelings of rage and hatred in Luke and turn him to the dark side. Luke won't be tempted, and his bravery in facing the Emperor's dark side powers fans the tiny spark of light still alive in Darth Vader. Overwhelmed with compassion for his son, Vader turns on the Emperor, hurling him into the depths of the Death Star. Vader redeems himself—but at the cost of his own life. He dies as Anakin Skywalker, becoming one with the Force alongside his former teachers, Obi-Wan Kenobi and Yoda.
 
-feelings of rage and hatred in Luke and tum him to the dark side. Luke won't be tempted, and his bravery in facing the Emperor's dark side powers fans the tiny spark of light stil ale in Darth Vader. Overwhelmed with compassion for his son, Vader turns on the Emperor, hurling him into the depths of the Death Star. Vader redeems himself—but at the cost of his own life. He dies as Anakin Skywalker, becoming one with the Force alongside his former teachers, Obi-Wan Kenobi and Yoda.
-
-Anakin Skywalker (beginning of Episade Il): Male Human Fringer 1/Jedi Guardian 5; Init +3 (Dex); Defense 19 (+6 class, +3 Dex); Spd 10 m; VP/WP 52/13; Atk +8 melee” (`3d8+1`/19-20, lightsaber) or +8 ranged; SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair); deflect (defense +1, attack ~4); SV Fort +5, Ref +6, Will +2; SZ M; FP 7; DSP 3; Rep +2; Str 13, Dex 16, Con 13, Int 13, Wis 12, Cha 13. Challenge Code D.
+**Anakin Skywalker (beginning of Episode II):** Male Human Fringer 1/Jedi Guardian 5; Init +3 (Dex); Defense 19 (+6 class, +3 Dex); Spd 10 m; VP/WP 52/13; Atk +8 melee” (`3d8+1`/19-20, lightsaber) or +8 ranged; SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair); deflect (defense +1, attack −4); SV Fort +5, Ref +6, Will +2; SZ M; FP 7; DSP 3; Rep +2; Str 13, Dex 16, Con 13, Int 13, Wis 12, Cha 13. Challenge Code D.
 
 Equipment: Lightsaber", Jedi robes.
 
@@ -296,13 +231,11 @@ Skills: Balance +6, Craft (lightsaber) +4, Knowledge (alien species) +3, Knowled
 
 Force Skills: Affect Mind +3, Battlemind +5, Enhance Ability +6, Farseeing +4, Force Defense +5, Force Strike +4, Move Object +3, See Force +3.
 
-Feats: Exotic Weapon Proficiency (lightsaber), Force: Sensitive, Gearhead, Skill Emphasis (Pilot), Starship Operation (starfighter), Weapon Focus (lightsaber), Weapon
-
-Group Proficiencies (blaster pistols, primitive weapons, simple weapons).
+Feats: Exotic Weapon Proficiency (lightsaber), Force-Sensitive, Gearhead, Skill Emphasis (Pilot), Starship Operation (starfighter), Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, primitive weapons, simple weapons).
 
 Force Feats: Alter, Control, Lightsaber Defense, Mettle, Sense,
 
-Darth Vader (beginning of Episode IV): Male Human Fringer 1/Jedi Guardian 11/Sith Lord 6; Init +3 (Dex); Defense 26 (+13 class, +3 Dex); DR 6; Spd 10 m; VP/WP 122/17; Atk +22/+17/+12/+7 melee* (`5d8+3`/19~20, lightsaber) or +20/+15/+10/+5 ranged; SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair); deflect (defense +3, attack -1, extend defense and attack); block; resource access; Sith battle prowess; Sith secret; minions; SV Fort +15, Ref +15,
+Darth Vader (beginning of Episode IV): Male Human Fringer 1/Jedi Guardian 11/Sith Lord 6; Init +3 (Dex); Defense 26 (+13 class, +3 Dex); DR 6; Spd 10 m; VP/WP 122/17; Atk +22/+17/+12/+7 melee\* (`5d8+3`/19–20, lightsaber) or +20/+15/+10/+5 ranged; SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair); deflect (defense +3, attack -1, extend defense and attack); block; resource access; Sith battle prowess; Sith secret; minions; SV Fort +15, Ref +15,
 
 Will +10; SZ M; FP 10; DSP 16; Rep +10; Str 16°, Dex 16, Con 17*, Int 14, Wis 12, Cha 13. Challenge Code H.
 
@@ -324,7 +257,7 @@ In addition to these attributes, the life-support system enhances Vader's Streng
 
 Without his helmet and visor, Vader's life support begins to fail, and he loses 1 point of Constitution each round. Without his armor, his Strength and Constitution scores are immediately reduced by 4 points. Within his personal meditation chambers, however, Vader can remove his armor and find comfort within its pressurized, life-supporting shell as though he were still wearing his full suit of armor.
 
-Speak Basic, Speak Huttese, Speak 43, Tumble +1.
+Speak Basic, Speak Huttese, Speak Sith, Tumble +1.
 
 Force Skills: Affect Mind +8, Battlemind +7, Enhance Ability +11, Farseeing +6, Fear +11, Force Defense +12, Force Grip +13, Force Strike +7, Move Object +9, See Force +8, Telepathy +12.
 
@@ -344,13 +277,9 @@ Minions—Darth Vader can add his Sith Lord level to any Reputation checks made 
 
 h, Spot +4, Survival
 
-luke Skywalker
+## Luke Skywalker
 
-Afarm boy on the remote desert world of Tatooine, young luke Skywalker nevertheless dreams of one day attending ihe Imperial Naval Academy and flying starfighters. Aithough he demonstrates a natural aptitude for piloting, he is unable to fulfill his dreams, His aunt and uncle, Beru and Owen Lars, need his help to maintain their moisture farm near the small Tatooine town of Anchorhead. Out of
-
-eS.
-
-respect for the people who raised him, Luke remains on the farm for several years, gradually losing contact with his
+A farm boy on the remote desert world of Tatooine, young Luke Skywalker nevertheless dreams of one day attending the Imperial Naval Academy and flying starfighters. Although he demonstrates a natural aptitude for piloting, he is unable to fulfill his dreams. His aunt and uncle, Beru and Owen Lars, need his help to maintain their moisture farm near the small Tatooine town of Anchorhead. Out of respect for the people who raised him, Luke remains on the farm for several years, gradually losing contact with his
 
 friends who have left the planet, and himself losing hope of ever being anything more than a moisture farmer.
 
@@ -366,13 +295,11 @@ Luke experiences doubt, disappointment, and a gnawing fear triggered by the loss
 
 As the Rebels take bold steps to deal with the Emperor, Luke decides to face his father once more—to turn him from the dark side. After surrendering to the Imperials on the
 
-oe)
-
-“ 7 U ES x
-
 <!-- page 303 -->
 
-“LUKE SKYWALKER forest moon of Endor, Luke is escorted by Darth Vader to the Emperor's throne room on the new Death Star. The Emperor tries to corrupt young Skywalker, but the attempt Luke's defiance of the Emperor, his refusal to apccun) to anger and hate, reaches the spark of Anakin trapped within Vader's armored shell. Minutes before the Rebels destroy the new Death Star, Anakin Skywalker hurls the Emperor to his death and sacrifices himself to save the life of his son. By the end of Episode Vi: Return of the Jedi, Darth Vader and the tyranny of the Empire are no more.
+## LUKE SKYWALKER
+
+forest moon of Endor, Luke is escorted by Darth Vader to the Emperor's throne room on the new Death Star. The Emperor tries to corrupt young Skywalker, but the attempt backfires. Luke's defiance of the Emperor, his refusal to succumb to anger and hate, reaches the spark of Anakin trapped within Vader's armored shell. Minutes before the Rebels destroy the new Death Star, Anakin Skywalker hurls the Emperor to his death and sacrifices himself to save the life of his son. By the end of Episode Vi: Return of the Jedi, Darth Vader and the tyranny of the Empire are no more.
 
 While most heroes would get a well-deserved rest after saving the galaxy, Luke Skywalker’s life since the death of the Emperor has been one of nearly nonstop adventure. With the only Jedi he knew gone and his own knowledge of the Force incomplete, much of Luke's life following the Battle of Endor becomes an unending quest to learn the secrets of the Force. What little time he doesn’t devote to plumbing its mysteries he spends dodging the Imperial remnants, including Grand Admiral Thrawn and the deadly Mara Jade.
 
@@ -382,47 +309,37 @@ The Jedi spread across the stars quickly—and without any organization. Reports
 
 Concern about the New Jedi Order and political tension within the Senate blind the New Republic to a threat approaching from outside the galaxy. As Luke Skywalker ponders the role of his Jedi Order in the galaxy, the alien Yuuzhan Vong gain footholds on the Galactic Rim and begin their systematic conquest of the galaxy.
 
-Luke Skywalker (beginning of Episode IV): Male Human Fringer 2; Init +3 (Dex); Defense 17 (+4 class, +3 Dex); Spd 10 m; VP/WP 13/13; Atk +3 melee (`1d3+2`, unarmed) or +4 ranged (`3d6`/19-20, sporting blaster rifle); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level Ist" prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair), barter; SV Fort +4, Ref +5, Will +1; SZ M; FP 3; DSP 0; Rep +0; Str 15, Dex 16 Con 13, Int 14, Wis 12, Cha 12. Challenge Code B.
+**Luke Skywalker (beginning of Episode IV):** Male Human Fringer 2; Init +3 (Dex); Defense 17 (+4 class, +3 Dex); Spd 10 m; VP/WP 13/13; Atk +3 melee (`1d3+2`, unarmed) or +4 ranged (`3d6`/19–20, sporting blaster rifle); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair), barter; SV Fort +4, Ref +5, Will +1; SZ M; FP 3; DSP 0; Rep +0; Str 15, Dex 16, Con 13, Int 14, Wis 12, Cha 12. Challenge Code B.
 
-Equipment: Sporting blaster rifle, electrobinoculars, utility belt, tool pouch, desert poncho, goggles, X-34 Jandspeeder, T-16 skyhopper.
+Equipment: Sporting blaster rifle, electrobinoculars, utility belt, tool pouch, desert poncho, goggles, X-34 landspeeder, T-16 skyhopper.
 
-Skills: Climb +7, Jump +7, Knowledge (Tatooine) +7, Pilot +11, Profession (moisture farmer) +3, Read/Write Repair +7, Search +6, Speak Basic, Speak Huttese, Speak Jawa Trade Language, Spot +6, Surviva
+Skills: Climb +7, Jump +7, Knowledge (Tatooine) +7, Pilot +11, Profession (moisture farmer) +3, Read/Write Basic, Repair +7, Search +6, Speak Basic, Speak Huttese, Speak Jawa Trade Language, Spot +6, Survival +6.
 
 Force Skills: Enhance Ability +3.
 
-: Foree-Sensitive, Skill Emphasis (Pilot), Weapon Group Proficiencies (blaster pistols, blaster rifles, primitive weapons, simple weapons).
+Feats: Force-Sensitive, Skill Emphasis (Pilot), Weapon Group Proficiencies (blaster pistols, blaster rifles, primitive weapons, simple weapons).
 
-+6.
+**Luke Skywalker (end of Episode VI):** Male Human Fringer 2/Jedi Guardian 7; Init +3 (Dex); Defense 21 (+8 class, +3 Dex); Spd 10 m; VP/WP 74/13; Atk +12/+7 melee\* (`3d8+2`/19–20, lightsaber) or +11/+6 ranged (`3d8` or DC 15 stun, blaster pistol); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair), barter, deflect (defense +1, attack −4, extend defense and attack); SV Fort +9, Ref +10, Will +5; SZ M; FP 4; DSP 3; Rep +5; Str 15, Dex 16, Con 13, Int 14, Wis 13, Cha 12. Challenge Code E.
 
-Luke Skywalker (end of Episode VI): Male Human Fringer 2/Jedi Guardian 7; Init +3 (Dex); Defense 21
+Equipment: Lightsaber\*, blaster pistol, black pants and tunic, utility belt, tool pouch, comlink, prosthetic hand, astromech droid (R2-D2), X-wing starfighter.
 
-(+8 class, +3 Dex); Spd 10 m; VP/WP 74/13; Atk +12/+7 melee* (`3d8+2`/19-20, lightsaber) or +11/+6 ranged (3¢8 or DC 15 stun, blaster pistol); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair), barter, deflect (defense +1, attack -4, extend defense and attack); SV Fort +9, Ref +10, Will +5; SZ M; FP 4; DSP 3; Rep +5; Str 15, Dex 16, Con 13, Int 14,
+\*Luke has constructed his own lightsaber.
 
-Wis 13, Cha 12. Challenge Code E.
-
-Equipment: Lightsaber’, blaster pistol, black pants and tunic, utility belt, tool pouch, comlink, prosthetic hand, astromech droid (R2-`D2`), X-wing starfighter,
-
-“Luke has constructed his own lightsaber.
-
-Skills: Astrogate +5, Climb +7, Computer Use +5, Craft (lightsaber) +5, Intimidate +4, Jump +9, Knowledge Jedi lore) +3, Knowledge (Tatooine) +7, Pilot +13, Profession (moisture farmer) +4, Read/Write Basic, Repair +7, Search +7, Speak Basic, Speak Huttese, Speak Jawa Trade Language, Speak Shyriiwook, Spot +7, Survival +6, Tumble +6,
-
-## Force Skills: Affect Mind +5, Empathy +4, Enhance
+Skills: Astrogate +5, Climb +7, Computer Use +5, Craft (lightsaber) +5, Intimidate +4, Jump +9, Knowledge (Jedi lore) +3, Knowledge (Tatooine) +7, Pilot +13, Profession (moisture farmer) +4, Read/Write Basic, Repair +7, Search +7, Speak Basic, Speak Huttese, Speak Jawa Trade Language, Speak Shyriiwook, Spot +7, Survival +6, Tumble +6.
 
 <!-- page 304 -->
 
-Ability +4, Farseeing +4, Force Defense +4, Move Object +5, See Force +5, Telepathy +4.
+Force Skills: Affect Mind +5, Empathy +4, Enhance Ability +4, Farseeing +4, Force Defense +4, Move Object +5, See Force +5, Telepathy +4.
 
 Feats: Combat Reflexes, Exotic Weapon Proficiency (lightsaber), Fame, Force-Sensitive, Skill Emphasis (Pilot), Starship Operation (starfighter), Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, blaster rifles, primitive weapons, simple weapons).
 
 Force Feats: Alter, Control, Lightsaber Defense, Sense.
 
-Luke Skywalker (beginning of The New Jedi Order novel series): Male Human Fringer 2/Jedi Guardian 13/Jedi Master 4; Init +2 (Dex); Defense 25 (+13 class, +2 Dex); Spd 10 m; VP/WP 116/12; Atk +21/+16/+11/+6 melee* (`5d8+2`/19-20, lightsaber) or +19/+14/+9/+4 ranged (`3d8` or DC 15 stun, blaster pistol); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level Ist” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair); barter; deflect (defense +3, attack -3, extend defense and attack); block; force secrets (Battlemind, Force Defense}; SV Fort +14, Ref +14, Will +11; SZ M; FP 9; DSP 1; Rep +9; Str 14, Dex 15, Con 12, Int 15, Wis 15, Cha 13. Challenge Code H.
+**Luke Skywalker (beginning of The New Jedi Order novel series):** Male Human Fringer 2/Jedi Guardian 13/Jedi Master 4; Init +2 (Dex); Defense 25 (+13 class, +2 Dex); Spd 10 m; VP/WP 116/12; Atk +21/+16/+11/+6 melee\* (`5d8+2`/19–20, lightsaber) or +19/+14/+9/+4 ranged (`3d8` or DC 15 stun, blaster pistol); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair); barter; deflect (defense +3, attack −3, extend defense and attack); block; force secrets (Battlemind, Force Defense); SV Fort +14, Ref +14, Will +11; SZ M; FP 9; DSP 1; Rep +9; Str 14, Dex 15, Con 12, Int 15, Wis 15, Cha 13. Challenge Code H.
 
-Equipment: Lightsaber’, blaster pistol, Jedi robes, XJ-
+Equipment: Lightsaber\*, blaster pistol, Jedi robes, XJ-type X-wing starfighter.
 
-ype X-wing starfighter.
-
-“Luke has constructed his own lightsaber.
+\*Luke has constructed his own lightsaber.
 
 Skills: Astrogate +5, Climb +7, Computer Use +8, Craft lightsaber) +8, Diplomacy +5, Gather Information +4, Intimidate +4, Jump +12, Knowledge (Jedi lore) +4, {nowledge (politics) +6, Knowledge (Tatooine) +8,
 
@@ -436,11 +353,11 @@ Feats: Acrobatic, Combat Reflexes, Exotic Weapon ficiency (lightsaber), Fame, Fo
 
 Force Feats: Alter, Attuned, Control, Force Mastery, ‘night Defense, Lightsaber Defense, Sense.
 
-ia Organa
+## Leia Organa
 
-‘Ata mere 18 years old, Leia Organa, Princess of Alderaan, is the youngest person ever appointed to the Imperial Senate. Separated from her twin brother in infancy and raised by fail Organa, Viceroy and First Chairman of Alderaan, Leia has only vague recollections of her mother and has no idea that her true father will become her enemy.
+At a mere 18 years old, Leia Organa, Princess of Alderaan, is the youngest person ever appointed to the Imperial Senate. Separated from her twin brother in infancy and raised by Bail Organa, Viceroy and First Chairman of Alderaan, Leia has only vague recollections of her mother and has no idea that her true father will become her enemy.
 
-Bail Organa teaches young Leia about justice and honor, and when Bail steps down to attend to duties on Alderaan, ia takes his place and soon finds herself embroiled in a r struggle engendered by the ambitions of the iperor. While Leia speaks out against the Emperor's poli- ‘tes in the Senate, Bail Organa works with Mon Mothma of {handrila and Garm bel Iblis of Corellia to create an organ- ‘ied resistance to the Emperor. The resistance becomes the
+Bail Organa teaches young Leia about justice and honor, and when Bail steps down to attend to duties on Alderaan, Leia takes his place and soon finds herself embroiled in a bitter struggle engendered by the ambitions of the Emperor. While Leia speaks out against the Emperor’s policies in the Senate, Bail Organa works with Mon Mothma of Chandrila and Garm bel Iblis of Corellia to create an organized resistance to the Emperor. The resistance becomes the
 
 Rebel Alliance, aided in secret by the young princess. Although her covert activities on behalf of the Alliance occasionally puts her life at risk, Leia places the Rebellion’s cause above her own welfare. Entrusted with transporting technical readouts of the Emperor's new Death Star battle
 
@@ -458,15 +375,11 @@ Leia gives birth to the Force-strong twins Jaina and Jacen amid galactic turmoil
 
 Dividing her time between political duties and raising her children—as well as periodic galactic crises—Leia becomes Chief of State of the New Republic, replacing the ailing Mon Mothma. She finds little time for her Jedi training, a failure that she eventually reconciles. She accepts her fate as a political creature, and not as a Jedi Knight. Still, born of a family strong in the Force and trained by the most powerful Jedi in the New Republic, Leia occasionally calls upon the Force in her duties as a diplomat and ambassador—as well as when her family or friends are threatened.
 
-oo —] oc
-
-” ia 7 u r D> Ba
-
 <!-- page 305 -->
 
 Tired of politics and oblivious to the imminent threat of the Yuuzhan Vong, Leia steps down as Chief of State, tuming over control of the government to a new body of senators led by the ambitious Bothan, Borsk Fey'lya. She voices concern about the lack of cooperation in the Senate, observing how old tensions—long buried in the struggle against the Empire—have begun to rise. As in the days of the Old Republic, many senators use their positions and authority for self-serving ends. Worse still, the senators who. have the most to gain from their positions deliberately misread Leia’s concern as a bid to regain control of the New Republic, and they bitterly accuse her of manipulating the Senate into approving her brother Luke's plans for establishing a Jedi Council.
 
-Leia Organa (beginning of Episode IV): Female Human Noble 4; Init +1 (Dex); Defense 14 (+3 class, +1 Dex); Spd 10 m; VP/WP 22/13; Atk +3 melee (`1d3`, unarmed) or +5 ranged (`3d4` or DC 12 stun, sporting blaster); SQ Force Point use as though three levels higher; Skywalkers get Force- Sensitive feat free and ignore the “Force Level Ist” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Bluff), favor +2, inspire confidence, resource access, coordinate +1; SV Fort +2, Ref +3, Will +8; SZ M; FP 5; DSP 0; Rep +2; Str 11, Dex 13, Con 13, Int 14, Wis 14, Cha 14. Challenge Code B.
+**Leia Organa (beginning of Episode IV):** Female Human Noble 4; Init +1 (Dex); Defense 14 (+3 class, +1 Dex); Spd 10 m; VP/WP 22/13; Atk +3 melee (`1d3`, unarmed) or +5 ranged (`3d4` or DC 12 stun, sporting blaster); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Bluff), favor +2, inspire confidence, resource access, coordinate +1; SV Fort +2, Ref +3, Will +8; SZ M; FP 5; DSP 0; Rep +2; Str 11, Dex 13, Con 13, Int 14, Wis 14, Cha 14. Challenge Code B.
 
 Equipment: Sporting blaster, consular ship (Tantive IV). Skills: Appraise +4, Bluff +7, Computer Use +7, Diplomacy +9, Gather Information +4, Knowledge (Alderaan) +8,
 
@@ -474,17 +387,17 @@ Knowledge (alien species) +6, Knowledge (politics) +8, Knowledge (bureaucracy) +
 
 Feats: Force-Sensitive, Iron Will, Skill Emphasis (Knowledge [bureaucracy]), Weapon Focus (blaster pistol), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-Leia Organa (end of Episode VI): Female Human Noble 6/Soldier 2; Init +1 (Dex); Defense 16 (+5 class, +1 Dex); Spd 10 m; VP/WP 46/13; Atk +7/+2 melee (`1d3+1`, unarmed) or +7/+2 ranged (346 or DC 15 stun, blaster pistol); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level Ist” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Bluff), favor +4, inspire confidence, resource access, coordinate +1; SV Fort +6, Ref +4, Will +7; SZ M; FP 7; DSP 0; Rep +5; Str 12, Dex 13, Con 13, Int 14, Wis 14, Cha 14. Challenge Code D.
+**Leia Organa (end of Episode VI):** Female Human Noble 6/Soldier 2; Init +1 (Dex); Defense 16 (+5 class, +1 Dex); Spd 10 m; VP/WP 46/13; Atk +7/+2 melee (`1d3+1`, unarmed) or +7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Bluff), favor +4, inspire confidence, resource access, coordinate +1; SV Fort +6, Ref +4, Will +7; SZ M; FP 7; DSP 0; Rep +5; Str 12, Dex 13, Con 13, Int 14, Wis 14, Cha 14. Challenge Code D.
 
 Equipment: Blaster pistol, Rebel outfit.
 
-Skills: Appraise +5, Astrogate +7, Bluff +9, Computer Use +8, Diplomacy +13, Disquise +8, Gather Information +4, Intimidate +6, Knowledge (Alderaan) +8, Knowledge (alien species) +6, Knowledge (politics) +9, Knowledge (bureaucracy) +11, Listen +3, Read/Write Basic, Read/Write Bothan, Read/Write Mon Calamarian, Repair +7, Sense Motive +8, Speak Basic, Speak Bothan, Speak Mon Calamarian, Speak Noghri, Speak Shyriiwook, Treat Injury +7.
+Skills: Appraise +5, Astrogate +7, Bluff +9, Computer Use +8, Diplomacy +13, Disguise +8, Gather Information +4, Intimidate +6, Knowledge (Alderaan) +8, Knowledge (alien species) +6, Knowledge (politics) +9, Knowledge (bureaucracy) +11, Listen +3, Read/Write Basic, Read/Write Bothan, Read/Write Mon Calamarian, Repair +7, Sense Motive +8, Speak Basic, Speak Bothan, Speak Mon Calamarian, Speak Noghri, Speak Shyriiwook, Treat Injury +7.
 
 Feats: Armor Proficiency (light), Force-Sensitive, Influence, Iron Will, Point Blank Shot, Skill Emphasis (Diplomacy,) Skill Emphasis (Knowledge [bureaucracy]),
 
 Weapon Focus (blaster pistol), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-Leia Organa Solo (beginning of The New Jedi Order novel series): Female Human Noble 10/Soldier 2/Jedi Consular 3; Init +1 (Dex); Defense 20 (+9 class, +1 Dex); Spd 10 m; VP/WP 80/12; Atk +11/+6/+1 melee (`2d8`/19-20, ightsaber) or +12/+7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level Ist” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Bluff), favor +5, inspire confidence, resource access, coordinate +2, deflect (defense +1, attack -4); SV Fort +10, Ref +8, Will +13;
+**Leia Organa Solo (beginning of The New Jedi Order novel series):** Female Human Noble 10/Soldier 2/Jedi Consular 3; Init +1 (Dex); Defense 20 (+9 class, +1 Dex); Spd 10 m; VP/WP 80/12; Atk +11/+6/+1 melee (`2d8`/19–20, lightsaber) or +12/+7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Bluff), favor +5, inspire confidence, resource access, coordinate +2, deflect (defense +1, attack −4); SV Fort +10, Ref +8, Will +13;
 
 SZ M; FP 11; DSP 0; Rep +10; Str 11, Dex 12, Con 12,
 
@@ -500,7 +413,9 @@ Feats: Armor Proficiency (light), Fame, Force-Sensitive, Influence, Iron Will, P
 
 Force Feats: Alter, Aware, Control, Sense.
 
-Han Solo If only by virtue of his fast ship and excellent piloting abilities, Han Solo is one of the best smugglers in the galaxy. Born on Corellia and raised by spacefaring vagabonds with a penchant for illicit activities, Han received an education in dirty tricks and hard knocks. He learned to be self-reliant and to think on his feet, and he picked up his own code of honot By the time Han wrangled a commission in the Imperial Naval Academy, he already had a reputation as a scoundrel.
+## Han Solo
+
+If only by virtue of his fast ship and excellent piloting abilities, Han Solo is one of the best smugglers in the galaxy. Born on Corellia and raised by spacefaring vagabonds with a penchant for illicit activities, Han received an education in dirty tricks and hard knocks. He learned to be self-reliant and to think on his feet, and he picked up his own code of honor. By the time Han wrangled a commission in the Imperial Naval Academy, he already had a reputation as a scoundrel.
 
 Fast reflexes and exemplary flying helps Han Solo graduate the Academy with top honors, and he soon finds himself in the Imperial Navy. Unfortunately, his moral code reacts badly when he sees slave-handlers brutalize a Wookiee. Han, intervenes and sets the Wookiee Chewbacca free, but for his trouble he is court-martialed and stripped of his rank and commission. Thrown out of the Navy, Han finds himself alone except for the Wookiee he rescued. Chewbacca, by his own code of honor, believes he owes the Corellian a life debt. Han can’t refuse the massive Wookiee, and the two quickly become best friends.
 
@@ -508,13 +423,13 @@ The Corellian has a talent for getting nearly anything from one place to another
 
 <!-- page 306 -->
 
-can't shake with fancy flying or sharp shooting. Han’s reputation grows, but it isn’t until he wins a battered old YT-1300 transport from Lando Calrissian (a gambler and confidence artist), that Han truly feels in control of his destiny. With Chewie as his first mate, Han flies the Millennium Falcon on countless smuggling runs, always staying one step ahead of the law and the competition. He constantly modifies his new ship with whatever parts he can barter or scrounge. Though it resembles a flying junkyard, the stock light freighter develops into the fastest, bestequipped cargo ship outside of the Imperial Navy. The Falcon carries Han and Chewbacca through a series of adventures, from the Corporate Sector to Imperial space. When Han is forced to dump a load of Jabba the Hutt’s spice to escape an Imperial patrol, the furious Jabba puts a price on the Corellian’s head. Not so much worried about josing his head as his beloved ship, Han stalls Jabba until he can negotiate a new smuggling contract.
+can't shake with fancy flying or sharp shooting. Han’s reputation grows, but it isn’t until he wins a battered old YT-1300 transport from Lando Calrissian (a gambler and confidence artist), that Han truly feels in control of his destiny. With Chewie as his first mate, Han flies the Millennium Falcon on countless smuggling runs, always staying one step ahead of the law and the competition. He constantly modifies his new ship with whatever parts he can barter or scrounge. Though it resembles a flying junkyard, the stock light freighter develops into the fastest, bestequipped cargo ship outside of the Imperial Navy. The Falcon carries Han and Chewbacca through a series of adventures, from the Corporate Sector to Imperial space. When Han is forced to dump a load of Jabba the Hutt’s spice to escape an Imperial patrol, the furious Jabba puts a price on the Corellian’s head. Not so much worried about losing his head as his beloved ship, Han stalls Jabba until he can negotiate a new smuggling contract.
 
-In Episode IV: A New Hope, Han agrees to fly an old man and a naive farm boy to Alderaan for enough credits to more than pay his debt to Jabba. As Han’s passengers board with a pair of droids in tow, Imperial stormtroopers attack. Confused but acting on instinct, Han lifts off and flies the Millennium Falcon out of the system as fast as he can, jeaving Imperial pursuit far behind.
+In Episode IV: A New Hope, Han agrees to fly an old man and a naive farm boy to Alderaan for enough credits to more than pay his debt to Jabba. As Han’s passengers board with a pair of droids in tow, Imperial stormtroopers attack. Confused but acting on instinct, Han lifts off and flies the Millennium Falcon out of the system as fast as he can, leaving Imperial pursuit far behind.
 
-Thrust into the role of the reluctant hero, Han helps the young farm boy, Luke Skywalker, rescue Princess Leia from the Death Star. Han’s loyalty to the Rebel Alliance seems to tnd there. Believing that no one can oppose the Empire, he sees the Rebellion as nothing more than a fool’s crusade. Nevertheless, Han can’t leave his new friends to fight the Empire alone. Something sparks the hero inside him, and ilan’s timely reappearance at the Battle of Yavin damages Darth Vader's TIE fighter and enables Luke Skywalker to fire the shot that destroys the Death Star.
+Thrust into the role of the reluctant hero, Han helps the young farm boy, Luke Skywalker, rescue Princess Leia from the Death Star. Han’s loyalty to the Rebel Alliance seems to end there. Believing that no one can oppose the Empire, he sees the Rebellion as nothing more than a fool’s crusade. Nevertheless, Han can’t leave his new friends to fight the Empire alone. Something sparks the hero inside him, and Han’s timely reappearance at the Battle of Yavin damages Darth Vader's TIE fighter and enables Luke Skywalker to fire the shot that destroys the Death Star.
 
-As the Rebels begin construction of Echo Base on Hoth, Hfan finds himself torn between life as a Rebel and life as a smuggler. When a bounty hunter on Ord Mantel nearly gets the better of him, Han sets out to repay some old debts. Once more, fate intercedes when the Imperials locate Echo Base and Han must stay to assist in the evacuation.
+As the Rebels begin construction of Echo Base on Hoth, Han finds himself torn between life as a Rebel and life as a smuggler. When a bounty hunter on Ord Mantel nearly gets the better of him, Han sets out to repay some old debts. Once more, fate intercedes when the Imperials locate Echo Base and Han must stay to assist in the evacuation.
 
 Han’s philosophy is to never doubt his own abilities, but 10 also respect the abilities of his opponents. Fortunately, he arely encounters an enemy whose abilities exceed his own. One such foe is Boba Fett, a crafty bounty hunter who tracks the Millennium Falcon to the Bespin system and ilerts the Empire. After being captured, interrogated, and teased in carbonite, Han is turned over to the bounty hunter for delivery to Jabba the Hutt.
 
