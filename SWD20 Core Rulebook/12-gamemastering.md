@@ -6,7 +6,7 @@
 
 <!-- page 240 -->
 
-Gamemastering Gamemastering involves writing, planning, acting, refereeing, arbitrating, and facilitating. When you're the Gamemaster, you're the guiding force of the game. If the game is fun, it will be to your credit. If it isn’t, you'll need to make adjustments accordingly. But don't worry— running a Star Wars game is not as hard as it might seem at first.
+Gamemastering involves writing, planning, acting, refereeing, arbitrating, and facilitating. When you're the Gamemaster, you're the guiding force of the game. If the game is fun, it will be to your credit. If it isn’t, you'll need to make adjustments accordingly. But don't worry— running a Star Wars game is not as hard as it might seem at first.
 
 Described below are the different duties of the GM. As with any hobby, focus on what you enjoy the most, but remember that the other duties are also important.
 
@@ -580,164 +580,70 @@ If you design an adventure on your own, your preparation requires more time. Thi
 - Maps of the area (large scale) and of specific smaller
   areas where encounters are likely to occur. These can   be as simple or as detailed as you like
 
-- A key to the map or maps detailing special areas and
-  what might be encountered there, including oppo:
-
-nents, allie:
-
-environmental situations, and possibly
-
-i to
-
-Dd < =< “ Z rs
+- A key to the map or maps detailing special areas and what might be encountered there, including opponents, allies, environmental situations, and possibly even written descriptions of what the heroes see, hear, and smell upon entering.
 
 <!-- page 251 -->
 
-even written descriptions of
+- Character listings that include their statistics and notes on their potential reactions.
+- Bookmarks or notes listing page numbers for rules that might need to be referenced.
+- Notes on the overall story or plot of the adventure if it’s complex.
+- Statistics for any new opponents you’re introducing.
 
-the heroes see, hear,
-
-nce upon ente
-
-- Character listings that include
-
-their statistics and notes on their
-
-potential reac
-- Bookmarks or notes listing page
-  numbers for rules that might   need to be referenced
-- Notes on the overall story or plot
-  of the adventure if it’s complex
-- Statistics for any new opponents
-  you're introducing   This can amount to a lot of work. Not
-
-every adventure is going to require
-
-reams of notes to play. The needs v from adventure to adventure and ev from GM to GM. Not every GM like prepare detailed notes ahead of time
-
-Some have more fun if they just “wing
-
-it.” And sometimes a GM would like to
-
-be better prepar
-
-time, Find the style of Gamema:
-
-that suits you best
+This can amount to a lot of work. Not every adventure is going to require reams of notes to play. The needs vary from adventure to adventure and even from GM to GM. Not every GM likes to prepare detailed notes ahead of time. Some have more fun if they just “wing it.” And sometimes a GM would like to be better prepared ahead of time. Find the style of Gamemastering that suits you best.
 
 ## Knowing the Rules
 
-If you know that the
-
-ship combat
-
-rules will be needed to play out the
-
-battle between the heroes’ starfighters
-
-and TIE fighters, review those rules
-
-Nhen lesser-knc
-
-before playing.
-
-rules come into play in the cou!
-
-an adventure
-
-ws things
-
-you have to read them in the middle of a game. Looking over commonly used rules—such as descriptions of
-
-Force skills or the basic combat rules
-
-before a game session is always z good idea When a player has a rules question you should be the one best able to it. Mastery of the rules is one
-
-the GM is sometimes
-
-called the referee
+If you know that the ship combat rules will be needed to play out the battle between the heroes’ starfighters and TIE fighters, review those rules before playing. When lesser-known rules come into play in the course of an adventure, it slows things down when you have to read them in the middle of a game. Looking over commonly used rules—such as descriptions of Force skills or the basic combat rules—before a game session is always a good idea. When a player has a rules question, you should be the one best able to answer it. Mastery of the rules is one reason the GM is sometimes called the referee.
 
 ## Setting the Stage
 
-It's worth stating again: Once the
-
-game starts, it’s all up to you. The players are likely to take their cues from you on how to act and react. If you handle the game seriously, they're more likely to take it seriously. If you come across with a more relaxed, light
-
-hearted tone, they will crack a
-
-and make side comme
-
-the
-
-ay you want it to be
+It’s worth stating again: Once the game starts, it’s all up to you. The players are likely to take their cues from you on how to act and react. If you handle the game seriously, they’re more likely to take it seriously. If you come across with a more relaxed, lighthearted tone, they will crack a smile and make side comments. Either way, set the tone the way you want it to be.
 
 ## Recapping
 
-Last time, you had just discovered the
+> *"Last time, you had just discovered the Imperial shield generator on the forest moon..."*
 
-the Imperial shield generator on the for
+> **What’s Space Fantasy?**
 
-is <Q WHAT'S SPACE FANTASY?
+> First, you have to realize that Star Wars isn’t hard science fiction. Those who write the movies and novels don't worry too much about scientific accuracy, and neither should you. Anything is possible, as long as it makes for a good story and the special effects look cool.
 
-First, you have to realize that Star Wars isn’t hard science fiction. Those who write the movies and novels don't worry too much about scientific accuracy, and neither should you. Anything is possible, as long as it makes for a good story and the special effects look cool.
+> Star Wars isn’t superscience, either. Characters and story are more important to a Star Wars adventure than the newest gizmo—though cool equipment does have its place. But technology never overshadows the human elements. So although characters might routinely have to buy and repair equipment, they don’t usually have to invent new gadgets to save the day and defeat the enemies of the Republic. Whatever they need probably already exists in the universe.
 
-Star Wars isn’t superscience, either. Characters and story are more important to a Star Wars adventure than the newest gizmo-though cool equipment does have its place. Bul technology never overshadows the human elements. So although characters might routine have to buy and repair equipment, they don't usually have to invent new gadgets to save the day and defeat the enemies of the Republic. Whatever they need probably already exists in the universe.
+> Here are some tips to help you incorporate the key elements of space fantasy into an adventure.
+>
+> **Plenty of Action**
+>
+> In a space fantasy story, there’s a lot of action, including combat, chases, and dramatic conflict. Events happen fast and furiously, and they usually involve a lot more reaction than planning. So the Gamemaster should never let the heroes stand around quietly for too long—that’s not in the spirit of space fantasy.
+>
+> *Opportunities for Combat:* Every adventure should have at least one combat scene, plus the potential for several more. Combat is action, and it’s usually more exciting for characters to blast their way out of trouble than to talk an enemy into surrendering—although the latter can be fun as a change of pace.
+>
+> So be prepared. Every scene you present may erupt into combat, and that’s okay. After all, that’s space fantasy—that’s Star Wars!
+>
+> **Cool Villains**
+>
+> In most cases, the heroes are good guys and the villains are exceptionally evil. But they’re also cool! Nothing makes an adventure more memorable than a nasty, evil, powerful, and ultimately cool villain who threatens the heroes and opposes them at every turn.
+>
+> Of course, not every villain the characters face has to be super-cool. Minor opponents and lackeys of major villains are often weak, cowardly, and even outright stupid. (They may still be dangerous—in large numbers, even weak opponents can seriously threaten a group of heroes.)
+>
+> **Epic Plots**
+>
+> In space fantasy, everything is bigger, better, and larger than life. Overwhelming odds, galaxywide conspiracies, unthinkably large armies, planet-destroying superweapons, masters of ultimate evil—these elements are present on a grand scale in every Star Wars adventure. Heroes rescue planets from total destruction, cross light-years of distance in a heartbeat, and battle weapons the size of small moons as they struggle to save the galaxy.
+>
+> In most cases, space fantasy presents the epic conflict of good versus evil. The good guys clearly have the best interests of the galaxy at heart, while the bad guys simply want to conquer or destroy it. There’s room for the occasional shade of gray, but in general you know that Darth Maul is EVIL, and that Qui-Gon Jinn and Obi-Wan Kenobi are GOOD.
+>
+> So when the heroes encounter a band of pirates, they know they’re facing vile thugs who like to hurt people and accumulate wealth (usually by hurting people). And when they encounter battle droids, they know there’s no use trying to talk sense into them. They’ll have to blast or be blasted!
 
-Here are some tips to help you incorporate the key elements of space fantasy into an adventure.
-
-## Plenty of Action
-
-In a space fantasy story, there’s a lot of action, including combat, chases, and dramatic conflict. Events happen fast and furiously, and they usually involve a lot more reaction than planning. So the Gamemaster should never let the heroes stand around quietly for too long—that’s not in the spirit of space fantasy.
-
-Opportunities for Combat Every adventure should have at least one combat scene, plus the potential for several more. Combat is action, and it’s usually more exciting for characters to blast their way out of trovble than to talk an enemy into surrendering—although the latter can be fun as a change ol pace.
-
-So be prepared. Every scene you present may erupt into combat, and that’s okay. After al that’s space fantasy—that’s Star Wars!
-
-## Cool Villains
-
-In most cases, the heroes are good guys and the villains are exceptionally evil, But they're also cool! Nothing makes an adventure more memorable than a nasty, evil, powerful, and ultimately cool villain who threatens the heroes and opposes them at every turn.
-
-Of course, not every villain the characters face has to be super-cool. Minor opponents and lackeys of major villains are often weak, cowardly, and even outright stupid. (They may still be dangerous—in large numbers, even weak opponents can seriously threaten a group of heroes.)
-
-€pic Plots
-
-In space fantasy, everything is bigger, better, and larger than life. Overwhelming odds, galaxywide conspiracies, unthinkably large armies, planet-destroying superweapons, masters of ultimate evil-these elements are present on a grand scale in every Star Wars adventure. Heroes rescue planets from total destruction, cross light-years of distance in a heartbeat, and battle weapons the size of small moons as they struggle to save the galaxy.
-
-In most cases, space fantasy presents the epic conflict of good versus evil. The good guys clearly have the best interests of the galaxy at heart, while the bad guys simply want to conquer or destroy it. There's room for the occasional shade of gray, but in general you know that Darth Maul is EVIL, and that Qui-Gon Jinn and Obi-Wan Kenobi are GOOD.
-
-So when the heroes encounter a band of pirates, they know theyre facing vile thugs who like to hurt people and accumulate wealth (usually by hurting people). And when they encounter battle droids, they know there's no use trying to talk sense into them. They'll have to blast or be blasted! «
-
-a We ended the session with you on a nearby ridge overlook ae ice. Arani the noble suffered a terrible wour fighting the biker scouts. Vor'en wanted to go straigh
-
-nce and shoot it out, but the rest of you talke
-
-See helping you find a suitable place to watch and
+> *"We ended the session with you on a nearby ridge overlooking the ice. Arani the noble suffered a terrible wound fighting the biker scouts. Vor’en wanted to go straight in and shoot it out, but the rest of you talked about helping you find a suitable place to watch..."*
 
 <!-- page 252 -->
 
-In the middle of an ongoing campaign, recapping activity fiom the previous session at the start of a new session often
-
-ips establish the mood and reminds everyone what was going on. In most games, heroes continue what they're joing from day to day (or even hour to hour), but most play- «(in the real world) have several days of real time between tame sessions. Some players might forget important details that will affect their decisions if they don’t get reminders. Of course, that means that you, as the GM, need to keep jotes of what happens so you don’t forget, either. At the wwy least, jot down a few sentences about what's going on
-
-a the end of each game session. Leave your notes where
-
-you can find them right away at the beginning of the next sesion. You'll probably find that, as the GM, you tend to hink about the game between sessions more than the other slayers do, and thus you'll remember more details. You'll aiickly get to the point where you won't forget what jappened in past sessions, especially if the adventures
-
-yore currently working on build off those events.
+In the middle of an ongoing campaign, recapping activity from the previous session at the start of a new session often helps establish the mood and reminds everyone what was going on. In most games, heroes continue what they’re doing from day to day (or even hour to hour), but most players (in the real world) have several days of real time between game sessions. Some players might forget important details that will affect their decisions if they don’t get reminders. Of course, that means that you, as the GM, need to keep notes of what happens so you don’t forget, either. At the very least, jot down a few sentences about what’s going on at the end of each game session. Leave your notes where you can find them right away at the beginning of the next session. You’ll probably find that, as the GM, you tend to think about the game between sessions more than the other players do, and thus you’ll remember more details. You’ll quickly get to the point where you won’t forget what happened in past sessions, especially if the adventures you’re currently working on build off those events.
 
 ## Describing
 
-irmember that while good description is a must for inform- 1g players, mood is as important as scene. Emotion is as jiportant as sensory data. Tell the players how everything ees. IF they have a question, answer it. If their heroes don’t \now the answer, ask them how they're going to go about nding out
+Remember that while good description is a must for informing players, mood is as important as scene. Emotion is as important as sensory data. Tell the players how everything feels. If they have a question, answer it. If their heroes don’t know the answer, ask them how they’re going to go about finding out.
 
-When only one hero experiences something, take that
-
-yer aside and describe it to her. If she is a scout who was seit ahead, she'll have to come back and report in her own
-
-at she saw. The other players will then have to see
-
-it through her eyes, based on what she chooses to tell them. Of course, it’s okay to describe one hero’s experience, partic-
-
-arly when it centers on minor details that can quickly be relayed to the other heroes in front of the whole group.
+When only one hero experiences something, take that player aside and describe it to her. If she is a scout who was sent ahead, she’ll have to come back and report in her own words what she saw. The other players will then have to see it through her eyes, based on what she chooses to tell them. Of course, it’s okay to describe one hero’s experience, particularly when it centers on minor details that can quickly be relayed to the other heroes in front of the whole group.
 
 Such minor details are not inconsequential enough to ignore or forget. Don't only describe the important things, or the players will quickly catch on. The very act of your describing something can give them clues to its importance. Throw in a few trifling details here and there for flavor, as well as to keep them guessing.
 
@@ -747,27 +653,13 @@ At most, say, “Where do you look?” Prompting can give away too much.
 
 ## Setting the Pace
 
-The pace of the game dete
+The pace of the game determines how much time you spend on a given activity or action taken by the heroes. Different players enjoy different paces. Some search every room they come across, but some think doing that is not worth the game time. Some roleplay every encounter, while some want to skip on to the “good bits.”
 
-ines how much time you spend on a given activity or action taken by the heroes. Different players enjoy different paces. Some search every room they come across, but some think doing that is not worth the
+Do your best to please the group, but when in doubt, keep things moving. Don’t feel that it’s necessary to play out rest periods, replenishing supplies, or carrying out daily tasks. Sometimes that level of detail is an opportunity to develop heroes, but most of the time it’s unimportant.
 
-game time. Some roleplay every encounter, while some want
-
-to skip on to the “good bits
-
-Do your best to please the group, but when in doubt, keep things moving. Don't feel that it’s necessary to play out rest periods, replenishing supplies, or carrying out daily tasks. Sometimes that level of detail is an opportunity to develop heroes, but most of the time it’s unimportant
-
-You should decide ahead of time, if possible, how long the playing session will last. This not only allows everyone to make plans around the game, but also enables you to judge about how much time is left during a session and pace things at
-
-cordingly. You should always end a session at
-
-nN
-
-=< “ rs
+You should decide ahead of time, if possible, how long the playing session will last. This not only allows everyone to make plans around the game, but also enables you to judge about how much time is left during a session and pace things accordingly. You should always end a session at
 
 <!-- page 253 -->
-
-ONISSLSVWAWVSA
 
 a good stopping point (see Ending Things, below). Three to four hours is a good length for an evening game. Some people like to play longer sessions, usually on a weekend. Even if you normally play for shorter periods, sometimes it’s fun to run a longer “marathon” session.
 
@@ -787,7 +679,7 @@ When you finish up a lengthy combat or a tension-filled scene, take a break. Par
 
 ## Providing the Action
 
-‘The players look to the GM for news of what's going on in the universe around their heroes, as well as for answers to what happens when their heroes take actions. You've got to provide all the answers.
+The players look to the GM for news of what’s going on in the universe around their heroes, as well as for answers to what happens when their heroes take actions. You've got to provide all the answers.
 
 ## Handling Hero Actions
 
@@ -832,27 +724,23 @@ Do this on a case-by-case basis, When possible, let players make the rolls thems
 
 <!-- page 254 -->
 
-00s, Defenses, and Saving Throws jon’t tell a player what he needs to roll to succeed. Don't jell him what all the modifiers are to the roll. Instead, tell
+## DCs, Defenses, and Saving Throws
 
-tie players that keeping track of all those things is your job. en, when they roll the dice, tell them whether they
+Don’t tell a player what he needs to roll to succeed. Don’t tell him what all the modifiers are to the roll. Instead, tell the players that keeping track of all those things is your job. Then, when they roll the dice, tell them whether they succeed or fail.
 
-pucceed or fail.
+This is important so that players focus on what their heroes are doing, not on the numbers. It’s also a way to hide the occasional GM cheat (see below).
 
-This is important so that players focus on what their
+## GM Cheating and Player Perceptions
 
-etoes are doing, not on the numbers. It’s also a way to Hide the occasional GM cheat (see below).
+Terrible things can happen in the game because the dice can go awry. Everything might be going fine, when suddenly the players have a run of bad luck. A round later, half the heroes are down for the count and the other half almost certainly can’t take on the opponents that remain. If everyone dies, the campaign might very well end then and there, and that’s bad for everyone. Should you stand by and watch the heroes get slaughtered? Or should you “cheat” and have the opponents run off, or fudge the die rolls so that the heroes still miraculously win in the end? There are really two issues at hand.
 
-$M Cheating and Player Perceptions
+Do you cheat? The answer: GMs really can’t cheat. You’re the umpire, and what you say goes. As such, it’s certainly within your right to sway things one way or another to keep people happy or keep things running smoothly. It’s no fun killing a beloved hero because he fell down a flight of stairs. A good rule of thumb is that a hero shouldn’t die in a minor way by some fluke of the dice unless he or she was doing something really stupid at the time.
 
-Hierible things can happen in the game because the dice t go awry. Everything might be going fine, when puddenly the players have a run of bad luck. A round later, Hilf the heroes are down for the count and the other half Aimost certainly can't take on the opponents that remain. iFeveryone dies, the campaign might very well end then ind there, and that’s bad for everyone. Should you stand ly and watch the heroes get slaughtered? Or should you teat” and have the opponents run off, or fudge the die jals so that the heroes still miraculously win in the end? re are really two issues at hand.
-
-Do you cheat? The answer: GMs really can’t cheat. You're je umpire, and what you say goes. As such, it’s certainly Hithin your right to sway things one way or another to keep ple happy or keep things running smoothly. It’s no fun ling a beloved hero because he fell down a flight of stairs. good rule of thumb is that a hero shouldn't die in a inor way by some fluke of the dice unless he or she was ining something really stupid at the time.
-
-However, you might not feel that it’s right or even fun ‘less you obey the same rules the players do. Sometimes ihieroes get lucky and kill an opponent you had planned have around for a long time. By the same token, someines things go against the heroes and disaster befalls them. ih the GM and players take the bad with the good. That’s perfectly acceptable way to play, and if there's a default thod of running a game, that’s it. Just as important an issue, however, is whether the playealize that you bend the rules. Even if you decide that metimes it’s okay to fudge a little to let the heroes survive the game can continue, don’t let the players in on this sion. It's important to the game that they believe
+However, you might not feel that it’s right or even fun unless you obey the same rules the players do. Sometimes the heroes get lucky and kill an opponent you had planned to have around for a long time. By the same token, sometimes things go against the heroes and disaster befalls them. Both the GM and players take the bad with the good. That’s a perfectly acceptable way to play, and if there’s a default method of running a game, that’s it. Just as important an issue, however, is whether the players realize that you bend the rules. Even if you decide that sometimes it’s okay to fudge a little to let the heroes survive so the game can continue, don’t let the players in on this decision. It’s important to the game that they believe
 
 they're always in danger. Consciously or subconsciously, if they believe you'll never let bad things happen to their heroes, they'll change the way they act. With no element of risk, victory will seem less sweet. And if thereafter something bad does happen to a hero, the player may believe you're out to get him. If he feels you saved other heroes when they were in trouble, he might become disaffected with the game.
 
-When Bad Things Happen to Good Heroes
+### When Bad Things Happen to Good Heroes
 
 Heroes suffer setbacks, lose prized equipment, and sometimes even die. It’s all part of the game, almost as much as success, gaining levels, earning rewards, and attaining greatness. But players don’t always take it well when something bad happens to their heroes.
 
@@ -864,12 +752,7 @@ It’s rare (but possible) that an entire group of heroes can be wiped out. In s
 
 Try not to end a game session in the middle of an encounter. Leaving everything hanging in the midst of combat is a terrible way to end a session. It’s difficult to keep track of things such as initiative order, Force skill durations, and other round-by-round details between sessions. The only exception to this is ending with a cliffhanger. A cliffhanger ending is one in which things end just as something monumental happens or some surprising turn of events occurs. The purpose is to keep players intrigued and excited until the next session. A cliffhanger ends a session tight before an encounter begins, prior to initiative checks,
 
-< < “ 4 Z
-|
-
 <!-- page 255 -->
-
-ANIPSLSVWAWVS
 
 and you pick up the action with initiative checks in the next game session.
 
@@ -879,9 +762,16 @@ Allow some time—a few minutes will do—at the end of the session to have ever
 
 You may want to award experience points at the end of each session, or you might wait until the end of each adventure, That’s up to you. However, the standard approach is to give out experience points at the end of each adventure, so players whose heroes go up a level have time between adventures to choose new skills, feats, and so forth.
 
-Game Session Checklist 1. Set up the play area. Even if the game's not occurring at your house, you should set up things so that you're happy with where you're sitting and where the players are sitting. Give yourself enough room to lay out your notes and books, and so forth. Make sure everyone can hear and see you. 2. Make sure everyone is familiar with his or her hero and the current situation. Get a volunteer to take notes. Describe the initial scene, Ask the players what their heroes do. Run through all the events and encounters of the adventure (or that session’s portion of the adventure), taking a few breaks as needed, 7. Bring things to a good stopping point or a suitable cliffhanger. 8. End the session. 9, Ask the players what they plan to do next time. 10. Award experience points. Alternatively, this can be done at the beginning of the next session, or once every few sessions (see Awarding Experience, page 260).
+### Game Session Checklist
 
-How to Build an Adventure
+1. Set up the play area. Even if the game’s not occurring at your house, you should set up things so that you’re happy with where you’re sitting and where the players are sitting. Give yourself enough room to lay out your notes and books, and so forth. Make sure everyone can hear and see you.
+2. Make sure everyone is familiar with his or her hero and the current situation. Get a volunteer to take notes. Describe the initial scene. Ask the players what their heroes do. Run through all the events and encounters of the adventure (or that session’s portion of the adventure), taking a few breaks as needed.
+7. Bring things to a good stopping point or a suitable cliffhanger.
+8. End the session.
+9. Ask the players what they plan to do next time.
+10. Award experience points. Alternatively, this can be done at the beginning of the next session, or once every few sessions (see Awarding Experience, page 260).
+
+## How to Build an Adventure
 
 An adventure—sometimes called a mission—is a collection of related encounters designed to fit together, creating a cogent storyline for the game. Some adventures are only short episodes in the campaign or interludes between longer adventures. Others represent significant missions, while still others form the backbone of the campaign.
 
@@ -895,35 +785,56 @@ Just as each encounter has a clearly defined goal, so too does every adventure. 
 
 A campaign need not have a clear goal (particularly wher it begins), but it should have a theme or context. When Lil and Ben meet Han and Chewbacca in Mos Eisley, they and their “players,” in this model) had no idea that the ultimate end of their “campaign” would be the overthrow of the Empire and the establishment of the New Republic. Howevtt) the GM of this “campaign” probably had a good idea that these heroes would become involved with the Rebellion, during the campaign, and the Empire would be their primay opposition. (See How to Build a Campaign, page 261.)
 
-Encounter Goals For purposes of the Star Wars Roleplaying Game, an encounter is defined as an obstacle (whether it be an oppo nent, several opponents, or a hazard) that prevents the heroes from achieving a specific goal important to the adventure. An obstacle can be overcome through smart role: playing, combat, or skill use. Persuading an ornery Republic senator to join the Rebellion might require heroes to enter difficult and perhaps life-threatening negotiations, while capturing a crime lord might require heroes to fight their way past a squad of thugs or infiltrate the crime lord’s headquarters without tripping its security sensors. Heroes receive experience points for overcoming obstacls that stand in the way of achieving the goals of the adventure. Heroes do not receive experience points for obstacles outside the bounds of the adventure. A hero who ignores the goals of a mission to pick random fights in a cantina should not receive experience points no matter how many scoundrels and Gamorrean thugs the hero lays low. Encounter goals can be simple, challenging, or extreme. These definitions provide a Gamemaster with important information that he can use to build an adventure. Of course, you don’t have to slavishly follow these as hard ani fast rules; use them as guidelines for how you might struc ture a “typical” adventure.
+### Encounter Goals
+
+For purposes of the Star Wars Roleplaying Game, an encounter is defined as an obstacle (whether it be an opponent, several opponents, or a hazard) that prevents the heroes from achieving a specific goal important to the adventure. An obstacle can be overcome through smart roleplaying, combat, or skill use. Persuading an ornery Republic senator to join the Rebellion might require heroes to enter difficult and perhaps life-threatening negotiations, while capturing a crime lord might require heroes to fight their way past a squad of thugs or infiltrate the crime lord’s headquarters without tripping its security sensors. Heroes receive experience points for overcoming obstacles that stand in the way of achieving the goals of the adventure. Heroes do not receive experience points for obstacles outside the bounds of the adventure. A hero who ignores the goals of a mission to pick random fights in a cantina should not receive experience points no matter how many scoundrels and Gamorrean thugs the hero lays low. Encounter goals can be simple, challenging, or extreme. These definitions provide a Gamemaster with important information that he can use to build an adventure. Of course, you don’t have to slavishly follow these as hard and fast rules; use them as guidelines for how you might structure a “typical” adventure.
 
 <!-- page 256 -->
 
 Table 12-1: Experience Awards by Encounter Goal lists recommended experience awards for simple, challenging,
 
-nd extreme encounter goals, To find the recommended perience award for an encounter goal, cross-reference the Fnerage level of the heroes with the difficulty of the lmcounter goal. Divide the experience award by the number of heroes to determine each hero's experience award.
+and extreme encounter goals. To find the recommended experience award for an encounter goal, cross-reference the average level of the heroes with the difficulty of the encounter goal. Divide the experience award by the number of heroes to determine each hero’s experience award.
 
-For example, four 6th-level heroes who achieve a chalging encounter goal receive a total of 1,800 experience goints (XPs), or 450 XPs per hero. If there are five heroes in he group, each hero would receive 360 XPs.
+For example, four 6th-level heroes who achieve a challenging encounter goal receive a total of 1,800 experience points (XPs), or 450 XPs per hero. If there are five heroes in the group, each hero would receive 360 XPs.
 
-Gauging encounters to the heroes’ power level requires afair amount of GM intuition, which becomes simpler as jjou become more familiar with your players and their Hieroes. After a few adventures, you should have relatively ile difficulty in estimating appropriate encounters for }our adventures. Also, feel free to adjust experience bwards depending on how easily the heroes achieve an counter goal. If unfortunate die rolls turn a challenging meounter into an extreme one, you can increase the inperience point award accordingly to account for the greater risk.
+Gauging encounters to the heroes’ power level requires a fair amount of GM intuition, which becomes simpler as you become more familiar with your players and their heroes. After a few adventures, you should have relatively little difficulty in estimating appropriate encounters for your adventures. Also, feel free to adjust experience awards depending on how easily the heroes achieve an encounter goal. If unfortunate die rolls turn a challenging encounter into an extreme one, you can increase the experience point award accordingly to account for the greater risk.
 
-Encounter goals that hinge on smart roleplaying or skill thecks are usually simple or challenging, unless the conseuences for failure pose extreme risks to the heroes. (See \ncombat Encounters, below, for more information.)
+Encounter goals that hinge on smart roleplaying or skill checks are usually simple or challenging, unless the consequences for failure pose extreme risks to the heroes. (See Noncombat Encounters, below, for more information.)
 
-lable 12-1:
+**Table 12-1: Experience Awards by Encounter Goal**
 
-perience Awards by Encounter Goal ge Encounter Goal Simple Challenging Extreme 100 300 400 200 600 800 300 900 1,200 400 1,200 1,600 500 1,500 2,000 600 1,800 2,400 700 2,100 2,800 800 2,400 3,200 900 2,700 3,600 1,000 3,000 4,000 1,100 3,300 4,400 1,200 3,600 4,800 1,300 3,900 5,200 1,400 4,200 5,600 1,500 4,500 6,000 1,600 4,800 6,400 1,700 5,100 6,800 1,800 5,400 7,200 1,900 5,700 7,600 2,000 6,000 8,000
+| Average Level | Simple | Challenging | Extreme |
+| ------------- | ------ | ----------- | ------- |
+| 1st | 100 | 300 | 400 |
+| 2nd | 200 | 600 | 800 |
+| 3rd | 300 | 900 | 1,200 |
+| 4th | 400 | 1,200 | 1,600 |
+| 5th | 500 | 1,500 | 2,000 |
+| 6th | 600 | 1,800 | 2,400 |
+| 7th | 700 | 2,100 | 2,800 |
+| 8th | 800 | 2,400 | 3,200 |
+| 9th | 900 | 2,700 | 3,600 |
+| 10th | 1,000 | 3,000 | 4,000 |
+| 11th | 1,100 | 3,300 | 4,400 |
+| 12th | 1,200 | 3,600 | 4,800 |
+| 13th | 1,300 | 3,900 | 5,200 |
+| 14th | 1,400 | 4,200 | 5,600 |
+| 15th | 1,500 | 4,500 | 6,000 |
+| 16th | 1,600 | 4,800 | 6,400 |
+| 17th | 1,700 | 5,100 | 6,800 |
+| 18th | 1,800 | 5,400 | 7,200 |
+| 19th | 1,900 | 5,700 | 7,600 |
+| 20th | 2,000 | 6,000 | 8,000 |
 
-ple Encounter Goals
+### Simple Encounter Goals
 
-simple encounter goal poses little risk to the heroes and letes no more than 10% of their total resources—vitality mints, wealth, ammunition, and so forth. The heroes should able to achieve several simple encounter goals before teding to rest and resupply.
+A simple encounter goal poses little risk to the heroes and depletes no more than 10% of their total resources—vitality points, wealth, ammunition, and so forth. The heroes should be able to achieve several simple encounter goals before needing to rest and resupply.
 
-About 25% of all encounter goals in a typical adventure wild be simple. If the heroes have time to rest between mounters, the percentage should drop to 10% or so.
+About 25% of all encounter goals in a typical adventure should be simple. If the heroes have time to rest between encounters, the percentage should drop to 10% or so.
 
-Obstacles appropriate for simple encounter goals include
+Obstacles appropriate for simple encounter goals include the following:
 
-the following:
-
-GA single ordinary GM character two levels lower than the heroes, or a pair of ordinary GM characters four levels lower than the heroes.
+- A single ordinary GM character two levels lower than the heroes, or a pair of ordinary GM characters four levels lower than the heroes.
 
 - One or more creatures or droids of the appropriate
 Challenge Code (see Challenge Codes, below).
@@ -945,7 +856,7 @@ Obstacles suitable for challenging encounter goals include
 
 the following:
 
-GA single heroic GM character of the same level as the heroes, a pair of heroic GM characters two levels lower than the heroes, or four heroic GM characters four levels below the heroes.
+- A single heroic GM character of the same level as the heroes, a pair of heroic GM characters two levels lower than the heroes, or four heroic GM characters four levels below the heroes.
 
 - One or more creatures or droids of the appropriate
 Challenge Code (see Challenge Codes, below).
@@ -966,21 +877,17 @@ Obstacles appropriate for extreme encounter goals include the following:
 - Asingle heroic GM character two levels higher than the
   heroes, a pair of heroic GM characters at the same level   as the the heroes, or a group of four heroic GM characters two levels lower than the heroes.
 
-nN on
-
-ol S Al Z in
-
 <!-- page 257 -->
 
-ANIZPSLSVWAWNVS
+- One or more creatures or droids of the appropriate Challenge Code (see Challenge Codes, below).
 
-One or more creatures or droids of the appropriate Challenge Code (see Challenge Codes, below).
-
-One hazard of the appropriate Challenge Code (see Challenge Codes, below).
+- One hazard of the appropriate Challenge Code (see Challenge Codes, below).
 
 You can turn any challenging encounter into an extreme one by bolstering the number of opponents or adding an obstacle or circumstance that puts the heroes at a significant disadvantage. Examples include arming a squad of stormtroopers with heavy blaster cannons and staging a difficult battle atop a precarious catwalk.
 
-Challenge Codes Challenge Codes help the Gamemaster set appropriate obstacles for simple, challenging, and extreme encounter goals, Challenge Codes also allow the GM to determine how many experience points to award heroes for overcoming such obstacles, Creatures, droids, and hazards are all meas~ ured by Challenge Code:
+### Challenge Codes
+
+Challenge Codes help the Gamemaster set appropriate obstacles for simple, challenging, and extreme encounter goals. Challenge Codes also allow the GM to determine how many experience points to award heroes for overcoming such obstacles. Creatures, droids, and hazards are all measured by Challenge Code:
 
 A Challenge Code is a letter that indicates the relative difficulty of an obstacle. A creature identified as Challenge
 
@@ -998,7 +905,9 @@ You can also use Table 12-2 to determine the experience award for an obstacle of
 
 Example: Brian runs an encounter in which his four 3nllevel heroes are ambushed by a wampa on Hoth. (Surviving the ambush is the goal for the encounter.) A wampa is Challenge Code € and, according to Table 12-2, a challen} ing obstacle for 3rd-level heroes. Consulting Table 12-1, Brian sees that 3rd-level heroes should receive 900 XP for achieving a challenging encounter goal and divides the award evenly among the victorious heroes.
 
-Combining Challenge Codes Combining Challenge Codes requires some GM intuition, but here are some general quidelines:
+### Combining Challenge Codes
+
+Combining Challenge Codes requires some GM intuition, but here are some general guidelines:
 
 **Table 12-2: Challenge Codes for Creatures, Droids, and Hazards**
 
@@ -1014,7 +923,7 @@ Combining Challenge Codes Combining Challenge Codes requires some GM intuition, 
 | H              | n/a                  | 18th–20th                 | 15th–17th             |
 | I              | n/a                  | n/a                       | 18th–20th             |
 
-Sample Creatures, Droids, and Hazards
+### Sample Creatures, Droids, and Hazards
 
 1 mynock, 1 ordinary character, or 1st-level heroic character 1 battle droid
 
@@ -1058,126 +967,27 @@ Sample Creatures, Droids, and Hazards
 
 <!-- page 258 -->
 
-- Doubling the number of obstacles of similar Challenge
-Code o'
+- Doubling the number of obstacles of similar Challenge Codes increases the Challenge Code of the encounter by one letter. Thus, two Challenge Code A obstacles encountered simultaneously are basically the same as a single Challenge Code B encounter.
 
-by one letter. Thus, two Challenge Code A obstacles
+- Combining two obstacles whose Challenge Codes are one letter apart increases the tougher obstacle by one letter; the tougher obstacle’s new Challenge Code determines the Challenge Code for the encounter. For example, combining a Challenge Code C obstacle and Challenge Code D obstacle creates a Challenge Code E encounter.
 
-Codes increases the Challer the encounter
+- When combining two obstacles whose Challenge Codes are more than one letter apart, the tougher obstacle’s Challenge Code determines the Challenge Code for the whole encounter. For example, a Challenge Code A obstacle coupled with a Challenge Code D obstacle is treated as a Challenge Code D encounter. (The lesser obstacle does not contribute significantly to the difficulty of the encounter.)
 
-encountered simultaneously are basically the same as
-
-single Challenge Code B «
-
-Combining two obstacles whose Challenge Codes are
-
-acle by one
-
-one letter apart increases the tougher ot
-
-letter; the tougher obstacle’s new Challenge Code
-
-determines the Challenge Code for the encounter. For example, combining a Challenge Code C obstacle and Challenge Code D obstacle creates a Challenge Code
-
-encounter
-
-@
-
-are more than one letter apart, the tougher obstacle’s
-
-Challenge Code determines the Challenge Code for the whole encounter. For example, a Challenge Code A sbstacle coupled with a Challenge Code D obstacle is treated as a Challenge Code D encounter. (The lesser
-
-obstacle does not contribute significantly to t culty of the encounter.)
-
-8 When combining three or more obstacles with differen Challenge Codes, group the obstacles in pairs from east difficult to most difficult, use the guidelines
-
-above to combine each pair into a single Challenge
-
-Code, and then repeat the pairing process. For exam
-
-ple, three obstacles of Challenge Code B, C, and C
-
-would be paired as follows: B+C and C (unpaired). The
-
-B and C combine to form a single Challenge Cod
-
-encounter, which then combines with the second
-
-Challenge Code C encounter to yield a final encour of Challenge Code E
-
-When combining two obstacles whose Challenge Codes
-
-257
-
-Ss < AI — al Z ol
+- When combining three or more obstacles with different Challenge Codes, group the obstacles in pairs from least difficult to most difficult, use the guidelines above to combine each pair into a single Challenge Code, and then repeat the pairing process. For example, three obstacles of Challenge Code B, C, and C would be paired as follows: B+C and C (unpaired). The B and C combine to form a single Challenge Code D encounter, which then combines with the second Challenge Code C encounter to yield a final encounter of Challenge Code E.
 
 ## Hazards
 
-A hazard might be a ticking t
+A hazard might be a ticking time bomb, a raging snowstorm, or the crushing trash compactor. A hazard deals damage, as noted on Table 12-2: Challenge Codes for Creatures, Droids, and Hazards. Since heroes can navigate some hazards without actually taking damage (for instance, by disarming the time bomb before it explodes), overcoming the challenge of a hazard involves “encountering” the hazard and surviving it, regardless of how much damage is actually dealt.
 
-me bomb, a raging snow
+Two damage listings are noted for each hazard. The first listing is for hazards that deal one-time damage (such as an explosive). The second is for hazards that deal damage over a period of time (such as exposure to extreme cold). Use the second damage listing only if the heroes are potentially exposed to the hazard for at least two of the time intervals listed (otherwise use the code for one-time damage). Hazards that deal less than `1d6` points of damage per minute probably shouldn't be treated as “hazards,” but simply as environmental conditions.
 
-storm, or the cr
+### Noncombat Encounters Requiring Skill Checks
 
-a trast
-
-compactor
-
-t deals, as noted on Table
-
-## Challenge Codes for
-
-Creatures, Droids, and Hazards. Since heroes can navigate
-
-some hazards without actually taking damage (fc
-
-nstance, by disarming the time bomb before it explodes)
-
-overcoming the challenge of a hazard involves “encounter ing” the hazard an viving it, regardless of how much damage is actually dealt
-
-Two damage listings are noted for each hazard. The first
-
-sting is for hazards that deal one-time damage (such as
-
-an explosive). The second is for haza
-
-damage
-
-over a period of time (such as exposure to extreme
-
-potentially exposed to the hazard for at least two of the
-
-time intervals listed (otherwise use t
-
-e code for one-time
-
-). Hazards that deal less than `1d6` points o
-
-damai f
-
-damage per minute probably shouldn't be treated as
-
-hazards,” but simply as environmental conditions.
-
-Noncombat Encounters Requiring Skill Checks Noncombat encounter goals that hinge on skill checks— such as breaking a secret code (Computer Use)
-
-interrogating a prisoner (Intimidate), or fixing a damaged
-
-id (Repair)—can be assigned a Challenge Code based or
-
-the difficulty and the risk entailed
-
-ilure. When achiev-
-
-ng an encounter goal requires one or more skill checks, the
-
-DC of the check(s) can give the GM some guidance, but
+Noncombat encounter goals that hinge on skill checks—such as breaking a secret code (Computer Use), interrogating a prisoner (Intimidate), or fixing a damaged droid (Repair)—can be assigned a Challenge Code based on the difficulty and the risk entailed for failure. When achieving an encounter goal requires one or more skill checks, the DC of the check(s) can give the GM some guidance, but
 
 <!-- page 259 -->
 
-ONIAPSLSVWANVS
-
-even then he must rely on his own best judgment, See Table 12-3: Miscellaneous Encounters for guidelines.
+even then he must rely on his own best judgment. See Table 12-3: Miscellaneous Encounters for guidelines.
 
 Use the “DC (single)” column when only a single skill check is required to resolve the encounter. Consult the “DC (multiple)” column when two or more skill checks (whether by a single hero or more than one hero) are required.
 
@@ -1195,7 +1005,8 @@ Use the “DC (single)” column when only a single skill check is required to r
 | H    | 36          | 33            |
 | I    | 39          | 36            |
 
-challenging encounters showing up occasionally. Only in very rare circumstances should a GM use a noncombat encounter as an extreme encounter, and such encounters should always have high levels of risk for the heroes,
+challenging encounters showing up occasionally. Only in very rare circumstances should a GM use a noncombat encounter as an extreme encounter, and such encounters should always have high levels of risk for the heroes.
+
 ## What Isn't an Encounter?
 
 Not every interaction or activity of the heroes qualifies as an encounter. Attending a treaty negotiation, talking with a trusted contact, or buying a starship—while appropriate and useful activities for the campaign—probably don’t present any real risk to the heroes or achieve a specific adventure goal, and therefore don't qualify as encounters.
@@ -1204,45 +1015,39 @@ On the other hand, any of these examples could become an encounter if the Gamema
 
 ## Building an Adventure
 
-‘The Star Wars Roleplaying Game categorizes adventures as short, medium, or long. This describes the average number of encounters in the adventure and the number of typical 3-4 hour playing sessions required to run the adventure.
+The Star Wars Roleplaying Game categorizes adventures as short, medium, or long. This describes the average number of encounters in the adventure and the number of typical 3-4 hour playing sessions required to run the adventure.
 
-A short adventure usually has a simple, straightforward mission goal, such as traveling from Otoh Gunga to Theed through the planet core of Naboo. A short adventure generally has three to five encounters, each with its own goal: For instance, a trip from Mos Espa to Mos Eisley might require the heroes to steal a landspeeder, evade pursuers, and survive a Tusken Raider attack. One or two of these encounter goals should be simple, with a similar number of challenging encounter goals. No more than one encounter goal in a short
-
-adventure should be extreme, and it’s not necessary to have an extreme encounter at all. A typical short adventure shouldn't allow significant resting periods; if it does, consiit | replacing one of the challenging encounter goals with an extreme one. Short missions are ideal for a single 3-4 hour playing session.
+A short adventure usually has a simple, straightforward mission goal, such as traveling from Otoh Gunga to Theed through the planet core of Naboo. A short adventure generally has three to five encounters, each with its own goal: For instance, a trip from Mos Espa to Mos Eisley might require the heroes to steal a landspeeder, evade pursuers, and survive a Tusken Raider attack. One or two of these encounter goals should be simple, with a similar number of challenging encounter goals. No more than one encounter goal in a short adventure should be extreme, and it’s not necessary to have an extreme encounter at all. A typical short adventure shouldn’t allow significant resting periods; if it does, consider replacing one of the challenging encounter goals with an extreme one. Short missions are ideal for a single 3-4 hour playing session.
 
 Medium-length adventures represent significant missions for the heroes but generally don’t encompass large-scale events. An example of a medium adventure would be the rescue of Han Solo from Jabba the Hutt in Return of the Jedi. Medium adventures typically have six to ten encounter goals. Half of the encounter goals should be challenging, with the remainder distributed evenly between simple and extreme encounter goals. A medium adventure should last two or three playing sessions.
 
-Long adventures usually involve significant, even epic stoylines. The destruction of the second Death Star in Return of the Jedi constitutes a long adventure. Long adventures have twelve to fifteen encounter goals. Sometimes a long adventure might actually be a collection of short adventures or “chapters” that build tension through two or three extreme (climactic) encounters. As with a medium adventure, half of the encounter goals should be challenging. Depending on the heroes’ ability to recuperate between encounters, the remaining encounter goals might be evenly distributed between simple and extreme, or slanted toward one or the other. A long adventure will usually last four or more playing sessions.
+Long adventures usually involve significant, even epic storylines. The destruction of the second Death Star in Return of the Jedi constitutes a long adventure. Long adventures have twelve to fifteen encounter goals. Sometimes a long adventure might actually be a collection of short adventures or “chapters” that build tension through two or three extreme (climactic) encounters. As with a medium adventure, half of the encounter goals should be challenging. Depending on the heroes’ ability to recuperate between encounters, the remaining encounter goals might be evenly distributed between simple and extreme, or slanted toward one or the other. A long adventure will usually last four or more playing sessions.
 
 These are only guidelines, and the adventures of your campaign might not fit neatly into these categories. Still, it's important to have clear starting and ending points within the larger storyline of the campaign, because these provide clear markers for the heroes’ progress and accomplishments.
 
-What Makes an Adventure Exciting? Creating a memorable adventure requires more than just an interesting plot or a grand finish. Remember that in most cases, the heroes won't be able to see the behind-thescenes machinations of the villain or the clever plot twists that occur on the bridge of the Imperial starship. While you ‘want your adventures to feel like they could come froma movie, you can’t always rely on the same techniques that the moviemakers use. Here are a few tricks to help you keep your adventures memorable and exciting.
+### What Makes an Adventure Exciting?
 
-Intriguing Interactions Too often, players (and Gamemasters) see an adventure as little more than a string of firefights separated by “talking” This shortchanges one of the most compelling parts of a roleplaying game: playing a role, In addition to creating interesting characters, the GM must treat these characters as more than just cardboard props to be interacted with and then discarded.
+Creating a memorable adventure requires more than just an interesting plot or a grand finish. Remember that in most cases, the heroes won’t be able to see the behind-the-scenes machinations of the villain or the clever plot twists that occur on the bridge of the Imperial starship. While you want your adventures to feel like they could come from a movie, you can’t always rely on the same techniques that the moviemakers use. Here are a few tricks to help you keep your adventures memorable and exciting.
 
-In general, run a GM character just as a player would rn a hero—take whatever actions the character would take, assuming the action is possible. That's why it’s important to, determine a GM character's general outlook and character tics ahead of time if possible, so you know how to play the character properly.
+**Intriguing Interactions:** Too often, players (and Gamemasters) see an adventure as little more than a string of firefights separated by “talking.” This shortchanges one of the most compelling parts of a roleplaying game: playing a role. In addition to creating interesting characters, the GM must treat these characters as more than just cardboard props to be interacted with and then discarded.
+
+In general, run a GM character just as a player would run a hero—take whatever actions the character would take, assuming the action is possible. That’s why it’s important to determine a GM character’s general outlook and character traits ahead of time if possible, so you know how to play the character properly.
 
 When a GM character interacts with heroes, the GM deter mines the characters’ attitude (hostile, unfriendly, indifferent,
 
 <!-- page 260 -->
 
-friendly, helpful). A hero might try to influence this attitude vith a Diplomacy check (or a Charisma check if the hero oesn't have any ranks of Diplomacy). Refer to the Diplomacy skill description for the skill check DC.
+friendly, helpful). A hero might try to influence this attitude with a Diplomacy check (or a Charisma check if the hero doesn’t have any ranks of Diplomacy). Refer to the Diplomacy skill description for the skill check DC.
 
-The GM should choose the attitude of GM characters based ‘m circumstances. A Wookiee encountering the heroes for the fist time will probably be indifferent or, at worst, unfriendly. However, calling him a “walking carpet” might shift the ‘Wookiee’s demeanor to hostile. It doesn’t take a roll, just the tht words and deeds, to tum someone more hostile. Note ako that a poor roll can make a GM character less favorably inclined toward the hero. In general, a hero cannot repeat attempts to influence someone.
+The GM should choose the attitude of GM characters based on circumstances. A Wookiee encountering the heroes for the first time will probably be indifferent or, at worst, unfriendly. However, calling him a “walking carpet” might shift the Wookiee’s demeanor to hostile. It doesn’t take a roll, just the right words and deeds, to turn someone more hostile. Note also that a poor roll can make a GM character less favorably inclined toward the hero. In general, a hero cannot repeat attempts to influence someone.
 
-AGM character can use Diplomacy to influence another GM character. Heroes, however, can never influence the atti- ‘udes of other heroes—the players always decide those.
+A GM character can use Diplomacy to influence another GM character. Heroes, however, can never influence the attitudes of other heroes—the players always decide those.
 
 ## Worthy Adversaries
 
-White it’s all well and good for the heroes to mow
+While it’s all well and good for the heroes to mow through a few ranks of battle droids or stormtroopers during an adventure, this type of encounter grows tiresome quickly. Be sure to include competent adversaries for the heroes to encounter, whether as common enemies, archvillains, or even occasional foils. The Villains and Opponents section (see page 262) has details on how to run such characters, but you also must make sure that the adversaries stack up well to the heroes.
 
-‘hough a few ranks of battle droids or stormtroopers turing an adventure, this type of encounter grows tiresome quickly. Be sure to include competent adversaries jiir the heroes to encounter, whether as common enemies, ichvillains, or even occasional foils. The Villains and Opponents section (see page 262) has details on how to in such characters, but you also must make sure that the iiversaries stack up well to the heroes.
-
-An easy mistake is making an adversary too powerful, clieving that the heroes will have it “too easy” unless
-
-heir opponent is another Darth Vader. Not every oppo-
-
-int has to be a Dark Lord of the Sith. An intelligently jyed enemy can often seem much more powerful than it appears on paper.
+An easy mistake is making an adversary too powerful, believing that the heroes will have it “too easy” unless their opponent is another Darth Vader. Not every opponent has to be a Dark Lord of the Sith. An intelligently played enemy can often seem much more powerful than it appears on paper.
 
 Inthe same vein, nothing is more disappointing than a iimactic battle with a villain who turns out to have a glass \. If you know that your villain will face the heroes in jmbat, make sure he can stand up to them (or has plenty assistance from underlings).
 
@@ -1330,92 +1135,67 @@ fictional reality of the game and in terms of the game's
 
 mechanics. This means that when a battle droid with a blaster rifle is readying an action to shoot at anyone who comes through a door, the players have a pretty good idea that if they move through that door, they'll get shot (assuming, of course, that their heroes can see what's happening).
 
-This means that you need to think about what various actions look like while they're happening. If you were all
+This means that you need to think about what various actions look like while they're happening.
 
-## Action Description
+> **Stacking Bonuses and Penalties**
+>
+> Stacking means combining for a cumulative effect. It refers to modifiers (bonuses and penalties) that combine instead of replacing one another.
+>
+> Generally, factors that apply modifiers to rolls or checks combine if they have different descriptors. For example, an aptitude bonus will combine with a Force bonus, but two aptitude bonuses will not combine.
+>
+> Modifiers with the same descriptor apply only the best bonus or worst penalty. So, an aptitude bonus of +2 is used instead of an aptitude bonus of +1 when both bonuses are available for the same roll or check.
+>
+> Any bonus or penalty without a descriptor does stack with other bonuses and penalties that have no descriptors.
+>
+> The only descriptor bonuses that stack are circumstance bonuses, dodge bonuses, and synergy bonuses.
+>
+> Descriptor bonuses that don't stack include aptitude, charge, competence, cooperation, cover, equipment, expert, favor, flanking, Force, initiative, morale, reputation, size, and species bonuses.
+>
+> All penalties stack, including circumstance penalties, multiclass penalties, and range penalties.
 
-## STACKING BONUSES, PENALTIES
+**Action Description:** If you were all watching the combat in a movie, what would you see when a hero swings a lightsaber, summons the power of the Force, or does something else that none of you have ever seen a real person do? Be dramatic, and describe the action fully. Avoid explaining too much, however—that slows down the flow of the action. Be consistent as well, because your words are not just description; they're cues that the players will use to make game decisions. If the last time someone used Enhance Ability, you said the character could feel “the Force flowing through him,” use that description (or that same kind of description) again. If that means that pretty soon your players listen to your description and say, “Ooh, the Sith disciple must be using Affect Mind against that Rodian,” you have accomplished something good, not something bad. That indicates that the players have learned your verbal cues to using the Force (just like the average movie audience). Not only does that allow them to make good decisions based on your description, but it also lends an air of consistency and believability to the fictional world you are creating.
 
-Stacking means combining for a cumulative effect. It refers to modifiers (bonuses and penalties) that combine instead of replac ing one another.
-
-Generally, factors that apply modifiers to rolls or checks combine if they have different descriptors. For example, an apt: tude bonus will combine with a Force bonus, but two aptitude bonuses will not combine.
-
-Modifiers with the same descriptor apply only the best bonus or worst penalty. So, an aptitude bonus of +2 is used instead of an aptitude bonus of +1 when both bonuses are available for the same roll or check.
-
-Any bonus or penalty without a descriptor does stack with other bonuses and penalties that have no descriptors.
-
-The only descriptor bonuses that stack are circumstance bonuses, dodge bonuses, and synergy bonuses
-
-Descriptor bonuses that don't stack include aptitude, charge competence, cooperation, cover, equipment, expert, favor, flank ing, Force, initiative, morale, reputation, size, and species bonuses
-
-All penalties stack, including circumstance penalties, multiclass penalties, and range penalties.
-
-watching the combat in a movie, what would you see whieh a hero swings a lightsaber, summons the power of the Force, or does something else that none of you have ever seen a real person do? Be dramatic, and describe the actiot fully. Avoid explaining too much, however—that slows down the flow of the action, Be consistent as well, because your words are not just description; they're cues that the players
-
-will use to make game decisions. If the last time someone
-
-used Enhance Ability, you said the character could feel “the Force flowing through him,” use that description (or that same kind of description) again. If that means that pretty soon your players listen to your description and say, “Ooh, the Sith disciple must be using Affect Mind against that Rodian,” you have accomplished something good, not
-
-something bad. That indicates that the players have |
-
-ann your verbal cues to using the Force (just like the average movie audience). Not only does that allow them to make good decisions based on your description, but it also lends an air of consistency and believability to the fictional world you are creating.
-
-Some actions, along with a sample, short, verbal descrip: tion, are given in the accompanying table.
+Some actions, along with a sample, short, verbal description, are given in the accompanying table.
 
 ## Awarding Experience
 
 Experience points measure a hero’s accomplishments. They allow a hero to gain levels, and therefore become more powerful.
 
-Charging “He lunges forward at full speed, eyes full of hatred.”
-
-Full defense Covering with ranged weapon Using the Force
-
-and inner strength”
-
-“She raises her weapon and watches your attacks closely, attempting to parry each one’ “He's got his blaster trained on that area, and he's obviously waiting for something” “With a furrowed brow, she calls upon some power within herself, using her great will
-
-Delayin; “She's looking around, sizing up the situation, and waiting to react.” ying 8 8 S
+| Action | Sample Description |
+| ------ | ------------------ |
+| Charging | “He lunges forward at full speed, eyes full of hatred.” |
+| Full defense | “She raises her weapon and watches your attacks closely, attempting to parry each one.” |
+| Covering with ranged weapon | “He’s got his blaster trained on that area, and he’s obviously waiting for something.” |
+| Using the Force | “With a furrowed brow, she calls upon some power within herself, using her great will and inner strength.” |
+| Delaying | “She’s looking around, sizing up the situation, and waiting to react.” |
 
 <!-- page 262 -->
 
-The Gamemaster awards each hero experience points (XP) at the conclusion of each adventure. This represents the fact that the heroes have learned from their adventure, and
-|obably) have time to reflect on their experiences and
+The Gamemaster awards each hero experience points (XP) at the conclusion of each adventure. This represents the fact that the heroes have learned from their adventure, and (probably) have time to reflect on their experiences and train in their skills.
 
-‘iain in their skills,
+The amount of XP awarded is based on the number of encounter goals achieved (often determined by the length of the adventure), and the average level of the heroes who participated. Use Table 12-1: Experience Awards by Encounter Goal to determine the amount of XP the heroes receive for each completed goal.
 
-The amount of XP awarded is based on the number of ‘counter goals achieved (often determined by the length of the adventure), and the average level of the heroes who ‘participated. Use Table 12-1: Experience Awards by counter Goal to determine the amount of XP the
+On average, four short adventures, two medium adventures, or a single long adventure should provide sufficient XP to advance a group of four heroes one level.
 
-oes receive for each completed goal.
+### Other Rewards
 
-On average, four short adventures, two medium advenres, or a single long adventure should provide sufficient
+In addition to experience points, there are many other kinds of rewards a GM can include in an adventure.
 
-‘to advance a group of four heroes one level.
+**Money:** Depending on the style of your campaign and the mentality of the heroes, cash rewards might or might not make up a significant part of the game. Mercenary heroes might need extra credits much more than heroes financially supported by the Jedi Council or the Alliance. Even the noblest hero occasionally needs extra credits to replace broken equipment or fix a faulty hyperdrive.
 
-Other Rewards jnaddition to experience points, there are many other kinds frewards a GM can include in an adventure.
+**Equipment:** Depending on the nature of the mission, the heroes might require items that they can keep after the mission is over. For instance, heroes who thwart a band of space pirates might be able to keep the ship they captured during the adventure. The Gamemaster should take care to ensure that this doesn’t get out of hand. After all, Star Wars is about heroism, not looting.
 
-oney depending on the style of your campaign and the mentality ifthe heroes, cash rewards might or might not make up a Significant part of the game. Mercenary heroes might need Aira credits much more than heroes financially supported ty the Jedi Council or the Alliance. Even the noblest hero sionally needs extra credits to replace broken equipnent or fix a faulty hyperdrive.
+**Force Points:** Chapter Nine discusses what kind of acts warrant the reward of Force Points. Keep the following in mind, however. If you want your campaign to have a bit more “wahoo” to it, give out Force Points more freely. If you want only the occasional “wahoo” moment, keep Force Point awards to when a hero attains a new level. (And don’t forget to let your opponents use Force Points from time to time!)
 
-quipment
+**Ranks, Titles, or Honors:** Politicians, military officers, and royalty often acknowledge the services of powerful heroes by granting them ranks, honors, or titles. These awards sometimes come with gifts of money or land, memberships in elite orders, or with medals, signet rings, diadems, and other symbolic items.
 
-Iepending on the nature of the mission, the heroes might quire items that they can keep after the mission is over. for instance, heroes who thwart a band of space pirates ight be able to keep the ship they captured during the venture. The Gamemaster should take care to ensure that his doesn’t get out of hand. After all, Star Wars is about woism, not looting.
+## How to Build a Campaign
 
-arce Points
-
-thapter Nine discusses what kind of acts warrant the reward JiForce Points. Keep the following in mind, however. If you Want your campaign to have a bit more “wahoo” to it, give iit Force Points more freely. If you want only the occa-
-
-onal “wahoo” moment, keep Force Point awards to when a eo attains a new level. (And don’t forget to let your oppoiis use Force Points from time to time!)
-
-ks, Titles, or Honors
-
-iiticians, military officers, and royalty often acknowledge eservices of powerful heroes by granting them ranks,
-
-onors, or titles. These awards sometimes come with gifts of or land, memberships in elite orders, or with medals, net rings, diadems, and other symbolic items.
-
-low to Build a Campaign Ty term “campaign” refers to the ongoing game created by Gamemaster, a linked set of adventures or missions that jow the escapades of a group of heroes. A campaign Hight have a single ongoing storyline—such as the overow of the Empire—or several, shorter plots. The “classic” (A New Hope, The Empire Strikes Back, and Return
+The term “campaign” refers to the ongoing game created by the Gamemaster, a linked set of adventures or missions that follow the escapades of a group of heroes. A campaign might have a single ongoing storyline—such as the overthrow of the Empire—or several, shorter plots. The “classic” trilogy (A New Hope, The Empire Strikes Back, and Return
 
 of the Jedi) is an example of a campaign with a single ongoing storyline. In this “campaign” we follow the adventures of a central group of heroes—a group that changes slightly over time as individual heroes come and go—who generally work together to accomplish their goals.
 
-Building a good Star Wars campaign is more than just stringing together a bunch of adventures, though. The guidelines below should help the you create a rich, immersive campaign that is fun for both the players and the GM.
+Building a good Star Wars campaign is more than just stringing together a bunch of adventures, though. The guidelines below should help you create a rich, immersive campaign that is fun for both the players and the GM.
 
 ## Create a Context
 
@@ -1433,11 +1213,6 @@ Representatives of the New Republic charged with hunting down remnants of the Em
 
 Private traders looking to gain wealth and influence Members of a mercenary team willing to work for the highest bidder
 
-®®@
-
-fo}
-
-@a2Od ®@ @
 
 ## Incorporate Interesting GM Characters
 
@@ -1447,15 +1222,7 @@ Most people go about their own lives, oblivious to the actions of the heroes and
 
 As you run your campaign, you need to portray all sorts of characters. Use the following tips for creating and controlling interesting characters.
 
-nN
-
-in < Ss ia
-|
-Z. ol
-
 <!-- page 263 -->
-
-ANIASLSVWAWNVS
 
 ## Villains and Opponents
 
@@ -1471,9 +1238,7 @@ Evil Is Not All-Pervasive: Not all opponents are evil, Sometimes good-meaning ch
 
 The Prisoner Dilemma: What should the heroes do with enemy prisoners? If an opponent surrenders, the heroes immediately face a quandary. Do they spare the lives of their evil foes or put them to the lightsaber? What's the greater wrong: killing something evil or letting it live to commit more evil acts? In some campaigns or ign world, bounties are paid for living prisoners. The prisoners’ friends can also offer ransoms to get them back alive. These two facts can help players decide what to do with prisoners. You might also give some indication, usually through other allied characters, what the accepted course of action is, at least for the system where the heroes are adventuring, Although you should play GM characters as appropriately as you can, don’t make the players face a prisoner dilemma unless you're sure it’s necessary.
 
-locales in a camp
-
-Villains:
+### Villains
 
 The diabolical Sith Lord, the evil Imperial officer, the corrupt system governor, the infamous bounty hunter, the scheming crime lord—the possibilities for intelligent villains are endless. They make for some of the most memorable and hated foes. A well-played villain can become a recurring character who is a constant thorn in the side of the heroes. You can create a villain whom the players love
 
@@ -1485,9 +1250,9 @@ Use Lackeys: Don’t have the villain confront the heroes herself unless you hav
 
 Be Sneaky and Resourceful: Use all available options to foil the heroes. If it’s possible for a villain in your campaign to have a rogue Jedi on the payroll, don’t over-
 
-look the option. If the villain is a noble, he can call in favor) just as easily as a hero can. The basic idea to keep in mind is that for every ability the heroes might have, a villain can counter it with the right resource or ability
+look the option. If the villain is a noble, he can call in favors just as easily as a hero can. The basic idea to keep in mind is that for every ability the heroes might have, a villain can counter it with the right resource or ability
 
-Have an Escape Plan: Once the heroes have confronted the villain and foiled his plans, it can be hard for him to gt away. Heroes are notorious for dogging the heels of a vilalt who tries to escape. Use misdirection, disguises, secret passages, escape pods, and swarms of underlings to aid in the villain’s escape.
+Have an Escape Plan: Once the heroes have confronted the villain and foiled his plans, it can be hard for him to gt away. Heroes are notorious for dogging the heels of a villain who tries to escape. Use misdirection, disguises, secret passages, escape pods, and swarms of underlings to aid in the villain’s escape.
 
 Take Hostages: Put the heroes in a moral dilemma, Ar they willing to attack the villain if her troops are prepared, on her command, to slay innocent victims they've captured?”
 
@@ -1511,37 +1276,17 @@ These creatures make great foes for heroes, since there are few moral issues bro
 
 ## Build on Campaign Events
 
-Once you've finished setting up the campaign, don’t think your work is done. Without a living, reactive environment, wen the most exciting context will become stale, Use
+Once you’ve finished setting up the campaign, don’t think your work is done. Without a living, reactive environment, even the most exciting context will become stale. Use what’s come before and prepare for what’s still coming. That’s what makes a campaign different from a series of unrelated adventures. Some strategies for maintaining a campaign by building on the past include using recurring characters, having the heroes form relationships beyond the immediate adventure, changing what the heroes know, hitting them where it hurts, preparing the heroes for the future, and foreshadowing coming events.
 
-uhat's come before and prepare for what's still coming, That’s what makes a campaign different from a series of unrelated adventures. Some strategies for maintaining a campaign by building on the past include using recurring tharacters, having the heroes form relationships beyond the jnmediate adventure, changing what the heroes know, fitting them where it hurts, preparing the heroes for the julure, and foreshadowing coming events.
+**Recurring Characters:** While this includes Tarnree, the bartender who’s there each time the heroes visit Mos Eisley, it extends to other characters as well. The mysterious ranger they saw in a back alley of Coruscant reappears on Hoth, revealing his identity and original intentions. The rogue officer responsible for inciting mutiny returns, this time with a pirate crew at his command. The other Jedi the heroes beat out for a prime position as Council Envoy shows up again, after he has turned to the dark side. The scoundrel who helped the heroes free the princess returns just in time for a climactic battle. Overused recurring characters can make things seem artificial, but when you reuse existing characters judiciously, it not only lends realism, but also reminds heroes of their own past, reaffirming their role in the campaign.
 
-Recurring Characters: While this includes Tarnree, the iartender who's there each time the heroes visit Mos Eisley, ‘itextends to other characters as well. The mysterious ranger they saw in a back alley of Coruscant reappears on hoo, revealing his identity and original intentions. The
+**Form Relationships Beyond the Adventure:** The heroes make friends with a local bartender and visit him every time they are in town, just to hear another of his jokes. A hero falls in love with a princess, and eventually, they marry. Old Yaris, a retired soldier, looks upon the heroes as the children he never had. The Gungans of Otoh Gunga deliver a present to the heroes every year on the anniversary of the characters’ sole victory over a battle droid army. These relationships flesh out a campaign.
 
-) ngue officer responsible for inciting mutiny returns, this Jine with a pirate crew at his command. The other Jedi the es beat out for a prime position as Council Envoy
+**Change What the Heroes Know:** The senator of Corulag is replaced by an usurper. The once-dangerous trade routes are safe now, thanks to increased patrols. A powerful group of corsairs defeats most of the pirates in the area. Change any details that you have already established. You establish both what the players know now and what they knew before firmly in their minds. They’ll also be intrigued to know why things changed.
 
-hows up again, after he has turned to the dark side. The ;oundrel who helped the heroes free the princess returns jst in time for a climactic battle. Overused recurring charheiers can make things seem artificial, but when you reuse visting characters judiciously, it not only lends realism, but ko reminds heroes of their own past, reaffirming their
+**Hit Them Where They Hurt:** If a hero makes friends with the bartender at the spaceport, then rule that his son is among those kidnapped when the Imperials attacked. If the heroes really enjoy visiting Mos Espa, put Mos Espa in the path of the worst sandstorm in memory. Don’t overdo this, or the heroes will never grow attached to anything for fear that it will put that thing in danger. This strategy works as a powerful motivator when used in moderation.
 
-ee in the campaign.
-
-Form Relationships Beyond the Adventure: The heroes ake friends with a local bartender and visit him every time iy are in town, just to hear another of his jokes. A hero falls Inlove with a princess, and eventually, they marry. Old Yaris, aretired soldier, looks upon the heroes as the children he
-
-r had. The Gungans of Otoh Gunga deliver a present to ihe heroes every year on the anniversary of the characters’ oie victory over a battle droid army. These relationships
-
-ish out a campaign.
-
-Change What the Heroes Know: The senator of Corulag ‘replaced by an usurper, The once-dangerous trade routes safe now, thanks to increased patrols. A powerful group corsairs defeats most of the pirates in the area. Change a details that you have already established. You establish jah what the players know now and what they knew before firmly in their minds. They'll also be intrigued to know y things changed.
-
-Hit Them Where They Hurt: If a hero makes friends
-
-ith the bartender at the spaceport, then rule that his son ssamong those kidnapped when the Imperials attacked. If Hic heroes really enjoy visiting Mos Espa, put Mos Espa in path of the worst sandstorm in memory. Don’t overdo
-
-is, or the heroes will never grow attached to anything for “it that it will put that thing in danger. This strategy works 4 powerful motivator when used in moderation.
-
-Prepare the Heroes for the Future: If you know that arin the campaign you want to have an order of Dark Jedi up from secrecy and begin hunting Jedi, foreshadow that beforehand. Have the heroes hear rumors about Dark
-
-tii, or even see evidence of them on an unrelated adventure y before they hunt down and destroy Jedi. It will make later adventure much more meaningful. Threading informon into previous adventures while hinting at future
-
-ants helps weave a campaign into a whole.
+**Prepare the Heroes for the Future:** If you know that later in the campaign you want to have an order of Dark Jedi rise up from secrecy and begin hunting Jedi, foreshadow that beforehand. Have the heroes hear rumors about Dark Jedi, or even see evidence of them on an unrelated adventure early before they hunt down and destroy Jedi. It will make the later adventure much more meaningful. Threading information into previous adventures while hinting at future events helps weave a campaign into a whole.
 
 Foreshadow Coming Events: If the Noghri that the heroes befriend speak about a Dark Jedi, and the heroes hear from Jedi prophecy the occasional tale of a “rise of darkness,” they will be better prepared to stop Dark Jedi in a future adventure. They might even follow up on the leads. you plant before you ever initiate the adventure.
 
@@ -1562,10 +1307,6 @@ Prestige classes are purely optional, and always under the purview of the GM. Ev
 Prestige classes are like regular classes, except that they have requirements that must be met before one can attain the class. There’s one additional change: Normally, when a character multiclasses, he adds his Defense bonuses from all his classes together, then subtracts 2 for each additional class after the first. A character adding a prestige class does: not subtract 2 from his prestige class Defense bonus. Instead, he gets the full bonus to Defense.
 
 Requirements vary, but there are some general rules. Most characters should have a chance of working toward qualifying. Class and level, for example, are rarely used as a requirement. A prestige class based around being the “Emperor's personal guard,” for example, wouldn't require a prospective character to be a soldier of a given level, even though that would be most appropriate. Instead, it might require a base attack bonus of +8. Thus, soldiers or Jedi guardians at 8th level could take up the prestige class, but other classes would qualify at 11th level. This requirement,
-
-nN on
-
-< Ss vA] ay Z 0]
 
 <!-- page 265 -->
 
@@ -1634,71 +1375,54 @@ Skills: Gather Information 5 ranks, Intimidate 5 ranks, Move Silently 5 ranks.
 
 Fi Track.
 
-Game Rule Information Vitality: Bounty hunters gain 110 vitality points per level. The character's Constitution modifier applies.
+**Game Rule Information:** Vitality: Bounty hunters gain `1d10` vitality points per level. The character's Constitution modifier applies.
 
 ## Class Skills
 
-The bounty hunter's class skills, and the key ability for ead
+The bounty hunter's class skills, and the key ability for each skill, are as follows (see Chapter Four for skill descriptions): Bluff (Cha), Climb (Str), Computer Use (Int), Craft* (Int), Demolitions (Int), Disguise (Cha), Forgery (Int), Gather Information (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge® (Int), Listen (Wis), Move Silently (Dex), Profession® (Wis), Search (Int), Sense Motive (Wis), Spot (Wis), and Survival (Wis).
 
-skill, are as follows (see Chapter Four for skill descriptions) Bluff (Cha), Climb (Str), Computer Use (Int), Craft* (Int),
-
-## Demolitions (Int), Disguise (Cha), Forgery (Int), Gather
-
-## Defense Reputation
-
-Special Bonus Bonus Target bonus +1 +1 +1 Sneak attack +`1d6` +2 +2 Target bonus +2 +2 +2 Sneak attack +`2d6` +2 +3 | Target bonus +3 +3 +4 Sneak attack +346 43 “4 Target bonus +4 +4 +5 | Sneak attack +446 +4 +6 Target bonus +5 +4 +6 Sneak attack +`5d6` +5 +7
-
-<!-- page 266 -->
-
-formation (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), _reach it. The bounty hunter cannot sneak attack while strik~ nowledge® (Int), Listen (Wis), Move Silently (Dex), ing a creature with concealment (see Concealment in Hrofession” (Wis), Search (Int), Sense Motive (Wis), Spot Chapter Eight) or striking the limbs of a creature whose Wis}, and Survival (Wis). vitals are beyond reach.
-
-skill actually encompasses a number of unrelated skills, Each time this lis learned, a specific category must also be chosen. Examples include Craft tots), Knowledge (galactic politics), and Profession (droid programmer).
+*This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (tools), Knowledge (galactic politics), and Profession (droid programmer).*
 
 Skill Points at Each Level: 6 + Int modifier.
 
-— 65
-|
-< < “
+**Table 12-4: The Bounty Hunter**
 
-¢ bounty hunter gains the following feats: Weapon Group Proficiency (blaster pistols) Weapon Group Proficiency (blaster rifles)
+| Level | Special | Defense Bonus | Reputation Bonus |
+| ----- | ------- | ------------- | ---------------- |
+| 1st | Target bonus +1 | +1 | +1 |
+| 2nd | Sneak attack +`1d6` | +2 | +2 |
+| 3rd | Target bonus +2 | +2 | +2 |
+| 4th | Sneak attack +`2d6` | +2 | +3 |
+| 5th | Target bonus +3 | +3 | +4 |
+| 6th | Sneak attack +`3d6` | +3 | +4 |
+| 7th | Target bonus +4 | +4 | +5 |
+| 8th | Sneak attack +`4d6` | +4 | +6 |
+| 9th | Target bonus +5 | +4 | +6 |
+| 10th | Sneak attack +`5d6` | +5 | +7 |
+
+<!-- page 266 -->
+
+**Class Features:** The following are features of the bounty hunter prestige class.
+
+**Starting Feats:** The bounty hunter gains the following feats: Weapon Group Proficiency (blaster pistols), Weapon Group Proficiency (blaster rifles).
 
 ## Target Bonus
 
-Due to extensive study, the bounty hunter gains a +1
-| competence bonus on attack rolls against a chosen victim,
-isually a contracted target. The hero gets the same bonus on Bluff, Listen, Search, Sense Motive, and Spot checks
+Due to extensive study, the bounty hunter gains a +1 competence bonus on attack rolls against a chosen victim, usually a contracted target. The hero gets the same bonus on Bluff, Listen, Search, Sense Motive, and Spot checks when using these skills against or when tracking this specific target. The competence bonus increases by 1 at every odd-numbered level (3rd, 5th, 7th, and 9th).
 
-Fihen using these skills against or when tracking this specific ‘get. The competence bonus increases by 1 at every oddbered level (3rd, 5th, 7th, and 9th).
-
-The target bonus normally applies only to a single indidual. The player of the bounty hunter hero must
-
-mounce the target before the game session begins. Generally, this target should be someone the bounty hunter fas taken a contract to track down.) Alternatively, the ‘ounty hunter can select a small group as his target (a jumber of individuals equal to or less than his
-
-(nel), or a large group or a species (such as the
-
-bel Alliance or Wookiees). In such cases, the
-
-wonus is one-half or one-third normal, respec-
-
-ively (round fractions down). Whatever the
-
-thoice, it must be cleared by the Gamemaster.
+The target bonus normally applies only to a single individual. The player of the bounty hunter hero must announce the target before the game session begins. (Generally, this target should be someone the bounty hunter has taken a contract to track down.) Alternatively, the bounty hunter can select a small group as his target (a number of individuals equal to or less than his level), or a large group or a species (such as the Rebel Alliance or Wookiees). In such cases, the bonus is one-half or one-third normal, respectively (round fractions down). Whatever the choice, it must be cleared by the Gamemaster.
 
 ## Sneak Attack
 
-inning at 2nd level, if a bounty hunter faces an wponent who is unable to defend himself effectively. tom her attack, he can strike a vital spot for extra damage. Hfssically, any time the bounty hunter's target would be ienied his Dexterity bonus to Defense (whether he actually us a Dexterity bonus or not), or when the bounty hunter fanks the target, the bounty hunter's attack deals extra Jamage. The extra damage is +16 at 2nd level and an alditional `1d6` every two levels thereafter (4th, 6th, 8th, and jth). See Table 8-7: Attack Roll Modifiers for combat situations in which the bounty hunter flanks an opponent or
+Beginning at 2nd level, if a bounty hunter faces an opponent who is unable to defend himself effectively from her attack, he can strike a vital spot for extra damage. Basically, any time the bounty hunter’s target would be denied his Dexterity bonus to Defense (whether he actually has a Dexterity bonus or not), or when the bounty hunter flanks the target, the bounty hunter’s attack deals extra damage. The extra damage is +`1d6` at 2nd level and an additional `1d6` every two levels thereafter (4th, 6th, 8th, and 10th). See Table 8-7: Attack Roll Modifiers for combat situations in which the bounty hunter flanks an opponent or the opponent loses his Dexterity bonus to Defense.
 
-ie opponent loses his Dexterity bonus to Defense.
+Ranged attacks can only count as sneak attacks if the target is within 10 meters; the bounty hunter can’t strike with deadly accuracy beyond that range.
 
-Ranged attacks can only count as sneak attacks if the tnget is within 10 meters; the bounty hunter can't strike with deadly accuracy beyond that range.
+A bounty hunter can only sneak attack creatures with discernible anatomies. (For example, a sarlacc lacks vital areas to attack.) Additionally, any creature that is immune to critical hits is also invulnerable to sneak attacks.
 
-Abounty hunter can only sneak attack creatures with discernible anatomies. (For example, a sarlace lacks vital sas to attack.) Additionally, any creature that is immune SOUNTe HUNTER peritical hits is also invulnerable to sneak attacks.
-
-Also, the bounty hunter must be able to see the target yell enough to pick out a vital spot, and must be able to
+Also, the bounty hunter must be able to see the target well enough to pick out a vital spot, and must be able to reach it. The bounty hunter cannot sneak attack while striking a creature with concealment (see Concealment in Chapter Eight) or striking the limbs of a creature whose vitals are beyond reach.
 
 <!-- page 267 -->
-
-ANIAPSLSVWAWNVS
 
 ## Crime Lord
 
@@ -1716,26 +1440,26 @@ Reputation Bonus: +2.
 
 Feat: Infamy.
 
-Game Rule Information Vitality: Crime lords gain `1d6` vitality points per level. The character's Constitution modifier applies.
+**Game Rule Information:** Vitality: Crime lords gain `1d6` vitality points per level. The character's Constitution modifier applies.
 
-Class Skills The crime lord's class skills (and the key ability for each skill) are as follows (see Chapter Four for skill descriptions): Appraise (Int), Bluff (Cha), Computer Use (Int), Craft* (Int), Diplomacy (Cha), Forgery (Int), Gamble (Wis), Gather Information (Cha), Intimidate (Cha), Knowledge® (Int), Profession® (Wis), Read/Write Language (none), Sense Motive (Wis), and Speak Language (none).
+**Class Skills:** The crime lord's class skills (and the key ability for each skill) are as follows (see Chapter Four for skill descriptions): Appraise (Int), Bluff (Cha), Computer Use (Int), Craft* (Int), Diplomacy (Cha), Forgery (Int), Gamble (Wis), Gather Information (Cha), Intimidate (Cha), Knowledge® (Int), Profession® (Wis), Read/Write Language (none), Sense Motive (Wis), and Speak Language (none).
 
 “This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen, Examples include Craft
 
 **Table 12-5: The Crime Lord**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save |
-| --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +1 | +2 |
-| 2nd | +1 | +0 | +2 | +3 |
-| 3rd | +1 | +1 | +2 | +3 |
-| 4th | +2 | +1 | +2 | +4 |
-| 5th | +2 | +1 | +3 | +4 |
-| 6th | +3 | +2 | +3 | +5 |
-| 7th | +3 | +2 | +4 | +5 |
-| 8th | +4 | +2 | +4 | +6 |
-| 9th | +4 | +3 | +4 | +6 |
-| 10th | +5 | +3 | +5 | +7 |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | +0 | +0 | +1 | +2 | Contact | +1 | +1 |
+| 2nd | +1 | +0 | +2 | +3 | Resource access | +2 | +2 |
+| 3rd | +1 | +1 | +2 | +3 | Inspire fear −2 | +2 | +2 |
+| 4th | +2 | +1 | +2 | +4 | Contact | +2 | +3 |
+| 5th | +2 | +1 | +3 | +4 | Minions | +3 | +4 |
+| 6th | +3 | +2 | +3 | +5 | Inspire fear −4 | +3 | +4 |
+| 7th | +3 | +2 | +4 | +5 | Contact | +4 | +5 |
+| 8th | +4 | +2 | +4 | +6 | Exceptional minions | +4 | +6 |
+| 9th | +4 | +3 | +4 | +6 | Inspire fear −6 | +4 | +6 |
+| 10th | +5 | +3 | +5 | +7 | Contact | +5 | +7 |
 
 (droids), Knowledge (galactic politics), and Profession (lawyer) Skill Points at Each Level: 6 + Int modifier.
 
@@ -1751,11 +1475,9 @@ Resource Access Beginning at 2nd level, the crime lord has access to a wide arra
 
 Inspire Fear Beginning at 3rd level, the crime lord's infamy and reputation reach such a point that anyone of the same character level of lower has trouble taking direct actions against the crime lord
 
-Defense Reputation Special Bonus Bonus Contact +1 +1 Resource access 42 +2 Inspire fear -2 +2 +2 Contact +2 +3 Minions +3 +4 Inspire fear —4 +3 +4 Contact +4 +5 Exceptional minions +4 +6 Inspire fear -6 +4 +6 Contact +5 +7
-
 <!-- page 268 -->
 
-This results in a penalty to any actions made to directly affect the crime lord, including attacks, skill checks in opposition to the crime lord, and Force-based skill uses. This penalty is -2 at 3rd level, ~4 at 6th level, and -6 at 9th level.
+This results in a penalty to any actions made to directly affect the crime lord, including attacks, skill checks in opposition to the crime lord, and Force-based skill uses. This penalty is -2 at 3rd level, -4 at 6th level, and -6 at 9th level.
 
 ## Minions
 
@@ -1763,9 +1485,7 @@ Beginning at 5th level, a crime lord can add his crime lord
 
 level to any Reputation checks made to attract followers Followers in Chapter Six).
 
-Exceptional Minions ieginning at 8th level, the maximum total levels of the rime lord's minions is twice his Reputation bonus.
-
-oRIME LORD
+**Exceptional Minions:** Beginning at 8th level, the maximum total levels of the crime lord's minions is twice his Reputation bonus.
 
 ## Dark Side Devotee
 
@@ -1789,15 +1509,9 @@ Feats: Force-Sensitive.
 
 Dark Side Points: 3.
 
-Game Rule Information Vitality: Dark side devotees gain `1d8` vitality points per level. The character's Constitution modifier applies.
-
-nN
-
-O) < < ” 4 zZ 3]
+**Game Rule Information:** Vitality: Dark side devotees gain `1d8` vitality points per level. The character's Constitution modifier applies.
 
 <!-- page 269 -->
-
-ONIHPSLSVWAWVS
 
 ## Class Skills
 
@@ -1809,27 +1523,19 @@ Craft" (Int), Empathy (Wis), Handle Animal (Cha), Hide (Dex), Knowledge* (Int), 
 
 Skill Points at Each Level: 6 + Int modifier.
 
-Class Features The following are features of the dark side devotee prestige class,
+**Class Features:** The following are features of the dark side devotee prestige class.
 
-Starting Feat The dark side devotee gains the following feat: Weapon Group Proficiency (blaster pistols)
+**Starting Feat:** The dark side devotee gains the following feat: Weapon Group Proficiency (blaster pistols)
 
-Force Training The dark side devotee gains a bonus Force feat at Ist, 3rd, and 5th level. This bonus Force feat is selected from the following list:
+**Force Training:** The dark side devotee gains a bonus Force feat at 1st, 3rd, and 5th level. This bonus Force feat is selected from the following list:
 
 Alter, Control, Sense.
 
 Once one of these Force feats is selected, its associated Force skills become class skills for the character.
 
-Dark Side Skill Emphasis AL Ist level and every three levels thereafter (4th, 7th, and 10th), the dark side devotee gains the bonus feat Skill Emphasis. This feat must be applied to a dark side Force skill. The char-
+**Dark Side Skill Emphasis:** At 1st level and every three levels thereafter (4th, 7th, and 10th), the dark side devotee gains the bonus feat Skill Emphasis. This feat must be applied to a dark side Force skill. The character cannot select the same skill twice.
 
-acter cannot select the same skill twic
-
-Dark Side Talisman At 2nd level, a dark side devotee
-
-ins the ability to
-
-imbue a small item of personal significance with the dark side of the Force. It takes a full day to imbue the item DARK SIDE well as the expenditure of 1 Force Point. Once imbued, DEVOTEE
-
-the item becomes a dark side talisman, providing the dark side devotee with a +2 Force bonus on saving throws made to defend against non-dark side Force skills or Force feats. At 8th level, the same process
+**Dark Side Talisman:** At 2nd level, a dark side devotee gains the ability to imbue a small item of personal significance with the dark side of the Force. It takes a full day to imbue the item, as well as the expenditure of 1 Force Point. Once imbued, the item becomes a dark side talisman, providing the dark side devotee with a +2 Force bonus on saving throws made to defend against non-dark side Force skills or Force feats. At 8th level, the same process
 
 **Table 12-6: The Dark Side Devotee**
 
@@ -1850,23 +1556,17 @@ the item becomes a dark side talisman, providing the dark side devotee with a +2
 
 can increase the power of the dark side talisman; it then provides a +4 Force bonus.
 
-force Weapon
+**Force Weapon:** At 6th level, the dark side devotee can imbue a nonpowered melee weapon (such as a club, knife, or quarterstaff) with the Force. This must be a weapon that the dark side devotee wields personally. Imbuing the weapon with the Force takes a full-round action and costs 4 vitality points. The benefit the weapon gains lasts for a number of rounds equal to the character’s dark side devotee level.
 
-At 6th level, the dark side devotee can imbue a nonpowered melee weapon (such as a club, knife, or quarterstaff) with the Force. This must be a weapon that the dark side devotee wields personally. Imbuing the weapon with the Force takes afull-round action and costs 4 vitality points. The benefit the weapon gains lasts for a number of rounds equal to the tharacter’s dark side devotee level.
-
-At 6th level, the weapon’s damage increases by `1d8`. (So, for instance, a Force-imbued quarterstaff deals `1d6` + `1d8` amage.) At 9th level, the weapon's additional damage increases to `2d8`.
+At 6th level, the weapon’s damage increases by `1d8`. (So, for instance, a Force-imbued quarterstaff deals `1d6` + `1d8` damage.) At 9th level, the weapon’s additional damage increases to `2d8`.
 
 ## Dark Side Marauder
 
-Warriors who discover in themselves an ability to wield the force can become dark side marauders. Like Jedi guardians, dark side marauders combine physical prowess with training in the Force. Unlike Jedi, they bend it to their own violent purposes. Without the mental discliplines and strict code of conduct the Jedi Order provides, these warriors become brutal, living weapons, delighting in inflicting pain and taking lives. The dark side marauder becomes an extension ofthe dark side of the Force in the same way as her weapons are an extension of her body. She lives in a world where her destiny is entirely dependent on her mastery of jer weapons and her strength in the Force. The dark side makes her survival far more likely.
+Warriors who discover in themselves an ability to wield the Force can become dark side marauders. Like Jedi guardians, dark side marauders combine physical prowess with training in the Force. Unlike Jedi, they bend it to their own violent purposes. Without the mental disciplines and strict code of conduct the Jedi Order provides, these warriors become brutal, living weapons, delighting in inflicting pain and taking lives. The dark side marauder becomes an extension of the dark side of the Force in the same way as her weapons are an extension of her body. She lives in a world where her destiny is entirely dependent on her mastery of her weapons and her strength in the Force. The dark side makes her survival far more likely.
 
-Dark side marauders are the ultimate mercenaries. Adventure, pillage, slaughter, and violence define them. They often live for the joy of battle, the test of arms, and the tempering that only bloody conflict can provide—but they are hardly above taking pleasure in the spoils of Yictory. While the adrenaline rush of combat is a heady drug ip them, the thrill of the dark side flowing through their ‘tins is far more intoxicating. To feel that thrill again and again, the dark side marauder seeks out any activity that iets her wield the Force against an opponent. Many iarauders can be found acting as bodyguards, gladiators, /mob enforcers, mercenaries, street thugs, professional soldiers, or simply adventurers.
+Dark side marauders are the ultimate mercenaries. Adventure, pillage, slaughter, and violence define them. They often live for the joy of battle, the test of arms, and the tempering that only bloody conflict can provide—but they are hardly above taking pleasure in the spoils of victory. While the adrenaline rush of combat is a heady drug to them, the thrill of the dark side flowing through their veins is far more intoxicating. To feel that thrill again and again, the dark side marauder seeks out any activity that lets her wield the Force against an opponent. Many marauders can be found acting as bodyguards, gladiators, mob enforcers, mercenaries, street thugs, professional soldiers, or simply adventurers.
 
-Dark side marauders combine the best aspects of the “sldier and the Jedi guardian, mixing a well-rounded complejnent of fighting tools with the ability to wield the Force. The
-
-69 S < 4 zZ. in
-
-DARK SIDE MARAUDER
+Dark side marauders combine the best aspects of the soldier and the Jedi guardian, mixing a well-rounded complement of fighting tools with the ability to wield the Force. The
 
 **Table 12-7: The Dark Side Marauder**
 
@@ -1884,8 +1584,6 @@ DARK SIDE MARAUDER
 | 10th | +10 | +7 | +7 | +3 | Bonus feat | +5 | +4 |
 <!-- page 271 -->
 
-ONIASLSVWAWVA
-
 weapons they choose are many and varied. Without a regular tradition, their techniques are just as diverse. As dark side marauders gain experience, they find that the dark side of the Force offers them far more in the way of destructive potential than any conventional weapon ever could.
 
 When violence touches the life of someone strong in the Force, it can change her forever, especially if she lacks a Jedi mentor to guide her development. If her life is violence— such as is the case with warriors—it is almost a foregone conclusion that she will succumb to the dark side. A dark side marauder might have turned to the dark side to overcome the horrors of war or the brutality of crime. She might have been trained as a living weapon by a twisted taskmaster, or initiated into an exclusive company of Force-strong soldiers-of-fortune. Few have formal training in the Force, however; they learn by doing.
@@ -1900,7 +1598,7 @@ Feats: Force-Sensitive, Power Attack.
 
 Dark Side Points: 4.
 
-Game Rule Information Vitality: Dark side marauders gain `1d10` vitality points per level. The character's Constitution modifier applies.
+**Game Rule Information:** Vitality: Dark side marauders gain `1d10` vitality points per level. The character's Constitution modifier applies.
 
 ## Class Skills
 
@@ -1914,11 +1612,9 @@ Skill Points at Each Level: 4 + Int modifier.
 
 Class Features All of the following are features of the dark side marauder prestige class.
 
-## Starting Feats
+**Starting Feats:** The dark side marauder gains the following feats: Armor Proficiency (light), Rage, Weapon Group Proficiency (blaster pistols), Weapon Group Proficiency (blaster rifles), Weapon Group Proficiency (primitive weapons), Weapon Group Proficiency (vibro weapons).
 
-The dark side marauder gains the following feats: Armor Proficiency (light) Rage Weapon Group Proficiency (blaster pistols) Weapon Group Proficiency (blaster rifles) Weapon Group Proficiency (primitive weapons) Weapon Group Proficiency (vibro weapons)
-
-Force Training The dark side marauder gains a bonus Force feat at Ist, 3rd, and 5th level. This bonus Force feat is selected from the following list:
+**Force Training:** The dark side marauder gains a bonus Force feat at 1st, 3rd, and 5th level. This bonus Force feat is selected from the following list:
 
 Alter, Control, Sense.
 
@@ -1944,7 +1640,7 @@ Feats: Dodge, Point Blank Shot, Precise Shot.
 
 <!-- page 272 -->
 
-Game Rule Information Vitality: Elite troopers gain 1410 vitality points per level. The character's Constitution modifier applies.
+**Game Rule Information:** Vitality: Elite troopers gain `1d10` vitality points per level. The character's Constitution modifier applies.
 
 ## Class Skills
 
@@ -1964,27 +1660,13 @@ Skill Points at Each Level: 6 + Int modifier.
 
 Class Features The following are features of the elite trooper prestige class.
 
-## Starting Feats
+**Starting Feats:** The elite trooper gains the following feats: Armor Proficiency (light), Armor Proficiency (medium), Armor Proficiency (heavy), Weapon Group Proficiency (blaster pistols), Weapon Group Proficiency (blaster rifles), Weapon Group Proficiency (heavy weapons), Weapon Group Proficiency (vibro weapons).
 
-The elite trooper gains the following feats:
-
-## Armor Proficiency (light)
-
-## Armor Proficiency (medium)
-
-## Armor Proficiency (heavy)
-
-Weapon Group Proficiency (blaster pistols) Weapon Group Proficiency (blaster rifles)
-
-## Weapon Group Proficiency (heavy weapons)
-
-## Weapon Group Proficiency (vibro weapons)
-
-## Weapon Focus
+**Weapon Focus:**
 
 At 2nd level, the elite trooper gains Weapon Focus as a bonus feat. This feat applies to a specific weapon of the character's choosing.
 
-Uncanny Dodge Starting at 3rd level, the elite trooper gains the extraordinary ability to react to danger before her senses would normally eaeen allow her to do so. At 3rd level and above, she retains her Dexterity bonus to Defense (if any) regardless of being caught flat-footed or struck by a hidden attacker. (She still loses her Dexterity bonus to Defense if immobilized.)
+**Uncanny Dodge:** Starting at 3rd level, the elite trooper gains the extraordinary ability to react to danger before her senses would normally allow her to do so. At 3rd level and above, she retains her Dexterity bonus to Defense (if any) regardless of being caught flat-footed or struck by a hidden attacker. (She still loses her Dexterity bonus to Defense if immobilized.)
 
 At 7th level, the elite trooper can no longer be flanked; she can react to opponents on opposite sides of her as easily as she can react to a single attacker. This ability denies bounty hunters the ability to use flank attacks to sneak attack the elite trooper.
 
@@ -2003,19 +1685,13 @@ At 7th level, the elite trooper can no longer be flanked; she can react to oppon
 | 9th | +9 | +6 | +4 | +4 | Deadly strike | +4 | +4 |
 | 10th | +10 | +7 | +5 | +5 | — | +5 | +5 |
 
-N
-
-< < D> ia 4
-
 <!-- page 273 -->
-
-ANIPSLSVWAWVS
 
 ## Weapon Specialization
 
 On achieving 5th level, the elite trooper gains Weapon Specialization. Weapon Specialization adds a +2 bonus on damage with a chosen weapon. The elite trooper must have Weapon Focus with that weapon to take Weapon Specialization. If the weapon is a ranged weapon, the damage bonus only applies if the target is within 10 meters, because the elite trooper can only strike precisely enough to hit more effectively at that range.
 
-Deadly Strike At 9th level, the elite trooper gains the ability to execute a deadly strike with any weapon she wields. Making a deadly strike requires a full-round action. (The elite trooper can take a 2-meter step, but cannot take any other action.) The elite trooper uses her normal base attack bonus (including all relevant modifiers), with an additional +4 competence
+**Deadly Strike:** At 9th level, the elite trooper gains the ability to execute a deadly strike with any weapon she wields. Making a deadly strike requires a full-round action. (The elite trooper can take a 2-meter step, but cannot take any other action.) The elite trooper uses her normal base attack bonus (including all relevant modifiers), with an additional +4 competence
 
 bonus on the attack. The threat range for a critical hit is doubled, and the attack also deals maximum possible damage (regardless of whether it is a normal or a critical hit).
 
@@ -2031,7 +1707,6 @@ A Jedi ace flies her ship not for the thrill of battle, but for the connection t
 
 Jedi aces usually belong to the Jedi Order. They have turned their command of the Force to battles fought in space rather than on the ground. Not all starfighter aces are Jedi, however. A few begin as Force-Sensitive starfighter pilots who eventually catch on that flying “comes to them naturally” because they are calling upon the Force to guide them.
 
-veDI AcE
 
 **Table 12-9: The Jedi Ace**
 
@@ -2047,9 +1722,7 @@ veDI AcE
 
 Jedi aces gravitate toward starfighter squadrons, where they can put their abilities to good use.
 
-quirements
-
-lo qualify to become a Jedi ace, a character must fulfill the lowing criteria.
+**Requirements:** To qualify to become a Jedi ace, a character must fulfill the following criteria.
 
 Base Attack Bonus: +4.
 
@@ -2057,45 +1730,31 @@ Skills: Pilot 6 ranks, See Force 4 ranks.
 
 Feats: Force-Sensitive.
 
-Special: Jedi ace is a Force-user prestige class available ly to characters with Jedi levels.
+Special: Jedi ace is a Force-user prestige class available only to characters with Jedi levels.
 
-ame Rule Information Vitality: Jedi aces gain 148 vitality points per level. The tharacter’s Constitution modifier applies.
+**Game Rule Information:** Vitality: Jedi aces gain `1d8` vitality points per level. The character’s Constitution modifier applies.
 
-lass Skills
+## Class Skills
 
-i¢ Jedi ace's class skills, and the key ability for each skill, as follows (see Chapter Four for skill descriptions): Astrogate (Int), Computer Use (Int), Knowledge* (Int), Pilot ), Profession* (Wis), Repair (Int), and Spot (Wis). All Force sills for which the Jedi ace meets the prerequisites are insidered class skills,
+The Jedi ace’s class skills, and the key ability for each skill, are as follows (see Chapter Four for skill descriptions): Astrogate (Int), Computer Use (Int), Knowledge* (Int), Pilot (Dex), Profession* (Wis), Repair (Int), and Spot (Wis). All Force skills for which the Jedi ace meets the prerequisites are considered class skills.
 
-is skill actually encompasses a number of unrelated skills. Each time this is learned, a specific category must also be chosen. Examples include 1ge (galactic politics) and Profession (droid programmer).
+*This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Knowledge (galactic politics) and Profession (droid programmer).*
 
 Skill Points at Each Level: 6 + Int modifier.
 
-Class Features The following are features of the Jedi ace prestige class:
+**Class Features:** The following are features of the Jedi ace prestige class.
 
-Starting Feat i¢ Jedi ace gains the following feat: Starship Operation (starfighter)
+**Starting Feat:** The Jedi ace gains the following feat: Starship Operation (starfighter)
 
 ## Starfighter Defense
 
-At Ist level, the Jedi ace can add her Defense bonus from
-+ Jedi ace levels to the Defense of any starfighter-class
-icle she’s piloting.
+At 1st level, the Jedi ace can add her Defense bonus from her Jedi ace levels to the Defense of any starfighter-class vehicle she’s piloting.
 
-ship Focus
+**Starship Focus:** At 2nd level, the Jedi ace can use her ability to sense the Force to aid her flying. After activating this ability, a successful See Force check (DC 15) grants the Jedi ace a Force bonus on her Pilot checks when she is piloting a starship (or cooperating on skill checks with another pilot). The bonus is equal to one-third the Jedi ace’s Force-user level (round down) and lasts 10 rounds. Activating this ability is a full-round action.
 
-and level, the Jedi ace can use her ability to sense the force to aid her flying. After activating this ability, a iccessful See Force check (DC 15) grants the Jedi
+**Familiarity:** At 3rd level, the Jedi ace gains a +1 competence bonus on Pilot and Repair skill checks used on a starfighter she designates as familiar. The same bonus is applied to the Jedi ace’s attack roll when firing the starfighter’s weapons. At 5th level, the competence bonus increases to +2.
 
-fighter ace a Force bonus on her Pilot checks when she piloting a starship (or cooperating on skill checks with another pilot). The bonus is equal to one-third the Jedi
-
-’s Force-user level (round down) and lasts 10 rounds. ivating this ability is a full-round action.
-
-familiarity
-
-AL 3rd level, the Jedi ace gains a +1 competence bonus on lot and Repair skill checks used on a starfighter she desigjates as familiar. The same bonus is applied to the Jedi
-
-;ce’s attack roll when firing the starfighter’s weapons. At
-
-Sth level, the competence bonus increases to +2.
-
-To designate a starfighter as familiar, the Jedi ace must have operated the starfighter for at least three months. A ‘edi ace can only be familiar with one starfighter at a time. his limitation applies even if the Jedi ace has levels in the jaship ace prestige class.
+To designate a starfighter as familiar, the Jedi ace must have operated the starfighter for at least three months. A Jedi ace can only be familiar with one starfighter at a time. This limitation applies even if the Jedi ace has levels in the starship ace prestige class.
 
 ## Starfighter Evasion
 
@@ -2103,9 +1762,9 @@ At 4th level, the Jedi ace can make a Pilot check to lessen the damage dealt by 
 
 ## Trust the Force
 
-Once per day, a Jedi ace of 5th level olr higher can reroll any failed attack roll made with a starship’s weapons. The second result must be used, regardless of whether it is better or worse than the first. This ability is not cumulative with the scoundrel’s lucky class feature, so a scoundrel/Jedi ace character can’t reroll the same failed attack roll twice.
+Once per day, a Jedi ace of 5th level or higher can reroll any failed attack roll made with a starship’s weapons. The second result must be used, regardless of whether it is better or worse than the first. This ability is not cumulative with the scoundrel’s lucky class feature, so a scoundrel/Jedi ace character can’t reroll the same failed attack roll twice.
 
-Jedi Knight When a Jedi ace’s total Jedi class levels (Jedi ace levels plus any other Jedi class or Jedi prestige class levels) equal 7, the character becomes a full Jedi Knight and gains a bonus knight feat (this replaces the Jedi Knight class feature of the Jedi consular and Jedi guardian). This bonus knight feat must be drawn from the following list, and the Jedi ace must meet any prerequisites:
+**Jedi Knight:** When a Jedi ace’s total Jedi class levels (Jedi ace levels plus any other Jedi class or Jedi prestige class levels) equal 7, the character becomes a full Jedi Knight and gains a bonus knight feat (this replaces the Jedi Knight class feature of the Jedi consular and Jedi guardian). This bonus knight feat must be drawn from the following list, and the Jedi ace must meet any prerequisites:
 
 Force Mastery, Force Mind, Knight Defense, Knight Mind, Lightsaber Defense, Skill Emphasis (Pilot).
 
@@ -2118,8 +1777,6 @@ A Jedi investigator is a skilled insurgent, not above using guile, deception, an
 When confronted by a criminal syndicate, a Jedi investigator might try to join the organization to leam more about its operations. When confronted by a cabal of dark side devotees, the Jedi investigator might try to lure them out of their lair and into the reach of a team of Jedi guardians. Against a threat from beyond, the Jedi investigator might procure samples of the aliens’ weapons and technology so that the Jedi Council and the Republic at large can study the new enemy before readying a defense.
 
 The Jedi Council keeps detailed records of known criminals (pirates, smugglers, and assassins mostly) and often uses Jedi investigators to spy on these individuals. A Jedi investigator might be called upon to capture dangerous
-
-73 < < Al Z ol
 
 <!-- page 275 -->
 
@@ -2135,11 +1792,9 @@ Skills: Enhance Senses 4 ranks, Gather Information 6 ranks, Search 3 ranks, See 
 
 Feats: Alter, Control, Force-Sensitive, Sense.
 
-Special: Jedi investigator is a Force-user prestige class lable only to characters with Jedi levels.
+Special: Jedi investigator is a Force-user prestige class available only to characters with Jedi levels.
 
-avi
-
-Game Rule Information Vitality: Jedi investigators gain 18 vitality points per level. The character's Constitution modifier applies.
+**Game Rule Information:** Vitality: Jedi investigators gain `1d8` vitality points per level. The character's Constitution modifier applies.
 
 ## Class Skills
 
@@ -2153,40 +1808,38 @@ Skill Points at Each Level: 6 + Int modifier.
 
 Class Features The following are features of the Jedi investigator prestige class.
 
-veo! INVESTIGATOR
+**Table 12-11: The Jedi Investigator**
 
-> Base Fort Ref will Defense Reputation
-= Level Attack Bonus Save Save Save Special Bonus Bonus m Ist +0 +1 +1 +1 Bonus feat, profile, target bonus +1, +1 +0 z deflect (defense)
-
-s 2nd +1 +2 +2 +2 Contact, increase lightsaber damage +2 re in 3rd +2 +2 42 +2 Target bonus +2, favor +1 +2 +1 ir 4th +3 +2 +2 +2 Contact, deflect (attack) +2 +2 m sth +3 +3 +3 +3 Target bonus +3, favor +2 +3 +2
-
-v4
-
-fl
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+| ----- | ----------------- | --------- | -------- | --------- | ------- | ------------- | ---------------- |
+| 1st | +0 | +1 | +1 | +1 | Bonus feat, profile, target bonus +1, deflect (defense) | +1 | +0 |
+| 2nd | +1 | +2 | +2 | +2 | Contact, increase lightsaber damage | +2 | +1 |
+| 3rd | +2 | +2 | +2 | +2 | Target bonus +2, favor +1 | +2 | +1 |
+| 4th | +3 | +2 | +2 | +2 | Contact, deflect (attack) | +2 | +2 |
+| 5th | +3 | +3 | +3 | +3 | Target bonus +3, favor +2 | +3 | +2 |
 
 <!-- page 276 -->
 
-## Bonus Feat
+**Bonus Feat:** At 1st level, the Jedi investigator gains a feat from the following list:
 
-‘At Ist level, the Jedi investigator gains a feat from the following list:
+**Profile:** Beginning at 1st level, a Jedi investigator can assess the motives or background of a single criminal or assailant by analyzing the scene of the crime and studying minute clues. The Jedi investigator relies on his familiarity with criminal behavior and his Force-tuned instincts to piece together the available clues.
 
-## Profile
+When examining the scene of a crime or violent attack, the Jedi investigator can make a Sense Motive check. The result determines what information the Jedi investigator can derive from the crime scene. Each time the Jedi investigator encounters another crime scene belonging to the same perpetrator, he gains a +5 circumstance bonus on this check. (The GM might wish to apply this bonus secretly if the Jedi investigator doesn’t know the identity of the perpetrator.)
 
-Beginning at 1st level, a Jedi investigator can assess the ‘notives or background of a single criminal or assailant by amalyzing the scene of the crime and studying minute clues. The Jedi investigator relies on his familiarity with criminal behavior and his Force-tuned instincts to piece together the wailable clues.
+| Task | Time | DC |
+| ---- | ---- | -- |
+| Determine perpetrator’s motive | 10 minutes | 15 |
+| Determine perpetrator’s species and gender | 30 minutes | 20 |
+| Determine perpetrator’s primary class | 1 hour | 25 |
+| Determine perpetrator’s relative level | 6 hours | 30 |
 
-When examining the scene of a crime or violent attack, the Jedi investigator can make a Sense Motive check. The ‘result determines what information the Jedi investigator can derive from the crime scene. Each time the Jedi investigator encounters another crime scene belonging to the same perpetrator, he gains a +5 circumstance bonus on this check. {The GM might wish to apply this bonus secretly if the Jedi ‘investigator doesn’t know the identity of the perpetrator.)
+By analyzing a crime scene extensively, a Jedi investigator can piece together a comprehensive picture of his target. “Relative level” is given in terms of being much lower than the investigator (four or more levels lower); approximately the same level as the investigator (within three levels); or higher than the investigator (four or more levels higher). A GM can allow a Jedi investigator to gain other kinds of information as well, at his discretion.
 
-Task Time pc Determine perpetrator’s motive 10 minutes 15 Determine perpetrator’s species and gender 30 minutes 20 Determine perpetrator’s primary class Thour 25 Determine perpetrator's relative level Ghours 30
+**Target Bonus:** At 1st level, a Jedi investigator understands his target (or targets) so well he gains a +1 competence bonus to attack rolls against any one individual. To receive this benefit, the Jedi investigator must interact with the target for a period of 10 rounds or spy on the target for a period of 1 day. The Jedi investigator applies the same bonus to Bluff, Listen, Search, Sense Motive, and Spot checks when using these skills in opposition to the target. The competence bonus increases to +2 at 3rd level and +3 at 5th level.
 
-By analyzing a crime scene extensively, a Jedi investigator tan piece together a comprehensive picture of his target. “Relative level” is given in terms of being much lower than the investigator (four or more levels lower); approximately the same level as the investigator (within three levels); or higher than the investigator (four or more levels higher). AGM can allow a Jedi investigator to gain other kinds of formation as well, at his discretion.
+The Jedi investigator can transfer this bonus to a new target only when the previous target is slain or otherwise neutralized.
 
-## Target Bonus
-
-‘At Ist level, a Jedi investigator understands his target (or jets) so well he gains a +1 competence bonus to attack ils against any one individual. To receive this benefit, the edi investigator must interact with the target for a period of 10 rounds or spy on the target for a period of 1 day. The <i investigator applies the same bonus to Bluff, Listen, ‘earch, Sense Motive, and Spot checks when using these ils in opposition to the target. The competence bonus creases to +2 at 3rd level and +3 at 5th level.
-
-The Jedi investigator can tranfer this bonus to a new taget only when the previous target is slain or otherwise neutralized.
-
-Oeflect (Defense) AL Ist level, the Jedi investigator gains deflect (defense), which provides a +1 dodge bonus to Defense when he uses is lightsaber to block ranged attacks. (The Jedi investigator ‘nust be carrying an activated lightsaber to use this ability.) Deflecting an attack is a reaction that costs the Jedi jnestigator a move action in his next round. When used in itis fashion, the Jedi gains the dodge bonus against all anged attacks directed at him in the round. Deflect (defense) can be used in conjunction with total lefense for even greater protection, providing the dodge
+**Deflect (Defense):** At 1st level, the Jedi investigator gains deflect (defense), which provides a +1 dodge bonus to Defense when he uses his lightsaber to block ranged attacks. (The Jedi investigator must be carrying an activated lightsaber to use this ability.) Deflecting an attack is a reaction that costs the Jedi investigator a move action in his next round. When used in this fashion, the Jedi gains the dodge bonus against all ranged attacks directed at him in the round. Deflect (defense) can be used in conjunction with total defense for even greater protection, providing the dodge
 
 bonus for deflecting the attack and the +4 dodge bonus granted by using total defense. In this case, deflect (defense) isn’t a reaction; it’s an attack action used in a round when the Jedi investigator expects to come under heavy fire. See page 154 for more information on total defense.
 
@@ -2208,15 +1861,9 @@ A Jedi investigator can try to call in a favor a number of times per week of gam
 
 The GM should carefully monitor the use of favors to ensure that this ability isn't abused. The success or failure of a mission shouldn't hinge on the use of a favor, and calling in favors shouldn't replace good roleplaying or the use of other skills. The GM can disallow any favor deemed to be disruptive to the game. See the Favors and Contacts sidebar later in this chapter for additional information.
 
-Deflect (Attack) At 4th level, the Jedi investigator can deflect and redirect a number of attacks equal to one-half his total Jedi levels,
-
-N 3 an
-
-ol < ” 4 Z ol
+**Deflect (Attack):** At 4th level, the Jedi investigator can deflect and redirect a number of attacks equal to one-half his total Jedi levels,
 
 <!-- page 277 -->
-
-ONIAALSVWAWNVS
 
 rounded up. The redirected attack must miss the Jedi investigator by 5 or less; any attack that hits the Jedi investigator or misses by 6 or more points can’t be redirected. (The Jedi investigator must be carrying an activated lightsaber to use this ability.)
 
@@ -2224,7 +1871,7 @@ Deflecting and redirecting an attack is a reaction that costs the Jedi investiga
 
 If the Jedi investigator can redirect the attack, he immediately rolls an attack using his lightsaber attack bonus and applying a ~4 penalty. If this roll is high enough to hit the target, the redirected attack deals damage to the target (the weapon making the original attack determines the damage dealt by a redirected attack).
 
-dedi Knight When a Jedi investigator's total Jedi class levels (Jedi investigator levels plus any other Jedi class or Jedi prestige class levels) equal 7, the character becomes a full Jedi Knight and gains a bonus knight feat (this replaces the Jedi Knight class feature of the Jedi consular and Jedi guardian). This bonus knight feat must be drawn from the following list, and the Jedi investigator must meet any prerequisites.
+**Jedi Knight:** When a Jedi investigator's total Jedi class levels (Jedi investigator levels plus any other Jedi class or Jedi prestige class levels) equal 7, the character becomes a full Jedi Knight and gains a bonus knight feat (this replaces the Jedi Knight class feature of the Jedi consular and Jedi guardian). This bonus knight feat must be drawn from the following list, and the Jedi investigator must meet any prerequisites.
 
 Dissipate Energy, Force Mastery, Force Mind, Knight Defense, Knight Mind, Lightsaber Defense.
 
@@ -2236,9 +1883,11 @@ Becoming a Jedi Master requires patience, inner strength, wisdom, and a deep con
 
 The most respected Jedi Masters are invited by their peers (and, in some cases, their former masters) to join them on the Jedi Council. Those who join the council use their wisdom and influence to instruct others in the ways of the
 
-**Table 12-10: The Jedi Master** Force and preserve peace in the galaxy. The Jedi Councils also tasked with identifying Force-sensitive children across the galaxy and offering them instruction in the Jedi Order. These lessons are fairly rudimentary—usually intended to teach a student “the basics” until he or she is old enough to receive formal training as a Padawan.
+**Table 12-10: The Jedi Master**
 
-During the Rise of the Empire era, the Jedi Council would confer the title of Jedi Master upon those deemed qualified to teach others in the ways of the Force. During the Rebelliay, and New Jedi Order eras, Jedi require no such approval; they need only adhere to the tenets of the Jedi Code to become Jedi Masters,
+Force and preserve peace in the galaxy. The Jedi Council is also tasked with identifying Force-sensitive children across the galaxy and offering them instruction in the Jedi Order. These lessons are fairly rudimentary—usually intended to teach a student “the basics” until he or she is old enough to receive formal training as a Padawan.
+
+During the Rise of the Empire era, the Jedi Council would confer the title of Jedi Master upon those deemed qualified to teach others in the ways of the Force. During the Rebellion and New Jedi Order eras, Jedi require no such approval; they need only adhere to the tenets of the Jedi Code to become Jedi Masters,
 
 In the darkest days of the Empire, nearly all the Jedi Masters were hunted down and wiped out. However, on the backwater planet of Dagobah, a 90-year-old Jedi Master named Yoda managed to survive to train the first of a new generation of Jedi, Luke Skywalker. Luke went on to form the Jedi academy to train a new generation of Jedi in the ways of the Force.
 
@@ -2258,59 +1907,50 @@ Class Skills The Jedi Master's class skills, and the key ability for each skill,
 
 Skill Points at Each Level: 6 + Int modifier.
 
-Base Fort Ref will Defense Reputation Level AttackBonus Save Save Save Special Bonus Bonus Ist +1 +1 +1 +2 Force secret +1 +1 2nd 42 +2 +1 42 Increase lightsaber damage 42 +1 3rd +3 +2 +2 +3 Force secret 42 +2 4th +4 +3 +2 43 Bonus feat 43 +2 5th +5 +3 +3 +4 Deflect (defense) +3 +3 6th +6 +4 +3 +4 Force secret +4 +3 7th +7 +4 +4 +5 Increase lightsaber damage +4 +4 8th +8 +5 +4 +5 Bonus feat + +4 9th +9 +5 +5 +6 Increase lightsaber damage 45 +5 loth +10 +6 +5 +6 Deflect (attack) +6 +5
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Defense Bonus | Reputation Bonus |
+| ----- | ----------------- | --------- | -------- | --------- | ------- | ------------- | ---------------- |
+| 1st | +1 | +1 | +1 | +2 | Force secret | +1 | +1 |
+| 2nd | +2 | +2 | +1 | +2 | Increase lightsaber damage | +2 | +1 |
+| 3rd | +3 | +2 | +2 | +3 | Force secret | +2 | +2 |
+| 4th | +4 | +3 | +2 | +3 | Bonus feat | +3 | +2 |
+| 5th | +5 | +3 | +3 | +4 | Deflect (defense) | +3 | +3 |
+| 6th | +6 | +4 | +3 | +4 | Force secret | +4 | +3 |
+| 7th | +7 | +4 | +4 | +5 | Increase lightsaber damage | +4 | +4 |
+| 8th | +8 | +5 | +4 | +5 | Bonus feat | +4 | +4 |
+| 9th | +9 | +5 | +5 | +6 | Increase lightsaber damage | +5 | +5 |
+| 10th | +10 | +6 | +5 | +6 | Deflect (attack) | +6 | +5 |
 
 <!-- page 278 -->
 
-Class Features The following are features of the Jedi Master prestige class.
+**Class Features:** The following are features of the Jedi Master prestige class.
 
-force Secret The Jedi Master discovers a Force secret at Ist, 3rd, and 6th level. Each time, the Jedi Master may select the same secret {to improve its effect) or a different secret.
+**Force Secret:** The Jedi Master discovers a Force secret at 1st, 3rd, and 6th level. Each time, the Jedi Master may select the same secret (to improve its effect) or a different secret.
 
-Increase the bonus provided by one of the following Akills by +1: Battlemind or Force Defense.
+- Increase the bonus provided by one of the following skills by +1: Battlemind or Force Defense.
 
-Increase the damage dealt by Force Strike by +1.
-
-Increase the amount of healing provided by one of the following skills by +1: Heal Another or Heal Self.
-
-Provide a +1 Force bonus to any single Force skill the character has ranks in.
+- Increase the damage dealt by Force Strike by +1.
+- Increase the amount of healing provided by one of the following skills by +1: Heal Another or Heal Self.
+- Provide a +1 Force bonus to any single Force skill the character has ranks in.
 
 ## Increase Lightsaber Damage
 
-AJedi Master's ability to deal damage with a lightsaber improves as he gains levels. At 2nd, 7th, and 9th level, the Jedi Master's lightsaber damage increases by +148. This added damage is cumulative with increased lightsaber damage from other Jedi classes.
+A Jedi Master’s ability to deal damage with a lightsaber improves as he gains levels. At 2nd, 7th, and 9th level, the Jedi Master’s lightsaber damage increases by +`1d8`. This added damage is cumulative with increased lightsaber damage from other Jedi classes.
 
-## Qonus Feat
+**Bonus Feat:** The Jedi Master gains bonus feats at 4th and 8th level. The Jedi Master must meet the prerequisites of the bonus feat, and the bonus feat must be selected from the following list: Alertness, Blind-Fight, Combat Reflexes, Improved [Initiative, and others].
 
-The Jedi Master gains bonus feats at 4th and 8th level. The
+**Deflect (Defense):** At 5th level, the Jedi Master gains deflect (defense), which provides a +1 dodge bonus to Defense when he uses his lightsaber to block ranged attacks. (The Jedi Master must be carrying an activated lightsaber to use this ability.)
 
-Jedi Master must meet the prerequisites of the bonus feat,
+Deflecting an attack is a reaction that costs the Jedi Master a move action in his next round. When used in this fashion, the Jedi Master gains the dodge bonus against all ranged attacks directed at him in the round.
 
-ind the bonus feat must be selected from the following list: Alertness, Blind-Fight, Combat Reflexes, Improved
+Deflect (defense) can be used in conjunction with total defense for even greater protection, providing the dodge bonus for deflecting the attack and the +4 dodge bonus granted by using total defense. In this case, deflect (defense) isn’t a reaction; it’s an attack action used in a round when the Jedi Master expects to come under heavy fire. See page 154 for more information on total defense.
 
-## Oeflect (Defense)
-
-A5th level, the Jedi Master gains deflect (defense), which iprovides a +1 dodge bonus to Defense when he uses his. lightsaber to block ranged attacks. (The Jedi Master must be taying an activated lightsaber to use this ability.)
-
-Deflecting an attack an attack is a reaction that costs the ‘edi Master a move action in his next round. When used in ihis fashion, the Jedi Master gains the dodge bonus against all ranged attacks directed at him in the round.
-
-Deflect (defense) can be used in conjunction with total defense for even greater protection, providing the dodge honus for deflecting the attack and the +4 dodge bonus granted by using total defense. In this case, deflect {iefense) isn’t a reaction; it’s an attack action used in a jound when the Jedi Master expects to come under heavy fie. See page 154 for more information on total defense.
-
-Oeflect (Attack) AL 10th level, the Jedi Master can deflect and redirect a umber of attacks equal to one-half his total Jedi levels, sounded up. The redirected attack must miss the Jedi Master ty 5 or less; any attack that hits the Jedi Master or misses by Sor more points can’t be redirected. (The Jedi Master must tecarrying an activated lightsaber to use this ability.) Deflecting and redirecting an attack is a reaction that tosts the Jedi Master a move action in his next round. Deflect (defense) and deflect (attack) can be used together ithe same round (though the Jedi Master can decide not iy use the defense if he wants a better chance at redirecting he incoming attack). If the Jedi Master can redirect the attack, he immediately fills an attack using his lightsaber attack bonus and apply-
-
-## JEDI MASTER
-
-ing a -4 penalty. If this roll is high enough to hit the target, the redirected attack deals damage to the target (the weapon making the original attack determines the damage dealt by a redirected attack).
-
-N 3 3
-
-ANIASLSVWAWVS
+**Deflect (Attack):** At 10th level, the Jedi Master can deflect and redirect a number of attacks equal to one-half his total Jedi levels, rounded up. The redirected attack must miss the Jedi Master by 5 or less; any attack that hits the Jedi Master or misses by 6 or more points can’t be redirected. (The Jedi Master must be carrying an activated lightsaber to use this ability.) Deflecting and redirecting an attack is a reaction that costs the Jedi Master a move action in his next round. Deflect (defense) and deflect (attack) can be used together in the same round (though the Jedi Master can decide not to use the defense if he wants a better chance at redirecting the incoming attack). If the Jedi Master can redirect the attack, he immediately rolls an attack using his lightsaber attack bonus and applying a -4 penalty. If this roll is high enough to hit the target, the redirected attack deals damage to the target (the weapon making the original attack determines the damage dealt by a redirected attack).
 
 <!-- page 279 -->
 
 ## Officer
 
 Even the best-trained troops need someone to make decisions and provide direction. The officer fills that role, but also takes responsibility when the troops fail in their appointed tasks. They frequently also suffer the disrespect of their subordinates, who often see the uniform as a symbol of oppression. Many soldiers can't see the honor of the person inside the uniform. Very few officers earn the universal respect of their troops and their superiors, but to those who understand the concepts of leadership and valor, it often just comes naturally. An officer must be comfortable in command, willing to make tough decisions when his men need guidance, and occasionally ordering individual soldiers to their deaths so that the unit can survive. A good officer learns to do so without hesitation and only agonizes over his decision when lives are no longer
-
-OFFICER
 
 **Table 12-12: The Officer**
 
@@ -2327,7 +1967,20 @@ OFFICER
 | 9th | +6 | +4 | +4 | +4 |
 | 10th | +7 | +5 | +5 | +5 |
 
-at stake. The best officers don't let their distaste for life-odeath decisions paralyze them when their troops are counting on them. Those who can’t find the courage to face such dilemmas rarely stay officers for long—though certainly, a few somehow manage to avoid the issue by shifting blame elsewhere. Officers generally command about a dozen troops, with higher-ranking officers having larger forces, and the highes ranks commanding other officers. The officer is responsible for ensuring that the troops have a clear understanding of their objectives, the equipment they need to accomplish their objectives, and the leadership necessary to come back alive. In time, an officer might become a respected tactician, admired by allies and enemies alike, Requirements To qualify to become an officer, a character must fulfill the following criteria. Base Attack Bonus: +4. Skills: Diplomacy 6 ranks. Reputation Bonus: +2. Special: Must belong to an organization with a military or paramilitary division. Examples include the Trade Federation, the Galactic Empire, the Rebel Alliance, and the New Republic. Game Rule Information Vitality: Officers gain `1d8` vitality points per level. The character's Constitution modifier applies.
+at stake. The best officers don’t let their distaste for life-or-death decisions paralyze them when their troops are counting on them. Those who can’t find the courage to face such dilemmas rarely stay officers for long—though certainly, a few somehow manage to avoid the issue by shifting blame elsewhere. Officers generally command about a dozen troops, with higher-ranking officers having larger forces, and the highest ranks commanding other officers. The officer is responsible for ensuring that the troops have a clear understanding of their objectives, the equipment they need to accomplish their objectives, and the leadership necessary to come back alive. In time, an officer might become a respected tactician, admired by allies and enemies alike.
+
+**Requirements:** To qualify to become an officer, a character must fulfill the following criteria.
+
+Base Attack Bonus: +4.
+
+Skills: Diplomacy 6 ranks.
+
+Reputation Bonus: +2.
+
+Special: Must belong to an organization with a military or paramilitary division. Examples include the Trade Federation, the Galactic Empire, the Rebel Alliance, and the New Republic.
+
+**Game Rule Information:** Vitality: Officers gain `1d8` vitality points per level. The character’s Constitution modifier applies.
+
 ## Class Skills
 
 The officer's class skills, and the key ability for each skill, are as follows (see Chapter Four for skill deseriptions):
@@ -2475,146 +2128,170 @@ Starship aces gain the following feat: Weapon Group Proficiency (blaster pistols
 
 ## Gamemaster Characters
 
-Chapter Three extensively describes heroes, but what about ihe rest of the galaxy? Surely not everyone's a soldier, a scoundrel, or a Jedi. Characters who aren't heroes are ordi-
+Chapter Three extensively describes heroes, but what about the rest of the galaxy? Surely not everyone’s a soldier, a scoundrel, or a Jedi. Characters who aren’t heroes are ordinary characters who fall into two basic categories:
 
-nary characters who fall into two basic categories:
+- Commoners, who don’t have any levels and use the basic statistics given for their species; and
+- Professionals, who have one or more levels in a professional class (diplomat, expert, or thug). The professional classes and commoners provide enough distinction so that anyone the heroes meet who isn’t an adventurer can be created using these classes.
 
-& Commoners, who don’t have any levels and use the basic statistics given for their species; and
-- Professionals, who have one or more levels in a
-  professional class (diplomat, expert, or thug).   The professional classes and commoners provide enough   distinction so that anyone the heroes meet who isn't an   enturer can be created using these classes.
+## Commoners
 
-Commoners {ommon people make up the majority of the population
+Common people make up the majority of the population. They run shops, farm fields, build homes, and produce (and transport) goods throughout the galaxy. Commoners usually have no desire to live the wandering, dangerous life of a hero, and possess none of the skills needed to undertake the challenges heroes must face. They are skilled in their own vocations. The commoner has all of the abilities common to a member of his species; however, the commoner has none of the abilities of a 1st-level hero.
 
-[Mey run shops, farm fields, build homes, and produce (and
+- The commoner has a +0 bonus on attack rolls, saving throws, Defense, and Reputation checks.
+- The commoner has 0 vitality points.
+- The commoner’s six abilities have a base score of 10, modified by the commoner’s species. (For species ability modifiers, see Chapter Fourteen.)
+- The commoner has skill points equal to (1 + Int mod) x 4, and has Craft (Int), Knowledge (Int), and Profession (Wis) as class skills. A commoner can have up to 4 ranks in any class skill or 2 ranks in a cross-class skill.
 
-transport) goods throughout the galaxy. Commoners usually
-
-fave no desire to live the wandering, dangerous life of a fro, and possess none of the skills needed to undertake the challenges heroes must face. They are skilled in their own yocations. The commoner has all of the abilities common to a nember of his species; however, the commoner has none of the abilities of a 1st-level hero.
-- The commoner has a +0 bonus on attack rolls, saving
-  throws, Defense, and Reputation checks.   6 The commoner has 0 vitality points.
-- The commoner’s six abilities have a base score of 10,
-  modified by the commoner’s species. (For species ability modifiers, see Chapter Fourteen.)
-
-nN og
-
-- The commoner has skill points equal to (1 + Int mod) x
-4, and has Craft (Int), Knowledge (Int), and Profession (Wis) as class skills. A commoner can have up to 4 ranks in any class skill or 2 ranks in a cross-class skill.
-
-GAt the GM's discretion, a commoner may have the Force-Sensitive feat. Otherwise, the commoner has no
-
-feats except species bonus feats. For sample commoners of various species (including
-
-species playable as heroes), see Chapter Fourteen:
-
-< < Z Cl
+At the GM’s discretion, a commoner may have the Force-Sensitive feat. Otherwise, the commoner has no feats except species bonus feats. For sample commoners of various species (including species playable as heroes), see Chapter Fourteen.
 
 ## Professionals
 
-Presented below are the three professional classes: expert, and thug. These ¢ alaxy, hard-working professionals
+Presented below are the three professional classes: diplomat, expert, and thug. These classes represent the rest of the galaxy, hard-working professionals and ordinary people who don’t go on adventures or battle dangerous foes.
 
-diplomat,
+Treat these classes as you would any other. They get 2 feats at 1st level, a bonus feat every three levels, and an ability score increase every four levels. (Most professionals take noncombat feats such as Endurance, Fame, Skill Emphasis, and Gearhead.) Professionals have no vitality points. All damage dealt to a professional character is subtracted from his wound point total.
 
-ses represent the rest of the
+It’s possible for professionals to multiclass—even into hero classes if you desire. Any character with even a single level of a hero class gains the normal number of vitality points for his hero class and level. (However, he gains none for any levels he might have in a professional class.) Thus, if a 3rd-level thug gained a level of soldier, he would have 10 vitality points. He gets no vitality points for his thug levels.
 
-ordinary people in the g who don’t go on adventures or battle dangerous foes.
+A character multiclassing on top of a professional class does not subtract 2 from his Defense bonus. Instead, he gets the full bonus to Defense. Each professional class has different levels, providing the GM with various means to measure professionals against each other. A typical ship technician might only be a 3rd-level expert, while a well-known crime lord might reach 20th level. The 20th-level thug is a capable person with great skill, but she can’t fight as well as a soldier equal to her level (or even one much lower in level), nor can she do most of the other things that hero characters can do. Professionals gain experience the same way that heroes do, but are likely to progress in levels very slowly. Most never get higher than 2nd or 3rd level in their whole lives.
 
-Treat these classes as you would any other. They get 2 feat at Ist level, a bonus feat every three levels, and an ability score increase every four levels. (Most professionals take noncombat feats such as Endurance, Fame, Skill Emphasis, and Gearhead.) Professionals have no vitality points. All damage dealt to a professional character is subtracted from his wound point total.
+A thug serving as a city patrolman is likely to gain experience here and there, and thus might gain a few levels, but is still nothing compared to a hero. More dangerous areas are more likely to produce higher-level professionals. A moisture farmer who must regularly fight off marauding Tusken Raiders is likely to be a high-level expert.
 
-It’s possible for professionals to multiclass—even into hero classes if you desire. Any character with even a single level of a hero class gains the normal number of vitality points for his hero class and level. (However, he gains none for any levels he might have in a professional class.) Thus, if a 3rd-level thug g would have 10 vitality points. He gets no vitality points for his thug levels.
-
-A character multiclassing on top of a professional class
-
-ined a level of soldier, he
+> **Critical Hits on GM Characters**
+>
+> When a commoner or professional suffers a critical hit, the character is immediately reduced to -1 wound points. The character is now considered to be dying, and all rules for dying characters apply. (See the Character Condition Summary sidebar, page 288.)
 
 <!-- page 283 -->
 
-does not subtract 2 from his Defense bonus. Instead, he ( © ) CRITICAL HITS ON GM CHARACTERS
+### Diplomat
 
-gets the full bonus to Defense. zach professional class has different levels, providing the eee eee
+Diplomats are the speakers of the Star Wars universe. Most are minor functionaries or independent businessmen, though a few rise to positions of power. Local politicians, astute barristers, and canny merchants are all diplomats.
 
-GM with various means to measure professionals against When a commoner or professional suffers a critical hit, the each other. A typical ship technician might only be a 3rd- character is immediately reduced to -1 wound points. The char ce ee oe em CME acter is now considered to be dying, and all rules for dying 20th level. The 20th-level thug is a capable person with characters apply. (See the Character Condition Summary side-
+**Table 12-14: The Diplomat**
 
-great skill, but she can’t fight as well as a soldier equal to bar, page 288.) her level (or even one much lower in level), nor can she do
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Defense Bonus | Reputation Bonus |
+| ----- | ----------------- | --------- | -------- | --------- | ------------- | ---------------- |
+| 1st | +0 | +0 | +0 | +2 | +0 | +0 |
+| 2nd | +1 | +0 | +0 | +3 | +0 | +0 |
+| 3rd | +1 | +1 | +1 | +3 | +1 | +1 |
+| 4th | +2 | +1 | +1 | +4 | +1 | +1 |
+| 5th | +2 | +1 | +1 | +4 | +1 | +1 |
+| 6th | +3 | +2 | +2 | +5 | +2 | +2 |
+| 7th | +3 | +2 | +2 | +5 | +2 | +2 |
+| 8th | +4 | +2 | +2 | +6 | +2 | +2 |
+| 9th | +4 | +3 | +3 | +6 | +3 | +2 |
+| 10th | +5 | +3 | +3 | +7 | +3 | +3 |
+| 11th | +5 | +3 | +3 | +7 | +3 | +3 |
+| 12th | +6/+1 | +4 | +4 | +8 | +4 | +3 |
+| 13th | +6/+1 | +4 | +4 | +8 | +4 | +3 |
+| 14th | +7/+2 | +4 | +4 | +9 | +4 | +4 |
+| 15th | +7/+2 | +5 | +5 | +9 | +5 | +4 |
+| 16th | +8/+3 | +5 | +5 | +10 | +5 | +4 |
+| 17th | +8/+3 | +5 | +5 | +10 | +5 | +4 |
+| 18th | +9/+4 | +6 | +6 | +11 | +6 | +5 |
+| 19th | +9/+4 | +6 | +6 | +11 | +6 | +5 |
+| 20th | +10/+5 | +6 | +6 | +12 | +6 | +5 |
 
-most of the other things that hero characters can do. Professionals gain experience the same way that heroes do, but are likely to progress in levels
+**Class Skills:** The diplomat’s class skills, and the key ability for each skill, are as follows (see Chapter Four for skill descriptions):
 
-very slowly. Most never get higher than Tate 12-14: The Diplomat 2nd or 3rd level in their whole lives.
+ability for each skill, are as follows (see Chapter Four for skill descriptions): Appraise (Int), Bluff (Cha), Computer Use (Int), Diplomacy (Cha), Gather Information (Cha), Knowledge® (Int), Profession® (Wis), Sense Motive (Wis), and Speak Language (none).
 
-A thug serving as a city patrolman is pore Lah MD ae ee) Setene Eee a Sigh Baal Ay Level Attack Bonus Save Save Save Bonus _ Bonus likely to. gain experience here and Xs . Ist +0 +0 +0 +2 +0 +0 there, and thus might gain a few levels, 2nd +1 +0 +0 43 +0 +H but is still nothing compared to a hero. 3rd +1 +1 +1 +3 +1 +1 More dangerous areas are more likely
-- 4th +2 +1 +1 +4 +1 +1
-  to produce higher-level professionals.   5th +2 +1 +1 +4 +1 +1   A moisture farmer who must regularly   , Aes 6th +3 +2 +2 +5 +2 #2   fight off marauding Tusken Raiders is   likely to be a high-level expert tie e =P el a ee sa   a alae 8th +4 +2 #2 +6 #2 #2   oth +4 +3 +3 +6 8 +2   Diplomat loth +5 43 +3 +7 +3 8   Diplomats are the speakers of the 11th +5 +3 +3 +7 +3 +3   Star Wars universe. Most are minor 12th +6/+1 +4 +4 +8 +4 +3   functionaries or independent business- 13th +6/+1 +4 +4 +8 +4 +3   men, though a few rise to positions of 14th +7/+2 +4 +4 +9 +4 +4   power. Local politicians, astute barris- 15th +7/+2 +5 +5 +9 +5 +4   ters, and canny merchants are all 16th +8/+3 +5 +5 +10 +5 +4   diplomats. 17th +8/+3 +5 +5 +10 +5 +4   18th +9/44 +6 +6 +1 +6 +5   Class Skills 19th +9/+4 +6 +6 +11 +6 +5   The diplomat’s class skills, and the key 20th +10/+5 +6 +6 +12 +6 +5
+*This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Knowledge (galactic politics) and Profession (droid programmer).*
 
-ability for each skill, are as follows (see Chapter Four for skill descriptions):
+Skill Points at 1st Level: (4 + Int modifier) × 4. Skill Points at Each Additional Level: 4 + Int modifier.
 
-Appraise (Int), Bluff (Cha), Computer He Use (Int), Diplomacy (Cha), Gather Table 12-15: The Expert
-
-Information (Cha), Knowledge” (Int), —: iia Ret We)” (Defenses Ree
-
-i y Level Attack Bonus Save Save = Save_—- Bonus_—_—Bonus. Profession* (Wis), Sense Motive (Wis), - 25 _ = ' " . and Speak Language.
-
-This skit ‘5 + bee of 2nd +1 +0 +0 +3 +0 +0 lated skills. Each time this skill is learned, a specific 3rd +2 +1 +1 +3 +1 +0 category must also be chosen. Examples include 4th +3 +1 +1 +4 +1 +1 fees (galactic politics) and Profession ah 3 re 5 oe 5 aT
-
-4 Skill Points at Ist Level: (4+ Int eh i #2 a ine #2 * modifier) x 4 7th +5 +2 +2 +5 +2 +) Skill Points at Each Additional ah sais #2 ae 6 ie + Level: 4 + Int modifier. sou pla sd ws se iS a i ‘ 10th +7/+2 +3 +3 +7 +3 +2 lth +8/+3 +3 +3 +7 43 #2 O) Class Features 12th +9/4+4 +4 +4 48 +4 43
-> The diplomat gets two starting feats rm
-for free, chosen from the following ait balan! a se ne ee ee, chos ¢ < list: , 14th +10/+5 +4 +4 +9 +4 +3 2 +11 + 3 m Persuasive, Trustworthy, Weapon el sa AS = fd oa ss x * cee 16th +12/+7/4+2 +5 +5 +10 +5, +4 Group Proficiency (blaster pistols),
-> Weapon Group Proficiency (simple LEA SEC = a te ha!
-ima ee ee ¥ 18th +13/+8/+3 +6 +6 +11 +6 +4 = ap 19th +14/+9/+4 +6 +6 +11 +6 +4 m 20th +15/+10/+5 +6 +6 +12 +6 +5 Al < O)
+**Class Features:** The diplomat gets two starting feats for free, chosen from the following list: Persuasive, Trustworthy, Weapon Group Proficiency (blaster pistols), Weapon Group Proficiency (simple weapons).
 
 <!-- page 284 -->
 
 ## Expert
 
-Experts are craftsmen and professionals. They normally do not have the inclination or training to be heroes, but they are capable in their own fields. Skilled engineers, educated professors, and master architects are all experts. GMs Should use the expert class for professionals such as engiineers, teachers, and technicians.
+Experts are craftsmen and professionals. They normally do not have the inclination or training to be heroes, but they are capable in their own fields. Skilled engineers, educated professors, and master architects are all experts. GMs should use the expert class for professionals such as engineers, teachers, and technicians.
 
-Class Skills The expert selects any cight skills from the following list as ‘lass skills (see Chapter Four for skill descriptions):
+**Table 12-15: The Expert**
 
-Appraise (Int), Astrogate (Int), Computer Use (Int), Craft* {int}, Demolitions (Int), Disable Device (Int), Disguise (Cha), Entertain (Cha), Forgery (Int), Gamble (Wis), Gather Information (Cha), Handle Animal (Cha), Knowledge* (Int), Pilot (Dex), Profession* (Wis), Repair (Int), Survival (Wis), and Treat Injury (Wis).
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Defense Bonus | Reputation Bonus |
+| ----- | ----------------- | --------- | -------- | --------- | ------------- | ---------------- |
+| 1st | +0 | +0 | +0 | +2 | +0 | +0 |
+| 2nd | +1 | +0 | +0 | +3 | +0 | +0 |
+| 3rd | +2 | +1 | +1 | +3 | +1 | +0 |
+| 4th | +3 | +1 | +1 | +4 | +1 | +1 |
+| 5th | +3 | +1 | +1 | +4 | +1 | +1 |
+| 6th | +4 | +2 | +2 | +5 | +2 | +1 |
+| 7th | +5 | +2 | +2 | +5 | +2 | +1 |
+| 8th | +6/+1 | +2 | +2 | +6 | +2 | +2 |
+| 9th | +6/+1 | +3 | +3 | +6 | +3 | +2 |
+| 10th | +7/+2 | +3 | +3 | +7 | +3 | +2 |
+| 11th | +8/+3 | +3 | +3 | +7 | +3 | +2 |
+| 12th | +9/+4 | +4 | +4 | +8 | +4 | +3 |
+| 13th | +9/+4 | +4 | +4 | +8 | +4 | +3 |
+| 14th | +10/+5 | +4 | +4 | +9 | +4 | +3 |
+| 15th | +11/+6/+1 | +5 | +5 | +9 | +5 | +4 |
+| 16th | +12/+7/+2 | +5 | +5 | +10 | +5 | +4 |
+| 17th | +12/+7/+2 | +5 | +5 | +10 | +5 | +4 |
+| 18th | +13/+8/+3 | +6 | +6 | +11 | +6 | +4 |
+| 19th | +14/+9/+4 | +6 | +6 | +11 | +6 | +4 |
+| 20th | +15/+10/+5 | +6 | +6 | +12 | +6 | +5 |
 
-Wis skill actually encompasses a number of unrelated skills. Each time this
+**Class Skills:** The expert selects any eight skills from the following list as class skills (see Chapter Four for skill descriptions): Appraise (Int), Astrogate (Int), Computer Use (Int), Craft* (Int), Demolitions (Int), Disable Device (Int), Disguise (Cha), Entertain (Cha), Forgery (Int), Gamble (Wis), Gather Information (Cha), Handle Animal (Cha), Knowledge* (Int), Pilot (Dex), Profession* (Wis), Repair (Int), Survival (Wis), and Treat Injury (Wis).
 
-ils learned, a specific category must also be chosen. Examples include Craft rectronics), Knowledge (galactic politics), and Profession (droid programmer).
+*This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (electronics), Knowledge (galactic politics), and Profession (droid programmer).*
 
-Skill Points at Ist Level: (6 + Int modifier) x 4. Skill Points at Each Additional Level: 6 + Int modifier.
+Skill Points at 1st Level: (6 + Int modifier) × 4. Skill Points at Each Additional Level: 6 + Int modifier.
 
-Class Features ‘The expert gets two starting feats for free, chosen from the ‘allowing list:
-
-Gearhead, Skill Emphasis, Weapon Group Proficiency ‘blaster pistols), Weapon Group Proficiency (simple weapons)
+**Class Features:** The expert gets two starting feats for free, chosen from the following list: Gearhead, Skill Emphasis, Weapon Group Proficiency (blaster pistols), Weapon Group Proficiency (simple weapons).
 
 ## Thug
 
-¢ thug is a strong, stout combatant—a straightforward and subtle opponent in a fight, but not an inconsiderable one. w-level thugs simulate the average street tough, bully, or jacehand that heroes are likely to encounter.
+The thug is a strong, stout combatant—a straightforward and not-so-subtle opponent in a fight, but not an inconsiderable one. Low-level thugs simulate the average street tough, bully, or spacehand that heroes are likely to encounter.
 
-fable 12-16: The Thug
+**Table 12-16: The Thug**
 
-Class Skills The thug’s class skills, and the key ability for each skill, are as follows (See Chapter Four for skill descriptions):
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Defense Bonus | Reputation Bonus |
+| ----- | ----------------- | --------- | -------- | --------- | ------------- | ---------------- |
+| 1st | +1 | +2 | +0 | +0 | +1 | +0 |
+| 2nd | +2 | +3 | +0 | +0 | +1 | +0 |
+| 3rd | +3 | +3 | +1 | +1 | +1 | +0 |
+| 4th | +4 | +4 | +1 | +1 | +2 | +1 |
+| 5th | +5 | +4 | +1 | +1 | +2 | +1 |
+| 6th | +6/+1 | +5 | +2 | +2 | +2 | +1 |
+| 7th | +7/+2 | +5 | +2 | +2 | +3 | +1 |
+| 8th | +8/+3 | +6 | +2 | +2 | +3 | +2 |
+| 9th | +9/+4 | +6 | +3 | +3 | +3 | +2 |
+| 10th | +10/+5 | +7 | +3 | +3 | +4 | +2 |
+| 11th | +11/+6/+1 | +7 | +3 | +3 | +4 | +2 |
+| 12th | +12/+7/+2 | +8 | +4 | +4 | +4 | +3 |
+| 13th | +13/+8/+3 | +8 | +4 | +4 | +5 | +3 |
+| 14th | +14/+9/+4 | +9 | +4 | +4 | +5 | +3 |
+| 15th | +15/+10/+5 | +9 | +5 | +5 | +5 | +3 |
+| 16th | +16/+11/+6/+1 | +10 | +5 | +5 | +6 | +4 |
+| 17th | +17/+12/+7/+2 | +10 | +5 | +5 | +6 | +4 |
+| 18th | +18/+13/+8/+3 | +11 | +6 | +6 | +6 | +4 |
+| 19th | +19/+14/+9/+4 | +11 | +6 | +6 | +7 | +4 |
+| 20th | +20/+15/+10/+5 | +12 | +6 | +6 | +7 | +5 |
 
-Climb (Str), Intimidate (Cha), Jump (Str), Knowledge* (Int), Profession* (Wis), Ride (Dex), and Swim (Str). “This skill actually encompasses a number of unrelated skill. Each time this skill is learned, a specific category must also be chosen. Examples include Knowledge (spacer fore) and Profession (spacehand),
+**Class Skills:** The thug’s class skills, and the key ability for each skill, are as follows (see Chapter Four for skill descriptions): Climb (Str), Intimidate (Cha), Jump (Str), Knowledge* (Int), Profession* (Wis), Ride (Dex), and Swim (Str).
 
-Skill Points at Ist Level: (2 + Int modifier) x 4.
+*This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Knowledge (spacer lore) and Profession (spacehand).*
 
-Skill Points at Each Additional Level: 2 + Int modifier.
+Skill Points at 1st Level: (2 + Int modifier) × 4. Skill Points at Each Additional Level: 2 + Int modifier.
 
-Class Features The thug gets three starting feats for free, chosen from the following list:
-
-Armor Proficiency (light), Athletic, Toughness, Weapon Group Proficiency (blaster pistols), Weapon Group Proficiency (simple weapons), Weapon Group Proficiency (slugthrowers), Weapon Group Proficiency (vibro weapons)
+**Class Features:** The thug gets three starting feats for free, chosen from the following list: Armor Proficiency (light), Athletic, Toughness, Weapon Group Proficiency (blaster pistols), Weapon Group Proficiency (simple weapons), Weapon Group Proficiency (slugthrowers), Weapon Group Proficiency (vibro weapons).
 
 ## Generating Communities
 
 Quite frequently, the heroes in a Star Wars campaign visit a city, a village, or a teeming metropolis brimming with life from a thousand different worlds. The GM often needs to know several important facts about these communities to make them come alive for the players. The following system allows the GM to generate communities quickly, from tiny clusters of dwellings to vast cities spanning a hundred square kilometers.
 
-Laying the Foundation The first step in the process is to decide the general size of the community. The GM can either choose a community size that fits his needs or roll percentile dice to determine randomly. Note that the community types listed here (thorp, small town, metropolis, and so forth) are merely for guidance. The GM might choose to call a given community a base, commune, collective, créche, hub, or any other name that fits. The community might even
+### Laying the Foundation
 
-Base Fort Ref Will Defense Reputation be in a nonstandard location, such as Attack Bonus Save Save Save Bonus Bonus an orbital space station, a sub- +1 +2 +0 +0 +1 +0 aquatic dome, or a 42 43 +0 +0 +1 +0 repulsorlift-supported platform +3 +3 +1 +1 +1 +0 several kilometers above a planet's +4 +4 +1 +1 +2 +1 surface. Table 12-17: Random +5 +4 +1 +1 +2 +1 Community Generator provides the +6/+1 +5 +2 +2 +2 +1 various sizes of communities, +7/42 45 +2 +2 +3 +1 expressed in terms of their adult +8/+3 +6 +2 +2 +3 +2 population. (Depending on the domi- +9/+4 +6 +3 +3 +3 +2 nant species of the community, the +10/+5, +7 +3 +3 +4 +2 number of nonadults will range from +11/+6/+1 +7 +3 +3 +4 +2 10% to 40% of this figure.) +12/+7/+2 +8 +4 +4 +4 +3 +13/+8/+3 +8 +4 +4 $5 43 Community Wealth and +14/+9/+4 49 +4 +4 +5 +3 Population +15/+10/45 +9 +5 +5 +5 +3 Every community has a credit limit +16/+11/4+6/+1 +10 +5 45 +6 +4 based on its size and population. The $+:17/4+12/+7/4+2 +10 +5 +5 +6 +4 credit limit (see Table 12-17: Random +18/+13/+8/+3 +11 +6 +6 +6 +4 Community Generator) indicates the +19/414/+9/+4 +11 +6 +6 +7 +4 price of the most expensive item avail- +20/+15/+10/+5 +12 +6 +6 +7 +5 able in that community. Nothing that
+The first step in the process is to decide the general size of the community. The GM can either choose a community size that fits his needs or roll percentile dice to determine randomly. Note that the community types listed here (thorp, small town, metropolis, and so forth) are merely for guidance. The GM might choose to call a given community a base, commune, collective, crèche, hub, or any other name that fits. The community might even be in a nonstandard location, such as an orbital space station, a sub-aquatic dome, or a repulsorlift-supported platform several kilometers above a planet’s surface. Table 12-17: Random Community Generator provides the various sizes of communities, expressed in terms of their adult population. (Depending on the dominant species of the community, the number of nonadults will range from 10% to 40% of this figure.)
 
-Nn oo
+### Community Wealth and Population
 
-oO) < < “a tf Z ol
+Every community has a credit limit based on its size and population. The credit limit (see Table 12-17: Random Community Generator) indicates the price of the most expensive item available in that community. Nothing that
 
 <!-- page 285 -->
 
-AINISSLSVWAWNVS
-
-costs more than a community's credit limit is available for purchase there. Anything having a price under that limit is most likely available. While exceptions are certainly possible, these exceptions are temporary; all communities will conform to the norm over time.
+costs more than a community’s credit limit is available for purchase there. Anything having a price under that limit is most likely available. While exceptions are certainly possible, these exceptions are temporary; all communities will conform to the norm over time.
 
 To determine the amount of ready cash in a community, or the total value of any given item of equipment for sale at any given time, multiply half the credit limit by one-tenth of the community's population.
 
@@ -2658,55 +2335,41 @@ Sometimes all the GM needs to know about a community is who holds the real power
 | Metropolis     | +6 (roll four times)    |
 | Megalopolis    | +12 (roll five times)   |
 
-Conventional: The community has a traditional formof government—a mayor, a town council, a noble ruling over the surrounding area under a greater liege, a noble ruling the community as a city-state. Choose whichever form of government seems most appropriate to the area.
+Conventional: The community has a traditional form of government—a mayor, a town council, a noble ruling over the surrounding area under a greater liege, a noble ruling the community as a city-state. Choose whichever form of government seems most appropriate to the area.
 
-Nonstandard: While the community might have a may or a town council, the real power lies in other hands. It might center on a guild—a formal organization of merchants, craftsmen, professionals, soldiers, or organized, criminals who collectively wield great influence, Wealthy aristocracy, in the form of one or more rich individuals with no political office, might exert influence through their wealth. Prestigious aristocracy might exert influence through their reputation and experience. Wise elders might exert influence through those who respect their age, repuli) tion, and perceived wisdom.
+Nonstandard: While the community might have a mayor or a town council, the real power lies in other hands. It might center on a guild—a formal organization of merchants, craftsmen, professionals, soldiers, or organized criminals who collectively wield great influence. Wealthy aristocracy, in the form of one or more rich individuals with no political office, might exert influence through their wealth. Prestigious aristocracy might exert influence through their reputation and experience. Wise elders might exert influence through those who respect their age, reputation, and perceived wisdom.
 
-Mystical: From a powerful temple full of priests toa single Force adept cloistered in a tower, a mystic of some kind might be the temporal ruler of the community, or perhaps just someone with a tremendous influence, Depending on the era in which the campaign takes place, mystical power center might be composed of actual Force users, those who pretend to be in touch with the Force, alternate traditions, or even dark side devotees.
+Mystical: From a powerful temple full of priests to a single Force adept cloistered in a tower, a mystic of some kind might be the temporal ruler of the community, or perhaps just someone with a tremendous influence. Depending on the era in which the campaign takes place, a mystical power center might be composed of actual Force users, those who pretend to be in touch with the Force, alternate traditions, or even dark side devotees.
 
-Alien: Not all communities completely govern themselves, They might be answerable to unforgiving merchant coalltions (such as Hutts) who occasionally make nonnegotiable demands and insist on being consulted in all major decisions, or alien warlords who periodically collect tribute, troop levies, and exorbitant taxes, while simultaneously passing down pronouncements that can have devastating effects on the day-to-day lives of the community's populition. An alien power center represents any major influence {beyond just a simple nearby danger) held by an offworld concern not native to the community. Note that during the time of the Galactic Empire, the majority of conventionally tuled governments are also subject to “alien” control—that of the Empire.
+Alien: Not all communities completely govern themselves. They might be answerable to unforgiving merchant coalitions (such as Hutts) who occasionally make nonnegotiable demands and insist on being consulted in all major decisions, or alien warlords who periodically collect tribute, troop levies, and exorbitant taxes, while simultaneously passing down pronouncements that can have devastating effects on the day-to-day lives of the community's population. An alien power center represents any major influence (beyond just a simple nearby danger) held by an offworld concern not native to the community. Note that during the time of the Galactic Empire, the majority of conventionally ruled governments are also subject to “alien” control—that of the Empire.
 
 ## Conflicting Power Centers
 
-As shown in Table 12-18: Power Centers, any community at least as large as a small city has more than one power center. If a community has more than one power center,
+As shown in Table 12-18: Power Centers, any community at least as large as a small city has more than one power center. If a community has more than one power center, and two or more of the power centers have opposing goals (such as a brotherhood of Force adepts who refuse to bow to the will of the Emperor), they conflict. Such conflict is not necessarily open conflict, and sometimes the opposed power centers actually get along, albeit grudgingly.
 
-and two or more of the power centers have opposing goal (such as a brotherhood of Force adepts who refuse to bow to the will of the Emperor), they conflict. Such conflict is
-
-not necessarily open conflict, and sometimes the opposed power centers actually get along, albeit grudgingly.
-
-The GM must determine just how the various power centers in a community interact. Do they cooperate in open meetings, putting aside their differences and voting on measures for the common good? Or do they struggle and argue over every issue, constantly vying for power for them selves or their constituency? A prestigious aristocracy might object to the teachings of a Jedi academy in their community, while the Jedi themselves nervously watch every move made by a guild of soldiers led by a Force-using, non-Jedi warlord. All of these combined might serve to drum up business for the powerful merchants’ guild, but the merchants know that if open conflict were to erupt, their own livelihoods would suffer.
+The GM must determine just how the various power centers in a community interact. Do they cooperate in open meetings, putting aside their differences and voting on measures for the common good? Or do they struggle and argue over every issue, constantly vying for power for themselves or their constituency? A prestigious aristocracy might object to the teachings of a Jedi academy in their community, while the Jedi themselves nervously watch every move made by a guild of soldiers led by a Force-using, non-Jedi warlord. All of these combined might serve to drum up business for the powerful merchants’ guild, but the merchants know that if open conflict were to erupt, their own livelihoods would suffer.
 
 <!-- page 286 -->
 
-Characters in the Community Hor detailed city play, knowing exactly who lives in the community becomes important. The following guidelines wlow you to determine the levels of the most powerful ocals and then extrapolate from that to determine the rest of the heroic and professional characters living there.
+## Characters in the Community
 
-tighest-Level Characters
+For detailed city play, knowing exactly who lives in the community becomes important. The following guidelines allow you to determine the levels of the most powerful locals and then extrapolate from that to determine the rest of the heroic and professional characters living there.
 
-ise Table 12-19: Highest-Level Locals to determine the highest-level character in a given class for a given community. Roll the die or dice indicated for the class and apply
+### Highest-Level Characters
 
-ihe modifier based on the size of the community. A result of 0 or lower for character level means that no characters of Hhat type can be found in the community. The maximum Ine! for any class is 20th.
+Use Table 12-19: Highest-Level Locals to determine the highest-level character in a given class for a given community. Roll the die or dice indicated for the class and apply the modifier based on the size of the community. A result of 0 or lower for character level means that no characters of that type can be found in the community. The maximum level for any class is 20th.
 
-Note that in some eras of play, the GM might wish to adjust the numbers for Force-using characters. Jedi are all ul extinct during the early and middle part of the
+Note that in some eras of play, the GM might wish to adjust the numbers for Force-using characters. Jedi are all but extinct during the early and middle part of the Rebellion era; the GM should not roll randomly for these. Similarly, most Force adepts during this time have also been hunted to extinction, with at least half of the remainder serving the Emperor (and subsequently, being more attuned to the dark side of the Force).
 
-iebellion era; the GM should not roll randomly for these. imilarly, most Force adepts during this time have also been inted to extinction, with at least half of the remainder
+During the New Jedi Order era, Force-users are more plentiful than they were during the Rebellion era but still not as common as they were during the Old Republic era. GMs should apply a −5 modifier to the character level for Jedi and a −2 modifier for Force adepts.
 
-ing the Emperor (and subsequently, being more attuned the dark side of the Force).
+### Total Characters of Each Class
 
-During the New Jedi Order era, Force-users are more ientiful than they were during the Rebellion era but still
+Use the following method for determining the levels of all characters of a given class in a community.
 
-iol as common as they were during the Old Republic era. Ms should apply a -5 modifier to the character level for
+For heroic classes, if the highest-level character indicated 2nd level or above, assume there are twice that number of characters of half that level. If those characters are above 1st level, assume that for each such character, there are two of half that level. Continue this process until the number of 1st-level characters is generated. For example, if the highest-level soldier is 5th level, then the community also holds two 3rd-level soldiers and four 1st-level soldiers.
 
-di and a -2 modifier for Force adepts.
-
-otal Characters of Each Class
-
-&e the following method for determining the levels of all characters of a given class in a community.
-
-For heroic classes, if the highest-level character indicated 2nd level or above, assume there are twice that number of aracters of half that level. If those characters are above Hiilevel, assume that for each such character, there are two fhalf that level. Continue this process until the number of stlevel characters is generated. For example, if the hight-level soldier is 5th level, then the community also holds (0 3rd-level soldiers and four Ist-level soldiers.
-
-Use the same method for nonheroic classes (diplomat,
-
-rt, and thug), but leave out the final stage that would
+Use the same method for nonheroic classes (diplomat, expert, and thug), but leave out the final stage that would
 
 **Table 12-19: Highest-Level Locals**
 
@@ -2739,41 +2402,45 @@ rt, and thug), but leave out the final stage that would
 | Metropolis     | +12 (roll four times)   |
 | Megalopolis    | +15 (roll five times)   |
 
-generate the number of 1st-level individuals. Instead take the remaining population after all character types are generated and divide it in the following ratio: 91% commoners, 5% Ist-level thugs, 3% 1st-level experts, 1% Ist-level diplomats.
+generate the number of 1st-level individuals. Instead take the remaining population after all character types are generated and divide it in the following ratio: 91% commoners, 5% 1st-level thugs, 3% 1st-level experts, 1% 1st-level diplomats.
 
 The number of Jedi is determined differently. Assume that there is only one Jedi of no more than one-half the level of the highest-level Jedi consular and Jedi guardian. If this second Jedi is greater than 7th level, assume that there is one more Jedi, again of one-half this level. In both cases, round down. Any Jedi character of below 7th level is assumed to be the Padawan of the highest-level Jedi in the community.
 
-Nn oo
-
-< < 4
-
 <!-- page 287 -->
 
-ONIASLSVWANVS
-
-- FAVORS AND CONTACTS
+## Favors and Contacts
 
 Some characters have access to a special resource in the form of a person they can call on in times of need. A contact is an individual who has the power to assist the character in some way, usually through favors owed.
 
-## Favors
+### Favors
 
-Nobles and Jedi investigators can use their influence and contacts to call in favors. The character must make a favor check (1420 + the character's favor bonus) and compare the result to the favor’s DC, which the GM must determine based on the situation and the threat of danger. Some guidelines for determining the DC of a favor check are given below.
+Nobles and Jedi investigators can use their influence and contacts to call in favors. The character must make a favor check (`1d20` + the character’s favor bonus) and compare the result to the favor’s DC, which the GM must determine based on the situation and the threat of danger. Some guidelines for determining the DC of a favor check are given below.
 
-Favor Examples pc Easy Booking passage on a smuggler’s ship Asking a crime lord for a loan of 500 credits Persuading a shipyard administrator to waive docking fees or assign mechanics for repairs Problematic Convincing a podracer to throw a race 15 Asking a crime lord for a loan of 5,000 credits Asking a slicer to hack into the Bothan spynet Difficult Convincing an Imperial officer to release a 20 suspected Rebel spy Asking a crime lord for a loan of 50,000 credits Persuading a starship captain to risk his ship and crew to help capture a notorious pirate
+| Favor DC | Examples |
+| -------- | -------- |
+| Easy (DC 10) | Booking passage on a smuggler’s ship; Asking a crime lord for a loan of 500 credits; Persuading a shipyard administrator to waive docking fees or assign mechanics for repairs |
+| Problematic (DC 15) | Convincing a podracer to throw a race; Asking a crime lord for a loan of 5,000 credits; Asking a slicer to hack into the Bothan spynet |
+| Difficult (DC 20) | Convincing an Imperial officer to release a suspected Rebel spy; Asking a crime lord for a loan of 50,000 credits; Persuading a starship captain to risk his ship and crew to help capture a notorious pirate |
 
-Contacts The purpose of a contact is to provide information, expert skills, or the occasional loan. Contacts differ from followers or allies in that they are less inclined to risk their lives or their prosperity for a hero. As the GM, you must decide how much assistance a contact can and will provide. In general, the more wealthy, powerful, and important the contact, the less inclined he or she is to deal directly with the hero. A planetary governor contact might assign a minion to help a hero cut through some bureaucratic tape, but the governor isn’t going to risk the merciless gaze of public scrutiny by allowing the hero to violate a planetary quarantine. In such a case, it might be more advantageous for the hero to have as the contact someone in the planetary governor's office, and not the governor himself Circumstances will arise when a hero is unable to reach a contact or call in a favor. The GM must adjudicate these situations as they arise, For example, a hero stranded on Hoth without a transceiver probably can’t ask a favor of a crime lord on Tatooine. Similarly, a low-level slicer contact won't help a hero break into the Bothan spynet if he stands a good chance of getting caught.
+### Contacts
 
-## Information Contacts
+The purpose of a contact is to provide information, expert skills, or the occasional loan. Contacts differ from followers or allies in that they are less inclined to risk their lives or their prosperity for a hero. As the GM, you must decide how much assistance a contact can and will provide. In general, the more wealthy, powerful, and important the contact, the less inclined he or she is to deal directly with the hero. A planetary governor contact might assign a minion to help a hero cut through some bureaucratic tape, but the governor isn’t going to risk the merciless gaze of public scrutiny by allowing the hero to violate a planetary quarantine. In such a case, it might be more advantageous for the hero to have as the contact someone in the planetary governor’s office, and not the governor himself. Circumstances will arise when a hero is unable to reach a contact or call in a favor. The GM must adjudicate these situations as they arise. For example, a hero stranded on Hoth without a transceiver probably can’t ask a favor of a crime lord on Tatooine. Similarly, a low-level slicer contact won’t help a hero break into the Bothan spynet if he stands a good chance of getting caught.
 
-An information contact can discover things the heroes normally couldn't find out. You can use this contact as a mouthpiece when you need to pass information to the heroes during an adventure. Other times, a players might think of asking a contact for help when the adventure seems to stall.
+### Information Contacts
+
+An information contact can discover things the heroes normally couldn’t find out. You can use this contact as a mouthpiece when you need to pass information to the heroes during an adventure. Other times, a player might think of asking a contact for help when the adventure seems to stall.
 
 Examples of information contacts include bartenders, thugs, con artists, spacers, law enforcers, outlaws, reporters, entertainers, computer slicers, traders, politicians, smugglers, officers, starship captains, and various types of street people.
 
-€xpert Contacts Expert contacts have skills or abilities that the heroes don’t have. Usually, the hero brings a situation to a contact’s attention and asks the contact to address it. For example, a mechanic who can repair 3 damaged hyperdrive at reduced cost would be invaluable to a noble with her own ship.
+### Expert Contacts
+
+Expert contacts have skills or abilities that the heroes don’t have. Usually, the hero brings a situation to a contact’s attention and asks the contact to address it. For example, a mechanic who can repair a damaged hyperdrive at reduced cost would be invaluable to a noble with her own ship.
 
 Examples of expert contacts include doctors, engineers, diplomats, historians, spacehands, fences, mechanics, scholars, scientists, politicians, and bounty hunters.
 
-Resource Contacts A resource contact can provide heroes with equipment, personnel, or transportation. For instance, a bureaucrat with access to a space trans port might be useful to a hero without a ship. Similarly, a resource contact might have subordinates or connections whose services a hero needs. Obviously, the contact might be annoyed if the hero is careless or indiscreet with the resource she has been given.
+### Resource Contacts
+
+A resource contact can provide heroes with equipment, personnel, or transportation. For instance, a bureaucrat with access to a space transport might be useful to a hero without a ship. Similarly, a resource contact might have subordinates or connections whose services a hero needs. Obviously, the contact might be annoyed if the hero is careless or indiscreet with the resource she has been given.
 
 Examples of resource contacts include bureaucrats, corporate executives, crime lords, government officials, officers, politicians, ship captains, and shipyard administrators.
 
@@ -2801,21 +2468,19 @@ In general, a contact should be of comparable level to the heroes, and you can i
 
 *1 = information contact, E = expert contact, R = resource contact.
 
-Other contacts include commoners (bartenders, clerks, entertainers street people), low- to mid-level diplomats (executives, minor bureaucrats, politicians, reporters), and low- to high-level experts (engineers, mechanics, scholars, historians, scientists). Use the rules for commoners, diplomats, and experts in this chapter to create game statistics for these minor supporting characters. ::
+Other contacts include commoners (bartenders, clerks, entertainers, street people), low- to mid-level diplomats (executives, minor bureaucrats, politicians, reporters), and low- to high-level experts (engineers, mechanics, scholars, historians, scientists). Use the rules for commoners, diplomats, and experts in this chapter to create game statistics for these minor supporting characters.
 
 <!-- page 288 -->
 
 ## The Environment
 
-Heroes spend a lot of time in the most dismal, dangerous, generally unpleasant places imaginable. If the villains and creatures encountered don't kill the heroes, the environment might. This section details hazards the heroes face
-
-fom the physical world around them.
+Heroes spend a lot of time in the most dismal, dangerous, generally unpleasant places imaginable. If the villains and creatures encountered don’t kill the heroes, the environment might. This section details hazards the heroes face from the physical world around them.
 
 ## Darkness and Light
 
-i's. a rare mission that doesn’t end up in the dark somewhere, and heroes need a way to see. See Table 12-21: light Sources for the radius that a light source illuminates and how long it lasts.
+It’s a rare mission that doesn’t end up in the dark somewhere, and heroes need a way to see. See Table 12-21: Light Sources for the radius that a light source illuminates and how long it lasts.
 
-Characters with low-light vision can see objects twice as fy away as the listed radius. Characters with darkvision can a lit areas normally plus dark areas within 20 meters. Nithout a light source, heroes are effectively blinded (see the tharacter Condition Summary sidebar).
+Characters with low-light vision can see objects twice as far away as the listed radius. Characters with darkvision can see lit areas normally plus dark areas within 20 meters. Without a light source, heroes are effectively blinded (see the Character Condition Summary sidebar).
 
 **Table 12-21: Light Sources**
 
@@ -2830,27 +2495,21 @@ Characters with low-light vision can see objects twice as fy away as the listed 
 
 ## Heat and Cold
 
-he blistering desert of Tatooine can be deadlier than a Hath Star, while the prickly fingers of icy death on Hoth ian clutch even the bravest heroes. Prolonged exposure to ot or cold temperatures can wear down a hero, and heatoke or hypothermia can prove deadly.
+The blistering desert of Tatooine can be deadlier than a Death Star, while the prickly fingers of icy death on Hoth can clutch even the bravest heroes. Prolonged exposure to hot or cold temperatures can wear down a hero, and heatstroke or hypothermia can prove deadly.
 
-Heat and cold deal vitality point damage that cannot be movered until the character counteracts or escapes the inclement temperature. When a character runs out of vitali points, he begins losing wound points. As soon as the Haracter suffers any damage from heat or cold, he is nsidered fatigued (see the Character Condition
+Heat and cold deal vitality point damage that cannot be recovered until the character counteracts or escapes the inclement temperature. When a character runs out of vitality points, he begins losing wound points. As soon as the character suffers any damage from heat or cold, he is considered fatigued (see the Character Condition Summary sidebar).
 
-lummary sidebar).
+A character not properly equipped to counteract the heat or cold must attempt a Fortitude saving throw each hour (DC 15, +1 for each previous check). Failure means that the character loses `1d4` vitality points (or wound points if he has no vitality points left). Heavy clothing or armor provides a −4 penalty on saves against heat but grants a +4 equipment bonus on saves against cold. A character who succeeds at a Survival check (DC 15) gains a +4 competence bonus on the save (see the Survival skill in Chapter Four).
 
-Acharacter not properly equipped to counteract the heat wrcold must attempt a Fortitude saving throw each hour
+Searing heat or bitter cold (desert or arctic conditions) forces a character to make a Fortitude save every 10 minutes. Failure means that the character loses `1d6` vitality points (or wound points if he has no vitality points left). Appropriate clothing and successful use of the Survival skill can modify the save, as noted above.
 
-## CATCHING ON FIRE
+Breathing air in areas of intense heat (such as above a lava pit) automatically deals `1d6` points of damage per minute, and the character must succeed at a Fortitude save every 5 minutes or take an additional `1d4` points of damage.
 
-Heroes exposed to open flames might find their clothes, hair, or uipment on fire. Heroes at risk of catching fire are allowed a ielex saving throw (DC 15) to avoid this fate. If a hero’s clothes arhair catch fire, he takes `1d6` points of damage immediately. in each subsequent round, the burning hero must make nother Reflex saving throw. Failure means he takes another 6 points of damage that round. Success means that the fire was gone out. (That is, once he succeeds at his saving throw,
-
-he's no longer on fire.)
-
-Ahero on fire may automatically extinguish the flames by jumpng into enough water to douse himself. if no body of water is at lund, rolling on the ground or smothering the fire with cloaks or ihelike permits the hero another save with a +4 bonus.
-
-(DC 15, +1 for each previous check). Failure means that the character loses `1d4` vitality points (or wound points if he has no vitality points left). Heavy clothing or armor provides a —4 penalty on saves against heat but grants a +4 equipment bonus on saves against cold. A character who succeeds at a Survival check (DC 15) gains a +4 competence bonus on the save (see the Survival skill in Chapter Four).
-
-Searing heat or bitter cold (desert or arctic conditions) forces a character to make a Fortitude save every 10 minutes. Failure means that the character loses 146 vitality points (or wound points if he has no vitality points left). Appropriate clothing and successful use of the Survival skill can modify the save, as noted above.
-
-Breathing air in areas of intense heat (such as above a lava pit) automatically deals `1d6` points of damage per minute, and the character must succeed at a Fortitude save every 5 minutes or take an additional 14 points of damage.
+> **Catching on Fire**
+>
+> Heroes exposed to open flames might find their clothes, hair, or equipment on fire. Heroes at risk of catching fire are allowed a Reflex saving throw (DC 15) to avoid this fate. If a hero’s clothes or hair catch fire, he takes `1d6` points of damage immediately. In each subsequent round, the burning hero must make another Reflex saving throw. Failure means he takes another `1d6` points of damage that round. Success means that the fire has gone out. (That is, once he succeeds at his saving throw, he’s no longer on fire.)
+>
+> A hero on fire may automatically extinguish the flames by jumping into enough water to douse himself. If no body of water is at hand, rolling on the ground or smothering the fire with cloaks or the like permits the hero another save with a +4 bonus.
 
 ## Starvation and Thirst
 
@@ -2858,7 +2517,7 @@ It’s not heroic, but sometimes heroes might find themselves without food and w
 
 A character can go without water for one day plus a number of hours equal to his or her Constitution score. After this, the character must make a Constitution check each hour (DC 10, +1 for each previous check) or take `1d6` points of vitality damage.
 
-A character can go without food for three days, in growing discomfort. After this, the character must make a Constitution check each day (DC 10, +1 per each previous check) or sustain 146 points of vitality damage. When vitality is depleted, damage is applied to wound points.
+A character can go without food for three days, in growing discomfort. After this, the character must make a Constitution check each day (DC 10, +1 per each previous check) or sustain `1d6` points of vitality damage. When vitality is depleted, damage is applied to wound points.
 
 Damage from thirst or starvation cannot be recovered until the hero gets food or water, as needed. Even effects that restore vitality or wound points cannot heal this damage.
 
@@ -2868,129 +2527,87 @@ A character in an airless environment (underwater, vacuum) can hold her breath f
 
 When the character finally fails her Constitution check, she begins to suffocate or drown. In the first round, she loses all remaining vitality points and is fatigued. The following round, she loses all remaining wound points and is dying. In the third round, she suffocates or drowns.
 
-Smoke Characters breathing heavy smoke or similar toxic gases must make a Constitution check (DC 10, +1 for each previous check) each round or spend that round choking and coughing. Characters who choke for 2 consecutive rounds take `1d6` points of vitality damage. When vitality is depleted, damage is applied to wound points.
+**Smoke:** Characters breathing heavy smoke or similar toxic gases must make a Constitution check (DC 10, +1 for each previous check) each round or spend that round choking and coughing. Characters who choke for 2 consecutive rounds take `1d6` points of vitality damage. When vitality is depleted, damage is applied to wound points.
 
 Smoke also obscures vision, giving one-half concealment (20% miss chance) to characters within it.
-
-287
-
-ol < < 4 al
 
 <!-- page 289 -->
 
 ## Thin Air
 
-a mountain or in a partially depressurized starship, must
+A character at high altitude, such as on a mountain or in a partially depressurized starship, must make a Constitution check each hour (DC 10, +1 for each previous check). Failure means the character loses `1d6` points of vitality damage. When vitality is depleted, damage is applied to wound points. A character who sustains any damage from lack of oxygen is considered fatigued (see the Character Condition Summary sidebar).
 
-ke a Constitution check each hour (DC 10, +1 for each
+The penalties for fatigue remain until the character spends at least 8 hours breathing air in a normal-oxygen environment.
 
-s check), t `1d6` points of vit
+**Altitude Sickness:** At high altitudes, the thin air affects mental and physical ability scores. Each 6-hour period a character spends in a high-altitude environment, he must succeed at a Constitution check or take 1 point of temporary damage to all ability scores.
 
-applied to wound points. A character who sustains any damage from lack of
+**Strangulation:** When a character or creature is strangled by an instrument (like a noose) or an attacker, the rules for suffocation and drowning apply except as noted below. One can strangle or choke a target of the same size category, one size category larger, or one size category smaller. (For example, a Medium-size character can strangle a Small, Medium-size, or Large target.) The strangling attempt incurs an attack of opportunity.
 
-The penalties for fa
+To begin the choke, the attacker must succeed at an opposed grapple check (see Grapple in Chapter Nine: Combat; also see Suffocation and Drowning above).
 
-low-oxygen environment Altitude Sickness: | high
-
-al and physica
-
-scores. Each
-
-altitude affects m
-
-6-hour period a character spends over 20,000 feet, |
-
-succeed at a Constitution check or take 1 point of tempo rary damage to all ability scores.
-
-Strangulation Wher
-
-(like a noose) or an attacker, the rules for suffocation and
-
-a character or creature is strangled by an instrumen drowning apply except as noted below. One can strangle or choke a target of the same size cal
-
-size category larger or smaller. (For exa
-
-m-size character can strangle a Small, Medium-siz Large target.) The strangling attempt incurs an attack of
-
-opportunity
-
-egin the choke, the attacker must succeed at an
-
-## CHARACTER CONDITION SUMMARY
-
-A number of adverse conditions can affect the way a character operates. To facilitate the understanding of how these conditions affect a character, the following standard definitions apply. If more than one condition affects a character, apply both if possible. If not possible, apply only the most severe condition.
-
-Ability Damaged: The character has lost 1 or more ability score points. The loss is temporary, and these points return at a rate of 1 per day. Note that is this different from “effective” ability loss, which is an effect that goes away when the condition causing it (fatigue, entanglement, or whatever) goes away.
-
-Ability Drained: The character has lost one or more ability score points. The loss is permanent.
-
-Blinded: The hero can't see at all, and thus everything has full concealment to him. He has a 50% chance to miss in combat. He has an effective Dexterity of 3, along with a -4 penalty on the use of Strength-based and Dexterity-based skills. This -4 penalty also applies to Search and any other skill check for which the GM deems sight to be important. He can't make Spot checks or perform any other activity (such as reading) that requires vision. Heroes who are blind long-term (from birth or early in life) grow accustomed to these drawbacks and can overcome some of them (GM discretion)
-
-Cowering: The hero is frozen in fear, loses her entire Dexterity bonus, and can take no combat or movement actions. Foes gain a +2 bonus to hit cowering heroes.
-
-Dazed: Unable to act, a dazed character can take no actions but can defend against attacks normally (using his normal Defense and Dexterity modifier, if any). The condition typically lasts 1 round.
-
-Deafened: The hero can't hear and suffers a -4 penalty on initiative checks. He can’t make Listen checks. Heroes who are deafened long term (from birth or early in life) grow accustomed to these drawbacks and can overcome some of them (GM discretion).
-
-Dead: A character dies when his or her wound points drop to ~10 or lower. A character also dies when his Constitution drops to 0.
-
-Dying: The character is near death and unconscious, with -1 to ~9 wound points. She can take no actions, and each round a dying character loses 1 wound point until she dies or becomes stable.
-
-Entangled: An entangled character suffers a -2 penalty on attack rolls and a -4 penalty to effective Dexterity. If the bonds are anchored to an immobile object, the entangled hero can't move. Otherwise, he can move at half speed, but can’t run or charge.
-
-Exhausted: Heroes who are exhausted move at half normal speed and suffer an effective penalty of -6 to Strength and Dexterity,
-
-Fatigued: Characters who are fatigued can't run or charge and suffer an effective penalty of -2 to Strength and Dexterity.
-
-Grappled: When grappled, a hero can’t move or undertake any action more complicated than making an attack with his bare hands an attack with a Small or Tiny weapon, or an attempt to break tree from his opponent.
-
-Helpless: Paralyzed, sleeping, or unconscious characters are helpless. Any attack against a helpless character is automatically critical hit. If the helpless character survives the attack, he must make a Fortitude save (DC 10 + the damage dealt) or die.
-
-Knocked Out: A character who takes wound damage in a round and fails a Fortitude save (DC 5 + the number of wound points lost in the round) falls to the ground and can take no actions, The condition typically lasts 144+1 round.
-
-Panicked: Must flee at top speed. Cowers if unable to get away, Defends normally but does not attack. (A cowering character, being unable to attack, typically uses the total defense action in combat)
-
-Paralyzed: Heroes who are paralyzed fall to the ground, unable to move (they have an effective, but not actual, Dexterity and Strength of 0). They are helpless (see above).
-
-Prone: Lying on the ground. An attacker who is prone suffers 3 ~4 penalty on melee attack rolls and can't use primitive, heavy, or thrown ranged weapons. Melee attacks against a prone defender have a +4 circumstance bonus, and ranged attacks against a prone defender have a -4 penalty.
-
-Legless Creatures: Ranged attacks against prone creatures thit don't have legs (such as Hutts) suffer only a ~2 penalty, because going prone does not significantly reduce their profile. Such creatures geta +4 stability bonus when opposing trip checks, knockdown attacks, and similar actions that involuntarily impose the prone condition.
-
-Stable: The hero is no longer dying, but is still unconscious.
-
-Stunned: The hero loses her entire Dexterity bonus, drops what she is holding, and can take no attack or move actions. In addition, each attacker gains a +2 bonus on attack rolls against that hero. The condition typically lasts 1 round.
-
-Unconscious: The hero is unable to defend himself. He is help: less (see above).
-
-Wounded: A character who takes wound damage is fatigued and must make a Fortitude save to avoid becoming knocked out. 2:
+> **Character Condition Summary**
+>
+> A number of adverse conditions can affect the way a character operates. To facilitate the understanding of how these conditions affect a character, the following standard definitions apply. If more than one condition affects a character, apply both if possible. If not possible, apply only the most severe condition.
+>
+> **Ability Damaged:** The character has lost 1 or more ability score points. The loss is temporary, and these points return at a rate of 1 per day. Note that this is different from “effective” ability loss, which is an effect that goes away when the condition causing it (fatigue, entanglement, or whatever) goes away.
+>
+> **Ability Drained:** The character has lost one or more ability score points. The loss is permanent.
+>
+> **Blinded:** The hero can’t see at all, and thus everything has full concealment to him. He has a 50% chance to miss in combat. He has an effective Dexterity of 3, along with a −4 penalty on the use of Strength-based and Dexterity-based skills. This −4 penalty also applies to Search and any other skill check for which the GM deems sight to be important. He can’t make Spot checks or perform any other activity (such as reading) that requires vision. Heroes who are blind long-term (from birth or early in life) grow accustomed to these drawbacks and can overcome some of them (GM discretion).
+>
+> **Cowering:** The hero is frozen in fear, loses her entire Dexterity bonus, and can take no combat or movement actions. Foes gain a +2 bonus to hit cowering heroes.
+>
+> **Dazed:** Unable to act, a dazed character can take no actions but can defend against attacks normally (using his normal Defense and Dexterity modifier, if any). The condition typically lasts 1 round.
+>
+> **Dead:** A character dies when his or her wound points drop to −10 or lower. A character also dies when his Constitution drops to 0.
+>
+> **Deafened:** The hero can’t hear and suffers a −4 penalty on initiative checks. He can’t make Listen checks. Heroes who are deafened long term (from birth or early in life) grow accustomed to these drawbacks and can overcome some of them (GM discretion).
+>
+> **Dying:** The character is near death and unconscious, with −1 to −9 wound points. She can take no actions, and each round a dying character loses 1 wound point until she dies or becomes stable.
+>
+> **Entangled:** An entangled character suffers a −2 penalty on attack rolls and a −4 penalty to effective Dexterity. If the bonds are anchored to an immobile object, the entangled hero can’t move. Otherwise, he can move at half speed, but can’t run or charge.
+>
+> **Exhausted:** Heroes who are exhausted move at half normal speed and suffer an effective penalty of −6 to Strength and Dexterity.
+>
+> **Fatigued:** Characters who are fatigued can’t run or charge and suffer an effective penalty of −2 to Strength and Dexterity.
+>
+> **Grappled:** When grappled, a hero can’t move or undertake any action more complicated than making an attack with his bare hands, an attack with a Small or Tiny weapon, or an attempt to break free from his opponent.
+>
+> **Helpless:** Paralyzed, sleeping, or unconscious characters are helpless. Any attack against a helpless character is automatically a critical hit. If the helpless character survives the attack, he must make a Fortitude save (DC 10 + the damage dealt) or die.
+>
+> **Knocked Out:** A character who takes wound damage in a round and fails a Fortitude save (DC 5 + the number of wound points lost in the round) falls to the ground and can take no actions. The condition typically lasts `1d4`+1 rounds.
+>
+> **Panicked:** Must flee at top speed. Cowers if unable to get away. Defends normally but does not attack. (A cowering character, being unable to attack, typically uses the total defense action in combat.)
+>
+> **Paralyzed:** Heroes who are paralyzed fall to the ground, unable to move (they have an effective, but not actual, Dexterity and Strength of 0). They are helpless (see above).
+>
+> **Prone:** Lying on the ground. An attacker who is prone suffers a −4 penalty on melee attack rolls and can’t use primitive, heavy, or thrown ranged weapons. Melee attacks against a prone defender have a +4 circumstance bonus, and ranged attacks against a prone defender have a −4 penalty.
+>
+> **Legless Creatures:** Ranged attacks against prone creatures that don’t have legs (such as Hutts) suffer only a −2 penalty, because going prone does not significantly reduce their profile. Such creatures get a +4 stability bonus when opposing trip checks, knockdown attacks, and similar actions that involuntarily impose the prone condition.
+>
+> **Stable:** The hero is no longer dying, but is still unconscious.
+>
+> **Stunned:** The hero loses her entire Dexterity bonus, drops what she is holding, and can take no attack or move actions. In addition, each attacker gains a +2 bonus on attack rolls against that hero. The condition typically lasts 1 round.
+>
+> **Unconscious:** The hero is unable to defend himself. He is helpless (see above).
+>
+> **Wounded:** A character who takes wound damage is fatigued and must make a Fortitude save to avoid becoming knocked out.
 
 <!-- page 290 -->
-
-opposed grapple check (see Grapple in
-
-{se Suffocation and Drowning).
 
 If at any time the target breaks free or slips free of the grapple, the stranglehold is broken (although any damage that was dealt remains). Note that a grappled target who is not pinned can use his attack action to strangle his attacker.
 
 ## Gravity
 
-Extremely low gravity can be disorienting to characters. A t0-q environment is even worse. In general, any physical action a character attempts while in zero gravity suffers a +4 penalty. In light gravity, this penalty is only -2. The
+Extremely low gravity can be disorienting to characters. A zero-G environment is even worse. In general, any physical action a character attempts while in zero gravity suffers a −4 penalty. In light gravity, this penalty is only −2. The Zero-G Combat feat allows a hero to ignore these penalties. Characters who operate in high-gravity environments suffer a −4 penalty to Strength and Dexterity while there.
 
-o-G Combat feat allows a hero to ignore these penalties. Characters who operate in high-gravity environments
+### Falling
 
-iffer a —4 penalty to Strength and Dexterity while there.
+A character takes `1d6` points of damage for every 4 meters of a fall, to a maximum of `20d6` points. If the character succeeds at a Reflex saving throw (DC 10, +1 for each 4 meters fallen), this damage is applied to his vitality points. If the saving throw fails, the damage is applied to his wound points instead. If the character has no vitality points, the damage is automatically applied to wound points. A character can make a Tumble check (DC 15) to treat a fall as if it were 4 meters shorter when determining the damage and Reflex saving throw DC required by the fall.
 
-falling
+### Falling Objects
 
-character takes `1d6` points of damage for every 4 meters ofa fall, to a maximum of `20d6` points. If the character ceeds at a Reflex saving throw (DC 10, +1 for each 4 ieters fallen), this damage is applied to his vitality points. the saving throw fails, the damage is applied to his wound ints instead. If the character has no vitality points, the jamage is automatically applied to wound points. Acharacter can make a Tumble check (DC 15) to treat a il as if it were 4 meters shorter when determining the mage and Reflex saving throw DC required by the fall.
-
-falling Objects t as characters suffer damage when
-
-(to a maximum of `20d6` additional ints of damage). Objects of Fine size too small to deal damage, regardof the distance fallen. The GM
-
-ld adjust both the damage and Reflex save DC depending on the imstances. A Fine object might be icularly heavy (a rock, for exam-
-
-the DC needed to save. Initial Damage: The throw against this type
+Just as characters suffer damage when they fall, so too do they take damage when hit by falling objects. Objects that fall upon characters (or creatures or vehicles) deal damage based on their size and the distance fallen, as listed in Table 12-22: Damage from Falling Objects. Objects deal the initial damage given in Table 12-22 if they fall 4 meters or less. An object deals an additional `1d6` points of damage for every meter increment it falls beyond the first (to a maximum of `20d6` additional points of damage). Objects of Fine size are too small to deal damage, regardless of the distance fallen. The GM should adjust both the damage and Reflex save DC depending on the circumstances.
 
 **Table 12-22: Damage from Falling Objects**
 
@@ -3006,113 +2623,71 @@ the DC needed to save. Initial Damage: The throw against this type
 | Gargantuan  | Starfighter, AT-TE walker       | `8d6`          | 30             | 40                |
 | Colossal    | Space transport, AT-AT walker   | `10d6`         | 35             | 50                |
 
-ple), while a Colossal object might be extremely light (such as a gas-filled passenger balloon). Similarly, an AT-AT’s foot would deal more damage than its size suggests because the weight is not distributed over a wide area. Conversely, the Reflex save for avoiding an AT-AT’s foot would be lower, since the foot is only a Huge object.
+For example, a Fine object might be particularly heavy (a rock), while a Colossal object might be extremely light (such as a gas-filled passenger balloon). Similarly, an AT-AT’s foot would deal more damage than its size suggests because the weight is not distributed over a wide area. Conversely, the Reflex save for avoiding an AT-AT’s foot would be lower, since the foot is only a Huge object.
 
 Damage from a falling object is always treated as wound damage. A successful Reflex save changes the wound damage to vitality damage. The size of the falling object determines the save DC.
 
-If the save fails by 10 or more, and the object is at least three size categories larger than the character, the character is pinned under the fallen object. A pinned character cannot move but is not considered helpless. The character can attempt a Strength check to lift the object off himself or an Escape Artist check (DC 20) to crawl out from undemeath. The GM can modify the DCs for either of these checks based on the circumstances. (A Huge but comparatively light object might be easier to lift, for example, or a character might find herself trapped under an object that has openings or gaps that allow one to wriggle free.)
+If the save fails by 10 or more, and the object is at least three size categories larger than the character, the character is pinned under the fallen object. A pinned character cannot move but is not considered helpless. The character can attempt a Strength check to lift the object off himself or an Escape Artist check (DC 20) to crawl out from underneath. The GM can modify the DCs for either of these checks based on the circumstances. (A Huge but comparatively light object might be easier to lift, for example, or a character might find herself trapped under an object that has openings or gaps that allow one to wriggle free.)
 
-Poison A deadly snake, envenomed dart, or tainted drink can strike down even the mightiest hero. When a hero is exposed to
+## Poison
 
-fall, so too do they take damage Initial Secondary
+A deadly snake, envenomed dart, or tainted drink can strike down even the mightiest hero. When a hero is exposed to a poison, he must make a Fortitude saving throw. A character makes this roll when he consumes food or drink tainted with ingestive poison, suffers wound damage from an attack with a poisoned weapon, or inhales toxic gas. A successful Fortitude save indicates that the poison lost its potency or failed to enter the wound. It’s also possible that the tough hero simply endured the dose, shrugging off its harmful effects.
 
-hen hit by falling objects. Objects Poison Type Damage Damage iat fall upon characters (or creatures. Knockout drops ingested DC 12 `1d6` Dex Unconscious* vehicles) deal damage based on Sense-deadening poison Inhaled DC 12 `1d6` Wis `2d6` Wis
-
-ir size and the distance fallen, as Weakening poison gas __ Inhaled DC 12 `1d6` Str `2d6` Str
-
-ted in Table 12-22: Damage from Knockout gas Inhaled DC 18 `1d6` Dex Unconscious* ling Objects. Paralytic poison Injury DC 15 `1d6` Dex Paralysis Objects deal the initial damage Deadly poison Ingested DC 15 `1d6` Con `2d6` Con ven on Table 12-22 if they fall 4 Contact poison Injury DC 18 `1d4` Con `2d4` Con
-
-ters or less. An object deals an addi-  Amphistaff poison Injury (bite) DC 22. -—-`1d4` Dex `1d8` Dex
-
-nal 16 points of damage for every Contact (spit) DC 20 Blindness _—Special**
-
-eter increment it falls beyond the “Unconscious and stable.
-
-"victim suffers 1 point of Con damage each hour, for 146+6 hours or until the poison is treated. Type: The poison’s method of delivery—ingested, inhaled, via an injury, or contact—and
-
-extra damage the hero suffers immediately upon failing his saving of poison.
-
-Secondary Damage: The amount of damage the hero suffers if he fails a second saving throw (rolled at some specific time after the initial saving throw fails). Specific effects (such as paralysis, sleep, or unconsciousness) last for 143 hours.
-
-Nn
-
-< < wv i ol
+Should the hero fail the saving throw, he suffers the poison’s initial damage. He must then make a second saving throw 1 minute later (unless otherwise noted for a specific poison; see Table 12-23: Poisons). If this second save fails, he suffers the poison’s secondary damage.
 
 <!-- page 291 -->
 
-ONISSLSVWAWVS
+**Table 12-23: Poisons**
 
-poison, he must make a Fortitude saving throw. A character makes this roll when he consumes food or drink tainted with ingestive poison, suffers wound damage from an attack with a poisoned weapon, or inhales toxic gas. A successful Fortitude save indicates that the poison lost its potency or failed to enter the wound. It’s also possible that the tough hero simply endured the dose, shrugging off its harmful effects.
+| Poison | Type | DC | Initial Damage | Secondary Damage |
+| ------ | ---- | -- | -------------- | ---------------- |
+| Knockout drops | Ingested | 12 | `1d6` Dex | Unconscious\* |
+| Sense-deadening poison | Inhaled | 12 | `1d6` Wis | `2d6` Wis |
+| Weakening poison gas | Inhaled | 12 | `1d6` Str | `2d6` Str |
+| Knockout gas | Inhaled | 18 | `1d6` Dex | Unconscious\* |
+| Paralytic poison | Injury | 15 | `1d6` Dex | Paralysis |
+| Deadly poison | Ingested | 15 | `1d6` Con | `2d6` Con |
+| Contact poison | Injury | 18 | `1d4` Con | `2d4` Con |
+| Amphistaff poison (bite) | Injury | 22 | `1d4` Dex | `1d8` Dex |
+| Amphistaff poison (spit) | Contact | 20 | Blindness | Special\*\* |
 
-Should the hero fail the saving throw, he suffers the poison’s initial damage. He must then make a second saving throw 1 minute later (unless otherwise noted for a specific poison; see Table 12-23: Poisons). If this second save fails, he suffers the poison’s secondary damage
+\*Unconscious and stable.
 
-Perils of Using Poison: A hero has a 5% chance (roll of 1 on 1420) to expose himself to a poison whenever he applies it to a weapon or otherwise readies it for use. Additionally, a hero who rolls a 1 on an attack roll with a poisoned weapon must make a Reflex saving throw (DC 15) or accidentally poison himself with the weapon. Creatures with natural poison attacks do not risk poisoning themselves.
+\*\*Victim suffers 1 point of Con damage each hour, for `1d6`+6 hours or until the poison is treated.
 
-Healing Poison Damage: Heroes recover ability score points lost to poison damage at a rate of 1 per day. Two Force skills, Heal Another and Heal Self, can also restore ability score points lost to poison.
+**Type:** The poison’s method of delivery—ingested, inhaled, via an injury, or contact—and the extra damage the hero suffers immediately upon failing his saving throw indicates the type of poison.
 
-“WHATEVER IT IS... (Oj To) DIDN’
+**Secondary Damage:** The amount of damage the hero suffers if he fails a second saving throw (rolled at some specific time after the initial saving throw fails). Specific effects (such as paralysis, sleep, or unconsciousness) last for `1d3` hours.
+
+**Perils of Using Poison:** A hero has a 5% chance (roll of 1 on `1d20`) to expose himself to a poison whenever he applies it to a weapon or otherwise readies it for use. Additionally, a hero who rolls a 1 on an attack roll with a poisoned weapon must make a Reflex saving throw (DC 15) or accidentally poison himself with the weapon. Creatures with natural poison attacks do not risk poisoning themselves.
+
+**Healing Poison Damage:** Heroes recover ability score points lost to poison damage at a rate of 1 per day. Two Force skills, Heal Another and Heal Self, can also restore ability score points lost to poison.
 
 ## Radiation Poisoning
 
 An inhospitable planet bombarded by solar radiation. An ancient starship hulk with deteriorating engines, its bowels flooded with radioactive seepage. A vast, underground power plant constructed by some ancient, radiation-resistant alien species. In these environments, Star Wars heroes must contend with radiation poisoning.
 
-Table 12-24: Radiation Levels describes the effects of various levels of radiation and the DCs against which a Fortitude save must be made for a character to shake off the radiation’s effects. A character must make a Fortitude saving throw after every 10 minutes of radiation exposure. Dan
-
-ge results marked with an asterisk require a second
+Table 12-24: Radiation Levels describes the effects of various levels of radiation and the DCs against which a Fortitude save must be made for a character to shake off the radiation’s effects. A character must make a Fortitude saving throw after every 10 minutes of radiation exposure. Damage results marked with an asterisk require a second saving throw. If the second save is failed, the damage sustained to ability scores is permanent unless the victim is treated in a bacta tank within 24 hours.
 
 **Table 12-24: Radiation Levels**
 
-| Radiation Level    | DC | Damage on a Successful Fortitude Save              |
-| ------------------ | -- | -------------------------------------------------- |
-| Level I (Mild)     | 12 | 1 Con                                              |
-| Level II (Moderate)| 15 | 1 Con, 1 Str                                       |
-| Level III (Strong) | 18 | *[OCR data missing]*                               |
-| Level IV (Searing) | 21 | `1d6` Con\*, `1d6` Str, `1d4` Cha                 |
-| Level V (Lethal)   | 24 | `2d6` Con\*, `2d4` Str\*, `2d4` Cha\*             |
+| Radiation Level     | DC | Damage on a Successful Fortitude Save        | Damage on a Failed Fortitude Save              |
+| ------------------- | -- | -------------------------------------------- | ---------------------------------------------- |
+| Level I (Mild)      | 12 | 1 Con                                        | 1 Con, 1 Str\*                                 |
+| Level II (Moderate) | 15 | 1 Con, 1 Str                                 | `1d2` Con, `1d2` Str\*                         |
+| Level III (Strong)  | 18 | *[OCR data missing]*                         | `1d6` Con\*, `1d4` Str\*, `1d2` Cha           |
+| Level IV (Searing)  | 21 | `1d6` Con\*, `1d6` Str, `1d4` Cha           | `2d6` Con\*, `2d6` Str\*, `2d4` Cha\*         |
+| Level V (Lethal)    | 24 | `2d6` Con\*, `2d4` Str\*, `2d4` Cha\*       | Death within `2d6` hours unless treated with bacta |
 
-“Indicates a permanent drain if a second saving throw (same DC) fails.
+\*Indicates a permanent drain if a second saving throw (same DC) fails.
 
-saving throw. If the second save is failed, the damage sustained to ability scores is permanent unless the victim |s treated in a bacta tank within 24 hours,
-
-Radiation poisoning can be cured using the Treat Injury skill, or the Force skills Heal Another and Heal Self. Ability score points lost to damage are recovered at a rate of |
-
-point per two days of rest. Ability score points that have been permanently lost can be restored only with the ability increases gained every 4th level.
+Radiation poisoning can be cured using the Treat Injury skill, or the Force skills Heal Another and Heal Self. Ability score points lost to damage are recovered at a rate of 1 point per two days of rest. Ability score points that have been permanently lost can be restored only with the ability increases gained every 4th level.
 
 ## Disease
 
-When a character is exposed to disease, he must make
+When a character is exposed to disease, he must make an immediate Fortitude saving throw. The victim must make this roll when he comes into contact with an infectious carrier, touches an item smeared with diseased matter, consumes food or drink tainted with a disease, or suffers damage from a contaminated attack. If he succeeds, the disease has no effect on him—his immune system fights off the infection. If he fails the save, he suffers damage after an incubation period; once per day thereafter, he must succeed at a Fortitude saving throw to avoid secondary damage. Two successful saving throws in a row indicate that he has fought off the disease and recovers, taking no more damage.
 
-an immediate Fortitude saving throw. The victim must
-
-make this roll when he comes into contact with an infectious carrier, touches an item smeared with diseased matter, consumes food or drink tainted with a disease, or suffers damage from a contaminated attack. If he succeeds the disease has no effect on him—his immune system fights off the infection. If he fails the save, he suffers damage after an incubation period; once per day thereafter, he must succeed at a Fortitude saving throw to avoid secondary damage. Two successful saving throws in that he has fought off the dis more damage.
-
-Healing: Use of the Treat Injury skill can tend a diseased
-
-hero. Every time the diseased hero makes a saving throw
-
-a row indicate
-
-ase and recovers, taking no
-
-against disease effects, the healer makes a check, The
-
-dise
-
-ased hero can use the healer’s result in place of his
-
-Damage ona
-
-## Failed Fortitude Save
-
-1 Con, 1 Str*
-
-`1d2` Con, `1d2` Str*
-
-`1d6` Con*, 104 Str*, `1d2` Cha
-
-`2d6` Con*, `2d6` Str*, `2d4` Cha*
-
-Death within `2d6` hours unless treated with bacta
+**Healing:** Use of the Treat Injury skill can tend a diseased hero. Every time the diseased hero makes a saving throw against disease effects, the healer makes a check. The diseased hero can use the healer’s result in place of his own saving throw if the Treat Injury result is higher. The diseased hero must be within the healer’s care and must spend most of each day resting.
 
 <!-- page 292 -->
 
@@ -3125,31 +2700,19 @@ Death within `2d6` hours unless treated with bacta
 | Coomb spore disease   | Ingested/injury DC 14 | `2d4` days        | 1 Con and 1 Dex      | `1d2` Con\* and `1d2` Dex\*        |
 | Death seed plague     | Ingested/inhaled DC 13| `1d4` days        | 1 Str                | `1d2` Con\* and `1d4` Str          |
 
-Incubation Period: The amount of time before initial damag
+Remember that heroes recover points lost to ability score damage at a rate of 1 per day. That means that a hero with the Cardooine chills might withstand the duration of the chills without any accumulation of damage.
 
-bss is a permanent drain
-
-saving throw if the Treat Injury result is higher. The diseased hero must be within the healer's care and must spend most of each day resting.
-
-Remember that heroes recover points lost to ability
-
-score damage at a rate of 1 per day. That means thal hero with the Cardooine chills might withstand the duration of the chills without any accumulation of damage.
-
-Upon catching the Cardooine chills, the hero loses a point
-
-of Constitution, but then regains it the next day. Even if je fails his save the following day, if a 1 is rolled for scondary damage, he'll recover that point the following ‘ay, The chills won't present anything more than a shortium inconvenience for a hero unless multiple saving throws fail with 2 points of ability loss each time.
+Upon catching the Cardooine chills, the hero loses a point of Constitution, but then regains it the next day. Even if he fails his save the following day, if a 1 is rolled for secondary damage, he’ll recover that point the following day. The chills won’t present anything more than a short-term inconvenience for a hero unless multiple saving throws fail with 2 points of ability loss each time.
 
 The Heal Another and Heal Self Force skills can restore ability scores reduced by ability damage.
 
 ## Acid
 
-Corrosive acids deal damage each round of exposure. The
+Corrosive acids deal damage each round of exposure. The amount of damage varies depending on the acid’s strength, as noted in Table 12-26: Acid Damage.
 
-amount of damage varies depending on the acid’s strength, snoted in Table 12-26: Acid Damage.
+Acid damage from an attack is normally subtracted from vitality points first. When vitality is depleted, the damage is applied to wound points. A character fully immersed in acid takes double the normal damage (applied straight to wound points).
 
-Acid damage from an attack is normally subtracted from jitality points first. When vitality is depleted, the damage applied to wound points. A character fully immersed in 2tid takes double the normal damage (applied straight to wound points).
-
-The fumes from most acids are inhaled poisons. Those sho come within 2 meters of a large body of acid must succeed at a Fortitude save (DC 15) or take 1 point of ‘emporary Constitution damage. A second save must succeed | minute later to avoid taking another `1d4` points temporary Constitution damage.
+The fumes from most acids are inhaled poisons. Those who come within 2 meters of a large body of acid must succeed at a Fortitude save (DC 15) or take 1 point of temporary Constitution damage. A second save must succeed a minute later to avoid taking another `1d4` points of temporary Constitution damage.
 
 **Table 12-26: Acid Damage**
 
@@ -3159,31 +2722,25 @@ The fumes from most acids are inhaled poisons. Those sho come within 2 meters of
 | Potent        | `1d6`   | `2d6` wounds      |
 | Concentrated  | `1d10`  | `2d10` wounds     |
 
-"Damage per round of exposure.
+\*Damage per round of exposure.
 
-fransmitted by a wound as small as a flea bite. Most diseases that are inhaled ca takes effect (if t
+## Ability Score Loss
 
-\* If the damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged). **Type:** The disease’s method of delivery—ingested, inhaled, or via an injury—and the DC needed to save. Some injury diseases can also be ingested (and vice versa). **Initial Damage:** The damage the victim takes after the incubation period. **Secondary Damage:** The amount of damage the hero takes one day after taking initial damage, if he fails a second saving throw. Ability score damage is temporary unless marked with an asterisk (*), in which case the
+Some attacks and effects cause ability score loss instead of regular vitality or wound damage. For example, poisons, diseases, and radiation sickness deal ability score damage that is temporary and can be regained through rest or the Treat Injury skill. In some cases, the damage is so severe that the ability score loss is a permanent drain, but in most cases ability drain can be avoided by expediting medical treatment.
 
-Some attacks and effects cause ability score loss instead of regular vitality or wound damage. For example, poisons, diseases, and radiation sickness deal ability score damage that is temporary and can be regained through rest or the Treat Injury skill. n some cases, the damage is so severe that the ability score loss is a permanent drain, but in most cases ability drain can be avoided by expediting medical treatment.
+While any loss is debilitating, losing all points in an ability score can be devastating.
 
-While any loss is debilitating, losing all points in an ability score can be devastating
+**Strength:** A Strength score of 0 means that the character cannot move at all. He lies helpless on the ground.
 
-Strength: A Strength score of 0 means that the character cannot move at all. He lies helpless on the ground.
+**Dexterity:** A Dexterity score of 0 means that the character cannot move at all. He lies helpless on the ground.
 
-Dexterity: A Dexterity score of 0 means that the character cannot move at all. He lies helpless on the ground.
+**Constitution:** A Constitution score of 0 means that the character is dead.
 
-Constitution: A Constitution score of 0 means that the character is dead.
+If a character’s Constitution score drops, he loses 1 vitality point per level for every point by which his Constitution modifier falls. He also loses 1 wound point for each point of Constitution loss. For example, a 7th-level scout fails a Fortitude save against deadly poison, causing his Constitution score to drop from 16 to 13. His Constitution modifier falls from +3 to +1, so he loses 14 vitality points (2 per level). He also loses 3 wound points. A minute later, the poison deals another 8 points of temporary Constitution damage, dropping his score to 5 and his modifier from +1 to −3. He loses another 28 vitality points and another 8 wound points.
 
-If a character's Constitution score drops, he loses 1 vitality point per level for every point by which his Constitution modifier falls. He also loses 1 wound point for each point of Constitution loss. For example, a 7th-level scout fails a Fortitude save against deadly poison, causing his Constitution score to drop from 16 to 13. His Constitution modifier falls from +3 to +1, so he loses 14 vitality points (2 per level). He also loses 3 wound points. A minute later, the poison deals another 8 points of temporary Constitution damage, dropping his score to 5 and his modifier from +1 to -3. He loses another 28 vitality points and another 8 wound points.
+**Intelligence:** An Intelligence score of 0 means that the character cannot think and is unconscious in a comalike stupor, helpless.
 
-Intelligence: An intelligence score of 0 means that the character cannot think and is unconscious in a comalike stupor, helpless.
+**Wisdom:** A Wisdom score of 0 means that the character is withdrawn into a deep sleep filled with nightmares, helpless.
 
-Wisdom: A Wisdom score of 0 means that the character is withdrawn into a deep sleep filled with nightmares, helpless.
-
-Charisma: A Charisma score of 0 means that the character is withdrawn into a catatonic, comalike stupor, helpless.
-
-hn
-
-ANISSLSVWAWVS
+**Charisma:** A Charisma score of 0 means that the character is withdrawn into a catatonic, comalike stupor, helpless.
 
