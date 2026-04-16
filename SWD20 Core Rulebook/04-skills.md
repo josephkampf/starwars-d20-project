@@ -12,9 +12,9 @@ Your character's skills represent a variety of abilities, and you get better at 
 
 ## Getting Skills
 
-At each level, you get 4, 6, or 8 skill points that you use to buy skills. (Your Intelligence modifier adds to this number. Humans get 1 extra skill point at each level above Ist.) A 1st-level character gets four times this number. (Humans get 4 extra skill points at 1st level in addition to the stand. ard initial amount for their class and Intelligence. These are added on at 1st level, not multiplied in.)
+At each level, you get 4, 6, or 8 skill points that you use to buy skills. (Your Intelligence modifier adds to this number. Humans get 1 extra skill point at each level above 1st.) A 1st-level character gets four times this number. (Humans get 4 extra skill points at 1st level in addition to the standard initial amount for their class and Intelligence. These are added on at 1st level, not multiplied in.)
 
-If you buy a class skill (such as Move Silently for a scoundrel or Pilot for a scout), you get 1 rank (equal to a +1 bonus) for each skill point. If you buy other classes’ skills (cross-class skills), you get a half rank per skill point. Your maximum rank ina class skill is your level plus 3. Your maximum rank in a cross-class skill is half of this number (do not round up or down).
+If you buy a class skill (such as Move Silently for a scoundrel or Pilot for a scout), you get 1 rank (equal to a +1 bonus) for each skill point. If you buy other classes’ skills (cross-class skills), you get a half rank per skill point. Your maximum rank in a class skill is your level plus 3. Your maximum rank in a cross-class skill is half of this number (do not round up or down).
 
 ## Using Skills
 
@@ -50,7 +50,7 @@ Yes Pilot Dex Def 5 + +0 = +6 How Do Skills Work? Skill Check
 
 This extended example shows how skills work, Detailed rules follow the example.
 
-Skills at Ist Level Rorworr, a Wookiee scout, gets 6 skill points per level. Since his Intelligence score is 12, he gets +1 point per level, for a total of 7 skill points, As a 1st-level hero, Rorworr gets four times this number, or 28 skill points. At 1st level, his maximum rank in a skill is his level (which is 1) + 3, for a maximum rank of 4, With 28 points, he can select seven class skills and increase each to its maximum of 4 ranks. Rorworr chooses the skills Astrogate, Climb, Computer Use, Hide, Pilot, Repair, and Search (all class skills), at 4 ranks each. The skills section on his character sheet looks like this:
+Skills at 1st Level Rorworr, a Wookiee scout, gets 6 skill points per level. Since his Intelligence score is 12, he gets +1 point per level, for a total of 7 skill points, As a 1st-level hero, Rorworr gets four times this number, or 28 skill points. At 1st level, his maximum rank in a skill is his level (which is 1) + 3, for a maximum rank of 4, With 28 points, he can select seven class skills and increase each to its maximum of 4 ranks. Rorworr chooses the skills Astrogate, Climb, Computer Use, Hide, Pilot, Repair, and Search (all class skills), at 4 ranks each. The skills section on his character sheet looks like this:
 
 Class Key Ability Misc ‘Skil? Skills Ability Mod + Ranks + Mod Yes —_Astrogate Int +1 + 4 + 40 Yes Climb Str + 4 EER Yes Computer Use Int + + 6 + 40 Yes Hide Dex +10 + 4 + +40 Yes Pilot Dex +1 + 4 + 40 Yes Repair Int a 4 + +0 Yes Search Int +1 + 4 + +0
 
@@ -64,9 +64,9 @@ to +6 for these three skills. He can’t have more than 5 ranks in a class skill
 
 These skills on his character sheet now look like this:
 
-When Rorworr makes a skill check at 2nd level, his player rolls 1420 and adds his skill modifier (rank + ability modi
+When Rorworr makes a skill check at 2nd level, his player rolls 1d20 and adds his skill modifier (rank + ability modi
 + any miscellaneous modifier). The higher the result, the
-better Rorworr does. On average, Rorworr will roll a 10 or | ‘on 1420, so he will usually get a check result of 16 or 17 with his Pilot checks. It’s this total check result that matters) not the original roll. A result of 17 by an average spacer with no plusses or minuses who rolls it naturally is the same) as a result of 17 by Rorworr (11 on `1d20` with +6 for his skill rank and Intelligence modifier).
+better Rorworr does. On average, Rorworr will roll a 10 or 11 on 1d20, so he will usually get a check result of 16 or 17 with his Pilot checks. It’s this total check result that matters, not the original roll. A result of 17 by an average spacer with no plusses or minuses who rolls it naturally is the same as a result of 17 by Rorworr (11 on `1d20` with +6 for his skill rank and Intelligence modifier).
 
 Opposed Check Rorworr meets a bounty hunter (a GM character) in a cantina and tries to bluff his way out of trouble. (“No, I'ti not the Wookiee you're looking for."} salu Rorworr's player rolls `1d20+2` for his Bluff check and gets a result of 16,
 
@@ -116,7 +116,7 @@ Your maximum rank in a class skill at 1st level is 4. Ina eross-class skill, it'
 
 Force skills associated with the primary Force feats (Alter, Control, and Sense) can only be selected by a character with aForce-using class.
 
-- Table 4~4: Skills lists all the skills and indicates which
+- Table 4-4: Skills lists all the skills and indicates which
   are class skills, which are cross-class skills, and which   can be used untrained.
 
 - Spend all your skill points. You can’t save them to
@@ -152,7 +152,6 @@ Skills at Higher Levels When you attain a new experience level, follow these ste
 
 First, find out what your maximum rank with the skill is. If it’s a class skill, your maximum rank is your new level plus 3. If it's a cross-class skill, your maximum rank is onehalf that number (do not round up or down).
 
-@\__ CHARACTER SKIS)
 
 Characters have many more skills than what they can buy with their skill points or what is recorded on their character sheets. We don't track the various life experiences that a character had prior to becoming a 1st-level hero. Skills are not an exhaustive map of every bit of knowledge and training a character possesses. Instead, think of skills that a character has ranks in as the training that helps elevate the character to heroic status. They represent areas of knowledge and discipline in which a character has become better than average. These are the character's “heroic” skills, the skills the character can utilize in dramatic situations. (A character may also try to use a skill untrained in a dramatic situation, but in such a case the chance is slim of the character succeeding at any task more difficult than a challenging one; see Table 4-2: Difficulty Class Examples.)
 
@@ -423,7 +422,9 @@ Skill Descriptions This section describes each skill, including common uses and 
 
 ## Skill Name (Key Ability)
 
-## Trained Only; Armor Check Penalty
+*Trained Only*
+
+*Armor Check Penalty*
 
 ‘The skill name line and the line beneath it include the following information.
 
@@ -533,7 +534,7 @@ Time: Appraising an item takes 1 minute.
 
 ### Astrogate (Int)
 
-## Trained Only
+*Trained Only*
 
 Use this skill to plot a course through hyperspace from one star system to another.
 
@@ -887,7 +888,7 @@ Time: Craft checks are made by the day, as described above.
 
 ### Demolitions (Int)
 
-## Trained Only
+*Trained Only*
 
 Use this skill to create and set explosive devices for maximum impact.
 
@@ -965,15 +966,17 @@ Special: Charisma checks to influence GM characters are generally untrained Dipl
 
 You can take 10 when making a Diplomacy check, but ‘you can’t take 20.
 
-Acharacter with the Trustworthy feat gets a +2 aptitude ‘bonis on Diplomacy checks.
+A character with the Trustworthy feat gets a +2 aptitude bonus on Diplomacy checks.
 
-Time: Diplomacy is at least a full-round action. The GM May determine that some negotiations require a longer
+Time: Diplomacy is at least a full-round action. The GM may determine that some negotiations require a longer period of time.
 
-## Trained Only
+### Disable Device (Int)
 
-this skill to disarm a security device, defeat a mechani- ‘tal lock or trap, or rig a device to fail when it is used, You ‘cat examine a simple or fairly small mechanical or elec- ‘tronic device and disable it. The effort requires at least a Simple tool of the appropriate sort (a pick, electronic lead, ‘wire, file, pry bar, hydrospanner, and so on).
+*Trained Only*
 
-Check: The GM makes the Disable Device check so that ‘you don't necessarily know whether you've succeeded. The ‘DC for the check depends on how tricky the device is.
+Use this skill to disarm a security device, defeat a mechanical lock or trap, or rig a device to fail when it is used. You can examine a simple or fairly small mechanical or electronic device and disable it. The effort requires at least a simple tool of the appropriate sort (a pick, electronic lead, wire, file, pry bar, hydrospanner, and so on).
+
+Check: The GM makes the Disable Device check so that you don’t necessarily know whether you’ve succeeded. The DC for the check depends on how tricky the device is.
 
 Disabling (or rigging or jamming) a simple mechanical A device has a DC of 10. More intricate and complex devices (particularly those that are electronic) have a higher DC. The GM rolls the check. If the check succeeds, you disable the device. If the check fails by 4 or less, you have failed but can try again. If you fail by 5 or more, something goes wrong. If it’s a trap, you spring it. If it’s some sort of sabotage, you think the device is disabled, but it still works normally.
 
@@ -1189,7 +1192,7 @@ With time, you may draw attention from distant potential patrons.
 
 ### Escape Artist (Dex)
 
-## Armor Check Penalty
+*Armor Check Penalty*
 
 Use this skill to slip binders or manacles, wriggle through
 
@@ -1370,11 +1373,11 @@ Check: Use Force Stealth to avoid detection by means of the Force or to mask you
 
 No check is made until another character attempts to use the See Force skill (or the Sense feat in some cases), but you must declare that you have activated the skill prior to that attempt, pay the vitality point cost, and still be within the time limit of the skill’s usefulness.
 
-Special: You can take 10 when making a Force Stealth check, but you can’t take 20,
+Special: You can take 10 when making a Force Stealth check, but you can’t take 20.
 
 A character with the Focus feat gets a +2 aptitude bonus on Force Stealth checks.
 
-a: Force Stealth is a full-round action. It lasts for 10 minutes. Once activated, Force Stealth remains in place to counter See Force checks until the time limit expires or
+Time: Force Stealth is a full-round action. It lasts for 10 minutes. Once activated, Force Stealth remains in place to counter See Force checks until the time limit expires or
 
 until you use any Force skill. Using another Force skill solidifies your connection to the Force and makes masking your presence impossible.
 
@@ -1405,15 +1408,9 @@ Time: Force Strike is an attack action.
 Vitality Point Cost: 2.
 
 ### Forgery (Int)
-Use this skill to fake an electronic document from the Grand Moff instructing an Imperial warden to release prisoners, to create an authentic-looking star chart toa newly discovered planet, to falsify a starship permit or transponder code, or to detect forgeries that others try {@ pass off on you.
+Use this skill to fake an electronic document from the Grand Moff instructing an Imperial warden to release prisoners, to create an authentic-looking star chart to a newly discovered planet, to falsify a starship permit or transponder code, or to detect forgeries that others try to pass off on you.
 
-Check: Forgery requires materials appropriate to the document being forged (a computer or datapad, plasti-
-
-sheets, datacards, etc.), and some time. To forge a document such as military orders, a government decree,#
-
-business ledger, a merchandise order form, or the like,
-
-need to have seen a similar document before. You can't forge something you haven't seen. Your degree of fami iarity with the document provides a modifier to your Forgery check, as shown below.
+Check: Forgery requires materials appropriate to the document being forged (a computer or datapad, plasti-sheets, datacards, etc.), and some time. To forge a document such as military orders, a government decree, a business ledger, a merchandise order form, or the like, you need to have seen a similar document before. You can't forge something you haven't seen. Your degree of familiarity with the document provides a modifier to your Forgery check, as shown below.
 
 | Familiarity | Check Modifier |
 |-------------|----------------|
@@ -1436,16 +1433,19 @@ The Forgery skill is also used to detect someone else's forgery. The result of t
 | Document is put through additional tests (computer, droid, analyzer)\* | +4 |
 | Examiner only casually reviews the document\* | −2 |
 
-\* Cumulative with any of the first three conditions on the table. Apply this modifier along with one of the other three whenever appropriate. A document that contradicts procedure, orders, or previous. knowledge, or one that requires the examiner to relinquish a possession or a piece of information can increase the examiner's suspicion (and thus create favorable cireumstances for the examiner's opposed Forgery check). Retry: No, since the forger isn't sure of the quality of the original forgery. Special: To forge documents and detect forgeries, one must be able to read and write the language in question.
+\* Cumulative with any of the first three conditions on the table. Apply this modifier along with one of the other three whenever appropriate. A document that contradicts procedure, orders, or previous knowledge, or one that requires the examiner to relinquish a possession or a piece of information can increase the examiner's suspicion (and thus create favorable circumstances for the examiner's opposed Forgery check).
+
+Retry: No, since the forger isn't sure of the quality of the original forgery.
+
+Special: To forge documents and detect forgeries, one must be able to read and write the language in question.
 
 <!-- page 90 -->
 
-{The skill is lanquage-dependent.)
+(The skill is language-dependent.)
 
 You can take 10 when making a Forgery check, but you can't take 20.
 
-Time: Forging a short and simple document takes about 1 minute. Longer or more complex documents take
-|`d4` minutes per page or screen.
+Time: Forging a short and simple document takes about 1 minute. Longer or more complex documents take `1d4` minutes per page or screen.
 
 ### Friendship (Cha)
 
@@ -1462,9 +1462,9 @@ Check: A Friendship check alters the attitude of a hostile or unfriendly target,
 | Friendly | 25 | 15 |
 | Helpful | 35 | 25 |
 
-Ifthe check fails (a result of 14 or less against a hostile character, or a result of 9 or less against an unfriendly 'tharacter), the target's attitude becomes worse, with infriendly targets turning hostile and hostile targets turning combative. If the check succeeds, the target maintains the new attitude toward the Force-user until a situation ‘occurs to alter that state.
+If the check fails (a result of 14 or less against a hostile character, or a result of 9 or less against an unfriendly character), the target’s attitude becomes worse, with unfriendly targets turning hostile and hostile targets turning combative. If the check succeeds, the target maintains the new attitude toward the Force-user until a situation occurs to alter that state.
 
-When the Force-user ends contact with the target (by jeaving the target's immediate vicinity), the target can inmediately make a Will saving throw (DC 20) to shake off “ihe effects of Friendship. Otherwise, the Force-induced altitude fades in 1 hour.
+When the Force-user ends contact with the target (by leaving the target's immediate vicinity), the target can immediately make a Will saving throw (DC 20) to shake off the effects of Friendship. Otherwise, the Force-induced attitude fades in 1 hour.
 
 Retry: You can make only one successful check involving a specific target per hour. (If your use of Friendship on a target turns him from hostile to unfriendly, you can’t
 
@@ -1472,37 +1472,33 @@ then follow that with a second check to try to improve the attitude of the now-u
 
 Special: You can take 10 when making a Friendship check, but you can't take 20.
 
-Time: Friendship is a full-round action. Its effects last until something occurs to change the target's attitude, or util 1 hour has passed.
+Time: Friendship is a full-round action. Its effects last until something occurs to change the target's attitude, or until 1 hour has passed.
 
 Vitality Point Cost: 2.
 
 ### Gamble (Wis)
 
-lise this skill to earn credits through games of chance, in- ‘duding sabace, jubilee, and betting on swoop races. Check: The amount of your wager and the result of Your skill check determine how much money you win or lose during an evening of gambling. You can either
+Use this skill to earn credits through games of chance, including sabacc, jubilee, and betting on swoop races.
 
-gamble against the house or against an opponent (or group of opponents).
+Check: The amount of your wager and the result of your skill check determine how much money you win or lose during an evening of gambling. You can either gamble against the house or against an opponent (or group of opponents).
 
 When gambling against the house—such as when playing the jubilee wheel or betting on the outcome of a race—you must declare how many credits you want to wager as your stake for the evening of gambling. Your skill check determines whether you win or lose and by how much after an entire evening of gambling.
 
-## Result Wins or Losses
-
-1-4 Lose entire stake
-
-5-9 Walk away with 25% of stake 10-14 Walk away with 50% of stake 15-19 Break even, keep entire stake 20-24 Win stake x 1.5
-
-25-29 Win stake x 2
-
-30-34 Win stake x 3
-
-35-39 Win stake x 5
-
-40+ Win stake x 10
+| Result | Wins or Losses |
+|--------|----------------|
+| 1–4 | Lose entire stake |
+| 5–9 | Walk away with 25% of stake |
+| 10–14 | Walk away with 50% of stake |
+| 15–19 | Break even, keep entire stake |
+| 20–24 | Win stake × 1.5 |
+| 25–29 | Win stake × 2 |
+| 30–34 | Win stake × 3 |
+| 35–39 | Win stake × 5 |
+| 40+ | Win stake × 10 |
 
 When gambling against other opponents—such as major GM characters or other heroes—each character declares an amount to wager for the evening and makes a skill check. The character with the highest result is considered the overall winner after an evening of gambling. (If two or more characters are tied for highest result, they split the winnings.) Each participant, other than the winner, checks his result against the winner's result, using the difference in the scores to determine how much money is deducted from his stake and added to the winner's take, as shown on the table on the next page.
 
 <!-- page 91 -->
-
-**Difference in Gamble Checks | Change in Winnings**
 
 | Difference | Change in Winnings |
 |------------|-------------------|
@@ -1539,22 +1535,25 @@ Information ranges from general to protected, and the cost and DC increases acco
 | Restricted | 20 | 250 credits |
 | Protected | 25 | 500 credits |
 
-General information concems local happenings, rumors, gossip, and the like. Specific information usually relates to a specific question, such as “Which way to Mos Espa?” or “What can you tell me about the mysterious woman who always stands behind the senator?” Restricted information includes facts that aren't generally known and requires that you locate someone who has access to such information. Protected information is even harder to come by and might include some danger, either to the one asking the questions or the one providing the answer. In the case of both restricted and protected information, there’s a chance that someone will take note of anyone asking about information that falls into one of these categories.
+General information concerns local happenings, rumors, gossip, and the like. Specific information usually relates to a specific question, such as “Which way to Mos Espa?” or “What can you tell me about the mysterious woman who always stands behind the senator?” Restricted information includes facts that aren't generally known and requires that you locate someone who has access to such information. Protected information is even harder to come by and might include some danger, either to the one asking the questions or the one providing the answer. In the case of both restricted and protected information, there’s a chance that someone will take note of anyone asking about information that falls into one of these categories.
 
 You can also increase the amount of credits you use to gather information, gaining a circumstance bonus by effectively offering a bribe (though the process might entail buying more expensive drinks, not necessarily offering a character extra credits). Pay one-half of the cost for each +1 circumstance bonus you want to add to your check. For
 
-example, Deel Surool is looking for restricted information about a star system that doesn’t appear on any public astrogation charts. He really wants to get this information, so he spends 250 credits, plus an additional 125 credits for every +1 bonus he wants to apply to the check. In this casg he can afford an additional 250 credits, granting him a +2 bonus on the check,
+example, Deel Surool is looking for restricted information about a star system that doesn’t appear on any public astrogation charts. He really wants to get this information, so he spends 250 credits, plus an additional 125 credits for every +1 bonus he wants to apply to the check. In this case he can afford an additional 250 credits, granting him a +2 bonus on the check.
 
 Retry: Yes, but it takes an evening or so for each check, and characters may draw attention to themselves if they repeatedly pursue a certain type of information.
 
 Special: You can take 10 when making a Gather Information check. You can also take 20, but you must spend twenty times the amount of credits, and it takes twenty evenings to gather the information.
 
-A character with the Trustworthy feat gets a +2 aptitu bonus on Gather Information checks.
+A character with the Trustworthy feat gets a +2 aptitude bonus on Gather Information checks.
 
 Time: You must spend anywhere from a few hours to an entire evening when making a Gather Information check.
 
 ### Handle Animal (Cha)
-Trained Only Use this skill to drive a team of dewbacks pulling a wagon ‘over rough terrain, to teach a vornskr to guard, to raise a morrt as a devoted pet, or to teach a rancor to “speak” on your command.
+
+*Trained Only*
+
+Use this skill to drive a team of dewbacks pulling a wagon over rough terrain, to teach a vornskr to guard, to raise a morrt as a devoted pet, or to teach a rancor to “speak” on your command.
 
 Check: The time required to get an effect and the DC depend on what you are trying to do.
 
@@ -1573,21 +1572,21 @@ Handle a Domestic Animal: A character with this skill can drive beasts of burden
 
 “Push” a Domestic Animal: An animal handler who “pushes” a domestic animal can get more out of it than it usually gives. For example, the handler could drive draft animals for extra effort, encouraging them to pull more weight or work longer.
 
-Teach an Animal Tasks: With this skill, you can teach @ domestic animal a few tricks. You can train one type of animal per rank (specified when the ranks are purchased) to obey commands and perform simple tricks. You can work with up to three animals of the same type at one time, and can teach them general tasks such as guarding, attacking, carrying riders, performing heavy labor, hunting and tracking, or fighting beside troops. An animal can be trained for one general purpose only.
+Teach an Animal Tasks: With this skill, you can teach a domestic animal a few tricks. You can train one type of animal per rank (specified when the ranks are purchased) to obey commands and perform simple tricks. You can work with up to three animals of the same type at one time, and can teach them general tasks such as guarding, attacking, carrying riders, performing heavy labor, hunting and tracking, or fighting beside troops. An animal can be trained for one general purpose only.
 
 Teach an Animal Unusual Tasks: This use of the skill is similar to teaching an animal tasks, except that the tasks can be something unusual for that breed of animal, such a training a bantha to be a war mount. Alternatively, you can use this aspect of Handle Animal to train an animal to perform specialized tricks, such as teaching a ronto to rear
 
 <!-- page 92 -->
 
-‘qi command or to come when whistled for, or teaching a falcon to pluck objects from someone's grasp.
+on command or to come when whistled for, or teaching a falcon to pluck objects from someone’s grasp.
 
-Rear a Wild or Deadly Animal: Rearing a wild or deadly animal involves raising a wild creature from infancy so that itis domesticated. The creature’s level (see Chapter Four- {een Allies and Opponents) is added to the DC. A handler can reat up to three creatures of the same type at once. A successfully domesticated wild or deadly animal can be taught tricks at the same time that it’s being raised, or can he taught them as a domesticated animal later.
+Rear a Wild or Deadly Animal: Rearing a wild or deadly animal involves raising a wild creature from infancy so that it is domesticated. The creature’s level (see Chapter Fourteen: Allies and Opponents) is added to the DC. A handler can rear up to three creatures of the same type at once. A successfully domesticated wild or deadly animal can be taught tricks at the same time that it’s being raised, or can he taught them as a domesticated animal later.
 
-Train a Wild or Deadly Animal: The character can train awild or deadly creature to do certain tricks, but only at the character's command. The creature is still wild, though usually controllable. Add the creature's level to the DC.
+Train a Wild or Deadly Animal: The character can train a wild or deadly creature to do certain tricks, but only at the character's command. The creature is still wild, though usually controllable. Add the creature's level to the DC.
 
 Retry: For handling and pushing domestic animals, yes. for training and rearing, no.
 
-Special: You can take 10 and take 20 when handling and pushing domestic animals. You can take 10 but you tan't take 20 when training or rearing an animal.
+Special: You can take 10 and take 20 when handling and pushing domestic animals. You can take 10 but you can't take 20 when training or rearing an animal.
 
 An untrained character uses Charisma checks to handle and push animals.
 
@@ -1597,7 +1596,7 @@ Time: See the table above for information on how long it takes to make a Handle 
 
 ### Heal Another (Wis)
 
-light Side Force Skill; Requires the Force-Sensitive and Alter feats
+Light Side Force Skill; Requires the Force-Sensitive and Alter feats
 
 You can use the Force to heal damage taken by another person,
 
@@ -1613,7 +1612,7 @@ The table below indicates the amount of healing possible for the result you achi
 | 25–29 | Restore `1d8+4` vitality points, or `1d6+2` wound points, or `1d4+1` ability points | 4 |
 | 30+ | Restore `2d6+6` vitality points, or `1d8+4` wound points, or `1d6+2` ability points | 6 |
 
-You must touch the target that you want to heal. Your tamget can't receive healing that would increase her vitality points, wound points, or any of her ability scores bgond her full normal total. Any excess points restored ate lost.
+You must touch the target that you want to heal. Your target can't receive healing that would increase her vitality points, wound points, or any of her ability scores beyond her full normal total. Any excess points restored are lost.
 
 Retry: You can’t attempt to heal vitality damage to the same person a second time until 1 hour has passed. You can't attempt to heal wound damage or ability score damage to the same person a second time until 24 hours have passed.
 
@@ -1625,10 +1624,13 @@ A character with the Compassion feat gets a +2 aptitude bonus on Heal Another ch
 
 Time: Heal Another is a full-round action.
 
-Vitality Point Cost: At least | (for a failure or a minimal success), but see above.
+Vitality Point Cost: At least 1 (for a failure or a minimal success), but see above.
 
 ### Heal Self (Cha)
-Force Skill; Requires the Force-Sensitive and Control feats You can use the Force to heal damage you have taken.
+
+Force Skill; Requires the Force-Sensitive and Control feats
+
+You can use the Force to heal damage you have taken.
 
 Check: This skill can restore vitality, wound, or ability score points you have lost. The result of the Heal Self check indicates the damage that is healed.
 
@@ -1653,17 +1655,17 @@ You can take 10 when making a Heal Self check, but you can't take 20.
 
 A character with the Attuned feat gets a +2 aptitude bonus on Heal Self checks.
 
-Time: Heal Self is a full-round action,
+Time: Heal Self is a full-round action.
 
-Vitality Point Cost: | for a failure, 0 for for restoring vitality points, and either 1, 2, or 4 (see above) for restoring wound points or ability score points.
+Vitality Point Cost: 1 for a failure, 0 for restoring vitality points, and either 1, 2, or 4 (see above) for restoring wound points or ability score points.
 
 ### Hide (Dex)
 
-## Armor Check Penalty
+*Armor Check Penalty*
 
 Use this skill to sink back into the shadows and proceed unseen, approach an Imperial guard post under cover of trees and brush, or tail someone through the speeder lanes of busy Coruscant without being noticed.
 
-Check: Your Hide check is opposed by the Spot check of anyone who might see you. You can move up to one-half your normal speed and hide at no penalty. At more than one-half and up to your full speed, you take a ~5 penalty. It’s practically impossible (-20 penalty) to hide while running or charging.
+Check: Your Hide check is opposed by the Spot check of anyone who might see you. You can move up to one-half your normal speed and hide at no penalty. At more than one-half and up to your full speed, you take a -5 penalty. It’s practically impossible (-20 penalty) to hide while running or charging.
 
 For example, Deel Surool has a speed of 10 meters. If he doesn't want to take a penalty on his Hide check, he can move 5 meters as a move action in the same round when he is trying to hide.
 
@@ -1685,18 +1687,21 @@ If people are observing you, even casually, you can’t hide, You can run around
 
 Creating a Diversion to Hide: You can use the Bluff skill (see page 77) to help you hide, A successful Bluff check can give you the momentary diversion you need to attempt a Hide check while people are aware of you. While the others turn their attention from you, you can make a Hide check if you can get to a hiding place of some kind. (As a general guideline, the hiding place has to be within 1 meter for every 3 ranks you have in Hide.) This check, however, is at a -10 penalty because you have to move fast.
 
-‘Special: You can take 10 when making a Hide check, you can't take 20.
+Special: You can take 10 when making a Hide check, but you can’t take 20.
 
 A character with the Stealthy feat gets a +2 aptitude bonus on Hide checks,
 
-Tima: Hide is an attack action.
+Time: Hide is an attack action.
 
-### Mlusion (Cha)
-Force Skill; Requires the Force-Sensitive and Alter feats You can use the Force to manifest false visual and auditory images that seem completely real to those who perceive them.
+### Illusion (Cha)
 
-Chack: This skill creates illusions to trick, distract, or eve harm those who perceive them. (Though these illusions can't cause physical harm, they can provoke fatal mistakes by those who don’t recognize them as unreal.)
+Force Skill; Requires the Force-Sensitive and Alter feats
 
-Your Ilusion check result sets the DC for the target’s Will saving throw.
+You can use the Force to manifest false visual and auditory images that seem completely real to those who perceive them.
+
+Check: This skill creates illusions to trick, distract, or even harm those who perceive them. (Though these illusions can’t cause physical harm, they can provoke fatal mistakes by those who don’t recognize them as unreal.)
+
+Your Illusion check result sets the DC for the target’s Will saving throw.
 
 | Check Result | Will Saving Throw DC |
 |--------------|---------------------|
@@ -1715,73 +1720,65 @@ The maximum range for this skill is 1,000 kilometers from the Force-user. The di
 | 100 kilometers | 8 |
 | 1,000 kilometers | 10 |
 
-Maintaining an illusion for more than a single round requires an attack action (but no additional skill check) and the vitality point expenditure, as well as a level of concen: tration. A Force-user can't maintain an illusion while using other Force skills or engaging in distracting activity.
+Maintaining an illusion for more than a single round requires an attack action (but no additional skill check) and the vitality point expenditure, as well as a level of concentration. A Force-user can't maintain an illusion while using other Force skills or engaging in distracting activity.
 
 Special: Each person who perceives the illusion perceives the same event. Characters encountering an illusion can't attempt a saving throw to recognize it as illusory until they study it carefully or interact with it in a significant fashion,
 
 A successful saving throw against a Force illusion reveals it to be false and dispels the illusion,
 
-A failed saving throw indicates that a character doesn't
+A failed saving throw indicates that a character doesn’t notice anything amiss. A character provided with incontrovertible proof that an illusion isn’t real doesn’t need to make a saving throw.
 
 <!-- page 94 -->
 
-tice anything amiss. A character provided with incontrowerible proof that an illusion isn’t real doesn't need to
+If a character makes a successful save against an illusion and communicates this knowledge to others in the area, each of these others immediately makes a Will saving throw with a +4 circumstance bonus to identify the illusion as false.
 
-ke a saving throw,
+Using Illusion to perform a deadly act against a living target gives the Force-user a Dark Side Point.
 
-Ifa character makes a successful save against an illusion id communicates this knowledge to others in the area,
+You can take 10 when making an Illusion check, but you can’t take 20.
 
-h of these others immediately makes a Will saving
+A character with the Mind Trick feat gets a +2 aptitude bonus on Illusion checks.
 
-throw with a +4 circumstance bonus to identify the illusion false.
+Time: Illusion is an attack action.
 
-Using Musion to perform a deadly
+Vitality Point Cost: Pay the cost given above for the appropriate distance during every round in which you maintain the illusion.
 
-ikt against a living target gives the ‘Type of Jump --user a Dark Side Point. Running jump*
+### Intimidate (Cha)
 
-You can take 10 when making an Standing jump ilusion check, but you can't take 20. Running high jump* A character with the Mind Trick Standing high jump
+Use this skill to get someone to do something he doesn’t want to do by means of verbal threats, force of will, and imposing body language.
 
-fat gets a +2 aptitude bonus on Jump back
+Check: With a successful check, you can forcibly persuade another character to perform some task or behave in a certain way. The DC is typically 10 + the target’s level. Any bonuses that a target may have on saving throws against fear increase the DC.
 
-illusion checks.
+There are limits to what a successful Intimidate check can do. You can, for example, cause an adversary to back down from a confrontation, surrender one of his possessions, reveal a piece of secret information, or flee from you for a short time. You can’t force someone to obey your every command or do something that endangers that person’s life.
 
-Time: |Ilusion is an attack action. Vitality Point Cost: Pay the cost given above for the appropriate distance during every round Inwhich you maintain the illusion.
+Retry: Generally, retries don’t work. Even if the initial check succeeds, the other character can only be intimidated so much, and a retry doesn’t help. If the initial check fails, the other character has probably become more firmly resolved to resist the intimidator, and a retry is futile.
 
-intimidate (Cha)
-
-{se this skill to get someone to do something he doesn’t want to do by means of verbal threats, force of will, and inposing body language.
-
-Check: With a successful check, you can forcibly persuade another character to perform some task or behave ina certain way, The DC is typically 10 + the target's Joel. Any bonuses that a target may have on saving throws against fear increase the DC.
-
-There ate limits to what a successful Intimidate check san do. You can, for example, cause an adversary to back down from a confrontation, surrender one of his posses- ‘ons, reveal a piece of secret information, or flee from iu for a short time. You can't force someone to obey uit every command or do something that endangers that mn’s life.
-
-Retry: Generally, retries don’t work. Even if the initial
-
-ck succeeds, the other character can only be intimidated ®much, and a retry doesn’t help. If the initial check fails, the other character has probably become more firmly nsolved to resist the intimidator, and a retry is futile.
-
-Special: You can take 10 when making an Intimidate heck, but you can't take 20.
+Special: You can take 10 when making an Intimidate check, but you can’t take 20.
 
 Acharacter with the Headstrong feat gets a +2 aptitude bonus on Intimidate checks.
 
 Time: Intimidate requires a full-round action.
 
-dump (Str)
+### Jump (Str)
 
-## Amor Check Penalty
+*Armor Check Penalty*
 
-Ake this skill to leap over pits, vault low fences, or reach a ‘re's lowest branches.
+Use this skill to leap over pits, vault low fences, or reach a tree’s lowest branches.
 
-Check: You jump a minimum distance plus an additional fistance depending on the amount by which your Jump ‘heck result exceeds 10. The maximum distance of any isa function of your height.
+Check: You jump a minimum distance plus an additional distance depending on the amount by which your Jump check result exceeds 10. The maximum distance of any jump is a function of your height.
 
-The distances given on the table below are for characters with speeds of 10 meters. If you have a lower speed
-
-use of armor, encumbrance, or weight carried, for ance), reduce the distance jumped proportionally.
+The distances given on the table below are for characters with speeds of 10 meters. If you have a lower speed (because of armor, encumbrance, or weight carried, for instance), reduce the distance jumped proportionally.
 
 For example, Rorworr the Wookiee has a Jump skill modifier of +3 (no ranks, +3 Strength bonus) and a base speed of 10 meters. He attempts a running jump across a 4meter-wide chasm, and his player rolls a 13 for a result of 16 (13 + 3 = 16). That's 6 more than 10, so he clears 2 meters (6 1/3 = 2) more than the minimum distance, or 4 meters. Rorworr just makes it.
 
-Minimum Additional Maximum Distance Distance Distance 2m +1/3m per | point above 10 Height x 6 Im + 1/3 m per 2 points above 10 Height x 2 Im + 1/3 m per 4 points above 10 Height x 1.5 Im + 1/3 m per 8 points above 10 Height /3m + 1/3 m per 8 points above 10 Height
+| Type of Jump | Minimum Distance | Additional Distance | Maximum Distance |
+|---|---|---|---|
+| Running jump\* | 2 m | +1/3 m per 1 point above 10 | Height × 6 |
+| Standing jump | 1 m | +1/3 m per 2 points above 10 | Height × 2 |
+| Running high jump\* | 1 m | +1/3 m per 4 points above 10 | Height × 1.5 |
+| Standing high jump | 1 m | +1/3 m per 8 points above 10 | Height |
+| Jump back | 1/3 m | +1/3 m per 8 points above 10 | Height |
 
-"You must move 6 meters before jumping. A character can't take a running jump in heavy armor.
+\* You must move 6 meters before jumping. A character can't take a running jump in heavy armor.
 
 Distance moved by jumping is counted against maximum movement in a round normally.
 
@@ -1797,7 +1794,7 @@ Time: Jump is an attack action.
 
 ### Knowledge (Int)
 
-## Trained Only
+*Trained Only*
 
 Like the Craft and Profession skills, Knowledge actually encompasses a number of unrelated skills. Knowledge represents a study of some body of lore, possibly an academic or even scientific discipline. Below are typical fields of study.
 
@@ -1810,85 +1807,43 @@ Like the Craft and Profession skills, Knowledge actually encompasses a number of
 
 - Astronomy (the study of celestial bodies)
 
-Biology (the scientific study of living organisms and
+- Biology (the scientific study of living organisms and their vital processes)
 
-their vital processes)
+- Bureaucracy (knowledge of bureaucratic procedures)
 
-Bureaucracy (knowledge of bureaucratic procedures)
+- Business (knowledge of business procedures, profit and loss, supply and demand)
 
-Business (knowledge of business procedures, profit and
+- Chemistry (the scientific study of the composition, structure, and properties of substances)
 
-loss, supply and demand)
-
-Chemistry (the scientific study of the composition,
-
-structure, and properties of substances)
-
-Engineering (the scientific study of the application of
-
-matter and energy)
-
-®9 9 OO @
-
-oo
-
-“
+- Engineering (the scientific study of the application of matter and energy)
 
 <!-- page 95 -->
 
-un
+- Forensics (knowledge of applying the scientific method to solve problems)
 
-- Forensics (knowledge of applying the scientific method
-  to solve problems)
+- Genetics (the scientific study of the genetic makeup of an organism)
 
-- Genetics (the scientific study of the genetic makeup of
-‘an organism)
+- Geography (the scientific study of the physical features of a planet)
 
-- Geography (the scientific study of the physical features
+- History (knowledge of past events that have been important to the development of galactic society)
 
-of a planet)
+- Jedi lore (knowledge of the traditions and powers of the Jedi)
 
-History (knowledge of past events that have been
+- Medicine (the scientific study of the maintenance of health and the prevention, alleviation, or cure of disease)
 
-important to the development of galactic society)
+- Physics (the scientific study of the interaction of matter and energy)
 
-Jedi lore (knowledge of the traditions and powers of
+- Politics (knowledge of governmental institutions, processes, and policies)
 
-the Jedi)
+- Streetwise (knowledge necessary to survive and successfully interact in an urban environment)
 
-Medicine (the scientific study of the maintenance of
+- Tactics (the scientific study of disposing and maneuvering forces in combat)
 
-health and the prevention, alleviation, or cure of disease)
+- Technology (knowledge of cutting-edge devices and electronic systems)
 
-Physics (the scientific study of the interaction of matter
+- Wilderness lore (knowledge of surviving in a wild, untamed area)
 
-and energy)
-
-Politics (knowledge of governmental institutions,
-
-processes, and policies)
-
-Streetwise (knowledge necessary to survive and suc-
-
-cessfully interact in an urban environment)
-
-Tactics (the scientific study of disposing and maneu-
-
-vering forces in combat)
-
-Technology (knowledge of cutting-edge devices and
-
-electronic systems)
-
-Wildemess lore (knowledge of surviving in a wild,
-
-untamed area)
-
-World lore (knowledge of the cultures, life, and physi-
-
-cal makeup of specific planets in the galaxy)
-
-®2 ® 0 &@ @ @ OG G&G @ @
+- World lore (knowledge of the cultures, life, and physical makeup of specific planets in the galaxy)
 
 Check: Answering a question within your field of study has a DC of 10 (for really easy questions), 15 (for basic questions), or 20 to 30 (for really tough questions).
 
@@ -1898,7 +1853,7 @@ Special: An untrained Knowledge check is simply an Intelligence check. Without a
 
 You can take 10 when making a Knowledge check, but you can’t take 20.
 
-‘The GM may alter the DC of a Knowledge check, or apply a modifier to the check, to reflect a character's familiarity (or lack thereof) with a specific aspect of the skill category. For example, a GM may allow a character with the Knowledge (Corellia) skill to recall information about other worlds in the Corellian sector with a +2 or +5 modifier to the skill check DC.
+The GM may alter the DC of a Knowledge check, or apply a modifier to the check, to reflect a character's familiarity (or lack thereof) with a specific aspect of the skill category. For example, a GM may allow a character with the Knowledge (Corellia) skill to recall information about other worlds in the Corellian sector with a +2 or +5 modifier to the skill check DC.
 
 Also, the GM may decide that having 5 or more ranks in a specific Knowledge skill provides you with a +2 synergy bonus when making a related skill check. For example, a character with 5 or more ranks in Knowledge (medicine) could get a +2 synergy bonus when making a Treat Injury check in certain situations.
 
@@ -1910,94 +1865,91 @@ Use this skill to hear approaching enemies, detect someone sneaking up on you fr
 
 Check: Make a Listen check against a DC that reflects how quiet the noise is that you might hear or against an opposed Move Silently check.
 
-The GM may call for a Listen check by a character who is
+The GM may call for a Listen check by a character who is in a position to hear something. You can also make a Listen check voluntarily if you want to try to hear something in your vicinity.
 
-in a position to hear something. You can also make a List check voluntarily if you want to try to hear something in your vicinity.
-
-The GM may make the Listen check in secret so that don’t know whether not hearing anything means that not ing is there or that you rolled low.
+The GM may make the Listen check in secret so that you don’t know whether not hearing anything means that nothing is there or that you rolled low.
 
 A successful Listen check when there isn't anything to hear results in you hearing nothing.
 
-DC = Sound 0 People talking 5 Aperson in medium armor walking at a slow trying not to make noise 10 Anunarmored person walking at a slow pace, try not to make any noise 15 A 1st-level scoundrel using Move Silently within 3 meters of the listener 25 Akatarn stalking prey 30 ~~ Avelker swooping in for a kill +1 Per 4 meters from the listener +5 Through a door +15 Through a wall
+| DC | Sound |
+|----|-------|
+| 0 | People talking |
+| 5 | A person in medium armor walking at a slow pace, trying not to make noise |
+| 10 | An unarmored person walking at a slow pace, trying not to make any noise |
+| 15 | A 1st-level scoundrel using Move Silently within 3 meters of the listener |
+| 25 | A katarn stalking prey |
+| 30 | A velker swooping in for a kill |
+| +1 | Per 4 meters from the listener |
+| +5 | Through a door |
+| +15 | Through a wall |
 
 Retry: You can make a Listen check every time you have the opportunity to hear something in a reactive manner. As a full-round action, you may attempt to hear something that you failed (or believe you failed) to hear previously.
 
-Special: When several characters are listening to the same thing, the GM can make a single 1420 roll and use it for all the listeners’ skill checks.
+Special: When several characters are listening to the same thing, the GM can make a single 1d20 roll and use it for all the listeners’ skill checks.
 
 You can take 10 or take 20 when making a Listen check Taking 20 means you spend 2 minutes attempting to hear something that may or may not be there to hear.
 
 A character with the Alertness feat gets a +2 aptitude bonus on Listen checks,
 
-Time: A Listen check is either a reaction (if called for by the GM) or a full-round action (if you actively take the ti to try to hear something).
+Time: A Listen check is either a reaction (if called for by the GM) or a full-round action (if you actively take the time to try to hear something).
 
 ### Move Object (Int)
-Force Skill; Requires the Force-Sensitive and Alter feats You can move objects and living beings using the Force.
 
-Check: A Move Object check allows you to pick up and move an object or creature from a distance using the Fore: You must be able to see the target object or creature to be moved, and it must be within 10 meters of your position to initially gather it up in the Force.
+Force Skill; Requires the Force-Sensitive and Alter feats
 
-Moving an Object: Lifting or moving an object of up to kilograms is a simple task, requiring a check against DC 10 and costing 1 vitality point. For each additional order of magnitude (50 kg, 500 kg, and so on) of the object, the DC increases by 5 and the vitality point cost doubles.
+You can move objects and living beings using the Force.
 
-Weight pc Vitality Point Cost 0.1-5 kg 10 1 6-50 kg 15 2 51-500 kg 20 4 501-5,000 kg 25 8 5,001-50,000 kg 30 16 etc. etc. etc.
+Check: A Move Object check allows you to pick up and move an object or creature from a distance using the Force. You must be able to see the target object or creature to be moved, and it must be within 10 meters of your position to initially gather it up in the Force.
+
+Moving an Object: Lifting or moving an object of up to 5 kilograms is a simple task, requiring a check against DC 10 and costing 1 vitality point. For each additional order of magnitude (50 kg, 500 kg, and so on) of the object, the DC increases by 5 and the vitality point cost doubles.
+
+| Weight | DC | Vitality Point Cost |
+|--------|-----|---------------------|
+| 0.1–5 kg | 10 | 1 |
+| 6–50 kg | 15 | 2 |
+| 51–500 kg | 20 | 4 |
+| 501–5,000 kg | 25 | 8 |
+| 5,001–50,000 kg | 30 | 16 |
+| etc. | etc. | etc. |
 
 <!-- page 96 -->
 
-You can lift an object as a move action and move it a umber of meters equal to 4 x your Force-user level by faking a check against the appropriate DC. You can tontinue to move the object in subsequent rounds by continuing to make successful checks and spending vitalily points. If you fail a check in any subsequent round ihile attempting to move an object, the object falls to
+You can lift an object as a move action and move it a number of meters equal to 4 × your Force-user level by taking a check against the appropriate DC. You can continue to move the object in subsequent rounds by continuing to make successful checks and spending vitality points. If you fail a check in any subsequent round while attempting to move an object, the object falls to the ground.
 
-the ground,
+If two Force-users are contesting control of an object, use opposed Move Object checks. The Force-user who rolls the higher result gains control for that round. If the target object is physically held by a resisting individual, the individual makes a Will saving throw (DC 10 + your Force-user level) to retain possession. In the case of a physical obstruction, such as a ship stuck in the mud or caught under a fallen tree, the GM increases the DC of the Move Object check using these guidelines: +5 for a slight obstruction, +10 for a moderate obstruction, and +15 for a severe obstruction.
 
-If two Force-users are contesting control of an object, ise opposed Move Object checks. The Force-user who tolls the higher result gains control for that round. If the inget object is physically held by a resisting individual, the individual makes a Will saving throw (DC 10 + your Force-uiser level) to retain possession. In the case of a piysical obstruction, such as a ship stuck in the mud or tayght under a fallen tree, the GM increases the DC of the Nove Object check using these guidelines: +5 for a slight thstruction, +10 for a moderate obstruction, and +15 for aseyere obstruction.
+Moving a Living Being: Using the Move Object skill on a living being allows it a Will saving throw (DC 10 + your Force-user level) to resist. If the target fails its save, treat it as an object for purposes of determining distance moved (see above). If the target succeeds, the skill has no effect
 
-Moving a Living Being: Using the Move Object skill on a jiing being allows it a Will saving throw (DC 10 + your force-user level) to resist. If the target fails its save, treat it 4an object for purposes of determining distance moved ee above). If the target succeeds, the skill has no effect
-
-((@))_ HOw muci Does IT WEIGH? ‘
-
-A comprehensive weight listing for everything in the Star Wars tniverse would be beyond even Yoda's abilities. For most applicalions of Move Object, it’s fairly intuitive what the weight-and therefore the DC and vitality point cost-of a given object will be. Theranges given are fairly broad, after all.
-
-But for those of you who can only guess at what 5,000 kg actu- ‘ly looks like, we offer the following guidelines:
-
-## Weight Examples
-
-upto S kg Beings and droids of Tiny size or smaller, most handheld weapons and objects, portable appliances, and smaller components of large machines
-
-550kg Small and Medium-size beings, Small droids, heavy weapons, objects requiring two hands to carry
-
-51-500 kg Large beings, Medium-size droids, shipboard weapons, objects requiring repulsorlift-assists to hand-carry
-
-501-5,000 kg Huge beings, Large droids, landspeeders,
-
-heavy freight
-
-Gargantuan beings, Huge  droids,
-
-starfighters
-
-Colossal beings, Gargantuan droids,
-
-space transports
-
-500001-5,000,000 kg Colossal droids, small capital ships (for example, the Rebel Blockade Runner Tantive IV)
-
-000001 kg and up Massive capital ships (Trade Federation Battleship, Mon Calamari Star Cruiser, or Super Star Destroyer, for example)
-
-5,001-50,000 kg
-
-50,001~500,000 kg
+> **How Much Does It Weigh?**
+>
+> A comprehensive weight listing for everything in the Star Wars universe would be beyond even Yoda’s abilities. For most applications of Move Object, it’s fairly intuitive what the weight—and therefore the DC and vitality point cost—of a given object will be. The ranges given are fairly broad, after all.
+>
+> But for those of you who can only guess at what 5,000 kg actually looks like, we offer the following guidelines:
+>
+> | Weight | Examples |
+> |--------|---------|
+> | 0.1–5 kg | Beings and droids of Tiny size or smaller, most handheld weapons and objects, portable appliances, and smaller components of large machines |
+> | 6–50 kg | Small and Medium-size beings, Small droids, heavy weapons, objects requiring two hands to carry |
+> | 51–500 kg | Large beings, Medium-size droids, shipboard weapons, objects requiring repulsorlift-assists to hand-carry |
+> | 501–5,000 kg | Huge beings, Large droids, landspeeders, heavy freight |
+> | 5,001–50,000 kg | Gargantuan beings, Huge droids, starfighters |
+> | 50,001–500,000 kg | Colossal beings, Gargantuan droids, space transports |
+> | 500,001–5,000,000 kg | Colossal droids, small capital ships (for example, the Rebel Blockade Runner Tantive IV) |
+> | 5,000,001 kg and up | Massive capital ships (Trade Federation Battleship, Mon Calamari Star Cruiser, or Super Star Destroyer, for example) |
 
 and you still expend the vitality point cost. A target can willingly forgo its saving throw.
 
-Hurling Objects: Move Object isn’t designed as a mode of attack. Its normal function allows a Force-user to call objects to his hand or to employ the Force to mave larger objects when no physical means are available. You can use this skill to lift and hurl a Small or Medium-size object or living being (50 kg or less), but not with any speed or power. To hit a target, you use your ranged attack bonus and try to get a result that equals or exceeds the target’s Defense. Hurled objects and beings up to 5 kg deal no damage but daze the target for 1 round, (Some targets, such as droids and other objects, can’t be dazed.) Objects and living beings weighing between 5 and 50 kg deal 144 points of damage in addition to the daze effect.
+Hurling Objects: Move Object isn’t designed as a mode of attack. Its normal function allows a Force-user to call objects to his hand or to employ the Force to move larger objects when no physical means are available. You can use this skill to lift and hurl a Small or Medium-size object or living being (50 kg or less), but not with any speed or power. To hit a target, you use your ranged attack bonus and try to get a result that equals or exceeds the target’s Defense. Hurled objects and beings up to 5 kg deal no damage but daze the target for 1 round, (Some targets, such as droids and other objects, can’t be dazed.) Objects and living beings weighing between 5 and 50 kg deal `1d4` points of damage in addition to the daze effect.
 
-The Move Object skill can also be used to lift an object or being and drop it on a target. The target gets a Reflex saving throw to avoid the dropped object or being (see Table 12-22: Damage from Falling Objects for Reflex save DCs). A dropped object or being deals damage based on its size and the distance fallen, as discussed under Falling Objects in Chapter Twelve: succeeds at the Reflex it takes no damage.
+The Move Object skill can also be used to lift an object or being and drop it on a target. The target gets a Reflex saving throw to avoid the dropped object or being (see Table 12-22: Damage from Falling Objects for Reflex save DCs). A dropped object or being deals damage based on its size and the distance fallen, as discussed under Falling Objects in Chapter Twelve: Gamemastering. If the target succeeds at the Reflex save, it takes no damage.
 
 Time: Move Object is a move action. If you try to employ it as an attack, it is a full-round action.
 
-Vitality Point Cost: | or more (see above).
-
-amemastering, If the target
+Vitality Point Cost: 1 or more (see above).
 
 ### Move Silently (Dex)
 
-## Armor Check Penalty
+*Armor Check Penalty*
 
 You can use this skill to sneak up behind an enemy or slink away without being noticed.
 
@@ -2011,46 +1963,19 @@ Time: Move Silently is a move action.
 
 ### Pilot (Dex)
 
-## Trained Only
+*Trained Only*
 
-Use this skill to operate a land, sea, air, or space.
+Use this skill to operate a land, sea, air, or space vehicle.
 
 Check: Typical piloting tasks don't require checks. Checks are required during combat, for special maneuvers, or in other extreme circumstances or when the pilot wants to attempt something outside the normal parameters of the vehicle.
 
-As a rule of thumb, easy vehicle maneuvers—including low-speed turns and loops—do not require a check; they only require movement. Stunts—actions in which the pilot or driver attempts to do something complex very quickly or in a limited space—require Pilot checks, Using a ship’s afterburners to increase speed has a DC of 10, and using braking thrusters to slow a ship down rapidly has a DC of 15. Performing a tight loop is somewhat more challenging (DC 25), and the DC for avoiding
-
-vehicle, whether it performs in
-
-|
-en
-
-un as fs 7)
+As a rule of thumb, easy vehicle maneuvers—including low-speed turns and loops—do not require a check; they only require movement. Stunts—actions in which the pilot or driver attempts to do something complex very quickly or in a limited space—require Pilot checks, Using a ship’s afterburners to increase speed has a DC of 10, and using braking thrusters to slow a ship down rapidly has a DC of 15. Performing a tight loop is somewhat more challenging (DC 25), and the DC for avoiding hazards ranges from very easy (DC 0) to nearly impossible (DC 40).
 
 <!-- page 97 -->
-
-nn
-
-hazards ranges from very easy (DC 0) to nearly impossible (DC 40).
 
 Each vehicle's description includes a maneuver modifier that applies to all Pilot checks made when operating the vehicle. (For starships, this modifier derives directly from the size of the ship.)
 
 For descriptions of vehicle and starship maneuvers and combat, see Chapter Ten: Vehicles and Chapter Eleven: Starships.
-
-Retry: An attempt to use a Profession skill to earn an income can't be retried. You're stuck with whatever wage for the coming week your check result brought you. {Another check may be made after a week to determine a new income for the next period of time.)
-
-Special: You can take 10 when making a Profession check, but you can't take 20.
-
-The GM may decide that having 5 or more tanks in a specific Profession skill provides you with a +2 synergy
-
-bonus when making a related skill check. For example, a character
-
-“YOU CAME YOU (TovsreS
-
-## ABI NG?
-
-| THOUGH
-
-with 5 or more ranks in Profession (computer programmer) could get +2 synergy bonus when making @ 'T..””| Computer Use check in certain
 
 Special: Any Pilot check made to operate a starship has a -4 penalty unless you have the appropriate Starship Operation feat.
 
@@ -2062,7 +1987,7 @@ Time: Using the Pilot skill is a move action.
 
 ### Profession (Wis)
 
-## Trained Only
+*Trained Only*
 
 You are trained in a livelihood or a professional role, such as bartender, cook, moisture farmer, herbalist, spacehand, trader, doctor, slicer, engineer, mechanic, lawyer, law officer, computer programmer, droid programmer, military officer, gambler, or entertainer.
 
@@ -2074,20 +1999,23 @@ Check: You can practice your profession and make a decent living, earning your c
 
 You know how to use the tools of your trade, how to perform the profession's daily tasks, how to supervise untrained helpers, and how to handle common problems. For example, a spacehand knows how to perform basic starship maintenance and the basic tasks of spacefaring. The GM sets DCs for specialized tasks.
 
-(LEIA ORGANA
+The GM may decide that having 5 or more ranks in a specific Profession skill provides you with a +2 synergy bonus when making a related skill check. For example, a character with 5 or more ranks in Profession (computer programmer) could get a +2 synergy bonus when making a Computer Use check in certain situations.
 
-situations.
+Retry: An attempt to use a Profession skill to earn an income can't be retried. You're stuck with whatever wage for the coming week your check result brought you. (Another check may be made after a week to determine a new income for the next period of time.)
 
-Time: When you're using Profession to make a living, the check requires a week of dedicated work. A check to accor plish a specific task is usually a full-round action.
+Special: You can take 10 when making a Profession check, but you can't take 20.
 
-Read/Write Language (None) Trained Only
+Time: When you're using Profession to make a living, the check requires a week of dedicated work. A check to accomplish a specific task is usually a full-round action.
+
+### Read/Write Language (None)
+
+*Trained Only*
 
 The Read/Write Language skill doesn’t work like a standard skill.
 
-- You start at 1st level knowing how to read and write
-  your primary language. (See Chapter Two: Species.) You!   also select a number of additional languages to speak   read and write equal to your Intelligence bonus.
+- You start at 1st level knowing how to read and write your primary language. (See Chapter Two: Species.) You also select a number of additional languages to speak, read and write equal to your Intelligence bonus.
 
-G@ Instead of buying a rank in Read/Write Language, you! choose a new language that you can read and write,
+- Instead of buying a rank in Read/Write Language, you choose a new language that you can read and write.
 
 - You don’t make Read/Write Language checks. You
   either know how to read and write a specific language   or you don't.
@@ -2102,46 +2030,37 @@ Some languages, such as Gamorrean, Ewokese, and Lekkt (the head-tail language of
 
 ### Repair (Int)
 
-## Trained Only
+*Trained Only*
 
-You can repair damaged machinery or electronic devices, Check: Most Repair checks are made to fix complex
+You can repair damaged machinery or electronic devices.
 
-electronic or computerized devices, such as vehicles, droide
-
-or computer systems. The DC is set by the GM, using the
-
-guidelines suggested below. Making repairs also involves
-
-paying a monetary cost, as shown on the table below.
+Check: Most Repair checks are made to fix complex electronic or computerized devices, such as vehicles, droids, or computer systems. The DC is set by the GM, using the guidelines suggested below. Making repairs also involves paying a monetary cost, as shown on the table below.
 
 <!-- page 98 -->
 
-## Task DC Cost
-
-Simple repair (tools, simple weapon) 10 1/5 price
-
-Moderate repair (high-tech weapon, 15 1/5 price mechanical or electronic component)
-
-Complex (lightsaber, droid, vehicle, 20 1/5 price computer)
-
-Very complex (starship component) 25 1/10 price
+| Task | DC | Cost |
+|------|----|------|
+| Simple repair (tools, simple weapon) | 10 | 1/5 price |
+| Moderate repair (high-tech weapon, mechanical or electronic component) | 15 | 1/5 price |
+| Complex repair (lightsaber, droid, vehicle, computer) | 20 | 1/5 price |
+| Very complex repair (starship component) | 25 | 1/10 price |
 
 Ifyou don’t have the proper tools for a Repair check, you have a -5 penalty on the check. Also, working with alien or unfamiliar technology increases the DC by 5.
 
-Jury-Rig: You can choose to attempt jury-rigged, or temporary, repairs. Doing this reduces the DC by 5 and allows you to make the check in as little as a full-round action. However, a jury-rig repair can only fix a single problem with a check, and the temporary repair only lasts until the end of the current scene or encounter. The jury-rigged object must be fully repaired thereafter. This application of the Repair skill tan be used untrained, and the bonus provided by the Gearhead feat applies to untrained jury-rig attempts.
+Jury-Rig: You can choose to attempt jury-rigged, or temporary, repairs. Doing this reduces the DC by 5 and allows you to make the check in as little as a full-round action. However, a jury-rig repair can only fix a single problem with a check, and the temporary repair only lasts until the end of the current scene or encounter. The jury-rigged object must be fully repaired thereafter. This application of the Repair skill can be used untrained, and the bonus provided by the Gearhead feat applies to untrained jury-rig attempts.
 
 Retry: There are no restrictions on repeated Repair checks. In some specific cases, the GM may decide that a failed Repair check has negative ramifications that prevent repeated checks.
 
 Special: You can take 10 or take 20 on a Repair check. When making a Repair check to accomplish a jury-rig repair, you can't take 20.
 
-A character with the Gearhead feat and at least 1 rank in this skill gets a +2 aptitude bonus on all Repair checks. Time: Simple repairs take a few minutes to accomplish. Complex repairs can take hours or even days. You can make ajury-tig repair as a full-round action, but the work only
+A character with the Gearhead feat and at least 1 rank in this skill gets a +2 aptitude bonus on all Repair checks.
 
-fasts until the end of the scene.
+Time: Simple repairs take a few minutes to accomplish. Complex repairs can take hours or even days. You can make a jury-rig repair as a full-round action, but the work only lasts until the end of the scene.
 
 ### Ride (Dex)
 Use this skill to ride any kind of mount, including tauntauns, dewbacks, and banthas, among others.
 
-Check: Typical riding actions don’t require checks. You can saddle, mount, ride, and dismount without a problem. Mounting or dismounting an animal is a move action. Some tasks, such as those undertaken in combat or other extreme circumstances, require checks. In addition, attempting trick tiding or asking the animal to perform an unusual techhique also requires a check.
+Check: Typical riding actions don’t require checks. You can saddle, mount, ride, and dismount without a problem. Mounting or dismounting an animal is a move action. Some tasks, such as those undertaken in combat or other extreme circumstances, require checks. In addition, attempting trick riding or asking the animal to perform an unusual technique also requires a check.
 
 | Riding Task | DC |
 |-------------|----|
@@ -2183,13 +2102,11 @@ Time: Ride is a move action, except when otherwise noted for the special tasks l
 ### Search (Int)
 You can make a detailed examination of a specific area, looking for lost items, hidden compartments, and traps, or to discern other details that aren't readily apparent at a casual glance. The Search skill lets a character detect some small detail or irregularity through active effort, whereas the Spot skill lets you notice something with a quick scan. Check: You generally must be within 4 meters of the object or surface to be examined. You can examine up to a 2-meter-by-2-meter area or a volume of goods 2 meters on a side with a single check.
 
-## DC Task
-
-10 Ransack an area to find a certain item
-
-20 Notice a typical secret compartment, a simple trap, or an obscure clue
-
-25+ Find a complex or well-hidden secret compartment or trap; notice an extremely obscure clue
+| DC | Task |
+|----|------|
+| 10 | Ransack an area to find a certain item |
+| 20 | Notice a typical secret compartment, a simple trap, or an obscure clue |
+| 25+ | Find a complex or well-hidden secret compartment or trap; notice an extremely obscure clue |
 
 Special: You can take 10 when making a Search check. You can take 20, but it takes 2 minutes to do so.
 
@@ -2197,11 +2114,7 @@ A character with the Sharp-Eyed feat gets a +2 aptitude bonus on Search checks.
 
 Time: A Search check is a full-round action.
 
-i ”
-
 <!-- page 99 -->
-
-7 c i
 
 ### See Force (Wis)
 
@@ -2239,13 +2152,15 @@ A character with the Sharp-Eyed feat gets a +2 aptitude bonus on Sense Motive ch
 
 Time: Trying to gain information with this skill takes at least 1 minute, and you could spend a whole evening trying to get a sense of the people around you.
 
-## Sleight of Hand (Dex)
+### Sleight of Hand (Dex)
 
-## Trained Only; Armor Check Penalty
+*Trained Only*
+
+*Armor Check Penalty*
 
 You can lift a purse and hide it on your person, palm an unattended object, or perform some feat of adroitness with an object no larger than a hat or a loaf of bread.
 
-Check: A check against DC 10 lets you palm a coin-sizel, unattended object. Minor feats of sleight of hand, such as making a coin disappear, are also DC 10 unless an observer is concentrating on noticing where the item went.
+Check: A check against DC 10 lets you palm a coin-sized, unattended object. Minor feats of sleight of hand, such as making a coin disappear, are also DC 10 unless an observer is concentrating on noticing where the item went.
 
 When performing this skill under close observation, your skill check is opposed by the observer's Spot check. The observer's check doesn’t prevent you from performing the action, just from doing it unnoticed.
 
@@ -2253,19 +2168,22 @@ When you try to take something from another person, your opponent makes a Spot c
 
 Retry: A second Sleight of Hand attempt against the same target, or when being watched by the same observer, has a DC 10 higher than the first skill check if the first check failed or if the attempt was noticed,
 
-Special: You can take 10 when making a Sleight of Hani check, but you can't take 20.
+Special: You can take 10 when making a Sleight of Hand check, but you can't take 20.
 
 A character with the Nimble feat and at least 1 rank in this skill gets a +2 aptitude bonus on Sleight of Hand checks.
 
 Time: Sleight of Hand is an attack action.
 
 ### Speak Language (None)
-Trained Only The Speak Language skill doesn't work like a standard skill,
+
+*Trained Only*
+
+The Speak Language skill doesn't work like a standard skill.
 
 - You start at 1st level knowing how to speak your
   primary language, and perhaps an additional language.   (See Chapter Two: Species.) You also select a number   of additional languages to speak or read and write   equal to your Intelligence bonus, (Remember that   Speak Language and Read/Write Language are different skills.)
 
-G Instead of buying a rank in Speak Language, you choose a new language that you can speak.
+- Instead of buying a rank in Speak Language, you choose a new language that you can speak.
 
 - You don’t make Speak Language checks. You either
   know how to speak and understand a specific language   or you don’t,
@@ -2273,33 +2191,35 @@ G Instead of buying a rank in Speak Language, you choose a new language that you
 - To be able to read and write a language that you can
   speak, you must take the Read/Write Language skill for   the appropriate language.
 
-G Possible languages to choose from when you want to buy new Speak Language skills include Basic, Bothese, Cerean, Dosh, Dug, Durese, Ewokese, Gamorrean, Geonosian, Gungan, Huttese, Ithorese, Jawa Trade Language, Kaminoan, Kel Dor, Mon Calamarian, Neimoidian, Quarrenese, Rodese, Ryl, Sith, Sullustese,
+- Possible languages to choose from when you want to buy new Speak Language skills include Basic, Bothese, Cerean, Dosh, Dug, Durese, Ewokese, Gamorrean, Geonosian, Gungan, Huttese, Ithorese, Jawa Trade Language, Kaminoan, Kel Dor, Mon Calamarian, Neimoidian, Quarrenese, Rodese, Ryl, Sith, Sullustese,
 
 <!-- page 100 -->
 
 Yuuzhan Vong, and Zabrak. Your GM might determine that you can’t learn a specific language due to the circumstances of your campaign.
 
-Basic, the common language of the galaxy, is spoken (or at Ieast understood) by most civilized species in the galaxy. ‘yen species such as Wookiees (who physically can’t pronounce words in Basic) learn to understand it in order to get along with other species.
+Basic, the common language of the galaxy, is spoken (or at least understood) by most civilized species in the galaxy. Even species such as Wookiees (who physically can’t pronounce words in Basic) learn to understand it in order to get along with other species.
 
 Some languages are unique to a species and generally can't be spoken by those of other species. For instance, Shyriiwook (the language of Wookiees) can be understood readily by Humans who take the time to learn it, but the the Human vocal apparatus is incapable of reproducing the sounds of the language.
 
-Lekku, the head-tail language of the Twi'leks, is an example of a nonverbal or body language. Even if a non-Twi'lek earns to understand the language, without the unique Twilek head-tail protrusions, such a “speaker” would find it fiext to impossible to communicate using that language. Retry: Not applicable. (There are no Speak Language checks to fail.)
+Lekku, the head-tail language of the Twi'leks, is an example of a nonverbal or body language. Even if a non-Twi'lek learns to understand the language, without the unique Twi'lek head-tail protrusions, such a “speaker” would find it next to impossible to communicate using that language.
+
+Retry: Not applicable. (There are no Speak Language checks to fail.)
 
 ### Spot (Wis)
 
-Use this skill to notice opponents waiting in ambush, to see ascoundrel lurking in the shadows, or to discern a wampa hiding in a snowbank by making a quick scan of your surroundings,
+Use this skill to notice opponents waiting in ambush, to see a scoundrel lurking in the shadows, or to discern a wampa hiding in a snowbank by making a quick scan of your surroundings.
 
-Check: The Spot skill is used primarily to detect characters arcreatures that are hiding. Typically, Spot is opposed by the Hide check of the character trying not to be seen. Sometimes acreature isn't intentionally hiding but is still difficult to see, a successful Spot check is necessary to notice it.
+Check: The Spot skill is used primarily to detect characters and creatures that are hiding. Typically, Spot is opposed by the Hide check of the character trying not to be seen. Sometimes a creature isn't intentionally hiding but is still difficult to see; a successful Spot check is necessary to notice it.
 
 Spot is also used to detect someone in disguise (see the Disguise skill, page 83), or to notice an incongruity or a clue that can be seen at a glance.
 
-‘The GM may call for a Spot check by a character who is ina position to notice something. You can also make a Spot check voluntarily if you want to try to notice something in your vicinity.
+The GM may call for a Spot check by a character who is in a position to notice something. You can also make a Spot check voluntarily if you want to try to notice something in your vicinity.
 
-The GM may make the Spot check in secret so that you don't know whether not noticing anything means that tothing is there or that you rolled low.
+The GM may make the Spot check in secret so that you don't know whether not noticing anything means that nothing is there or that you rolled low.
 
 A successful Spot check when there isn’t anything to notice results in you noticing nothing.
 
-Your Spot check is modified by a -1 penalty for every 4 meters of distance between you and the creature or object you are trying to discern. The check carries a further -5 penalty if you are in the midst of activity (a combat scene, a ttowded street, a bustling cantina, and so forth).
+Your Spot check is modified by a -1 penalty for every 4 meters of distance between you and the creature or object you are trying to discern. The check carries a further -5 penalty if you are in the midst of activity (a combat scene, a crowded street, a bustling cantina, and so forth).
 
 Retry: You can make a Spot check every time you have the opportunity to notice something in a reactive manner. Asa full-round action, you may attempt to notice something that you failed (or believe you failed) to notice previously.
 
@@ -2317,13 +2237,11 @@ nearby, or avoid quicksand and other natural hazards. Check: You can keep yourse
 
 the wild.
 
-## DC Task
-
-10 Get along in the wild. Move up to one-half your overland speed while hunting and foraging (no food or water supplies needed). You can provide food and water for one other person for every 2 points by which your check result exceeds 10.
-
-15 Gain a +2 circumstance bonus on Fortitude saves against severe weather while moving up to one-half your overland speed, or gain a +4 circumstance bonus if stationary. You may grant the same bonus to one other character for every 1 point by which your check result exceeds 15.
-
-18 Avoid getting lost and avoid natural hazards, such as quicksand.
+| DC | Task |
+|----|------|
+| 10 | Get along in the wild. Move up to one-half your overland speed while hunting and foraging (no food or water supplies needed). You can provide food and water for one other person for every 2 points by which your check result exceeds 10. |
+| 15 | Gain a +2 circumstance bonus on Fortitude saves against severe weather while moving up to one-half your overland speed, or gain a +4 circumstance bonus if stationary. You may grant the same bonus to one other character for every 1 point by which your check result exceeds 15. |
+| 18 | Avoid getting lost and avoid natural hazards, such as quicksand. |
 
 With the Track feat, you can also use Survival checks to track a character or animal across various terrain types (see Track, page 116).
 
@@ -2384,9 +2302,7 @@ Vitality Point Cost: 3.
 ### Treat Injury (Wis)
 Use this skill to help characters that have been hurt by damage, poison, or disease.
 
-Check: The DC and effect depend on the task you
-
-attempt.
+Check: The DC and effect depend on the task you attempt.
 
 | Task | DC |
 |------|----|
@@ -2402,33 +2318,31 @@ attempt.
 
 Long-Term Care: Some injuries require treatment that stretches over a number of days. The successful application of this skill allows a patient to recover wound points and
 
-ability points lost to temporary damage at twice the norm#l rate (2 wound points or 2 ability points restored per day, instead of the normal 1 per day). A new check is made ead day; on a failed check, recovery occurs at the normal rate for that day of rest and care.
+ability points lost to temporary damage at twice the normal rate (2 wound points or 2 ability points restored per day, instead of the normal 1 per day). A new check is made each day; on a failed check, recovery occurs at the normal rate for that day of rest and care.
 
-You can tend up to as many patients as you have ranksi the skill. You need medical supplies, and the patients need to spend all their time resting. You need to devote at least! hour of the day to each patient you are caring for.
+You can tend up to as many patients as you have ranks in the skill. You need medical supplies, and the patients need to spend all their time resting. You need to devote at least 1 hour of the day to each patient you are caring for.
 
-Treat Daze: You can tend to a dazed character. As an attack action, a successful Treat Injury check removes the dazed condition from another character. You must havea medical kit to treat a dazed character.
+Treat Daze: You can tend to a dazed character. As an attack action, a successful Treat Injury check removes the dazed condition from another character. You must have a medical kit to treat a dazed character.
 
-Treat Dise« ‘ou can tend to a diseased character. Every time the diseased character makes a saving throw against disease effects (after the initial contamination), you make a Treat Injury check to help the character fend off secondary damage. The diseased character uses your result instead of his own saving throw if your result is higher.
+Treat Disease: You can tend to a diseased character. Every time the diseased character makes a saving throw against disease effects (after the initial contamination), you make a Treat Injury check to help the character fend off secondary damage. The diseased character uses your result instead of his own saving throw if your result is higher.
 
-Treat Knockout: You can tend to a knocked-out charactet As an attack action, a successful Treat Injury check removes the knocked-out condition from another character. You mis have a medical kit to treat a knocked-out character.
+Treat Knockout: You can tend to a knocked-out charactet As an attack action, a successful Treat Injury check removes the knocked-out condition from another character. You must have a medical kit to treat a knocked-out character.
 
 Treat Poison: You can tend to a poisoned character. Every time the poisoned character makes a saving throw against poison effects (after the initial introduction of the poison to his or her system), you make a Treat Injury check to help the character avoid secondary damage. The poisoned character uses your result instead of his own saving throw if your result is higher.
 
 <!-- page 102 -->
 
-Treat Stun: You can tend to a stunned character. As an Mack action, a successful Treat Injury check removes the slunned condition from another character. You must have a medical kit to treat a stunned character.
+Treat Stun: You can tend to a stunned character. As an attack action, a successful Treat Injury check removes the stunned condition from another character. You must have a medical kit to treat a stunned character.
 
-Use Medical Kit: With a medical kit and a little skill you ‘an keep a badly wounded character from dying or restore Hitality points. This check is an attack action.
+Use Medical Kit: With a medical kit and a little skill, you can keep a badly wounded character from dying or restore vitality points. This check is an attack action.
 
-Ifa character has negative wound points and is losing ‘wound points (at 1 per round, 1 per hour, or 1 per day), you ‘an stabilize the character. The character regains no wound faints, but he or she does stop losing them. A character can testabilized as often as necessary.
+If a character has negative wound points and is losing wound points (at 1 per round, 1 per hour, or 1 per day), you can stabilize the character. The character regains no wound points, but he or she does stop losing them. A character can be stabilized as often as necessary.
 
-Ifa character has lost vitality points, you can restore
+If a character has lost vitality points, you can restore some of them by giving the character’s system a boost. A successful check restores a number of vitality points equal to the number of ranks you possess in the skill. The number restored can never exceed the character’s full normal total of vitality points. This application can only be used successfully on a character once in a 24-hour period.
 
-me of them by giving the character's system a boost. A essful check restores a number of vitality points equal tothe number of ranks you possess in the skill. The number tored can never exceed the character's full normal total ifvitality points. This application can only be used successlilly on a character once in a 24-hour period.
+Use Medpac: A medpac is a simple medical device that is applied to a wounded character and activated. A medpac restores `1d2` wound points to any wounded character (up to the character’s full normal total of wound points) with a successful skill check as an attack action. This application can only be used successfully on a character once in a 24-hour period.
 
-Use Medpac: A medpac is a simple medical device that is lied to. a wounded character and activated. A medpac Mtores `1d2` wound points to any wounded character (up to character's full normal total of wound points) with a sful skill check as an attack action. This application ‘tan only be used successfully on a character once in a 24- ‘jour period.
-
-Use Bacta Tank: A specialized medical tank filled with ‘he miraculous liquid, bacta, promotes rapid healing and asa powerful disinfectant. When a character is disabled dying, bacta tank treatment is the best way to restore
+Use Bacta Tank: A specialized medical tank filled with the miraculous liquid, bacta, promotes rapid healing and acts as a powerful disinfectant. When a character is disabled or dying, bacta tank treatment is the best way to restore
 
 wound points to such a grievously injured being. With a successful Treat Injury check and a bacta tank, a character recovers vitality points at a rate of 3 per level per hour, and wound points at a rate of 1 per hour. So, over the course of a 12-hour bacta tank treatment, a character recovers up to. 36 vitality points and 12 wound points.
 
@@ -2442,7 +2356,9 @@ Time: Treat Injury checks take different amounts of time based on the task at ha
 
 ### Tumble (Dex)
 
-## Trained Only; Armor Check Penalty
+*Trained Only*
+
+*Armor Check Penalty*
 
 You can dive, roll, somersault, flip, and so on. You can't use
 
@@ -2454,13 +2370,11 @@ opponents. You can also tumble to entertain an audience
 
 (as with the Entertain skill).
 
-## DC Task
-
-15 Treat a fall as if it were 4 meters shorter when determining damage.
-
-15 Tumble up to 6 meters (as part of normal movement), risking no attacks of opportunity. Failure means you tumble 6 meters but risk attacks of opportunity normally.
-
-25 Tumble up to 6 meters (as part of normal movement), risking no attacks of opportunity while doing so and moving through areas occupied by opponents (over, under, or around them as if they weren't there). Failure means you tumble 6 meters and can move through enemy-occupied areas but tisk attacks of opportunity normally.
+| DC | Task |
+|----|------|
+| 15 | Treat a fall as if it were 4 meters shorter when determining damage. |
+| 15 | Tumble up to 6 meters (as part of normal movement), risking no attacks of opportunity. Failure means you tumble 6 meters but risk attacks of opportunity normally. |
+| 25 | Tumble up to 6 meters (as part of normal movement), risking no attacks of opportunity while doing so and moving through areas occupied by opponents (over, under, or around them as if they weren't there). Failure means you tumble 6 meters and can move through enemy-occupied areas but risk attacks of opportunity normally. |
 
 Retry: An audience, once it has judged a tumbler as uninteresting, is not receptive to repeat performances.
 
@@ -2472,9 +2386,4 @@ You can take 10 when making a Tumble check, but you can’t take 20.
 
 A character with the Acrobatic feat and at least 1 rank in this skill gets a +2 aptitude bonus on Tumble checks.
 
-Time: You can try to reduce damage from a fall as a teaction once per fall. You can attempt to tumble as part of movement once per round. Tumble is either a reaction {when used to avoid falling damage) or a move action.
-
-“”
-| at
-ira nn
-
+Time: You can try to reduce damage from a fall as a reaction once per fall. You can attempt to tumble as part of movement once per round. Tumble is either a reaction (when used to avoid falling damage) or a move action.
