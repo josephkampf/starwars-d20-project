@@ -223,9 +223,9 @@ feelings of rage and hatred in Luke and turn him to the dark side. Luke won't be
 
 **Anakin Skywalker (beginning of Episode II):** Male Human Fringer 1/Jedi Guardian 5; Init +3 (Dex); Defense 19 (+6 class, +3 Dex); Spd 10 m; VP/WP 52/13; Atk +8 melee” (`3d8+1`/19-20, lightsaber) or +8 ranged; SQ Force Point use as though three levels higher; Skywalkers get Force-Sensitive feat free and ignore the “Force Level 1st” prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Repair); deflect (defense +1, attack −4); SV Fort +5, Ref +6, Will +2; SZ M; FP 7; DSP 3; Rep +2; Str 13, Dex 16, Con 13, Int 13, Wis 12, Cha 13. Challenge Code D.
 
-Equipment: Lightsaber", Jedi robes.
+Equipment: Lightsaber*, Jedi robes.
 
-"Anakin Skywalker has constructed his own lightsaber,
+*Anakin Skywalker has constructed his own lightsaber.
 
 Skills: Balance +6, Craft (lightsaber) +4, Knowledge (alien species) +3, Knowledge (Jedi lore) +4, Knowledge (street wise) +4, Knowledge (Tatooine) +3, Pilot +10, Read/Write Basic, Read/Write Huttese, Repair +7, Speak Basic, Speak Huttese, Spot +4, Survival +3, Tumble +5.
 
@@ -239,11 +239,11 @@ Darth Vader (beginning of Episode IV): Male Human Fringer 1/Jedi Guardian 11/Sit
 
 Will +10; SZ M; FP 10; DSP 16; Rep +10; Str 16°, Dex 16, Con 17*, Int 14, Wis 12, Cha 13. Challenge Code H.
 
-Equipment: Lightsaber", dark armor.
+Equipment: Lightsaber*, dark armor.
 
-“Dark armor contains life-support apparatus that boosts Darth Vader's Strength and Constitution (see Darth Vader’s Armor sidebar).
+†Dark armor contains life-support apparatus that boosts Darth Vader’s Strength and Constitution (see Darth Vader’s Armor sidebar).
 
-“Darth Vader has constructed his own lightsaber.
+*Darth Vader has constructed his own lightsaber.
 
 Skills: Balance +2, Craft (lightsaber) +5, Intimidate +10, Knowledge (alien species) +4, Knowledge (Jedi lore) +5, Knowledge (streetwise) +5, Knowledge (Sith lore) +7. Knowledge (Tatooine) +4, Pilot +10, Read/Write Basic, Read/Write Huttese, Read/Write Sith, Repair +8, Search +7,
 
@@ -341,17 +341,13 @@ Equipment: Lightsaber\*, blaster pistol, Jedi robes, XJ-type X-wing starfighter.
 
 \*Luke has constructed his own lightsaber.
 
-Skills: Astrogate +5, Climb +7, Computer Use +8, Craft lightsaber) +8, Diplomacy +5, Gather Information +4, Intimidate +4, Jump +12, Knowledge (Jedi lore) +4, {nowledge (politics) +6, Knowledge (Tatooine) +8,
-
-Pilot +14, Profession (moisture farmer) +5, Read/Write Basic, Repair +7, Search +7, Sense Motive +6, Speak Basic, Speak Huttese, Speak Jawa Trade Language, Speak Shyriiwook, Spot +8, Survival +7, Tumble +8.
+Skills: Astrogate +5, Climb +7, Computer Use +8, Craft (lightsaber) +8, Diplomacy +5, Gather Information +4, Intimidate +4, Jump +12, Knowledge (Jedi lore) +4, Knowledge (politics) +6, Knowledge (Tatooine) +8, Pilot +14, Profession (moisture farmer) +5, Read/Write Basic, Repair +7, Search +7, Sense Motive +6, Speak Basic, Speak Huttese, Speak Jawa Trade Language, Speak Shyriiwook, Spot +8, Survival +7, Tumble +8.
 
 Force Skills: Affect Mind +11, Battlemind +8, Empathy +10, Enhance Ability +8, Enhance Senses +6, Farseeing +9, Force Defense +6, Heal Self +6, Move Object +10, See Force +10, Telepathy +7.
 
-Feats: Acrobatic, Combat Reflexes, Exotic Weapon ficiency (lightsaber), Fame, Force-Sensitive, Skill
+Feats: Acrobatic, Combat Reflexes, Exotic Weapon Proficiency (lightsaber), Fame, Force-Sensitive, Skill Emphasis (Pilot), Starship Dodge (starfighter), Starship Operation (starfighter), Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, blaster rifles, primitive weapons, simple weapons).
 
-)hasis (Pilot), Starship Dodge (starfighter), Starship Operation (starfighter), Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, blaster rifles, primitive weapons, simple weapons).
-
-Force Feats: Alter, Attuned, Control, Force Mastery, ‘night Defense, Lightsaber Defense, Sense.
+Force Feats: Alter, Attuned, Control, Force Mastery, Knight Defense, Lightsaber Defense, Sense.
 
 ## Leia Organa
 
@@ -433,13 +429,9 @@ As the Rebels begin construction of Echo Base on Hoth, Han finds himself torn be
 
 Han’s philosophy is to never doubt his own abilities, but 10 also respect the abilities of his opponents. Fortunately, he arely encounters an enemy whose abilities exceed his own. One such foe is Boba Fett, a crafty bounty hunter who tracks the Millennium Falcon to the Bespin system and ilerts the Empire. After being captured, interrogated, and teased in carbonite, Han is turned over to the bounty hunter for delivery to Jabba the Hutt.
 
-Han’s friends eventually rescue him from Jabba’s palace. Mterward, Han commits himself fully to the cause of the Alliance. Han volunteers to lead the strike team that must sip past the Imperial cordon and attempt to destroy the shield generator protecting the new Death Star. Alliance High Command makes Han a general—something he never imagined happening after he was discharged from the iinperial Navy years before.
+Han’s friends eventually rescue him from Jabba’s palace. Afterward, Han commits himself fully to the cause of the Alliance. Han volunteers to lead the strike team that must slip past the Imperial cordon and attempt to destroy the shield generator protecting the new Death Star. Alliance High Command makes Han a general—something he never imagined happening after he was discharged from the Imperial Navy years before.
 
-Despite becoming a general, then a war hero, a husband, anda father three times over, Han Solo changes very little in the 25 years that follow the Battle of Endor. Through a stties of wild adventures—including kidnapping Leia Organa
-
-## LEIA ORGANA AND HAN SOLO
-
-to prevent her from marrying a handsome rival, evading continued pursuit by the bounty hunter Boba Fett, and helping to defeat the Imperial remnants—Han remains the same wry adventurer he was when he first met Luke Skywalker on Tatooine. He has gained a greater sense of tesponsibility—to his wife, his three children, his friends, and to the safety of the New Republic. Although Han doesn’t feel much of a connection to the Force himself, he admits that throughout his life something has always thrust him into the role of hero, and he was never truly happy until he stopped fighting it.
+Despite becoming a general, then a war hero, a husband, and a father three times over, Han Solo changes very little in the 25 years that follow the Battle of Endor. Through a series of wild adventures—including kidnapping Leia Organa to prevent her from marrying a handsome rival, evading continued pursuit by the bounty hunter Boba Fett, and helping to defeat the Imperial remnants—Han remains the same wry adventurer he was when he first met Luke Skywalker on Tatooine. He has gained a greater sense of tesponsibility—to his wife, his three children, his friends, and to the safety of the New Republic. Although Han doesn’t feel much of a connection to the Force himself, he admits that throughout his life something has always thrust him into the role of hero, and he was never truly happy until he stopped fighting it.
 
 Although Han doesn’t truly comprehend the Force (and still thinks of it as a “hokey religion”), he sees how strongly it touches his wife and children and trusts his friend Luke to train them to understand and use it themselves.
 
@@ -457,7 +449,7 @@ Skills: Appraise +6, Astrogate +13, Bluff +11, Demolitions +8, Gamble +7, Gather
 
 Feats: Armor Proficiency (light), Heroic Surge, Quick Draw, Point Blank Shot, Skill Emphasis (Pilot), Spacer, Starship Dodge (space transport), Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-Han Solo (end of Episode VI): Male Human Scoundrel 7/Soldier 2/Starship Ace 1; Init +2 (Dex); Defense 19 (+7 class, +2 Dex); Spd 10 m; VP/WP 64/13; Atk +7/+2 melee (`1d3+1`, unarmed) or +8/+3 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Mlicit barter, lucky (2/day), precise attack +1, starship defense; SV Fort +7, Ref +9, Will +4; SZ M; FP 4; DSP 0; Rep +3; Str 13, Dex 14, Con 13, Int 13, Wis 12, Cha 15. Challenge Code E.
+Han Solo (end of Episode VI): Male Human Scoundrel 7/Soldier 2/Starship Ace 1; Init +2 (Dex); Defense 19 (+7 class, +2 Dex); Spd 10 m; VP/WP 64/13; Atk +7/+2 melee (`1d3+1`, unarmed) or +8/+3 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Illicit barter, lucky (2/day), precise attack +1, starship defense; SV Fort +7, Ref +9, Will +4; SZ M; FP 4; DSP 0; Rep +3; Str 13, Dex 14, Con 13, Int 13, Wis 12, Cha 15. Challenge Code E.
 
 Equipment: Heavy blaster pistol, comlink, tools, modified YT-1300 cargo freighter (Millennium Falcon).
 
@@ -465,17 +457,17 @@ Skills: Appraise +7, Astrogate +13, Bluff +10, Demolitions +9, Diplomacy +4, Dis
 
 Feats: Armor Proficiency (light), Heroic Surge, Quick Draw, Point Blank Shot, Skill Emphasis (Pilot), Spacer, Starship Dodge (space transport), Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-Han Solo (beginning of The New Jedi Order novel Male Human Scoundrel 10/Soldier 2/Starship Ace 5; Init +2 (Dex); Defense 22 (+10 class, +2 Dex); Spd 10 m; VP/WP 85/12; Atk +13/+8/+3 melee (`1d3+1`, unarmed) or +15/+10/+5 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Mlicit barter, lucky (2/day), precise attack +2, starship defense, familiarity +2, starship evsasion; SV Fort +10, Ref +13, Will +7; SZ M; FP 7; DSP 0; Rep +8; Str 12, Dex 14, Con 12, Int 14, Wis 13, Cha 16. Challenge Code G.
+Han Solo (beginning of The New Jedi Order novel series): Male Human Scoundrel 10/Soldier 2/Starship Ace 5; Init +2 (Dex); Defense 22 (+10 class, +2 Dex); Spd 10 m; VP/WP 85/12; Atk +13/+8/+3 melee (`1d3+1`, unarmed) or +15/+10/+5 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Illicit barter, lucky (2/day), precise attack +2, starship defense, familiarity +2, starship evasion; SV Fort +10, Ref +13, Will +7; SZ M; FP 7; DSP 0; Rep +8; Str 12, Dex 14, Con 12, Int 14, Wis 13, Cha 16. Challenge Code G.
 
 Equipment: Heavy blaster pistol, comlink, tools, modified YT-1300 cargo freighter (Millennium Falcon).
 
-Skills: Appraise +9, Astrogate +15, Bluff +13, Computer Use +6, Demolitions +11, Diplomacy +6, Disguise +5, Gamble +13, Gather Information +12, Hide +11, Intimidate +7, Knowledge (business) +5, Knowledge (Corellia) +5, Knowledge (streetwise) +6, Listen +6, Move Silently +11,
+Skills: Appraise +9, Astrogate +15, Bluff +13, Computer Use +6, Demolitions +11, Diplomacy +6, Disguise +5, Gamble +13, Gather Information +12, Hide +11, Intimidate +7, Knowledge (business) +5, Knowledge (Corellia) +5, Knowledge (streetwise) +6, Listen +6, Move Silently +11, Pilot +25, Profession (gambler) +7, Read/Write Basic, Read/Write Huttese, Repair +13, Ride +5, Speak Basic, Speak Huttese, Speak Shyriiwook, Spot +6, Tumble +6.
 
-Pilot +25, Profession (gambler) +7, Read/Write Basic, Read/Write Huttese, Repair +13, Ride +5, Speak Basic, Speak Huttese, Speak Shyriiwook, Spot +6, Tumble +6,
+Feats: Armor Proficiency (light), Dodge, Fame, Heroic Surge, Quick Draw, Point Blank Shot, Skill Emphasis (Pilot), Spacer, Starship Dodge (space transport), Starship Operation (space transport), Weapon Focus (heavy blaster pistol), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-Feats: Armor Proficiency (light), Dodge, Fame, Heroic Surge, Quick Draw, Point Blank Shot, Skill Emphasis (Pilot) Spacer, Starship Dodge (space transport), Starship Operation (space transport), Weapon Focus (heavy blaster pistol), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
+## Supporting Characters
 
-Supporting Characters The following section features sample supporting characters from the feature films and various Star Wars novels.
+The following section features sample supporting characters from the feature films and various Star Wars novels.
 
 ## Chewbacca
 
@@ -483,42 +475,31 @@ The mighty Wookiee Chewbacca is Han Solo’s best friend~ as well as his occasio
 
 Eventually, Han Solo comes to enjoy Chewbacca’s company. He learns enough of the Wookiee language to understand why Chewie considers it so important to stick by his side. Over time, Han accepts Chewie’s devotion and
 
-CHEWBACCA
-
 <!-- page 308 -->
 
-friendship. Han and Chewbacca become successful smugglers, with Chewbacca serving as first mate aboard Han’s newly won cargo freighter, the Millennium Falcon. A first-rate pilot and mechanic, Chewbacca sees a great thallenge in the deplorable condition of the aging and battered ship.
+friendship. Han and Chewbacca become successful smugglers, with Chewbacca serving as first mate aboard Han’s newly won cargo freighter, the Millennium Falcon. A first-rate pilot and mechanic, Chewbacca sees a great challenge in the deplorable condition of the aging and battered ship.
 
-Over the course of their adventures, Han and Chewbacca eam to trust each other and to watch each other's backs. Chewbacca sometimes finds Han’s flexible morals distasteful and lets his friend know how he feels. Still, Han is something of an “excitement magnet,” and a life of excitement is what originally led Chewbacca to leave his homeworld and explore the stars.
+Over the course of their adventures, Han and Chewbacca earn to trust each other and to watch each other’s backs. Chewbacca sometimes finds Han’s flexible morals distasteful and lets his friend know how he feels. Still, Han is something of an “excitement magnet,” and a life of excitement is what originally led Chewbacca to leave his homeworld and explore the stars.
 
-At Han Solo’s side, Chewbacca has acquired a reputation sone of the most dangerous smugglers in the galaxy, based on tales of his great strength and even greater temper. But those who know Chewie well realize that much of his reputation is simply fanciful hype. Chewbacca is actually the more cautious of the two, sometimes almost to the point of cowardice, While Chewba would dismember anyone who questioned his bravery (with the exception of Hlan), he has what he would call a “healthy respect” for the unknown, and often refuses to risk his neck against things fe can hear but not see. Even so, Chewie watches over Han {and Han’s family), even when (or especially when) he must fisk his own life to do so.
+At Han Solo’s side, Chewbacca has acquired a reputation as one of the most dangerous smugglers in the galaxy, based on tales of his great strength and even greater temper. But those who know Chewie well realize that much of his reputation is simply fanciful hype. Chewbacca is actually the more cautious of the two, sometimes almost to the point of cowardice. While Chewbacca would dismember anyone who questioned his bravery (with the exception of Han), he has what he would call a “healthy respect” for the unknown, and often refuses to risk his neck against things he can hear but not see. Even so, Chewie watches over Han (and Han’s family), even when (or especially when) he must risk his own life to do so.
 
 Chewbacca dies a hero, saving young Anakin Solo from a Yuuzhan Vong attack on the planet Sernpidal.
 
-Chewbacca (beginning of Episode IV); Male Wookiee Scout 4/Tech Specialist 2; Init +1 (Dex); Defense 15 (+4 tlass, +1 Dex); Spd 10 m; VP/WP 68/19; Atk +8 melee {`1d3+4`, unarmed) or +6 ranged (`3d10`/19-20, bowcaster); §0 Wookice rage, extraordinary recuperation, trailblazing, jeart +1, uncanny dodge (Dex bonus to Defense), research; §V Fort +5, Ref +4, Will +3; SZ M; FP 3; DSP 0; Rep +1; Sir 19, Dex 13, Con 19, Int 12, Wis 10, Cha 10. Challenge Code D.
+Chewbacca (beginning of Episode IV): Male Wookiee Scout 4/Tech Specialist 2; Init +1 (Dex); Defense 15 (+4 class, +1 Dex); Spd 10 m; VP/WP 68/19; Atk +8 melee (`1d3+4`, unarmed) or +6 ranged (`3d10`/19-20, bowcaster); SQ Wookiee rage, extraordinary recuperation, trailblazing, heart +1, uncanny dodge (Dex bonus to Defense), research; SV Fort +5, Ref +4, Will +3; SZ M; FP 3; DSP 0; Rep +1; Str 19, Dex 13, Con 19, Int 12, Wis 10, Cha 10. Challenge Code D.
 
 Equipment: Bowcaster, ammo bandoleer, tool pouch.
 
-Skills: Astrogate +6, Climb +5", Computer Use +6,
+Skills: Astrogate +6, Climb +5*, Computer Use +6, Disable Device +5, Intimidate +5*, Knowledge (Kashyyyk) +4, Knowledge (streetwise) +3, Knowledge (wilderness lore) +3, Listen +5, Move Silently +4, Pilot +10, Read/Write Basic, Read/Write Shyriiwook, Repair +15, Search +5, Speak Basic (understand only), Speak Shyriiwook, Spot +3, Survival +5.
 
-Disable Device +5, Intimidate +5", Knowledge (Kashyyyk) +4, Knowledge (streetwise) +3, Knowledge (wilderness lore) +3, listen +5, Move Silently +4, Pilot +10, Read/Write Basic, Fead/Write Shyriiwook, Repair +15, Search +5, Speak Basic understand only), Speak Shyriiwook, Spot +3, Survival +5.
+*Includes species bonus.
 
-“includes species bonus.
+Feats: Exotic Weapon Proficiency (bowcaster), Gearhead, Power Attack, Skill Emphasis (Repair), Starship Operation (space transport), Weapon Focus (bowcaster), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
-Feats: Exotic Weapon Proficiency (bowcaster), Gearhead, Power Attack, Skill Emphasis (Repair), Starship Operation {pace transport), Weapon Focus (bowcaster), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
-
-Chewbacca (end of Episode VI): Male Wookiee Scout Tech Specialist 2; Init +1 (Dex); Defense 17 (+6 class, +1 De); Spd 10 m; VP/WP 84/20; Atk +10/+5 melee (`1d3+4`, marmed) or +8/+3 ranged (3d 10/19-20, bowcaster); SQ Mookie rage, extraordinary recuperation, trailblazing, heart
-|, uncanny dodge (Dex bonus to Defense; can’t be
-
-fanked), research, skill mastery (Intimidate), extreme effort, masion; SV Fort +8, Ref +6, Will +5; SZ M; FP 5; DSP 0; Rep +2; Str 19, Dex 13, Con 20, Int 12, Wis 10, Cha 10. Gallenge Code E.
-
-307
-
-im) aT (Be <
+Chewbacca (end of Episode VI): Male Wookiee Scout 6/Tech Specialist 2; Init +1 (Dex); Defense 17 (+6 class, +1 Dex); Spd 10 m; VP/WP 84/20; Atk +10/+5 melee (`1d3+4`, unarmed) or +8/+3 ranged (`3d10`/19-20, bowcaster); SQ Wookiee rage, extraordinary recuperation, trailblazing, heart +1, uncanny dodge (Dex bonus to Defense; can’t be flanked), research, skill mastery (Intimidate), extreme effort, evasion; SV Fort +8, Ref +6, Will +5; SZ M; FP 5; DSP 0; Rep +2; Str 19, Dex 13, Con 20, Int 12, Wis 10, Cha 10. Challenge Code E.
 
 Equipment: Bowcaster, ammo bandoleer, tool pouch, comlink.
 
-Skills: Astrogate +8, Climb +5", Computer Use +8, Disable Device +5, Intimidate +5*, Knowledge (Kashyyyk) +4, Knowledge (streetwise) +3, Knowledge (wildemess lore) +3, Listen +7, Move Silently +6, Pilot +13, Read/Write Basic, Read/Write Shyriiwook, Repair +18, Search +8, Speak Basic (understand only), Speak Shyriiwook, Spot +6, Survival +6.
+Skills: Astrogate +8, Climb +5*, Computer Use +8, Disable Device +5, Intimidate +5*, Knowledge (Kashyyyk) +4, Knowledge (streetwise) +3, Knowledge (wilderness lore) +3, Listen +7, Move Silently +6, Pilot +13, Read/Write Basic, Read/Write Shyriiwook, Repair +18, Search +8, Speak Basic (understand only), Speak Shyriiwook, Spot +6, Survival +6.
 
 “Includes species bonus.
 
@@ -530,8 +511,6 @@ A gambler, a smuggler, a con artist, an opportunist, and an all-around scoundrel
 
 Lando made his first fortune at sabace, and his second fortune as the owner and smuggler-captain of the Millennium Falcon. That ended, unfortunately, when his old friend, Han Solo, played the best hand of sabace Lando had ever seen, and won the Falcon from him.
 
-## LANDG CALRISSIAN
-
 <!-- page 309 -->
 
 Lando didn't see Han or the Falcon again for several years. Returning to a life of gambling, he manages to score a big win of his own: the mining and gambling town of Cloud City, on the gas-giant planet Bespin, along with the title of Baron Administrator. Lando finds that he enjoys the challenge of running the facility. In addition to the huge revenues generated by mining Tibanna gas from the planet’s atmosphere, the city houses miners who earn big pay and have a lot of free time. In short order, Lando turns the famous gambling dens of Cloud City into his personal playground, making more at the sabace tables in a month than he makes running the city for a year. With the further help of his chief aide, Lobot, Lando also manages to set up a profitable smuggling operation while simultaneously selling ordnance and supplies to the Rebel Alliance.
@@ -540,45 +519,43 @@ But Lando’s perfect world comes crashing down a few years after the Battle of 
 
 Unfortunately, Vader's plan includes using live bait—Han Solo, Chewbacca, and an enchanting young lady named Leia. It isn’t long before Lando decides that his position, his city, and even his own well-being isn't worth someone else's life. In that moment, the course of Lando’s life changes, and he begins plotting to free his friends and join the Alliance.
 
-Lando Calrissian (beginning of Episode V): Male Human Scoundrel 8; Init +1 (Dex); Defense 16 (+5 class, +1 Dex); Spd 10 m; VP/WP 40/12; Atk +7/+2 melee (`1d3+1`, unarmed) or +7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Mlicit barter, lucky (2/day), precise attack +1; SV Fort +3, Ref +7, Will +3; SZM; FP 2; DSP 0; Rep +5; Str 12, Dex 13, Con 12, Int 12, Wis 13, Cha 16. Challenge Code D.
+Lando Calrissian (beginning of Episode V): Male Human Scoundrel 8; Init +1 (Dex); Defense 16 (+5 class, +1 Dex); Spd 10 m; VP/WP 40/12; Atk +7/+2 melee (`1d3+1`, unarmed) or +7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (2/day), precise attack +1; SV Fort +3, Ref +7, Will +3; SZ M; FP 2; DSP 0; Rep +5; Str 12, Dex 13, Con 12, Int 12, Wis 13, Cha 16. Challenge Code D.
 
 Equipment: Blaster pistol, comlink, expensive clothing.
 
-Skills: Appraise +7, Bluff +17, Computer Use +6, Diplomacy +13, Disguise +13, Gamble +15, Gather Information +8, Hide +11, Knowledge (Bespin) +6, Knowledge (streetwise) +6, Pilot +12, Profession (gambler) +7, Read/Write Basic, Search +5, Sense Motive +6, Speak Basic, Speak Shyriiwook, Speak Sullustese, Spot +5,
+Skills: Appraise +7, Bluff +17, Computer Use +6, Diplomacy +13, Disguise +13, Gamble +15, Gather Information +8, Hide +11, Knowledge (Bespin) +6, Knowledge (streetwise) +6, Pilot +12, Profession (gambler) +7, Read/Write Basic, Search +5, Sense Motive +6, Speak Basic, Speak Shyriiwook, Speak Sullustese, Spot +5.
 
 Feats: Fame, Heroic Surge, Point Blank Shot, Skill Emphasis (Bluff), Skill Emphasis (Gamble), Starship Dodge (space transport), Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-R2-`D2` AL first glance, R2-`D2` seems an unassuming astromech droid, typical of his series. But Artoo is unusual in that he has a unique personality quirk: courage. Artoo has demonstrated his bravery again and again, taking the typical R2 unit’s helpfulness to an unheard-of extreme.
+## R2-D2
 
-Artoo is a typical example of what occurs when a droid’s memory is not regularly wiped; he has become independent. Although he still serves faithfully, Artoo does so in the
+At first glance, R2-D2 seems an unassuming astromech droid, typical of his series. But Artoo is unusual in that he has a unique personality quirk: courage. Artoo has demonstrated his bravery again and again, taking the typical R2 unit’s helpfulness to an unheard-of extreme.
 
-R2-DE
-
-manner he feels is best—which doesn't always coincide with
-
-the instructions given to him. Still, this rarely gets Artoo into trouble. In addition to being innovative and resourceful, he is often absolutely right about the best course of action,
+Artoo is a typical example of what occurs when a droid’s memory is not regularly wiped; he has become independent. Although he still serves faithfully, Artoo does so in the manner he feels is best—which doesn’t always coincide with the instructions given to him. Still, this rarely gets Artoo into trouble. In addition to being innovative and resourceful, he is often absolutely right about the best course of action.
 
 The protocol droid C-3PO considers the little blue astromech’s attitude a bit too self-reliant, but Artoo understands that most of Threepio’s objections are out of concern for his friend. In truth, Artoo worries just as much about Threepio's occasional attempts at courage, not wanting to see the protocol droid disintegrated for emulating his unique temerity.
 
 Artoo provides courageous service first to Padmé Amidala, then to Leia Organa, and eventually to Luke Skywalker. After Luke and Artoo meet on Tatooine during the events that lead up to the Battle of Yavin, Artoo becomes Luke's constant companion and even his friend.
 
-R2-`D2`: Tracked astromech droid, Expert 4/Scout 3; Init +2 (Dex); Defense 17 (+4 class, +1 size, +2 Dex); Spd 8 m; VP/WP 18/14; Atk +7 melee (`1d4+2`, claw) or +7 melee (`1d2+2`, saw) or +7 melee (246, are welder) or +7 ranged: 50 Trailblazing, heart +2, unique droid personality quirk (courage; increases heart special ability from +1 to +2); SV Fort +5, Ref +5, Will +7; SZ S; FP 0; DSP 0; Rep +1; Str 14, Dex 14, Con 14, Int 18, Wis 12, Cha 11. Challenge Code C,
+R2-D2: Tracked astromech droid, Expert 4/Scout 3; Init +2 (Dex); Defense 17 (+4 class, +1 size, +2 Dex); Spd 8 m; VP/WP 18/14; Atk +7 melee (`1d4+2`, claw) or +7 melee (`1d2+2`, saw) or +7 melee (`2d6`, arc welder) or +7 ranged; SQ Trailblazing, heart +2, unique droid personality quirk (courage; increases heart special ability from +1 to +2); SV Fort +5, Ref +5, Will +7; SZ S; FP 0; DSP 0; Rep +1; Str 14, Dex 14, Con 14, Int 18, Wis 12, Cha 11. Challenge Code C.
 
 Equipment: Heuristic processor, improved sensor package, diagnostics package, holorecording unit, infrared vision, tool mounts (x4), telescopic appendage, environmental compensation (vacuum), magnetic feet, internal storage (2 kg), fire extinguisher.
 
 <!-- page 310 -->
 
-able Device +13, Knowledge (astronomy) +13, Listen +3, Pilot +15, Read/Write Basic, Repair +16, Search +13, Speak Basic (understand only), Speak Binary, Spot +10.
+Skills: Astrogate +13, Computer Use +13, Disable Device +13, Knowledge (astronomy) +13, Listen +3, Pilot +15, Read/Write Basic, Repair +16, Search +13, Speak Basic (understand only), Speak Binary, Spot +10.
 
 Unspent Skill Points: 4.
 
 Feats: Alertness, Ambidexterity, Skill Emphasis (Astrogate), Skill Emphasis (Repair), Starship Operation (starfighter), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-C-3P0 The gleaming golden protocol droid C-3PO is typical of his model: outspoken, fussy, and even a bit high-strung. But since these qualities hardly interfere with his work, his personality quirks are mostly tolerated.
+## C-3PO
+
+The gleaming golden protocol droid C-3PO is typical of his model: outspoken, fussy, and even a bit high-strung. But since these qualities hardly interfere with his work, his personality quirks are mostly tolerated.
 
 Threepio is unusual in that he was not manufactured by Cybot Galactica, like most protocol droids. He was, in fact, assembled from spare parts by young Anakin Skywalker on the remote planet of Tatooine—designed as a helpmeet for the boy's mother, Shmi. Still, Threepio meets all the safety and performance standards of the original manufacturer, so he has managed to serve several masters adequately.
 
-After Anakin goes off with Qui-Gon Jinn, Threepio stays with Shmi and moves into the Lars homestead with her. later, when Anakin returns, Threepio passes on to Padmé Amidala, thus beginning the droid’s long-lasting partnership with R2-`D2`. Years later, while working for Leia Organa, Threepio and Artoo are sent on a mission that ‘once again places them on the Lars moisture farm. They wind up as Luke Skywalker’s property, though Threepio continues to spend most of his time aiding Leia in her diplomatic duties,
+After Anakin goes off with Qui-Gon Jinn, Threepio stays with Shmi and moves into the Lars homestead with her. later, when Anakin returns, Threepio passes on to Padmé Amidala, thus beginning the droid’s long-lasting partnership with R2-`D2`. Years later, while working for Leia Organa, Threepio and Artoo are sent on a mission that once again places them on the Lars moisture farm. They wind up as Luke Skywalker’s property, though Threepio continues to spend most of his time aiding Leia in her diplomatic duties,
 
 C-3PO: Walking protocol droid, Diplomat 3; Init +0; Defense 11 (+1 class); Spd 8 m; VP/WP 0/13; Atk +1 melee (`1d4`, hand) or +1 ranged; SQ droid personality quirk (faithful); SV Fort +2, Ref +1, Will +3; SZ M; Rep 1; Str 10,
 
@@ -590,7 +567,7 @@ Skills: Computer Use +8, Diplomacy +9, Knowledge (Alderaan) +11, Knowledge (alie
 
 Unspent Skill Points: 16.
 
-Feats: Ambidexterity, Skill Emphasis (Diplomacy), Skill Emphasis (Knowledge [Alderan]), Trustworthy, Weapon Group Proficiency (simple weapons).
+Feats: Ambidexterity, Skill Emphasis (Diplomacy), Skill Emphasis (Knowledge [Alderaan]), Trustworthy, Weapon Group Proficiency (simple weapons).
 
 ## Mara Jade Skywalker
 
@@ -608,9 +585,9 @@ Just as Mara finds happiness by Luke’s side, a Yuuzhan Vong spy named Nom Anor
 
 <!-- page 311 -->
 
-Linked together through the Force, baby, mother, and father experience birth—a sudden, intense gathering of life itself, all at oni Somehow, impossibly and wonderfully, they use that energy to take away Mara’s pain forever. Her disease vanishes, and Ben Skywalker is welcomed into a war-torn galaxy.
+Linked together through the Force, baby, mother, and father experience birth—a sudden, intense gathering of life itself, all at once, pouring its energies into all three of them. Somehow, impossibly and wonderfully, they use that energy to take away Mara’s pain forever. Her disease vanishes, and Ben Skywalker is welcomed into a war-torn galaxy.
 
-Mara Jade Skywalker (beginning of The New Jedi Order novel series): Female Human Scoundrel 6/Jedi Guardian 9; Init +2 (Dex); Defense 21 (+9 class, +2 Dex); Spd 10 m; VP/WP 102/15 (57/8"*); Atk +15/+10/+5 melee (`1d3+2`, unarmed) or +16/+11/+6 melee* (`3d8+2`/19-20, lightsaber) or +15/+10/+5 ranged (346 or DC 15 stun, blaster pistol); SQ Mlicit barter, lucky (2/day), precise attack +1, deflect (defense +2), deflect (attack -4), deflect (extend defense and attack), block; SV Fort +10 (+7**), Ref +13, Will +7; SZ M; FP 5; DSP 3; Rep +4; Str 14, Dex 15, Con 15 (8"*), Int 13, Wis 12, Cha 14. Challenge Code F.
+Mara Jade Skywalker (beginning of The New Jedi Order novel series): Female Human Scoundrel 6/Jedi Guardian 9; Init +2 (Dex); Defense 21 (+9 class, +2 Dex); Spd 10 m; VP/WP 102/15 (57/8**); Atk +15/+10/+5 melee (`1d3+2`, unarmed) or +16/+11/+6 melee* (`3d8+2`/19-20, lightsaber) or +15/+10/+5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (2/day), precise attack +1, deflect (defense +2), deflect (attack -4), deflect (extend defense and attack), block; SV Fort +10 (+7**), Ref +13, Will +7; SZ M; FP 5; DSP 3; Rep +4; Str 14, Dex 15, Con 15 (8**), Int 13, Wis 12, Cha 14. Challenge Code F.
 
 Equipment: Lightsaber’, blaster pistol, space yacht (Jade Shadow).
 
@@ -630,51 +607,43 @@ A grand Master of the Jedi Knights, the diminutive, wizened Yoda is a living leg
 
 Yoda has a reputation as a harsh taskmaster, though nearly everyone who has studied under him has, in time, come to understand and respect his lessons and even his methods. Yoda is the primary instructor for those Temple students who have not yet been accepted as Padawans, teaching them basic Force techniques and self-defense, including lightsaber combat.
 
-pouring its energies into all three of them.
-
-Yoos Master Yoda encourages meditation and forethought, as well as strict observance of the Jedi traditions, pointing
+Master Yoda encourages meditation and forethought, as well as strict observance of the Jedi traditions, pointing
 
 to the 800 years’ worth of Jedi that he has personally trained—many of whom have gone on to be exemplars of the Jedi way—as proof of his convictions. An advocate of heeding the unifying Force, Yoda urges his students to always be mindful of the future. Of all the members of the Jedi Council, only Yoda seems overly concerned about what the future holds. Considering that he is recognized as the leading Jedi authority on seeing events that have not yet come to pass, Yoda may be the only Jedi who truly knows what is best for the Jedi Order.
 
 Yoda plays a significant part in the events surrounding the start of the Clone Wars. When the Jedi Order is destroyed, Yoda retreats into hiding on Dagobah to await the day he will be needed to help restore balance to the Force. To that end, Yoda trains Luke Skywalker in the ways of the Jedi and helps prepare him to confront Darth Vader and the Emperor. This task complete, Yoda finally succumbs to age and becomes one with the Force.
 
-Yoda (beginning of Episode Il): Male Jedi Consular 10/ Jedi Master 10 (species unknown); Init +1 (Dex); Defense 28 (+16 class, +1 size, +1 Dex); Spd 6 m; VP/WP 134/14; Atk +16/+11/+6/+1 melee (`1d2-1`, unarmed) or +20/+15/+10] +5* melee (`6d8-1`/19-20, lightsaber) or +19/+14/+9/+4 ranged; SQ +4 size bonus to Hide checks, deflect (defense +3), deflect (attack -2), deflect (extend defense and attack}, healing, block, Force secrets (Empathy, Farseeing, See Force); SV Fort +15, Ref +11, Will +17; SZ S; FP 15; DSP; Rep +11; Str 8, Dex 12, Con 14, Int 15, Wis 19, Cha 17.
+Yoda (beginning of Episode II): Male Jedi Consular 10/Jedi Master 10 (species unknown); Init +1 (Dex); Defense 28 (+16 class, +1 size, +1 Dex); Spd 6 m; VP/WP 134/14; Atk +16/+11/+6/+1 melee (`1d2-1`, unarmed) or +20/+15/+10/+5* melee (`6d8-1`/19-20, lightsaber) or +19/+14/+9/+4 ranged; SQ +4 size bonus to Hide checks, deflect (defense +3), deflect (attack -2), deflect (extend defense and attack), healing, block, Force secrets (Empathy, Farseeing, See Force); SV Fort +15, Ref +11, Will +17; SZ S; FP 15; DSP 0; Rep +11; Str 8, Dex 12, Con 14, Int 15, Wis 19, Cha 17.
 
 <!-- page 312 -->
 
 Equipment: Lightsaber’, gimer stick cane, Jedi robes. “Yoda has constructed his own lightsaber.
 
-Skills: Craft (lightsaber) +8, Diplomacy +11, Intimidate +11, Knowledge (Coruscant) +8, Knowledge (Jedi lore) +20, ‘Read/Write Basic, Speak Basic, Speak Mon Calamarian, Speak Cerean.
+Skills: Craft (lightsaber) +8, Diplomacy +11, Intimidate +11, Knowledge (Coruscant) +8, Knowledge (Jedi lore) +20, Read/Write Basic, Speak Basic, Speak Mon Calamarian, Speak Cerean.
 
 Force Skills: Affect Mind +25, Empathy +26, Farseeing 25, Force Defense +17, Heal Another +11, Heal Self +20, Move Object +20, See Force +25.
 
-Feats: Blind-Fight, Combat Reflexes, Exotic Weapon Proficiency (lightsaber), Fame, Force-Sensitive, Skill Emphasis (Empathy), Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, simple weapons). Force Feats: Alter, Burst of Speed, Control, Dissipate nergy, Force Mastery, Force Mind, High Force Mastery, nproved Force Mind, Lightsaber Defense, Sense.
+Feats: Blind-Fight, Combat Reflexes, Exotic Weapon Proficiency (lightsaber), Fame, Force-Sensitive, Skill Emphasis (Empathy), Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, simple weapons).
+
+Force Feats: Alter, Burst of Speed, Control, Dissipate Energy, Force Mastery, Force Mind, High Force Mastery, Improved Force Mind, Lightsaber Defense, Sense.
 
 ## Mace Windu
 
-Though Yoda's junior by eight centuries, Mace Windu is seen as Yoda's equal in the Jedi Order, and he is a senior member of the Jedi Council. He is the council's primary aison with the Republic Senate, and with the Supreme ancellor in particular. He has an easy friendship with inis Valorum and trusts Valorum’s judgment in political atters as much as he trusts Yoda’s judgment in matters if the Force. He is not as familiar with Chancellor Palpaine’s agenda but views him as a competent if somewhat isygoing politician.
+Though Yoda’s junior by eight centuries, Mace Windu is seen as Yoda’s equal in the Jedi Order, and he is a senior member of the Jedi Council. He is the council’s primary liaison with the Republic Senate, and with the Supreme Chancellor in particular. He has an easy friendship with Finis Valorum and trusts Valorum’s judgment in political matters as much as he trusts Yoda’s judgment in matters of the Force. He is not as familiar with Chancellor Palpatine’s agenda but views him as a competent if somewhat easygoing politician.
 
-Master Windu is respected among Jedi for his battle perience and the quiet confidence it has brought him. A pular story among the Padawans is that Mace Windu
+Master Windu is respected among Jedi for his battle experience and the quiet confidence it has brought him. A popular story among the Padawans is that Mace Windu once found himself surrounded by formidable warriors known as Gank killers—all with blasters drawn. Resting one hand on his lightsaber, Windu met each Gank’s eyes and uttered three words: “It’s your decision.” One by one, the warriors set down their weapons and surrendered.
 
-ice found himself surrounded by formidable warriors inown as Gank killers—all with blasters drawn. Resting one ind on his lightsaber, Windu met each Gank’s eyes and tered three words: “It’s your decision.” One by one, the iors set down their weapons and surrendered.
+This tale, which Master Windu neither confirms nor denies, serves to point out that the Jedi Master has an uncommon understanding of the judicious use of intimidation. He has traveled the galaxy nearly as much as Master Yoda, battled a variety of foes, and perfected his own fighting style—a relentless lightsaber assault that is at once unpredictable and perfectly balanced. Other Jedi might be stronger or faster than Master Windu, but he is the recognized master of the Order’s fighting techniques.
 
-This tale, which Master Windu neither confirms nor
+Mace Windu’s fighting skills are put to the ultimate test at Geonosis, where he not only leads a Jedi assault against the Separatists’ battle droid army but also confronts the bounty hunter Jango Fett. Although he emerges triumphant, Master Windu soon realizes that the Battle of Geonosis is but a prelude for even greater battles to come.
 
-nies, serves to point out that the Jedi Master has an ncommon understanding of the judicious use of intimidajon, He has traveled the galaxy nearly as much as Master loda, battled a variety of foes, and perfected his own fightstyle—a relentless lightsaber assault that is at once npredictable and perfectly balanced. Other Jedi might be ronger or faster than Master Windu, but he is the recogized master of the Order's fighting techniques.
-
-Mace Windu's fighting skills are put to the ultimate test Geonosis, where he not only leads a Jedi assault against i¢ Separatists’ battle droid army but also confronts the wnty hunter Jango Fett. Although he emerges triumlant, Master Windu soon realizes that the Battle of jiconosis is but a prelude for even greater battles to come.
-
-ce Windu (beginning of Episode II): Male Human Jedi uardian 9/Jedi Master 9; Init +2 (Dex); Defense 24 (+12 lass, +2 Dex); Spd 10 m; VP/WP. 120/15; Atk +19/+14/+9/ HM melee (`1d3+1`, unarmed) or +22/+17/+12/+7* (`6d8+2`/ 3-20, lightsaber) or +20/+15/+10/+5 ranged; SQ Deflect fense +3), deflect (attack -2), deflect (extend defense attack), block, Force secrets (Battlemind x2, Force
-
-ike); SV Fort +13, Ref +13, Will +13; SZ M; FP 12; DSP Rep +8; Str 12, Dex 14, Con 15, Int 16, Wis 17, Cha 18.
-
-## MAGE WINDU
+Mace Windu (beginning of Episode II): Male Human Jedi Guardian 9/Jedi Master 9; Init +2 (Dex); Defense 24 (+12 class, +2 Dex); Spd 10 m; VP/WP 120/15; Atk +19/+14/+9/+4 melee (`1d3+1`, unarmed) or +22/+17/+12/+7* (`6d8+2`/19-20, lightsaber) or +20/+15/+10/+5 ranged; SQ Deflect (defense +3), deflect (attack -2), deflect (extend defense and attack), block, Force secrets (Battlemind x2, Force Strike); SV Fort +13, Ref +13, Will +13; SZ M; FP 12; DSP 0; Rep +8; Str 12, Dex 14, Con 15, Int 16, Wis 17, Cha 18.
 
 Equipment: Lightsaber’, Jedi robes.
 
 *Mace has constructed his own lightsaber.
 
-Skills: Balance +6, Computer Use +9, Craft (lightsaber) +9, Diplomacy +12, Intimidate +16, Jump +8, Knowledge (Coruscant) +9, Knowledge (Jedi lore) +20, Knowledge {alien species) +9, Tumble +19.
+Skills: Balance +6, Computer Use +9, Craft (lightsaber) +9, Diplomacy +12, Intimidate +16, Jump +8, Knowledge (Coruscant) +9, Knowledge (Jedi lore) +20, Knowledge (alien species) +9, Tumble +19.
 
 Force Skills: Affect Mind +16, Battlemind +16, Empathy +9, Farseeing +12, Force Defense +13, Force Strike +13, Move Object +19, See Force +16.
 
@@ -686,11 +655,9 @@ Force Feats: Alter, Burst of Speed, Control, Knight Defense, Lightsaber Defense,
 
 Jorus C’baoth achieves the title of Jedi Master not through training an apprentice, but purely on the weight of his accomplishments. As a Jedi Knight, Jorus joins a Republic task force sent to oversee the demilitarization of the world of Ando, where the two native Aqualish species have once again broken out in war as part of their centuries-long feud over mineral rights. While on Ando, Jorus C’baoth meets another member of the task force, Senator Palpatine of Naboo. This encounter formed the basis of a long-lasting friendship, and even after the task force returns to Coruscant, Jorus makes time to visit the senator and discuss politics, philosophy, and the state of the Republic. A few years later, at Palpatine’s request, the Jedi Reassignment Council sends Jorus C’baoth
 
-“ 7 u i <
-
 <!-- page 313 -->
 
-to act as the senator's personal adviser, attaching Jorus to Palpatine’s staff. It's during this time that the two discuss the ExGal Society—a small but dedicated group of scientists studying the possibility of life outside the galaxy. The idea of an excursion beyond the galactic rim excites both Jorus and Palpatine, and eventually Jorus C’baoth volunteers for the illfated Outbound Flight project. The mission leaves just before the outbreak of the Clone Wars.
+to act as the senator’s personal adviser, attaching Jorus to Palpatine’s staff. It’s during this time that the two discuss the ExGal Society—a small but dedicated group of scientists studying the possibility of life outside the galaxy. The idea of an excursion beyond the galactic rim excites both Jorus and Palpatine, and eventually Jorus C’baoth volunteers for the ill-fated Outbound Flight project. The mission leaves just before the outbreak of the Clone Wars.
 
 Jorus’s relationship with Senator Palpatine comes to an end a few years before the Battle of Naboo, after the Jedi receives visions of the dark side growing more powerful. He requests reassignment so that he can seek the source of these premonitions, His search leads him to a group of darksiders menacing the Elrood Sector. Jorus and a small strike team of Jedi Knights track down and vanquish the dark Jedi. The Jedi High Council is pleased with Jorus C’baoth’s victory over the darksiders, and the council recognizes him as a Jedi Master.
 
@@ -698,19 +665,17 @@ During the events surrounding the Battle of Naboo, at the age of 38, Master Joru
 
 attention every time he speaks.
 
-Jorus C'baoth (beginning of Episode I): Male Human Noble 1/Jedi Consular 13/Jedi Master 1; Init +1 (Dex); Defense 20 (+9 class, +1 Dex); Spd 10 m; VP/WP 132/14; Atk +12/+7 melee* (`4d8+1`/19-20, lightsaber) or +11/+6 ranged; SQ Bonus class skill (Survival), favor +1, deflect (defense +2, attack -4, extend defense and attack), healing, block, Force secret (Force Defense); SV Fort +11, Ref +9, Will +14; SZ M; FP-7; DSP 0; Rep +6; Str 13, Dex 13, Con 14, Int 14, Wis 15, Cha 14, Challenge Code E. Equipment: Lightsaber", Jedi robes.
+Jorus C'baoth (beginning of Episode I): Male Human Noble 1/Jedi Consular 13/Jedi Master 1; Init +1 (Dex); Defense 20 (+9 class, +1 Dex); Spd 10 m; VP/WP 132/14; Atk +12/+7 melee* (`4d8+1`/19-20, lightsaber) or +11/+6 ranged; SQ Bonus class skill (Survival), favor +1, deflect (defense +2, attack -4, extend defense and attack), healing, block, Force secret (Force Defense); SV Fort +11, Ref +9, Will +14; SZ M; FP 7; DSP 0; Rep +6; Str 13, Dex 13, Con 14, Int 14, Wis 15, Cha 14. Challenge Code E. Equipment: Lightsaber*, Jedi robes.
 
-“Jorus C’baoth has constructed his own lightsaber.
+*Jorus C’baoth has constructed his own lightsaber.
 
-Skills: Bluff +8, Computer Use +6, Craft (lightsaber) +8, Diplomacy +12, Intimidate +8, Knowledge (Borleias) +6, Knowledge (politics) +5, Knowledge (Jedi lore) +11 Read/Write Basic, Read/Write Onderonian, Sense Motive +15, Speak Basic, Speak Huttese, Treat Injury +6.
+Skills: Bluff +8, Computer Use +6, Craft (lightsaber) +8, Diplomacy +12, Intimidate +8, Knowledge (Borleias) +6, Knowledge (politics) +5, Knowledge (Jedi lore) +11, Read/Write Basic, Read/Write Onderonian, Sense Motive +15, Speak Basic, Speak Huttese, Treat Injury +6.
 
-+13, Enhance Ability +10, Enhance Senses +6, Farseeing +8,
+Force Skills: Affect Mind +11, Empathy +13, Enhance Ability +10, Enhance Senses +6, Farseeing +8, Force Defense +9, Force Stealth +8, Force Strike +8, Heal Another +10, Heal Self +9, Move Object +10, See Force +11, Telepathy +14.
 
-Force Defense +9, Force Stealth +8, Force Strike +8, Heal Another +10, Heal Self +9, Move Object +10, See Force +11, Telepathy +14.
+Feats: Exotic Weapon Proficiency (lightsaber), Force-Sensitive, Heroic Surge, Persuasive, Skill Emphasis (Empathy), Skill Emphasis (Sense Motive), Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-Feats: Exotic Weapon Proficiency (lightsaber), Force- Sensitive, Heroic Surge, Persuasive, Skill Emphasis (Empathy), Skill Emphasis (Sense Motive), Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, simple weapons).
-
-Force Feats: Alter, Aware, Control, Force Mastery, Force Mind, Knight Defense, Knight Mind, Lightsaber Defense, Sense,
+Force Feats: Alter, Aware, Control, Force Mastery, Force Mind, Knight Defense, Knight Mind, Lightsaber Defense, Sense.
 
 ## The Emperor
 
@@ -718,25 +683,11 @@ Possessed of the boundless power of the Force and adept in the ways of the dark 
 
 weaker, though never helpless. To the galaxy at large, he presents the image of an enfeebled old man, maintaining order in the Empire through sheer force of will. To those who know him better, the Emperor is a cunning, sadistic tyrant, concerned only with squeezing the life out of the universe that spawned him.
 
-The Emperor began his career of evil so subtly that no outward change evidenced the darkness in his heart, Those who encountered him considered him a kindly fellow, perhaps even a bit outclassed by the pace and magnitude of the political arena into which he had been thrust when he became a senator, But even then he was scheming, forging | alliances with influential figures in the Senate and the greil learning centers, Political science students pored over his
+The Emperor began his career of evil so subtly that no outward change evidenced the darkness in his heart, Those who encountered him considered him a kindly fellow, perhaps even a bit outclassed by the pace and magnitude of the political arena into which he had been thrust when he became a senator. But even then he was scheming, forging alliances with influential figures in the Senate and the great learning centers. Political science students pored over his
 
-speeches. Military science students absorbed his philoso phies. He even had the ear of Jorus C’baoth, a powerful Jed Master. His circle of supporters and confidants seemed al times to dwarf the power of the Galactic Senate itself
+speeches. Military science students absorbed his philosophies. He even had the ear of Jorus C’baoth, a powerful Jedi Master. His circle of supporters and confidants seemed at times to dwarf the power of the Galactic Senate itself.
 
-Ten years after he was elected Supreme Chancellor of the Senate, the Separatist movement led by Count Dooku splin tered the Republic. Corruption in the Senate had spurred thousands of worlds to secede and join Dooku's cause. The
-
-future Emperor became a voice of reason, striving for peace 7 and unity. His apparent concern for every last member of
-
-the fading Republic enabled his sphere of influence to grow His opinions became the public’s opinions, and his decisions
-
-became the Republic's laws. By the time of the Clone Wars
-
-the Republic was well on its way to becoming the Galactic
-
-Empire, ruled by the most evil man in the galaxy. Historians disagree on when and how the Emperor man:
-
-aged to first hobble, then utterly destroy the Jedi Knights.
-
-## THE EMPEROR
+Ten years after he was elected Supreme Chancellor of the Senate, the Separatist movement led by Count Dooku splintered the Republic. Corruption in the Senate had spurred thousands of worlds to secede and join Dooku’s cause. The future Emperor became a voice of reason, striving for peace and unity. His apparent concern for every last member of the fading Republic enabled his sphere of influence to grow. His opinions became the public’s opinions, and his decisions became the Republic’s laws. By the time of the Clone Wars, the Republic was well on its way to becoming the Galactic Empire, ruled by the most evil man in the galaxy. Historians disagree on when and how the Emperor managed to first hobble, then utterly destroy the Jedi Knights.
 
 <!-- page 314 -->
 
@@ -744,27 +695,19 @@ The fact remains that by the time the first Death Star was under construction, t
 
 With the resources of a million worlds at his disposal and an endless supply of political malcontents to serve as slave labor, the Emperor dreams of great engines of destruction to ensure his domination of the galaxy. The greatest of these weapons is the planet-destroying Death Star. To oversee its construction and deployment, the Emperor turns to his personal enforcer, Darth Vader, a fierce Jedi Knight tumed to the dark side. Although the Emperor foresees the turn of the Jedi Knights in the form of Luke Skywalker, he can't foresee (or won't accept) the impact that young Skywalker will have on his father, Darth Vader, or the betrayal that would lead to the Emperor's ultimate doom.
 
-The Emperor (beginning of Episode VI): Male Human Noble 4/Dark Side Devotee 6/Sith Lord 10; Init +0; Defense 24 (+14 class); Spd 10 m; VP/WP 124/13; Atk +16/+11/+6/ +] melee (`5d8-1`/19-20, lightsaber) or +17/+12/+7/+2 ranged; SQ Bonus class skill (Intimidate), favor +4, inspire infidence, resource access, coordinate +1, dark side talisnan +2, force weapon +`1d8`, resource access, Sith secrets, exceptional minions, Sith Master; SV Fort +12, Ref +11,
-
-Will +18; SZ M; FP 9; DSP 32; Rep +17; Str 9, Dex 11,
-
-n 12, Int 18, Wis 16, Cha 16, Challenge Code I. Equipment: Lightsaber’, private transport.
+The Emperor (beginning of Episode VI): Male Human Noble 4/Dark Side Devotee 6/Sith Lord 10; Init +0; Defense 24 (+14 class); Spd 10 m; VP/WP 124/13; Atk +16/+11/+6/+1 melee (`5d8-1`/19-20, lightsaber) or +17/+12/+7/+2 ranged; SQ Bonus class skill (Intimidate), favor +4, inspire confidence, resource access, coordinate +1, dark side talisman +2, force weapon +`1d8`, resource access, Sith secrets, exceptional minions, Sith Master; SV Fort +12, Ref +11, Will +18; SZ M; FP 9; DSP 32; Rep +17; Str 9, Dex 11, Con 12, Int 18, Wis 16, Cha 16. Challenge Code I. Equipment: Lightsaber*, private transport.
 
 “The Emperor has constructed his own lightsaber.
 
-Skills: Bluff +13, Craft (lightsaber) +6, Computer Use +7, iplomacy +19, Gather Information +16, Intimidate +15, wledge (bureaucracy) +15, Knowledge (politics) +15, wledge (Jedi lore) +10, Knowledge (Naboo) +6, nowledge (Sith lore) +15, Read/Write Basic, Read/Write than, Read/Write Mon Calamarian, Read/Write Gran, Read/Write Rodian, Read/Write Ryl, Read/Write Sith, Sense Motive +11, Speak Basic, Speak Bothan, Speak Mon Calaarian, Speak Gran, Speak Rodian, Speak Ryl, Speak Sith. Force Skills: Affect Mind +14, Drain Energy +12,
+Skills: Bluff +13, Craft (lightsaber) +6, Computer Use +7, Diplomacy +19, Gather Information +16, Intimidate +15, Knowledge (bureaucracy) +15, Knowledge (politics) +15, Knowledge (Jedi lore) +10, Knowledge (Naboo) +6, Knowledge (Sith lore) +15, Read/Write Basic, Read/Write Bothan, Read/Write Mon Calamarian, Read/Write Gran, Read/Write Rodian, Read/Write Ryl, Read/Write Sith, Sense Motive +11, Speak Basic, Speak Bothan, Speak Mon Calamarian, Speak Gran, Speak Rodian, Speak Ryl, Speak Sith.
 
-impathy +17, Farseeing +23, Fear +18, Force Defense +16, ce Grip +16, Force Lightning +15, Heal Self +14, Move ibject +12, See Force +18, Telepathy +20.
+Force Skills: Affect Mind +14, Drain Energy +12, Empathy +17, Farseeing +23, Fear +18, Force Defense +16, Force Grip +16, Force Lightning +15, Heal Self +14, Move Object +12, See Force +18, Telepathy +20.
 
-Feats: Fame, Skill Emphasis (Diplomacy), Skill Emphasis seeing), Skill Emphasis (Fear), Skill Emphasis (Force jghtning), Skill Emphasis (Influence), Skill Emphasis ‘nowledge [galactic politics}), Skill Emphasis (Telepathy), ink, Trustworthy, Weapon Group Proficiencies (blaster istols, simple weapons).
+Feats: Fame, Skill Emphasis (Diplomacy), Skill Emphasis (Farseeing), Skill Emphasis (Fear), Skill Emphasis (Force Lightning), Skill Emphasis (Influence), Skill Emphasis (Knowledge [galactic politics]), Skill Emphasis (Telepathy), Trustworthy, Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-## Force Feats: Alter, Control, Dissipate Energy, Force
+Force Feats: Alter, Control, Dissipate Energy, Force Mastery, Force Mind, Malevolent, Sense.
 
-stery, Force Mind, Malevolent, Sense.
-
-Sith Lord Class Features: The Sith Lord is a special presige class available only to dark side characters trained in
-
-the ancient Sith tradition. As a 10th-level Sith Lord, the Emperor gains the following class features,
+Sith Lord Class Features: The Sith Lord is a special prestige class available only to dark side characters trained in the ancient Sith tradition. As a 10th-level Sith Lord, the Emperor gains the following class features.
 
 Resource Access—Once per day, the Emperor can make a Charisma check to secure resources, the value of which can be no greater than 500 x the result of a Charisma check (in credits). These resources can take virtually any form the Emperor chooses and are his to do with as he pleases.
 
@@ -782,15 +725,9 @@ The target can gain only class skills in this fashion. If the target does not me
 
 Count Dooku Count Dooku is the enigmatic and compelling leader of the Separatists. He is also Darth Tyranus, the apprentice of the Sith Lord Darth Sidious. Powerful, skilled, and charismatic, Dooku gathers the secessionists into a Confederacy of Independent Systems—a political body separate from the corrupt and decaying Republic. A natural leader of uncommon vision, Count Dooku has enticed thousands of worlds away from the Republic with his professed dream of reshaping the galaxy and wiping away greed, bureaucracy, and inequity. Of all the Separatists, Dooku alone is the best suited for the task of forging a true and lasting political system—for of all the Separatists, Dooku alone knows the will of the Force and how it can guide the Separatists to a new age of peace and prosperity.
 
-Few people know that Dooku is a former Jedi Master. An accomplished philosopher, orator, and warrior, Dooku believes that one can draw from both sides of the Force
-
-oy oc]
-
-7 U r <
+Few people know that Dooku is a former Jedi Master. An accomplished philosopher, orator, and warrior, Dooku believes that one can draw from both sides of the Force equally—light and dark—to achieve perfect balance. So long as he is not tempted to one side or the other, he can stay
 
 <!-- page 315 -->
-
-COUNT DDGKU equally-light and dark—to achieve perfect balance. So long as he is not tempted to one side or the other, he can stay
 
 the course and harness the kind of terrific power needed to change the galaxy. His apprehensive colleagues in the Jedi Order believe that no one can call upon the power of the dark side without being corrupted. Dooku assures himself that his keen mind, pure intent, and strong moral compass will see him safely through the perilous journey. Indeed, he suspects that the prophesied “one who would bring balance to the Force” is not some tow-headed child from Tatooine, but a seasoned philosopher—a man of sharp insight and solid character with the clarity to see the path to galactic enlightenment and the titanic willpower to walk it, and most important, the leadership to carry others along with him. Someone like himself.
 
@@ -800,7 +737,7 @@ Dooku has reclaimed his hereditary title of count and the vast wealth that goes 
 
 In exchange for Dooku’s service, Sidious teaches the former Jedi Master about the dark side of the Force, and how Dooku can use it to bring about the positive changes they both envision for the galaxy, Dooku and Sidious need each other, and their views coincide perfectly.
 
-Count Dooku (beginning of Episode Il); Male Human Jedi Guardian 15/Sith Lord 3; Init +6 (+2 Dex, +4 Improved Initiative); Defense 25 (+13 class, +2 Dex); Spd 10 m; VP/WP 142/13; Atk +21/+16/+11/+6 melee* (`5d8+1`/19-2 lightsaber) or +20/+15/+10/+5 ranged; SQ Deflect (defense +3, attack -2, extend defense and attack), block, resource access; SV Fort +13, Ref +14, Will +14; SZ M; FP 10; DSP 12; Rep +6; Str 12, Dex 14, Con 13, Int 16, Wis 15, Cha 16. Challenge Code H,
+Count Dooku (beginning of Episode II): Male Human Jedi Guardian 15/Sith Lord 3; Init +6 (+2 Dex, +4 Improved Initiative); Defense 25 (+13 class, +2 Dex); Spd 10 m; VP/WP 142/13; Atk +21/+16/+11/+6 melee* (`5d8+1`/19-20, lightsaber) or +20/+15/+10/+5 ranged; SQ Deflect (defense +3, attack -2, extend defense and attack), block, resource access; SV Fort +13, Ref +14, Will +14; SZ M; FP 10; DSP 12; Rep +6; Str 12, Dex 14, Con 13, Int 16, Wis 15, Cha 16. Challenge Code H.
 
 Equipment: Lightsaber’, robes, private solar sailship, vast personal wealth,
 
@@ -808,37 +745,35 @@ Equipment: Lightsaber’, robes, private solar sailship, vast personal wealth,
 
 Skills: Bluff +11, Computer Use +5, Craft (lightsaber) +8, Diplomacy +13, Intimidate +15, Knowledge (politics) +12, Knowledge (Jedi lore) +13, Knowledge (Sith lore) +6, Knowledge (business) +5, Read/Write Basic, Read/Write Geonosian, Read/Write Sith, Sense Motive +8, Speak Basic, Speak Geonosian, Speak Sith.
 
-Force Skills: Affect Mind +12, Battlemind +14, Empathy +6, Enhance Ability +8, Force Defense +15, Force Grip +9, Force Lightning +9, Force Stealth +7, Force Strike +14, 4 Self +5, Move Object +11, See Force +6.
+Force Skills: Affect Mind +12, Battlemind +14, Empathy +6, Enhance Ability +8, Force Defense +15, Force Grip +9, Force Lightning +9, Force Stealth +7, Force Strike +14, Heal Self +5, Move Object +11, See Force +6.
 
 Feats: Combat Expertise, Combat Reflexes, Exotic Weapon Proficiency (lightsaber), Force-Sensitive, Improved Initiative, Iron Will, Persuasive, Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-Force Feats: Alter, Attuned, Control, Force Mastery, Foret Whirlwind, Knight Defense, Lightsaber Defense, Master Defense, Mettle, Sense.
+Force Feats: Alter, Attuned, Control, Force Mastery, Force Whirlwind, Knight Defense, Lightsaber Defense, Master Defense, Mettle, Sense.
 
-Sith Lord Class Features: The Sith Lord is a special pres: tige class available only to dark side characters trained in the ancient Sith tradition. As a 3rd-level Sith Lord, Count Dooku gains the following class features:
+Sith Lord Class Features: The Sith Lord is a special prestige class available only to dark side characters trained in the ancient Sith tradition. As a 3rd-level Sith Lord, Count Dooku gains the following class features:
 
-Resource Access—Once per day, Count Dooku can makea Charisma check to access a vast array of personal resources The value of the resources gained equals 150 x the result of the Charisma check (in credits). These can take nearly any form Count Dooku chooses (within reason), and he can keep them, use them, give them away, or sell them however he sees fit.
+Resource Access—Once per day, Count Dooku can make a Charisma check to access a vast array of personal resources. The value of the resources gained equals 150 × the result of the Charisma check (in credits). These can take nearly any form Count Dooku chooses (within reason), and he can keep them, use them, give them away, or sell them however he sees fit.
 
 Sith Battle Prowess—Count Dooku gains the bonus feat Master Defense.
 
 ## Jango Fett
 
-The bounty hunter J man with few loyalties. The harsh lessons of life have taught him independence. He learned early on that he is his own best ally, and that no one else can be trusted—not his family, not his friends, and not the bounty hunters who taught him their profession.
+Jango Fett is a resourceful, self-reliant man with few loyalties. The harsh lessons of life have taught him independence. He learned early on that he is his own best ally, and that no one else can be trusted—not his family, not his friends, and not the bounty hunters who taught him their profession.
 
-Life on the frontier has honed his survival skills and hart: ened his heart. Jango starts out as an enforcer for a mining company. When he earns enough to buy passage offworld, he dreams of eventually collecting enough credits to
-
-ngo Fett is a resourceful, self-reliant
+Life on the frontier has honed his survival skills and hardened his heart. Jango starts out as an enforcer for a mining company. When he earns enough to buy passage offworld, he dreams of eventually collecting enough credits to
 
 <!-- page 316 -->
 
-YANGO FETT purchase a remote, heavily defended fortress where he can retire away from the rest of the galaxy.
+purchase a remote, heavily defended fortress where he can retire away from the rest of the galaxy.
 
 The young Jango learns the intricacies of his chosen trade from contacts all over the Outer Rim. Over time, his reputation grows. Jango eventually finds himself on the seedy Outland Transit Station, at the edge of Hutt Space, where he meets the mysterious Tyranus. He is charged with a mission to locate and terminate the leader of a group of Force-using raiders, the Bando Gora. If Jango succeeds, Tyranus promises him a staggering bounty of one million credits.
 
-With the aid of the shapeshifting bounty hunter named dam Wesell, Jango Fett fulfills the contract. Tyranus immediately offers the bounty hunter another million credits if he agrees to become the living template for an army of clones. Jango accepts, on the condition that the Kaminoan scienfists first create a perfect duplicate of him—an artificially treated son whom Jango names Boba.
+With the aid of the shapeshifting bounty hunter named Zam Wesell, Jango Fett fulfills the contract. Tyranus immediately offers the bounty hunter another million credits if he agrees to become the living template for an army of clones. Jango accepts, on the condition that the Kaminoan scientists first create a perfect duplicate of him—an artificially treated son whom Jango names Boba.
 
-Jango Fett (beginning of Episade II): Male Human Scout 4/Soldier 6/Bounty Hunter 5; Init +3 (Dex); Defense 22 (+9 lass, +3 Dex); DR 5; Spd 10 m; VP/WP 126/15; Atk +16/+11/+6 melee (`1d4+2`, knife) or +17/+12/+7 ranged (`3d8`/19-20, blaster carbine) or +11/+11/+6/+1 ranged (`3d8`/19-20, blaster carbine with Rapid Shot) or +15/+11/+10/+5 ranged (`3d6` or DC 15 stun, 2 blaster pistols) or +13/+13/+9/+8/+3 ranged (`3d6` or DC 15 stun, 2 blaster pistols with Rapid Shot) or +17/+12/+7 ranged (`3d6` 6r DC 15 stun, blaster pistol) or +17 ranged (`2d6`, flamethrower gauntlet) or +15 ranged (`2d6`, rocket dart) or +17 ranged (`1d2` plus poison’, sabredart) or +17 ranged {`5d6`/`3d6`, missile) or +17 ranged (special, whipcord);
+Jango Fett (beginning of Episode II): Male Human Scout 4/Soldier 6/Bounty Hunter 5; Init +3 (Dex); Defense 22 (+9 class, +3 Dex); DR 5; Spd 10 m; VP/WP 126/15; Atk +16/+11/+6 melee (`1d4+2`, knife) or +17/+12/+7 ranged (`3d8`/19-20, blaster carbine) or +11/+11/+6/+1 ranged (`3d8`/19-20, blaster carbine with Rapid Shot) or +15/+11/+10/+5 ranged (`3d6` or DC 15 stun, 2 blaster pistols) or +13/+13/+9/+8/+3 ranged (`3d6` or DC 15 stun, 2 blaster pistols with Rapid Shot) or +17/+12/+7 ranged (`3d6` or DC 15 stun, blaster pistol) or +17 ranged (`2d6`, flamethrower gauntlet) or +15 ranged (`2d6`, rocket dart) or +17 ranged (`1d2` plus poison*, sabredart) or +17 ranged (`5d6`/`3d6`, missile) or +17 ranged (special, whipcord);
 
-SQ Trailblazing, heart +1, uncanny dodge (Dex bonus to get bonus +3, sneak attack +`2d6`; SV Fort +12, Ref +10, Will +8; SZ M; FP 3; DSP 4; Rep +7; Str 15,
+SQ Trailblazing, heart +1, uncanny dodge (Dex bonus to Defense), target bonus +3, sneak attack +`2d6`; SV Fort +12, Ref +10, Will +8; SZ M; FP 3; DSP 4; Rep +7; Str 15,
 
 Dex 16, Con 15, Int 11, Wis 13, Cha 13. Challenge Code F. Equipment: Modified medium battle armor, flight suit, jet pack (with integrated missile launcher), blaster carbine, 2 blaster pistols (with 2 extra clips each), flamethrower gauntlet, rocket darts, whipcord, wrist rocket launcher, sabredart
 
@@ -850,85 +785,79 @@ Feats: Armor Proficiencies (light, medium, heavy), Dodge, Mobility, Point Blank 
 
 ## Boba Fett
 
-The most feared bounty hunter of his time, Boba Fett
+The most feared bounty hunter of his time, Boba Fett racks up an unheard-of number of successful bounties that earns him a reputation as a force to be reckoned with. His name fills outlaws and criminals with dread.
 
-tacks up an unheard-of number of successful bounties that earns him a reputation as a force to be reckoned
-
-with. His name fills outlaws and criminals with dread.
-
-Boba Fett never acts particularly evil or cruel. He simply seems bereft of conscience. It means nothing to him to
-
-accept help from someone, then minutes later turn that person in for a bounty.
-
-QO 7 u r me
+Boba Fett never acts particularly evil or cruel. He simply seems bereft of conscience. It means nothing to him to accept help from someone, then minutes later turn that person in for a bounty.
 
 <!-- page 317 -->
 
-## S) EQUIPMENT OF JANGO AND BOBA FETT
-
-In addition to their distinctive armor, the bounty hunters Jango Fett and Boba Fett equip themselves with all manner of weaponry and gadgets designed to aid them in locating and capturing their elusive prey.
-
-Armor: Boba’s armor has fewer solid plates than Jango’s suit. Both of these suits of medium-weight armor have the same accessories: macrobinoculars in the helmet, motion sensors (+2 equipment bonus on Spot checks), sound sensors (+2 equipment bonus on Listen checks), infrared sensors (enabling the wearer to see black-and-white images up to 20 meters away in complete darkness), a comlink, and a broadband antenna/signal interceptor (allowing the wearer to both multiply a comlink’s range by 10, and to eavesdrop on electronic communications with ‘a successful Computer Use check against DC 15). The helmet features a rangefinder that reduces range penalties by half.
-
-Damage Maximum Armor Speed Armor Cost Reduction Dex Bonus Check Penalty (10m) (6m) Weight Padded battle armor, modified (Boba) 10,000 4 +3 4 8 4 16 kg Medium battle armor, modified (Jango) 13,000 5 +2 45 8 4 20 kg
-
-Jet Pack: Allows flights of up to 500 meters on a full tank of fuel. The jet pack and flamethrower gauntlet draw from the same fuel source; every point of damage dealt by the flamethrower reduces the maximum distance of the jet pack by 1 meter, and when fuel runs out, the flamethrower becomes inoperative.
-
-Missile Launcher: Integrated into the jet pack, it fires an explosive warhead or a magnetic grappling hook and 30-meter line.
-
-Antisecurity Blades: These electronic devices bypass force fields and jam security devices with bursts of high-frequency harmonic interference waves. They can also be used to defeat electronic locks. The blades provide a +2 equipment bonus on Disable Device checks.
-
-Flamethrower Gauntlet: The right wrist gauntlet contains a miniature flame projector, which shoots a gout of flame up to 6 meters. A target struck by the flame makes a Reflex save (DC 15) to take only half damage; a second Reflex save (DC 15) must succeed to avoid catching on fire (see page 287). The flamethrower uses the same fuel source as the jet pack, as noted above.
-
-Whipcord: The whipcord mounted in the right wrist gauntlet deals only vitality point damage, even on a critical hit. It deals no damage to targets wearing armor or to creatures with natural damage reduction. The whipcord can be used only against a target within 6 meters of the wielder. On a successful hit, the target must make a Reflex save (DC 20). If the roll fails, the whipcord entangles the target.
-
-Rocket Darts: The knee pads are equipped with rocket dart launchers, one per knee. In melee combat, the wearer can choose to attack with a knee-strike at a -2 penalty, If the attack succeeds, it deals normal damage, and the impact launches the dart, which deals additional damage (see table below). The darts can be activated by hand, but their limited range drastically reduces their effectiveness in this mode.
-
-Laser Gauntlet (Boba only): Boba Fett’s right wrist gauntlet can fire an intense laser beam (see table below for damage and range),
-
-Sonic Beam Weapon (Boba only): Boba Fett’s sonic beam weapon projects a short-range, high-frequency screech that causes intense pain, Any target within 6 meters of the weapon must make a Fortitude save (DC 14) when the device is activated. Those who fail the save are both stunned and deafened. The power cell is only able to provide enough charge for three uses before the device must be recharged.
-
-Spiked Boots (Boba only): The spring-loaded spikes in the toes of Boba Fett’s boots are designed to extend when he stamps his foot. The bounty hunter uses them only in emergencies or when stripped of his more powerful weapons.
-
-Stun Grenade Launcher (Boba only): Boba Fett’s EE-3 blaster rifle is fitted with a launcher that fires stun grenades up to 20 meters. See Stun Grenade on Table 7-2: Weapons.
-
-Wrist Rocket Launcher (Jango only): Jango Fett uses a Kelvarek Consolidate Arms single-shot, MM7 rocket-powered flechette launcher, mounted on his left wrist. The missile carries an explosive warhead.
-
-Sabredart Launcher (Jango only): Jango Fett has a Kaminoan sabredart launcher integrated into the armor on his right forearm. The device carries four darts, The darts deal no damage to characters wearing medium or heavy armor, or creatures with natural damage reduc tion. Sabredarts are usually coated with poison, most commonly kouhun venom (Fortitude save, DC 12, negates; initial `1d6` points of Constitution damage; secondary `2d6` points of Constitution damage).
-
-Wrist Blades (Jango only): Deadly retractable blades snap from Jango’s wrist gauntlets, They can be used in melee combat.
-
-Weapon Damage Critical Range Increment Weight Type Cost Missile launcher `5d6+2` - 50 m (6 m) 1Okg Energy 2,000 Flamethrower gauntlet `2d6` 20 2m - Energy 800 Whipcord `1d2`* - ” 2kg Slashing 750 Rocket darts `2d6` 20 2m 0.1 kg Piercing 500 Laser gauntlet `2d4` 20 lom - Energy Spiked boots `1d6` 20 - 2kg Piercing 250 Stun grenade launcher . = * 5kg Energy Wrist rocket launcher `2d6`* - 10m (2m) Skg Energy
-
-Additional rockets Sabredart launcher `1d2`* plus poison 20 10m 1kg Piercing
-
-Additional sabredarts Wrist blades `1d6` 2kg Slashing
-
-*See weapon description above.
+> ## Equipment of Jango and Boba Fett
+>
+> In addition to their distinctive armor, the bounty hunters Jango Fett and Boba Fett equip themselves with all manner of weaponry and gadgets designed to aid them in locating and capturing their elusive prey.
+>
+> **Armor:** Boba’s armor has fewer solid plates than Jango’s suit. Both of these suits of medium-weight armor have the same accessories: macrobinoculars in the helmet, motion sensors (+2 equipment bonus on Spot checks), sound sensors (+2 equipment bonus on Listen checks), infrared sensors (enabling the wearer to see black-and-white images up to 20 meters away in complete darkness), a comlink, and a broadband antenna/signal interceptor (allowing the wearer to both multiply a comlink’s range by 10, and to eavesdrop on electronic communications with a successful Computer Use check against DC 15). The helmet features a rangefinder that reduces range penalties by half.
+>
+> | Armor | Cost | Damage Reduction | Max Dex Bonus | Armor Check Penalty | Speed (10 m) | Speed (6 m) | Weight |
+> |-------|-----:|:----------------:|:-------------:|:-------------------:|:------------:|:-----------:|-------:|
+> | Padded battle armor, modified (Boba) | 10,000 | 4 | +3 | −4 | 8 m | 4 m | 16 kg |
+> | Medium battle armor, modified (Jango) | 13,000 | 5 | +2 | −5 | 8 m | 4 m | 20 kg |
+>
+> **Jet Pack:** Allows flights of up to 500 meters on a full tank of fuel. The jet pack and flamethrower gauntlet draw from the same fuel source; every point of damage dealt by the flamethrower reduces the maximum distance of the jet pack by 1 meter, and when fuel runs out, the flamethrower becomes inoperative.
+>
+> **Missile Launcher:** Integrated into the jet pack, it fires an explosive warhead or a magnetic grappling hook and 30-meter line.
+>
+> **Antisecurity Blades:** These electronic devices bypass force fields and jam security devices with bursts of high-frequency harmonic interference waves. They can also be used to defeat electronic locks. The blades provide a +2 equipment bonus on Disable Device checks.
+>
+> **Flamethrower Gauntlet:** The right wrist gauntlet contains a miniature flame projector, which shoots a gout of flame up to 6 meters. A target struck by the flame makes a Reflex save (DC 15) to take only half damage; a second Reflex save (DC 15) must succeed to avoid catching on fire (see page 287). The flamethrower uses the same fuel source as the jet pack, as noted above.
+>
+> **Whipcord:** The whipcord mounted in the right wrist gauntlet deals only vitality point damage, even on a critical hit. It deals no damage to targets wearing armor or to creatures with natural damage reduction. The whipcord can be used only against a target within 6 meters of the wielder. On a successful hit, the target must make a Reflex save (DC 20). If the roll fails, the whipcord entangles the target.
+>
+> **Rocket Darts:** The knee pads are equipped with rocket dart launchers, one per knee. In melee combat, the wearer can choose to attack with a knee-strike at a −2 penalty. If the attack succeeds, it deals normal damage, and the impact launches the dart, which deals additional damage (see table below). The darts can be activated by hand, but their limited range drastically reduces their effectiveness in this mode.
+>
+> **Laser Gauntlet (Boba only):** Boba Fett’s right wrist gauntlet can fire an intense laser beam (see table below for damage and range).
+>
+> **Sonic Beam Weapon (Boba only):** Boba Fett’s sonic beam weapon projects a short-range, high-frequency screech that causes intense pain. Any target within 6 meters of the weapon must make a Fortitude save (DC 14) when the device is activated. Those who fail the save are both stunned and deafened. The power cell is only able to provide enough charge for three uses before the device must be recharged.
+>
+> **Spiked Boots (Boba only):** The spring-loaded spikes in the toes of Boba Fett’s boots are designed to extend when he stamps his foot. The bounty hunter uses them only in emergencies or when stripped of his more powerful weapons.
+>
+> **Stun Grenade Launcher (Boba only):** Boba Fett’s EE-3 blaster rifle is fitted with a launcher that fires stun grenades up to 20 meters. See Stun Grenade on Table 7-2: Weapons.
+>
+> **Wrist Rocket Launcher (Jango only):** Jango Fett uses a Kelvarek Consolidate Arms single-shot, MM7 rocket-powered flechette launcher, mounted on his left wrist. The missile carries an explosive warhead.
+>
+> **Sabredart Launcher (Jango only):** Jango Fett has a Kaminoan sabredart launcher integrated into the armor on his right forearm. The device carries four darts. The darts deal no damage to characters wearing medium or heavy armor, or creatures with natural damage reduction. Sabredarts are usually coated with poison, most commonly kouhun venom (Fortitude save, DC 12, negates; initial `1d6` points of Constitution damage; secondary `2d6` points of Constitution damage).
+>
+> **Wrist Blades (Jango only):** Deadly retractable blades snap from Jango’s wrist gauntlets. They can be used in melee combat.
+>
+> | Weapon | Damage | Critical | Range Increment | Weight | Type | Cost |
+> |--------|--------|----------|-----------------|--------|------|-----:|
+> | Missile launcher | `5d6+2` | — | 50 m (6 m) | 10 kg | Energy | 2,000 |
+> | Flamethrower gauntlet | `2d6` | 20 | 2 m | — | Energy | 800 |
+> | Whipcord* | `1d2`* | — | — | 2 kg | Slashing | 750 |
+> | Rocket darts | `2d6` | 20 | 2 m | 0.1 kg | Piercing | 500 |
+> | Laser gauntlet | `2d4` | 20 | 10 m | — | Energy | — |
+> | Spiked boots | `1d6` | 20 | — | 2 kg | Piercing | 250 |
+> | Stun grenade launcher* | — | — | — | 5 kg | Energy | — |
+> | Wrist rocket launcher* | `2d6`* | — | 10 m (2 m) | 5 kg | Energy | — |
+> | Sabredart launcher* | `1d2`* plus poison | 20 | 10 m | 1 kg | Piercing | — |
+> | Wrist blades | `1d6` | 20 | — | 2 kg | Slashing | — |
+>
+> *See weapon description above.
 
 <!-- page 318 -->
 
-## BOBA FETT
+The origins of this bounty hunter go a long way toward explaining his lack of humanity. A clone of his “father” Jango, Boba was raised without a nurturing mother figure and isolated socially. Apart from his father, Boba had no friends or heroes. Jango taught Boba self-reliance and to trust no one—lessons Boba learned easily. Like his father, Boba saw the galaxy around him with a cold, selfish, and remorseless eye.
 
-The origins of this bounty hunter go a long way toward oplaining his lack of humanity. A clone of his “father” Jango, Boba was raised without a nurturing mother figure and ed socially. Apart from his father, Boba had no fiends or heroes. Jango taught Boba self-reliance and to trust no one—lessons Boba learned easily. Like his father, Boba saw the galaxy around him with a cold, selfish, and remorseless eye.
+At the Battle of Geonosis, 10-year-old Boba is orphaned when Jedi Master Mace Windu kills his father. Boba witnesses Jango’s death and flees the planet aboard Slave I, taking with him his father’s helmet, an undiluted hatred of the Jedi, and his perception of a galaxy devoid of compassion and rife with violence.
 
-At the Battle of Geonosis, 10-year-old Boba is orphaned hen Jedi Master Mace Windu kills his father. Boba witfesses Jango’s death and flees the planet aboard Slave I, faking with him his father's helmet, an undiluted hatred of the Jedi, and his perception of a galaxy devoid of compasson and rife with violence.
+Boba Fett (beginning of Episode V): Male Human Soldier 6/Scoundrel 1/Bounty Hunter 6; Init +3 (Dex); Defense 21 (+8 class, +3 Dex); DR 4; Spd 10 m; VP/WP 100/15; Atk +14/+9/+4 melee (`1d4+2`, knife) or +15/+10/+5 ranged (`3d8`/19-20, blaster rifle) or +15/+10/+5 ranged (`2d4`, laser gauntlet) or +15 ranged (`2d6`, flamethrower gauntlet) or +13 ranged (`2d6`, rocket dart) or +15 ranged (DC 15/12, stun grenade) or +15 ranged (`5d6`/`3d6`, missile) or +15 ranged (special, whipcord); SQ Illicit barter, target bonus +3, sneak attack +`3d6`; SV Fort +10, Ref +10, Will +6; SZ M; FP 2; DSP 4; Rep +9; Str 15, Dex 16, Con 15, Int 11, Wis 13, Cha 13. Challenge Code F.
 
-Boba Fett (beginning of Episode V): Male Human Soldier §Scoundrel 1/Bounty Hunter 6; Init +3 (Dex); Defense 21 148 class, +3 Dex); DR 4; Spd 10 m; VP/WP 100/15; Atk +14/+9/+4 melee (`1d4+2`, knife) or +15/+10/+5 ranged (`3d8`/19-20, blaster rifle) or +15/+10/+5 ranged (`2d4`, laser gauntlet) or +15 ranged (`2d6`, flamethrower gauntlet) or +13 ranged (`2d6`, rocket dart) or +15 ranged (DC 15/12, tun grenade) or +15 ranged (`5d6`/`3d6`, missile) or +15 unged (special, whipcord); SQ Illicit barter, target bonus
-
-#3, sneak attack +`3d6`; SV Fort +10, Ref +10, Will +6;
-
-5M; FP 2; DSP 4; Rep +9; Str 15, Dex 16, Con 15, Int 11, Wis 13, Cha 13. Challenge Code F.
-
-Equipment: Modified padded battle armor, flight suit, jet jack (with integrated missile launcher), blaster rifle
-
-«quipped with stun grenade launcher, laser gauntlet,
+Equipment: Modified padded battle armor, flight suit, jet pack (with integrated missile launcher), blaster rifle equipped with stun grenade launcher, laser gauntlet,
 
 flamethrower gauntlet, whipcord, rocket darts, sonic beam weapon, spiked boots, magnetic grappling hook, survival knife, ammo belt, antisecurity blades, Firespray-class patrol/attack ship (Slave 1).
 
 Skills: Astrogate +6, Computer Use +6, Demolitions +8, Disable Device +6, Gather Information +7, Hide +7, Intimidate +11, Knowledge (bureaucracy) +6, Knowledge (streetwise) +10, Listen +5, Move Silently +7, Pilot +11, Profession (bounty hunter) +5, Read/Write Basic, Repair +5, Speak Basic, Spot +5, Survival +6.
 
-Feats: Armor Proficiencies (light, medium, heavy, powered), Exotic Wezpon Proficiency (whip), Infamy, Martial Artist, Point Blank Shot, Precise Shot, Starship Operation (space transport), Track, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
+Feats: Armor Proficiencies (light, medium, heavy, powered), Exotic Weapon Proficiency (whip), Infamy, Martial Artist, Point Blank Shot, Precise Shot, Starship Operation (space transport), Track, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
 ## Tsavong Lah
 
@@ -944,9 +873,5 @@ Equipment: Improved vonduun crabshell armor’, cloak, amphistaff, tsaisi*, mult
 
 Skills: Bluff +14, Climb +11, Diplomacy +18, Gather Information +14, Handle Animal +6, Intimidate +16, Jump +11, Knowledge (Baanu Rass) +11, Knowledge (politics) +15, Knowledge (tactics) +21, Pilot +12, Read/Write Yuuzhan Vong, Ride (riding lizard) +7, Sense Motive +13, Speak Basic, Speak Yuuzhan Vong, Survival +9, Swim +11, Treat Injury +9.
 
-Feats: Armor Proficiencies (light, medium, heavy), Cleave, Combat Expertise, Dodge, Exotic Weapon Proficiency {amphistaf), Exotic Weapon Proficiency (tsaisi), Frightful Presence, Iron Will, Martial Arts, Power Attack, Two-Weapon Fighting, Weapon Focus (amphistaff), Weapon Group Proficiency (simple weapons).
-
-4 3
-
-n“ 7 u Le -<
+Feats: Armor Proficiencies (light, medium, heavy), Cleave, Combat Expertise, Dodge, Exotic Weapon Proficiency (amphistaff), Exotic Weapon Proficiency (tsaisi), Frightful Presence, Iron Will, Martial Arts, Power Attack, Two-Weapon Fighting, Weapon Focus (amphistaff), Weapon Group Proficiency (simple weapons).
 
