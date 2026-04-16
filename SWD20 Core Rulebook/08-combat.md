@@ -8,7 +8,7 @@
 
 The galaxy is a dangerous place, and sometimes you have to fight to survive. Whether the enemy takes the form of battle droids or stormtroopers, a dark Force-user or a rampaging rancor, you need to be able to defend yourself. Using blasters, vibroblades, and lightsabers, heroes regularly get caught up in blazing firefights, wild cantina brawls, and mesmerizing lightsaber duels. You can try to bluff your way out of a tough situation, attempt to sneak away when your opponent is distracted, or even dazzle an enemy with your charming personality. But when all else fails, nothing beats having a good blaster at your side.
 
-This chapter details the combat rules, starting with an example, then covering the basics, and finally looking at some of the more unusual combat strategies that characters can employ. Many special abilities and forms of damage that affect combat are covered in Chapter Twelve: mastering, starting on page 165.
+This chapter details the combat rules, starting with an example, then covering the basics, and finally looking at some of the more unusual combat strategies that characters can employ. Many special abilities and forms of damage that affect combat are covered in Chapter Twelve: Gamemastering, starting on page 165.
 
 ## What's New?
 
@@ -32,25 +32,25 @@ right, and Deel behind Rorworr. Everyone except Deel has a weapon in hand.
 
 The GM looks at her notes, rolls some dice, and determines that the heroes are walking into a trap. A squad of four battle droids and a droideka destroyer droid wait on the other side of the door. The droideka has been damaged in the past and lacks most of its powerful weaponry and shields. The droids know the heroes are coming; the heroes think they're looking for a meeting of a Separatist cell and have no idea what's waiting for them.
 
-Vor'en tries the door. It's locked. He motions for Deel to come forward and open it,
+Vor'en tries the door. It's locked. He motions for Deel to come forward and open it.
 
-Deel pulls out his security kit and reluctantly steps up to the control panel beside the door. His player rolls a Disable Device check and succeeds. The blast door slides open, revealing total darkness on the other side,
+Deel pulls out his security kit and reluctantly steps up to the control panel beside the door. His player rolls a Disable Device check and succeeds. The blast door slides open, revealing total darkness on the other side.
 
-‘The GM has to decide if any of the characters notice anything. Those caught unaware will be surprised by the droids. The GM asks each player to make a Listen check (DC 15), Sia-Lan and Deel succeed, Vor'en and Rorworr fail,
+The GM has to decide if any of the characters notice anything. Those caught unaware will be surprised by the droids. The GM asks each player to make a Listen check (DC 15). Sia-Lan and Deel succeed. Vor’en and Rorworr fail.
 
 ## Surprise Round
 
 During the surprise round, only characters that are aware of their opponents can act. The battle droids, the destroyer droid, Sia-Lan, and Deel all act during the surprise round. (Vor'en and Rorworr can't act because they failed their Listen checks.)
 
-The GM asks Sia-Lan’s and Deel’'s players to make initia~ tive checks. Sia-Lan gets a 9; Deel gets a 15, The GM rolls once for the four battle droids and once for the destroyer droid, getting results of 11 and 14. The order of battle during the surprise round is Deel first (15), followed by the destroyer droid (14), followed by the battle droids (11), followed by Sia-Lan (9).
+The GM asks Sia-Lan’s and Deel’s players to make initiative checks. Sia-Lan gets a 9; Deel gets a 15. The GM rolls once for the four battle droids and once for the destroyer droid, getting results of 11 and 14. The order of battle during the surprise round is Deel first (15), followed by the destroyer droid (14), followed by the battle droids (11), followed by Sia-Lan (9).
 
-The GM calls on Deel’s player. Deel hears the scrape of metal on metal from somewhere within the dark construc~ tion bay. It sounds pretty close, but because there's an echo, Deel can’t be sure. He steps to the side of the door to gain cover and draws his blaster pistol,
+The GM calls on Deel’s player. Deel hears the scrape of metal on metal from somewhere within the dark construction bay. It sounds pretty close, but because there’s an echo, Deel can’t be sure. He steps to the side of the door to gain cover and draws his blaster pistol.
 
-‘The destroyer droid goes next, so the GM determines what it’s going to do, The destroyer droid fires its blaster cannon at Vor'en. The droid stands about 20 meters away from Vor'en, directly across from the open door. Its cannon shot briefly illuminates the construction bay. In the flash, the heroes see the large destroyer droid and the four battle droids positioned closer to the door. They also catch a glimpse of the rest of the bay—it has been turned into a construction facility for battle droids and super battle droids! The GM rolls for the destroyer droid’s attack, getting a result of 15.
+The destroyer droid goes next, so the GM determines what it’s going to do. The destroyer droid fires its blaster cannon at Vor’en. The droid stands about 20 meters away from Vor'en, directly across from the open door. Its cannon shot briefly illuminates the construction bay. In the flash, the heroes see the large destroyer droid and the four battle droids positioned closer to the door. They also catch a glimpse of the rest of the bay—it has been turned into a construction facility for battle droids and super battle droids! The GM rolls for the destroyer droid’s attack, getting a result of 15.
 
 Vor'en Kurn doesn't get to add his Dexterity bonus to his Defense because he’s caught flat-footed, so the droid’s attack hits, The GM rolls damage, getting a total of 17. Damage is applied to Vor'en’s vitality points first, so he is reduced from 35 vitality points to 18.
 
-The battle droids act next. In unison, they tum to march toward the open door as they fire some quick shots from their blasters. They're closer than the destroyer droid; two are right on the other side of the door, while two are about 10 meters into the bay. One battle droid shoots at Deel, another at Vor'en, another at Rorworr, and another at Sia-Lan.
+The battle droids act next. In unison, they turn to march toward the open door as they fire some quick shots from their blasters. They're closer than the destroyer droid; two are right on the other side of the door, while two are about 10 meters into the bay. One battle droid shoots at Deel, another at Vor'en, another at Rorworr, and another at Sia-Lan.
 
 Deel has one-half cover (since he stepped to the side of the door), giving him a +4 cover bonus to his Defense. The GM rolls and gets a result of 6, so the battle droid misses Deel.
 
@@ -80,7 +80,7 @@ Rorworr isn’t at all happy about what just happened to his buddy Vor’en Kurn
 
 explodes, raining pieces all over the bay floor.
 
-‘The two remaining battle droids act next. One fires at (eel, the second at Sia-Lan. The GM rolls for the battle ‘ids (while declaring who's getting attacked with each
+The two remaining battle droids act next. One fires at Deel, the second at Sia-Lan. The GM rolls for the battle droids (while declaring who’s getting attacked with each roll).
 
 The battle droids still acting roll for attacks and get results of 8 and 16. The attack on Deel misses, but Sia-Lan takes a blaster bolt. The GM rolls and deals 11 points of damage to Sia-Lan, reducing the Jedi’s vitality points from 31 to 20.
 
@@ -98,15 +98,15 @@ What happens next? That depends on the actions of the players and how the Gamema
 
 ## Combat Sequence
 
-As seen in the example, combat is cyclical. Everybody acts in tum in a regular cycle. Generally, combat runs in the following way:
+As seen in the example, combat is cyclical. Everybody acts in turn in a regular cycle. Generally, combat runs in the following way:
 
-1, Each combatant starts the battle flat-footed. A flatfooted character doesn’t add a Dexterity bonus to Defense. Once a combatant acts, he or she is no longer flat-footed.
+1. Each combatant starts the battle flat-footed. A flat-footed character doesn’t add a Dexterity bonus to Defense. Once a combatant acts, he or she is no longer flat-footed.
 
-2, The GM determines which characters are aware of their opponents at the start of the battle. If some but not all of the combatants are aware of their opponents, a surprise tound happens before regular rounds begin. The combatants Who are aware of the opponents can act in the surprise found, so they roll for initiative. In initiative order (highest to lowest), combatants who started the battle aware of their ‘opponents each take a single action (an attack action or a move action; no full-round actions allowed) during the surprise round. Combatants who were unaware do not get to act in the surprise round. If everyone starts the battle aware (or if no one does), there is no surprise round.
+2. The GM determines which characters are aware of their opponents at the start of the battle. If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds begin. The combatants who are aware of the opponents can act in the surprise round, so they roll for initiative. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take a single action (an attack action or a move action; no full-round actions allowed) during the surprise round. Combatants who were unaware do not get to act in the surprise round. If everyone starts the battle aware (or if no one does), there is no surprise round.
 
-3, Combatants who have not yet rolled initiative do so. All ‘wmbatants are now ready to begin their first regular round. 4, Combatants act in initiative order.
+3. Combatants who have not yet rolled initiative do so. All combatants are now ready to begin their first regular round. 4. Combatants act in initiative order.
 
-5, When everyone has had a turn, the combatant with the ‘highest initiative acts again, and steps 4 and 5 repeat until "combat ends.
+5. When everyone has had a turn, the combatant with the highest initiative acts again, and steps 4 and 5 repeat until combat ends.
 
 ## Combat Statistics
 
@@ -174,9 +174,7 @@ Attack and Defense To score a hit that deals damage on your attack roll, your ro
 
 Melee Attack Roll: `1d20` + base attack bonus + Strength modifier + size modifier
 
-ged Attack Roll: 1420 + base attack bonus + Dexterity
-
-modifier + size modifier + range penalty
+Ranged Attack Roll: `1d20` + base attack bonus + Dexterity modifier + size modifier + range penalty
 
 Defense: 10 + class bonus + Dexterity modifier + size modifier
 
@@ -254,25 +252,7 @@ A dying character can be stabilized with the Treat Injury skill or the Heal Anot
 
 Using the Treat Injury skill and a medpac, or the Force skills Heal Self or Heal Another, can restore some lost vitality points and wound points to an injured character. The Surgery feat increases the potency of the Treat Injury skill. Bacta tank treatments also provide powerful healing benefits.
 
-As long as a character isn’t dying, he or she regains 1 wound point for each day of light activity or rest. For each hour of light adivity or rest, a character regains a number of vitality points equal ‘ohis or her character level.
-
-Miniatures and Action Figures When you use miniatures to keep track of where the characters
-
-ne, use a scale of 1 inc thescale is 2 inches =
-
-= 2 meters. If you're using action figures,
-
-penalty. However, each full range increment causes a cumu z lative =2 penalty on the attack roll. For example, a character
-
-firing a blaster pistol at a target 38 meters away suffers a a 6 penalty on his attack roll (because 38 meters is at >
-
-three range increments but not four increments)
-
-Thrown weapons, such as grenades, have a maximum
-
-range of five range increments. Energy or projectile weapons,
-
-h as blasters, can shoot up to ten range increments.
+As long as a character isn’t dying, he or she regains 1 wound point for each day of light activity or rest. For each hour of light activity or rest, a character regains a number of vitality points equal to his or her character level.
 
 ## Damage
 
@@ -334,7 +314,7 @@ When your wound points reach 0, you're disabled (see page 288).
 
 When your wound points are reduced to a number between -1 and -9 inclusive, you're dying. A dying character is unconscious and can take no actions. Each round, a dying character makes a Fortitude saving throw (DC 10). If the save fails, the character loses 1 wound point. If the save succeeds, the character stabilizes and stops dying, no longer
 
-losing | wound point every round (though he or she remains unconscious).
+losing 1 wound point every round (though he or she remains unconscious).
 
 ## Speed
 

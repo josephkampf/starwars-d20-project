@@ -46,7 +46,7 @@ An attack roll or saving throw is a combination of three numbers, each represent
 
 Base Attack Bonus Check the table for your character's class. On an attack roll, apply the bonus from the Base Attack Bonus column to the `1d20` die roll, Use the bonus that corresponds to the character's class level. Numbers after a slash indicate additional attacks at reduced bonuses: “+12/+7/+2" means three attacks per round, with a base attack bonus of +12 for the first attack, +7 for the second, and +2 for the third, Ability modifiers apply to all the attacks normally, but other bonuses do not grant extra attacks, For example, a 6th-level noble has a base attack bonus of +4, With a blaster or other ranged weapon, she adds her Dexterity modifier. Even if this would increase her attack bonus to +6 or higher, she doesn't gain an additional attack.
 
-Ifa character has more than one class, add the base attack bonuses for each class together to determine the character's base attack bonus. (See Multiclass Characters, page 63, for an example.)
+If a character has more than one class, add the base attack bonuses for each class together to determine the character's base attack bonus. (See Multiclass Characters, page 63, for an example.)
 
 **Table 3-1: Experience and Level-Dependent Benefits**
 
@@ -250,7 +250,7 @@ The fringer is a jack-of-all-trades, learning a little bit of everything to incr
 
 Fringers come to their profession by seeking a better life, searching for excitement, escaping the situation on their planet of origin, or avenging an imagined wrong done by the Republic, Empire, Imperial Remnant, New Republic, or some other power group (depending on the era of play). Some seek wealth and power, others adventure, Others still are motivated by revenge. They may be lured from their home world by the promise of riches. They may be escaping from slavery or servitude, They could be recruited to a cause they believe is worth following, or driven from their home by invaders, They usually think of themselves not as fringers but as whatever career they aspire to, such as spacer, mechanic, pilot, or colonist.
 
-Examples of Fringers in Star Wars Luke Skywalker (at the beginning of Episode IV: A New Hope), Anakin Skywalker (in Episode |: The Phantom Menace), Biggs Darklighter (in Episode IV: A New Hope).
+Examples of Fringers in Star Wars Luke Skywalker (at the beginning of Episode IV: A New Hope), Anakin Skywalker (in Episode I: The Phantom Menace), Biggs Darklighter (in Episode IV: A New Hope).
 
 Game Rule Information Fringers have the following game statistics.
 
@@ -287,9 +287,9 @@ Vitality Fringers gain `1d8` vitality points per level. The character's Constitu
 
 Class Skills The fringer’s class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions).
 
-Climb (Str), Craft" (Int), Gamble (Wis), Handle Animal (Cha), Hide (Dex), Jump (Str), Knowledge” (Int), Listen (Wis), Pilot (Dex), Profession* (Wis), Ride (Dex), Search (Int), Spot (Wis), Survival (Wis), Swim (Str).
+Climb (Str), Craft* (Int), Gamble (Wis), Handle Animal (Cha), Hide (Dex), Jump (Str), Knowledge* (Int), Listen (Wis), Pilot (Dex), Profession* (Wis), Ride (Dex), Search (Int), Spot (Wis), Survival (Wis), Swim (Str).
 
-"This skill actually encompasses a number of unrelated skills. Each time this skill is: learned, a specific category must also be chosen. Examples include Craft (droids), Knowledge (Jedi lore), and Profession (droid programmer).
+*This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (droids), Knowledge (Jedi lore), and Profession (droid programmer).
 
 Skill Points at 1st Level: (6 + Int modifier) x 4. Skill Points at Each Additional Level: 6 + Int modifier.
 
@@ -396,7 +396,7 @@ The noble begins play with the following feats: Weapon Group Proficiency (blaste
 
 ## Bonus Class Skill
 
-At 1st level, a noble may designate any one cross-class skill {except for a Force-related skill) as a class skill. This represents an area of expertise the noble picks up outside his or her normal training.
+At 1st level, a noble may designate any one cross-class skill (except for a Force-related skill) as a class skill. This represents an area of expertise the noble picks up outside his or her normal training.
 
 ## Favor
 
@@ -445,7 +445,7 @@ Beginning at 11th level, a noble can inspire greatness in an ally, granting extr
 
 The noble can’t inspire greatness in herself. The ability only aids her allies.
 
-Credits A \st-level noble starts play with `1d4` x 1,000 credits.
+Credits A 1st-level noble starts play with `1d4` x 1,000 credits.
 
 ## Scoundrel
 
@@ -453,7 +453,7 @@ Scoundrels are rogues—good, bad, and neutral—who either live outside the law
 
 ## Exploits
 
-Many scoundrels live a life of adventure for the excitement it provides. Others go adventuring to advance their illicit careers, Some are good-hearted rogues in it for the thrill or toright a wrong done to them or those they love. Others are despicable knaves who serve only one master—the greed that swells inside them. More often, a adventurous scoundrel falls somewhere in the middle, changing allegiance and attitudes as the political climate changes, until something larger than himself sets him on a particular course through the galaxy. Adventurous scoundrels call themselves smugglers, pirates, outlaws, gamblers, slicers, con artists, thieves, rogues, and spies.
+Many scoundrels live a life of adventure for the excitement it provides. Others go adventuring to advance their illicit careers, Some are good-hearted rogues in it for the thrill or to right a wrong done to them or those they love. Others are despicable knaves who serve only one master—the greed that swells inside them. More often, a adventurous scoundrel falls somewhere in the middle, changing allegiance and attitudes as the political climate changes, until something larger than himself sets him on a particular course through the galaxy. Adventurous scoundrels call themselves smugglers, pirates, outlaws, gamblers, slicers, con artists, thieves, rogues, and spies.
 
 ## Characteristics
 
@@ -478,7 +478,7 @@ Vitality Scoundrels gain `1d6` vitality points per level. The character's Consti
 
 Class Skills The scoundrel’s class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions).
 
-Appraise (Int), Astrogate (Int), Balance (Dex), Bluff (Cha), Computer Use (Int), Craft* (Int), Demolitions (Int), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Forgery (Int), Gamble (Wis), Gather Information (Cha), Hide (Dex), Knowledge (Int), Listen (Wis), Move Silently (Dex), Pilot (Dex), Profession® (Wis), Repair (Int), Search (Int), Sleight of Hand (Dex), Spot (Wis), Tumble (Dex). “This skill actually encompasses o number of unrelated skis. Each time this skill is learned, @ specific category must also be chosen. Examples include Craf (droids), Knowledge (Jedi lore), and Profession (droid programmer).
+Appraise (Int), Astrogate (Int), Balance (Dex), Bluff (Cha), Computer Use (Int), Craft* (Int), Demolitions (Int), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Forgery (Int), Gamble (Wis), Gather Information (Cha), Hide (Dex), Knowledge (Int), Listen (Wis), Move Silently (Dex), Pilot (Dex), Profession* (Wis), Repair (Int), Search (Int), Sleight of Hand (Dex), Spot (Wis), Tumble (Dex). *This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (droids), Knowledge (Jedi lore), and Profession (droid programmer).
 
 Skill Points at 1st Level: (8 + Int modifier) x 4.
 
@@ -490,7 +490,7 @@ Class Features All of the following are class features of the scoundrel.
 
 The scoundrel begins play with the following feats: Weapon Group Proficiency (blaster pistols) Weapon Group Proficiency (simple weapons)
 
-## Micit Barter
+## Illicit Barter
 
 Beginning at 1st level, the scoundrel gains a +5 competence bonus on any Diplomacy checks made to buy or sell illicit or illegal goods.
 
@@ -544,7 +544,7 @@ Scouts are natural explorers and adventurers, full of curiosity and trained to h
 
 ## Exploits
 
-Many scouts become adventurers to see what's in the next star system. They pick up skills that make them excellent members of any team. They are usually the best trackers, trailblazers, and survivalists the galaxy has to offer. Some scouts are scientists and researchers who learn the skills of the profession so they don’t have to rely on others. Some sell their services to the highest bidder. More often, the adventurous ‘scout has a good heart, a sense of honor, and a burning desire to embrace the wild regions of the galaxy and learn to conquer them — either figuratively or literally. Adventurous scouts call themselves rangers, outriders, hunters, explorers, guides, adventurous scholars, and vanguards.
+Many scouts become adventurers to see what's in the next star system. They pick up skills that make them excellent members of any team. They are usually the best trackers, trailblazers, and survivalists the galaxy has to offer. Some scouts are scientists and researchers who learn the skills of the profession so they don’t have to rely on others. Some sell their services to the highest bidder. More often, the adventurous scout has a good heart, a sense of honor, and a burning desire to embrace the wild regions of the galaxy and learn to conquer them — either figuratively or literally. Adventurous scouts call themselves rangers, outriders, hunters, explorers, guides, adventurous scholars, and vanguards.
 
 ## Characteristics
 
@@ -593,7 +593,7 @@ Vitality Scouts gain `1d8` vitality points per level. The character's Constituti
 
 Class Skills The scout’s class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions).
 
-Astrogate (Int), Climb (Dex), Computer Use (Int), Craft” (Int), Demolition (Int), Disguise (Cha), Hide (Dex), Jump (Str), Knowledge* (Int), Listen (Wis), Move Silently (Dex), Pilot (Dex), Profession® (Wis), Read/Write Language (none), Repair (Int), Ride (Dex), Search (Int), Speak Language (none), Spot (Wis), Survival (Wis), Swim (Str). “This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (droids), Knowledge (Jedi lore), and Profession (droid programmer).
+Astrogate (Int), Climb (Dex), Computer Use (Int), Craft* (Int), Demolitions (Int), Disguise (Cha), Hide (Dex), Jump (Str), Knowledge* (Int), Listen (Wis), Move Silently (Dex), Pilot (Dex), Profession* (Wis), Read/Write Language (none), Repair (Int), Ride (Dex), Search (Int), Speak Language (none), Spot (Wis), Survival (Wis), Swim (Str). *This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (droids), Knowledge (Jedi lore), and Profession (droid programmer).
 
 Skill Points at 1st Level: (6 + Int modifier) x 4.
 
@@ -619,7 +619,7 @@ The scout can guide a group of up to three individuals at no penalty. However, f
 
 The scout can take 10 on this check, but he can’t take 20, (See Chapter Four: Skills for information on taking 10 and taking 20.) This ability does not apply to tactical movement or local movement, as described in Chapter Six: Heroic Characteristics.
 
-Heart The scout possesses a great deal of self-confidence and | courage. Because of this, once per day the scout can focus his will and gain a circumstance bonus based on his innate belief in himself and his abilities. The bonus ranges from +1 at 3rd level to +4 at 18th level. The bonus can be applied to any skill check, ability check, or attack roll. You can decide to use this class feature after making a die roll but before the GM reveals the result of the check or attack roll.
+Heart The scout possesses a great deal of self-confidence and courage. Because of this, once per day the scout can focus his will and gain a circumstance bonus based on his innate belief in himself and his abilities. The bonus ranges from +1 at 3rd level to +4 at 18th level. The bonus can be applied to any skill check, ability check, or attack roll. You can decide to use this class feature after making a die roll but before the GM reveals the result of the check or attack roll.
 
 <!-- page 50 -->
 
@@ -631,7 +631,7 @@ At 7th level, the scout can no longer be flanked, since he can react to opponent
 
 ## Skill Mastery
 
-At 5th level, the scout designates a skill. When making a skill check with this skill, the scout may take 10 even if stress and distractions would normally prevent him from doing so. He becomes so certain in the use of this skill that he can use it reliably even under adverse conditions. (See Checks without Rolls on page 72 for more information on taking 10.) He designates an additional skill at 10th, 15th, ‘and 20th level,
+At 5th level, the scout designates a skill. When making a skill check with this skill, the scout may take 10 even if stress and distractions would normally prevent him from doing so. He becomes so certain in the use of this skill that he can use it reliably even under adverse conditions. (See Checks without Rolls on page 72 for more information on taking 10.) He designates an additional skill at 10th, 15th, and 20th level.
 
 ## Evasion
 
@@ -663,7 +663,7 @@ Soldiers combine discipline with martial skills to become the best pure warriors
 
 ## Exploits
 
-Many soldiers see adventures, raids on enemy strongholds, and dangerous missions as their jobs. Some want to defend those who can't defend themselves; others seek to use their muscle to carve their own place of importance in the galaxy. Whatever their initial motivation, most soldiers wind up living for the thrill of combat and the excitement of adventure. Adventuring soldiers call themselves guards, bodyquards, champions, enforcers, mercenaries, warriors, soldiers of fortune, or simply adventurers.
+Many soldiers see adventures, raids on enemy strongholds, and dangerous missions as their jobs. Some want to defend those who can't defend themselves; others seek to use their muscle to carve their own place of importance in the galaxy. Whatever their initial motivation, most soldiers wind up living for the thrill of combat and the excitement of adventure. Adventuring soldiers call themselves guards, bodyguards, champions, enforcers, mercenaries, warriors, soldiers of fortune, or simply adventurers.
 
 **Table 3-6: The Soldier**
 
@@ -692,7 +692,7 @@ Many soldiers see adventures, raids on enemy strongholds, and dangerous missions
 
 Characteristics Soldiers have the best all-around fighting abilities, and an individual soldier develops styles and techniques that set him apart from his peers. A given soldier might be especially capable with certain weapons, another trained to execute specific combat maneuvers. As soldiers gain experience, they get more opportunities to develop their fighting skills.
 
-Background | Most soldiers come to the profession after receiving at least some amount of formal training from a military organiza tion, local militia, or private army. Some attend formal academies; others are self-taught and well tested. A soldier may have taken up his weapon to escape a mundane life. Another may be following a proud family tradition, Soldiers in a particular unit share a certain camaraderie, but most have nothing in common except battle prowess and the desire to apply it to a given situation. |
+Background Most soldiers come to the profession after receiving at least some amount of formal training from a military organization, local militia, or private army. Some attend formal academies; others are self-taught and well tested. A soldier may have taken up his weapon to escape a mundane life. Another may be following a proud family tradition. Soldiers in a particular unit share a certain camaraderie, but most have nothing in common except battle prowess and the desire to apply it to a given situation.
 
 Examples of Soldiers in Star Wars Admiral Ackbar, Corran Horn, Captain Panaka, Captain Typho, Lt, Page, General Madine, Zam Wesell.
 
@@ -708,7 +708,7 @@ Since most combat in the Star Wars universe uses blasters and other ranged weapo
 
 Vitality Soldiers gain `1d10` vitality points per level. The character’s Constitution modifier applies.
 
-Class Skills The soldier's class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions). Astrogate (Int), Computer Use (Int), Craft* (Int), Demolitions (Int), Intimidate (Cha), Knowledge* (Int), Pilot (Dex), Profession” (Wis), Repair (Int), Treat Injury (Wis). “This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (droids), Knowledge (Jedi lore), and Profession (droid programmer). Skill Points at 1st Level: (4 + Int modifier) x 4. Skill Points at Each Additional Level: 4 + Int modifier.
+Class Skills The soldier's class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions). Astrogate (Int), Computer Use (Int), Craft* (Int), Demolitions (Int), Intimidate (Cha), Knowledge* (Int), Pilot (Dex), Profession* (Wis), Repair (Int), Treat Injury (Wis). *This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (droids), Knowledge (Jedi lore), and Profession (droid programmer). Skill Points at 1st Level: (4 + Int modifier) x 4. Skill Points at Each Additional Level: 4 + Int modifier.
 
 Class Features All of the following are class features of the soldier.
 
@@ -722,7 +722,7 @@ At 2nd, 3rd, 4th, 6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th level the sol
 
 Ambidexterity, Armor Proficiency (medium), Armor Proficiency (heavy), Blind-Fight, Cleave, Combat Reflexes, Dodge, Exotic Weapon Proficiency, Combat Expertise, Far Shot, Great Cleave, Heroic Surge, Improved Critical,
 
-Improved Initiative, Improved Martial Arts, Improved Two- Weapon Fighting, Martial Arts, Mobility, Point Blank Shot, Power Attack, Precise Shot, Quick Draw, Rapid Shot, Shot on the Run, Spring Attack, Starship Dodge, Starship Operation’, ‘Wo-Weapon Fighting, Weapon Finesse", Weapon Focus’, Whirlwind Attack.
+Improved Initiative, Improved Martial Arts, Improved Two- Weapon Fighting, Martial Arts, Mobility, Point Blank Shot, Power Attack, Precise Shot, Quick Draw, Rapid Shot, Shot on the Run, Spring Attack, Starship Dodge, Starship Operation*, Two-Weapon Fighting, Weapon Finesse*, Weapon Focus*, Whirlwind Attack.
 
 A character can select feats marked with an asterisk (*) more than once, but it must be for a different aspect of starship operation or a different weapon each time.
 
@@ -740,11 +740,11 @@ Some tech specialists become adventurers for the credits and the glory. Others s
 
 ## Characteristics
 
-Tech specialists have the best all-around technical abilities, and an individual specialist develops skills and techniqu that set him apart from his peers. A given tech specialist might be especially capable in a certain field of study, another trained to use a specifie set of tools. As tech specialists gain experience, they get more opportunities to develop their technical proficiencies.
+Tech specialists have the best all-around technical abilities, and an individual specialist develops skills and techniques that set him apart from his peers. A given tech specialist might be especially capable in a certain field of study, another trained to use a specific set of tools. As tech specialists gain experience, they get more opportunities to develop their technical proficiencies.
 
 ## Background
 
-Most tech specialists start out in decidedly unheroic careers. They train to reach the top of their chosen field, eventually offering their services to an adventuring party. Unlike most of the other examples of the heroic classes, the average tech specialist can’t wait to get back to his workshop or labora~ tory. He does what is necessary while it is necessary, but the call of research and development make the tech specialist long to return to his primary profession.
+Most tech specialists start out in decidedly unheroic careers. They train to reach the top of their chosen field, eventually offering their services to an adventuring party. Unlike most of the other examples of the heroic classes, the average tech specialist can’t wait to get back to his workshop or laboratory. He does what is necessary while it is necessary, but the call of research and development make the tech specialist long to return to his primary profession.
 
 **Table 3-7: The Tech Specialist**
 
@@ -775,7 +775,7 @@ Tech specialists have the following game statistics.
 
 ## Abilities
 
-Intelligence, by far, is the most important ability for a tech specialist. Wisdom and Dexterity serve the tech specialist well, providing the ability to better perceive the world | around him and to interact with it at an advanced level.
+Intelligence, by far, is the most important ability for a tech specialist. Wisdom and Dexterity serve the tech specialist well, providing the ability to better perceive the world around him and to interact with it at an advanced level.
 
 Vitality Tech specialists gain `1d6` vitality points per level. The character's Constitution modifier applies.
 
@@ -783,7 +783,7 @@ Vitality Tech specialists gain `1d6` vitality points per level. The character's 
 
 The tech specialist's class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions). Astrogate (Int), Computer Use (Int), Craft" (Int),
 
-Demolitions (Int), Disable Device (Int), Knowledge" (Int), |
+Demolitions (Int), Disable Device (Int), Knowledge* (Int),
 
 Pilot (Dex), Profession* (Wis), Read/Write Language (none),
 
@@ -827,9 +827,9 @@ Security kit Craft (electronic devices)
 
 Sensor pack Craft (electronic devices)
 
-‘On average, it takes twice as long to construct a mastercraft item as it does to create an ordinary item of the same sort: You must pay double the cost for raw materials (2/3 of the item's normal price rather than 1/3), and the result of every daily Craft check you make is halved (round down). You can add the mastercraft feature to an existing ordinary item by paying the raw material cost and then making daily Craft checks as though you were constructing the item itself.
+On average, it takes twice as long to construct a mastercraft item as it does to create an ordinary item of the same sort. You must pay double the cost for raw materials (2/3 of the item's normal price rather than 1/3), and the result of every daily Craft check you make is halved (round down). You can add the mastercraft feature to an existing ordinary item by paying the raw material cost and then making daily Craft checks as though you were constructing the item itself.
 
-In addition to the cost of raw materials, the tech specialis also must pay a number of experience points equal to ‘one-half the price of an ordinary item (for instance, 250 XP for a blaster pistol priced at 500 credits). These experience points must be paid along with the raw materials cost, before the character makes any daily Craft checks to create the mastercraft item. If the expenditure of these XP would drop the character's total to below the minimum needed for his or her current level, then the XP cannot be paid (and the mastercraft work cannot be begun) until the character gains enough additional XP to remain at his current level after the expenditure is made.
+In addition to the cost of raw materials, the tech specialist also must pay a number of experience points equal to one-half the price of an ordinary item (for instance, 250 XP for a blaster pistol priced at 500 credits). These experience points must be paid along with the raw materials cost, before the character makes any daily Craft checks to create the mastercraft item. If the expenditure of these XP would drop the character's total to below the minimum needed for his or her current level, then the XP cannot be paid (and the mastercraft work cannot be begun) until the character gains enough additional XP to remain at his current level after the expenditure is made.
 
 Creating a mastercraft item is a task of extreme complexity; as such, the DC of the final Craft check to complete the item is 20.
 
@@ -863,11 +863,11 @@ Some Force adepts become adventurers as part of a quest to learn more about the 
 
 ## Characteristics
 
-The Force adept masters the ability to affect the external world, as typified by the Alter feat, and usually starts her Force training with this discipline. The adept might be a shaman, an alien from an out-of-the-way world, or a Force- | sensitive hero who never received the benefit of Jedi : training. Because the adept’s training is less formalized, she must depend on more mundane skills to complement her Force powers.
+The Force adept masters the ability to affect the external world, as typified by the Alter feat, and usually starts her Force training with this discipline. The adept might be a shaman, an alien from an out-of-the-way world, or a Force-sensitive hero who never received the benefit of Jedi training. Because the adept’s training is less formalized, she must depend on more mundane skills to complement her Force powers.
 
 ## Background
 
-Force adepts discover a power inside themselves that they don't fully understand, Much of their training is haphazard, since few traditions exist to help them achieve mastery. Some come from primitive cultures where they were looked upon as godlike or holy by the people they served. Others just follow a different path from the Jedi—it isn’t better or worse, it’s just a different tradition. Force adepts have grown accustomed to being either revered or hated, depending on when and where their Force powers came to prominence, Others have leamed to keep their powers secret, both because they do not fully understand their powers and because they are afraid of how others might treat them.
+Force adepts discover a power inside themselves that they don't fully understand, Much of their training is haphazard, since few traditions exist to help them achieve mastery. Some come from primitive cultures where they were looked upon as godlike or holy by the people they served. Others just follow a different path from the Jedi—it isn’t better or worse, it’s just a different tradition. Force adepts have grown accustomed to being either revered or hated, depending on when and where their Force powers came to prominence, Others have learned to keep their powers secret, both because they do not fully understand their powers and because they are afraid of how others might treat them.
 
 ## Examples of Force Adepts in Star Wars
 
@@ -879,7 +879,7 @@ Game Rule Information Force adepts have the following game statistics.
 
 ## Abilities
 
-The Force adept's most important ability scores are Intelligence and Wisdom, since these control her most important Force skills (those of the Alter and Sense feats), as ‘well as many other class skills. Charisma can also be significant for a variety of interpersonal skills.
+The Force adept’s most important ability scores are Intelligence and Wisdom, since these control her most important Force skills (those of the Alter and Sense feats), as well as many other class skills. Charisma can also be significant for a variety of interpersonal skills.
 
 ## Vitality
 
@@ -887,17 +887,17 @@ Force adepts gain `1d8` vitality points per level. The character’s Constitutio
 
 ## Class Skills
 
-The Force adept'’s class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions). Climb (Str), Craft* (Int), Handle Animal (Cha), Hide (Dex), Jump (Str), Knowledge’ (Int), Listen (Wis), Profession* (Wis), Sense Motive (Wis), Spot (Wis), Survival (Wis), Swim (Str), ‘Treat Injury (Wis).
+The Force adept'’s class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions). Climb (Str), Craft* (Int), Handle Animal (Cha), Hide (Dex), Jump (Str), Knowledge* (Int), Listen (Wis), Profession* (Wis), Sense Motive (Wis), Spot (Wis), Survival (Wis), Swim (Str), Treat Injury (Wis).
 
 *This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (droids), Knowledge (Jedi lore), and Profession (droid programmer).
 
-Skill Points at 1st Level: (6 + Int modifier) x 4. Skill Points at Each Additional Level: 6 + Int modifier,
+Skill Points at 1st Level: (6 + Int modifier) x 4. Skill Points at Each Additional Level: 6 + Int modifier.
 
 Class Features All of the following are class features of the Force adept.
 
 ## Starting Feats
 
-The Force adept begins play with the following feats: Force-Sensitive”
+The Force adept begins play with the following feats: Force-Sensitive*
 
 Weapon Group Proficiency (primitive weapons) Weapon Group Proficiency (simple weapons)
 
@@ -913,11 +913,11 @@ Once one of these Force feats is selected, its associated Force skills become cl
 
 ## Bonus Feats
 
-At 3rd, 9th, 14th, and 20th level, the Force adept gains a bonus feat. This feat must be selected from the following list, and the Force adept must meet any prerequisites. Alertness, Animal Affinity, Endurance, Frightful Presence, Link. Mind Trick, Mimic, Stealthy, Track.
+At 3rd, 9th, 14th, and 20th level, the Force adept gains a bonus feat. This feat must be selected from the following list, and the Force adept must meet any prerequisites. Alertness, Animal Affinity, Endurance, Frightful Presence, Link, Mind Trick, Mimic, Stealthy, Track.
 
 ## Force Weapon
 
-At 5th level, a Force adept can imbue a nonpowered melee Weapon (such as a club, a knife, or a quarterstaff) with the Force. This must be a weapon that the Force adept wields personally, It takes a full-round action to imbue the weapon with the Force, and costs 3 vitality points. The benefit the ‘Weapon gains lasts for a number of rounds equal to the character's Force adept level. At 5th level, the weapon's
+At 5th level, a Force adept can imbue a nonpowered melee weapon (such as a club, a knife, or a quarterstaff) with the Force. This must be a weapon that the Force adept wields personally. It takes a full-round action to imbue the weapon with the Force, and costs 3 vitality points. The benefit the weapon gains lasts for a number of rounds equal to the character’s Force adept level. At 5th level, the weapon’s
 
 <!-- page 57 -->
 
@@ -925,7 +925,7 @@ At 5th level, a Force adept can imbue a nonpowered melee Weapon (such as a club,
 >
 > The Force adept is the only Force-using class available in any era with no restrictions. In the Rise of the Empire era, Force adepts appear occasionally, but members of the Jedi Order seriously outnumber them. During the Rebellion era, on the other hand, the Jedi have been all but destroyed, and only the rare Force adept appears on a backwater world or hiding in the wilderness. In fact, in the Rebellion era, the Force adept is the only class of Force-user that can start as a 1st-level character. By the time of The New Jedi Order era, most Force-users are being recruited into Luke Skywalker’s Jedi academy, but Force adepts remain viable as characters who have not yet been introduced to the academy or who have decided to keep their own traditions instead of following the path of the Jedi.
 
-damage increases by +`1d8`. (So, a Force-imbued quarterstaff deals `1d6` + `1d8` damage.) At 13th level, the weapon's damage increases by an additional +`1d8` (for a total of +248).
+damage increases by +`1d8`. (So, a Force-imbued quarterstaff deals `1d6` + `1d8` damage.) At 13th level, the weapon's damage increases by an additional +`1d8` (for a total of +`2d8`).
 
 A Force-imbued weapon gains another benefit when used against a lightsaber. If the wielder of a lightsaber attempts to strike a Force-imbued weapon wielded by an opponent (see Attack an Object, page 166), the lightsaber does not ignore the damage reduction of the Force-imbued weapon.
 
@@ -990,7 +990,7 @@ The Jedi consular uses the Force for knowledge and negotiation, seeking the most
 
 ## Exploits
 
-Some Jedi consulars explore the galaxy to further their own knowledge and mastery of the Force. Others continually seek to learn or discover more of the Force’s secrets. Still others see their role as mediators and councilors, using their position and skills to help those in need. Most Jedi consulars follow the light side, but some become darksiders and use the Force for evil or selfish intent. Those imbued with the light side refrain from using the Force for every task, preferring to find other solutions and save the Force for when it is tmuly needed. Those who succumb to the dark side use every ativantage at their disposal, wielding the Force against challenges as a noble would spend a small fortune to be rid of a minor inconvenience.
+Some Jedi consulars explore the galaxy to further their own knowledge and mastery of the Force. Others continually seek to learn or discover more of the Force’s secrets. Still others see their role as mediators and councilors, using their position and skills to help those in need. Most Jedi consulars follow the light side, but some become darksiders and use the Force for evil or selfish intent. Those imbued with the light side refrain from using the Force for every task, preferring to find other solutions and save the Force for when it is truly needed. Those who succumb to the dark side use every advantage at their disposal, wielding the Force against challenges as a noble would spend a small fortune to be rid of a minor inconvenience.
 
 ## Characteristics
 
@@ -1010,9 +1010,9 @@ Abilities A Jedi consular should be gifted in all abilities, but Wisdom, Charism
 
 Vitality Jedi consulars gain `1d8` vitality points per level. The character’s Constitution modifier applies.
 
-Class Skills The Jedi consular’s class skills, and the key ability for each, are as follows {see Chapter Four: Skills for skill descriptions).
+Class Skills The Jedi consular’s class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions).
 
-Bluff (Cha), Computer Use (Int), Craft* (Int), Diplomacy (Cha), Gather Information (Cha), Intimidate (Cha), Knowledge* (Int), Pilot (Dex), Profession* (Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language {none), Treat Injury (Wis). *This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (droids), Knowledge (Jedi lore), and Profession (droid programmer).
+Bluff (Cha), Computer Use (Int), Craft* (Int), Diplomacy (Cha), Gather Information (Cha), Intimidate (Cha), Knowledge* (Int), Pilot (Dex), Profession* (Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language (none), Treat Injury (Wis). *This skill actually encompasses a number of unrelated skills. Each time this skill is learned, a specific category must also be chosen. Examples include Craft (droids), Knowledge (Jedi lore), and Profession (droid programmer).
 
 Skill Points at 1st Level: (6 + Int modifier) x 4.
 
@@ -1142,7 +1142,7 @@ A Jedi guardian typically starts out as a Padawan leamer attached to a Jedi Mast
 
 ## Examples of Jedi Guardians in Star Wars
 
-Luke Skywalker (after training under Obi-Wan Kenobi and Yoda), Obi-Wan Kenobi (in Episode 1; The Phantom Menace, and in Episode II: Attack of the Clones), Anakin Skywalker (in Episode M1: Attack of the Clones).
+Luke Skywalker (after training under Obi-Wan Kenobi and Yoda), Obi-Wan Kenobi (in Episode I: The Phantom Menace, and in Episode II: Attack of the Clones), Anakin Skywalker (in Episode II: Attack of the Clones).
 
 Game Rule Information Jedi guardians have the following game statistics.
 
@@ -1158,9 +1158,9 @@ Jedi guardians gain `1d10` vitality points per level. The character's Constituti
 
 ## Class Skills
 
-The Jedi guardian’s class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions). Balance (Dex), Climb (Str), Computer Use (Int), Craft"
+The Jedi guardian’s class skills, and the key ability for each, are as follows (see Chapter Four: Skills for skill descriptions). Balance (Dex), Climb (Str), Computer Use (Int), Craft*
 
-[int), Intimidate (Cha), Jump (Str), Knowledge* (Int), Pilot
+(Int), Intimidate (Cha), Jump (Str), Knowledge* (Int), Pilot
 
 (Dex), Profession* (Wis), Tumble (Dex).
 
@@ -1168,13 +1168,13 @@ The Jedi guardian’s class skills, and the key ability for each, are as follows
 
 Skill Points at 1st Level: (4 + Int modifier) x 4. Skill Points at Each Additional Level: 4 + Int modifier.
 
-Class Features Allof the following are features of the Jedi guardian class.
+Class Features All of the following are features of the Jedi guardian class.
 
 ## Starting Feats
 
 Jedi guardians begin play with the following feats: Exotic Weapon Proficiency (lightsaber) Force-Sensitive* Weapon Group Proficiency (blaster pistols) Weapon Group Proficiency (simple weapons)
 
-“this feat has associated Force skills. These associated Force skills are class skills for this character class due to the possession of this feat.
+*This feat has associated Force skills. These associated Force skills are class skills for this character class due to the possession of this feat.
 
 Equipment A Jedi starts play with a lightsaber provided by her master. Later, the Jedi can build her own lightsaber.
 
@@ -1192,7 +1192,7 @@ Deflecting an attack is a reaction that costs the Jedi a move action in her next
 
 When used in this fashion, the Jedi gains the dodge bonus against all ranged attacks directed at her in the round.
 
-For example, if Sia-Lan Wezz uses her activated lightsaber to deflect any number of blaster attacks in tound two of combat, in round three Sia-Lan loses a move action to account for the effort expended to deflect the attacks in round two.
+For example, if Sia-Lan Wezz uses her activated lightsaber to deflect any number of blaster attacks in round two of combat, in round three Sia-Lan loses a move action to account for the effort expended to deflect the attacks in round two.
 
 Each time the Jedi gains deflect (defense), it provides a +1 dodge bonus to Defense when she uses her lightsaber to block ranged attacks. So, at 1st level the dodge bonus to Defense is +1, at 9th level it increases to +2, at 13th level it increases to +3, and at 17th level it increases to +4.
 
@@ -1212,7 +1212,7 @@ Power Attack, Quickness, Toughness, Weapon Finesse.
 
 ## Deflect (Attack)
 
-A Jedi leams to deflect blaster bolts with her lightsaber, redirecting the attack toward a target within one range increment of the Jedi’s position. (The type of blaster determines the range increment.) You must be carrying an activated lightsaber to use this special ability.
+A Jedi learns to deflect blaster bolts with her lightsaber, redirecting the attack toward a target within one range increment of the Jedi’s position. (The type of blaster determines the range increment.) You must be carrying an activated lightsaber to use this special ability.
 
 Deflecting and redirecting an attack is a reaction that costs the Jedi a move action in her next round. The Jedi must indicate that she is using deflect (attack) when an opponent declares an attack against her but before any attack rolls are made. Deflect (defense) and deflect (attack) can be used together in the same round (though the Jedi can decide not to use the defense if she wants a better chance at redirecting the incoming attack).
 
@@ -1251,7 +1251,7 @@ Burst of Speed, Knight Speed, Dissipate Energy, Lightsaber Defense, Knight Defen
 
 ## Block
 
-This is a modified version of deflect (defense) that allows the Jedi to deflect a ranged attack without the use of @ lightsaber. The Jedi must have some form of protective gear (such as armored gauntlets) or an item that can withstand the ranged attack. The dodge bonus provided by deflect (defense) is used when a Jedi blocks a ranged attack without a lightsaber. Block doesn’t allow a Jedi to redirect the attack or to extend the defense beyond the Jedi’s position, and all other rules concerning deflect (defense) apply.
+This is a modified version of deflect (defense) that allows the Jedi to deflect a ranged attack without the use of a lightsaber. The Jedi must have some form of protective gear (such as armored gauntlets) or an item that can withstand the ranged attack. The dodge bonus provided by deflect (defense) is used when a Jedi blocks a ranged attack without a lightsaber. Block doesn’t allow a Jedi to redirect the attack or to extend the defense beyond the Jedi’s position, and all other rules concerning deflect (defense) apply.
 
 Credits A 1st-level Jedi guardian starts play with `1d4` x 250 credits.
 
@@ -1330,7 +1330,7 @@ Add the base save bonuses for each class together. A 7th-level noble/4th-level s
 
 ## Defense Bonus
 
-Add the bonuses to Defense for each class together, then apply a -2 multiclass penalty for each class after the first. A 4th-level noble/st-level soldier has a bonus to Defense of +3 plus +3 plus -2 (the multiclass penalty), for a total of +4. If the same hero then picked up a leyel of scout, she would add +2 (for the scout level) plus -2 (for the second multiclass penalty); her bonus to Defense would stay at +4, but she would gain other benefits for taking a level of scout.
+Add the bonuses to Defense for each class together, then apply a -2 multiclass penalty for each class after the first. A 4th-level noble/1st-level soldier has a bonus to Defense of +3 plus +3 plus -2 (the multiclass penalty), for a total of +4. If the same hero then picked up a level of scout, she would add +2 (for the scout level) plus -2 (for the second multiclass penalty); her bonus to Defense would stay at +4, but she would gain other benefits for taking a level of scout.
 
 ## Reputation Bonus
 
@@ -1340,7 +1340,7 @@ Skills The multiclass hero uses his character level to determine the maximum ran
 
 The exception to this is Force skills. In the case of Force skills, use the hero’s Force-user level to determine a Force skill’s maximum number of ranks.
 
-When a multiclass hero gains a level in a class, he spends that level's skill points as a member of that class. Only that class's class skills may be purchased as class skills. All other skills, including skills for another class the hero has levels iti are considered cross-class skills when purchased at this level For a cross-class skill, the maximum rank is half the maxi mum for a class skill.
+When a multiclass hero gains a level in a class, he spends that level's skill points as a member of that class. Only that class's class skills may be purchased as class skills. All other skills, including skills for another class the hero has levels in, are considered cross-class skills when purchased at this level For a cross-class skill, the maximum rank is half the maxi mum for a class skill.
 
 Class Features The character gets all class features of all classes for the levels he possesses.
 

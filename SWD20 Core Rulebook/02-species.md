@@ -239,7 +239,7 @@ Adventurers: An Ewok adventurer may be motivated by a love of excitement, a natu
 
 - Primitive: An Ewok receives the bonus feat Weapon Group Proficiency (primitive weapons) and Weapon Group Proficiency (simple weapons) at 1st level instead of the usual Weapon Group Proficiency feats available to whatever class the character selects.
 
-- Ewoks receive the Alertness feat as a bonus feat at Ist
+- Ewoks receive the Alertness feat as a bonus feat at 1st
   level to account for their heightened senses.
 
 - Automatic Language: Speak Ewokese.
@@ -371,7 +371,7 @@ The Kel Dor originate on the planet Dorin, where they developed in an atmosphere
 
 The Kel Dor have a long and proud Force tradition, though they have adapted it to the Jedi tradition since joining the Republic over six thousand years ago. Kind-hearted, the Kel Dor nevertheless believe in swift justice.
 
-Personality: Even-tempered and kind-hearted, the Kel Dor never tum away a being in need. At the same time, the average Kel Dor believes in quick, simple justice and isn’t averse to taking the law into his or her own hands.
+Personality: Even-tempered and kind-hearted, the Kel Dor never turn away a being in need. At the same time, the average Kel Dor believes in quick, simple justice and isn’t averse to taking the law into his or her own hands.
 
 Physical Description: The average Kel Dor stands between 1.4 and 2 meters tall, Their skin ranges in color from peach to deep red. Most have black eyes, though a few are born with silver irises that some believe mark them as strong in the Force,
 
@@ -492,7 +492,7 @@ Language: Rodians speak Rodese and Basic, but many learn to speak Huttese as wel
 
 Example Names: Andoorni, Beedo, Chido, Doda, Greedo, Greeata, Kelko, Navik, Neela, Neesh, Wald.
 
-Adventurers: Rodian adventurers leave their homeworld to improve their skills, hoping to one day return and claim. the title of Hunt Master. To this end, they take on roles that allow them to flex their hunting skills, increase their battle prowess, and ultimately gain experience to someday earn the prestigious profession of “bounty hunter.” Few Rodians. have anything to do with the Force, so Rodian Force-users. are extremely rare.
+Adventurers: Rodian adventurers leave their homeworld to improve their skills, hoping to one day return and claim the title of Hunt Master. To this end, they take on roles that allow them to flex their hunting skills, increase their battle prowess, and ultimately gain experience to someday earn the prestigious profession of “bounty hunter.” Few Rodians have anything to do with the Force, so Rodian Force-users are extremely rare.
 
 ## Rodian Species Traits
 
@@ -504,7 +504,7 @@ Adventurers: Rodian adventurers leave their homeworld to improve their skills, h
 
 - Rodian base speed is 10 meters.
 
-- Rodians receive the Track feat as a bonus feat at Ist
+- Rodians receive the Track feat as a bonus feat at 1st
   level. All Rodians are taught how to track from a very   young age.
 
 - +2 species bonus on Listen, Search, and Spot checks:
@@ -704,6 +704,4 @@ Zabrak are hardy and possess above-average willpower.
 
 - Automatic Languages: Speak and Read/Write Zabrak
   and Basic.
-
-u g
 

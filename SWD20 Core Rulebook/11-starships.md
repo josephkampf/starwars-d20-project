@@ -4,13 +4,11 @@
 
 <!-- page 203 -->
 
-ARSHIPS) {|
-
 <!-- page 204 -->
 
 One of the hallmarks of the Star Wars universe is the starship: a vehicle capable of traveling between distant star systems. Without starships, the intricate political, social, and economic connections between worlds simply could not exist.
 
-Ultimately, a starship fulfills two primary roles in the Star Wars Roleplaying Game. First, it is a plot device—a means by which the heroes can go from place to place during their adventures. Without access to a starship, adventures must by necessity be set on a single world, which limits the vari. ety of stories available to the Gamemaster. When used as a plot device, a starship requires very little GM adjudication.
+Ultimately, a starship fulfills two primary roles in the Star Wars Roleplaying Game. First, it is a plot device—a means by which the heroes can go from place to place during their adventures. Without access to a starship, adventures must by necessity be set on a single world, which limits the variety of stories available to the Gamemaster. When used as a plot device, a starship requires very little GM adjudication.
 
 Second, the starship is a tool within an adventure. It’s a way to make money smuggling goods, a means of intimidating enemies, or even a weapon against a gigantic battle station. Scenes of starship combat are among the most memorable in the Star Wars movies. They should be just as memorable in your game.
 
@@ -30,7 +28,7 @@ ship. Huge freighters, container ships, and luxury liners also fall in this cate
 
 If you don’t have the previous edition of the Star Wars Roleplaying Game, you can skip this section. It explains what we changed in this chapter for the new edition.
 
-This chapter got a complete overhaul due to player demands. We dropped the abstract combat system and redesigned starship combat to work just like personal and vehicle combat. We added rules that allow vehicles and starships to interact more easily, as well as new rules for ramming and collisions, heroes as crew aboard space transports and capital ships, and a number of tactical diagrams that demonstrate movement options and weapon firing arcs. We've included a map suitable for use in all eras of play, as well as a sidebar listing planets by region of space. Finally, we've included new starships from Episode Il: Attack of the Clones.
+This chapter got a complete overhaul due to player demands. We dropped the abstract combat system and redesigned starship combat to work just like personal and vehicle combat. We added rules that allow vehicles and starships to interact more easily, as well as new rules for ramming and collisions, heroes as crew aboard space transports and capital ships, and a number of tactical diagrams that demonstrate movement options and weapon firing arcs. We've included a map suitable for use in all eras of play, as well as a sidebar listing planets by region of space. Finally, we've included new starships from Episode II: Attack of the Clones.
 
 <!-- page 205 -->
 
@@ -55,23 +53,23 @@ Steerage 50 500 Freighter hold Poor 100 1,000 Freighter bunk Average 200 2,000 L
 Good 500 5,000 Private room Luxurious 750 7,500 Private stateroom
 * One-way passage
 
-Chartering a Starship If all else fails, hire someone to fly you where you want to go. This is the most expensive form of starship travel, with charter costs starting in the thousands of credits and going up from there.
+## Chartering a Starship
 
-A charter has one enormous advantage over booking passage: privacy. Whether you're smuggling illegal cargo of you just wish to avoid Imperial entanglements, private chit. ter is the best way to go. To reach some remote systems, it might also be the only way to go.
+If all else fails, hire someone to fly you where you want to go. This is the most expensive form of starship travel, with charter costs starting in the thousands of credits and going up from there.
 
-In general, the captain of a private charter negotiates a price based on the number of passengers, the type of car the distance traveled, and how dangerous the joumey mil be. A base price of 6,000 credits gives the average charter captain a place to start. Han Solo offered a price of 10,00 credits to get an old man, a boy, and a pair of droids from Tatooine to Alderaan while avoiding Imperials. The GM is encouraged to negotiate in good faith if the heroes decide to go this route (unless, of course, the captain they hook ti with isn't a good-faith type of person).
+A charter has one enormous advantage over booking passage: privacy. Whether you're smuggling illegal cargo or you just wish to avoid Imperial entanglements, private charter is the best way to go. To reach some remote systems, it might also be the only way to go.
+
+In general, the captain of a private charter negotiates a price based on the number of passengers, the type of cargo, the distance traveled, and how dangerous the journey will be. A base price of 6,000 credits gives the average charter captain a place to start. Han Solo offered a price of 10,000 credits to get an old man, a boy, and a pair of droids from Tatooine to Alderaan while avoiding Imperials. The GM is encouraged to negotiate in good faith if the heroes decide to go this route (unless, of course, the captain they hook up with isn't a good-faith type of person).
 
 ## Hyperspace Travel
 
-The only way to get from one star system to another is by traveling through hyperspace—thereby crossing interstellar distances in a matter of mere hours or days. To be capable of hyperspace travel, a ship must be equipped with a hyper: drive; a ship without a hyperdrive can only travel through
+The only way to get from one star system to another is by traveling through hyperspace—thereby crossing interstellar distances in a matter of mere hours or days. To be capable of hyperspace travel, a ship must be equipped with a hyperdrive; a ship without a hyperdrive can only travel through realspace and cannot make hyperspace journeys on its own.
 
-realspace and cannot make hyperspace journeys on its owt
+Despite the proliferation of trade routes throughout the galaxy, travel between systems remains somewhat unpredictable. Large gravity wells, such as those generated by planets and suns, create “shadows” that exist in hyperspace. Ships in hyperspace must be careful to avoid these shadows; they can cause damage to a ship that passes through one of them, perhaps even destroying the ship. Many hyperdrives come equipped with a shutoff mechanism. When a gravity-well shadow is detected, the hyperdrive cut-off kicks in and ejects the ship from hyperspace before a collision occurs.
 
-Despite the proliferation of trade routes throughout the galaxy, travel between systems remains somewhat unptedictable. Large gravity wells, such as those generated by planets and suns, create “shadows” that exist in hyperspatt Ships in hyperspace must be careful to avoid these shadows) they can cause damage to a ship that passes through one them, perhaps even destroying the ship. Many hyperdrives come equipped with a shutoff mechanism. When a gravity: well shadow is detected, the hyperdrive cut-off kicks in and ejects the ship from hyperspace before a collision occurs,
+Because of this danger, hyperspace trips can’t simply follow the shortest possible path between two points, Instead, each course must be plotted with extreme precision to avoid such a disaster. A ship’s astrogator uses a navigation computer (often called a nav computer) to plot a safe trip through hyperspace. Without a nav computer, the astrogator must rely on his own skill to calculate the precise coordinates (a very risky proposition) or use an astromech droid.
 
-Because of this danger, hyperspace trips can’t simply follow the shortest possible path between two points, Instead, each course must be plotted with extreme precision to avoid such a disaster. A ship’s astrogator uses a navigation computer (often called a nay computer) to plot a safe trip through hyperspace. Without a nav computer, the astroqatol must rely on his own skill to calculate the precise coordinates (a very risky proposition) or use an astromech droid.
-
-The galaxy is always in motion. Stars, planets, moons, and various interstellar objects are never in the same place twice, thanks to the nature of orbits and the fact that individual star systems and the galaxy they inhabit are constantly moving. So, coordinates for a hyperspace jump that are correct today will be slightly off tomorrow. The coordinates for well-known routes are constantly updated. These routes take ships to and from any systems along an established space lane, such as the Corellian Trade Spine or the Perlemiat, Trade Route. The coordinates for less heavily traveled routes must be continually recalculated to account for galactic drift since the time the coordinates were last posted. Unknown routes require extensive calculations and a little bit of guess. work. In addition, gravitational dangers must be accounted
+The galaxy is always in motion. Stars, planets, moons, and various interstellar objects are never in the same place twice, thanks to the nature of orbits and the fact that individual star systems and the galaxy they inhabit are constantly moving. So, coordinates for a hyperspace jump that are correct today will be slightly off tomorrow. The coordinates for well-known routes are constantly updated. These routes take ships to and from any systems along an established space lane, such as the Corellian Trade Spine or the Perlemian Trade Route. The coordinates for less heavily traveled routes must be continually recalculated to account for galactic drift since the time the coordinates were last posted. Unknown routes require extensive calculations and a little bit of guesswork. In addition, gravitational dangers must be accounted for.
 
 <!-- page 206 -->
 
@@ -118,29 +116,17 @@ The galaxy is always in motion. Stars, planets, moons, and various interstellar 
 
 *Does not apply if the ship also has a nav computer.
 
-‘fr, Some are listed in star charts, many others aren't. Some- ‘ines these dangers require a ship to exit hyperspace and mer it again later, thereby avoiding the hazard.
+for. Some are listed in star charts, many others aren’t. Sometimes these dangers require a ship to exit hyperspace and reenter it again later, thereby avoiding the hazard.
 
-## Astragation
+## Astrogation
 
-Noving from a given location to a desired destination
+Moving from a given location to a desired destination through hyperspace requires a successful Astrogate check.
 
-Nitough hyperspace requires a successful Astrogate check.
+The base DC for this check varies according to the quality of the data the astrogator uses. As stated previously, because every object in the galaxy is constantly in motion, the actual precise path between two objects changes from day to day. If the data the astrogator uses is as fresh as it can be (one day old at most), the base DC for the check is 10. The older the data, the higher the DC, as shown on Table 11-2: Astrogation DCs and Modifiers.
 
-The base DC for this check varies according to the quality of
+No Data Available: If an astrogator does not have any data concerning the journey he wants his ship to make, the base DC for the Astrogate check is 30, and the astrogator must spend 1 hour performing calculations and devising his course data before attempting the check. (Under other circumstances, making an Astrogate check takes only 1 minute; see the skill description in Chapter Four for more information.)
 
-‘atiogator. As stated previously, because every object in the jaxy is constantly in motion, the actual precise path en two objects changes from day to day. If the data iy astrogator uses is as fresh as it can be (one day old at inst), the base DC for the check is 10. The older the data, Hie higher the DC, as shown on Table 11-2: Astrogation its and Modifiers,
-
-No Data Available: \f an astrogator does not have any idita concerning the journey he wants his ship to make, the we DC for the Astrogate check is 30, and the astrogator ust spend 1 hour performing calculations and devising his
-
-data before attempting the check. (Under other Hicumstances, making an Astrogate check takes only 1 Minute; see the skill description in Chapter Four for more
-
-formation.)
-
-Asa general rule, data for a particular route through
-
-yperspace is available to anyone with access to the HbloNet—although that data might be out of date if the
-
-route in question is not frequently traveled by other ships.
+As a general rule, data for a particular route through hyperspace is available to anyone with access to the HoloNet—although that data might be out of date if the route in question is not frequently traveled by other ships.
 
 For example, the data for moving from Tatooine to Coruscant is likely to be very fresh, since ships make this trip on a daily or almost daily basis. On the other hand, the data for moving between two more isolated locations (such as Phindar and Umgul) is liable to be severely out of date because no ship has made this particular trip for several weeks or months.
 
@@ -149,8 +135,6 @@ After the base DC has been established, apply a modifier based on the ship's pre
 Certain situations or circumstances can also modify the check, as shown in the section of Table 11-2 beneath the DC modifiers for location. The presence of a nav computer or an astromech droid improves the astrogator’s chance of success, while the absence of such equipment makes success less likely. A hyperdrive that is not in good working order (one that has been jury-rigged) makes the check more likely to fail.
 
 If time is of the essence and saving even a few seconds before making the jump is important, the astrogator can perform the check in less than 1 minute by increasing the DC by 2 for every round he wants to trim from the time required. The time needed for the check cannot be reduced to less than 2 rounds.
-
-SdIHSAvls
 
 <!-- page 207 -->
 
@@ -215,14 +199,6 @@ To determine in which quadrant of the galaxy the destination is located, refer t
 
 <!-- page 208 -->
 
-207
-
-“ 4 “ x i “
-
-Check Result: The base travel time sven on the table may also be modi-
-
-fed by the astrogator’s check result—if that result exceeds the DC of the check ty 5 or more, the astrogator managed
-
 The known galaxy is split into nine vast regions, the innermost called the Deep Core (at the center of the galaxy), the outermost called the Unknown Regions and Wild Space (at the edge of the galaxy). What follows is a partial list of worlds or populated sectors located in each of these regions.
 
 Deep Core: Byss, Khomm.
@@ -237,261 +213,53 @@ Expansion Region: Aquaris, Aridus, Dorin, Gyndine, Iktotch, M’haeli, Mimban, N
 
 Mid Rim: Ando, Anobis, Belsavis, Bimmisaari, Bothawui, Cerea, Chalacta, Cona, Cularin, Druckenwell, Garos IV, Falleen, Iridonia, Ithor, Kalarba, Kashyyyk, Kothlis, Lannik, Malastare, Moonus Mandell, Naboo, Nal Hutta, Ord Mantell, Rodia, Sneeve, Tholatin, Toydaria, Trandosha, Umgul, Vortex.
 
-Outer Rim: Aduba III, Agamar, Alzoc Ill, Ammuud, Anoth, Bakura, Bandomeer, Barab |, Bastion, Belkadan, Bespin, Bimmiel, Bonadan, Cadomai Prime, Chad, Clak’dor VII, Corporate Sector, Dagobah, Dantooine, Da Soocha V, Dathomir, Dellalt, Dubrillion, Endor, Eriadu, Erilnar, Etti IV, Firrerre, Formos, Gala, Gamorr, Gargi, Gelgelar, Gentes, Geonosis, Helska, Honoghr, Hoth, Isis, Ison, Kessel, Korriban, Ku’bakai, Kubindi, Liana, Mon Calamari, Morishim, Muunilinst, Nam Chorios, Ossus, Phindar, Pzob, Quermia, Roon, Rothana, Rutan, Ryloth, Sernpidal, Sluis Van, Sullust, Sump, Tatooine, Telos, Toong’l, Tund, Wayland, Yavin, Ylesia, Zhar, Zonama Sekot.
+Outer Rim: Aduba III, Agamar, Alzoc III, Ammuud, Anoth, Bakura, Bandomeer, Barab I, Bastion, Belkadan, Bespin, Bimmiel, Bonadan, Cadomai Prime, Chad, Clak’dor VII, Corporate Sector, Dagobah, Dantooine, Da Soocha V, Dathomir, Dellalt, Dubrillion, Endor, Eriadu, Erilnar, Etti IV, Firrerre, Formos, Gala, Gamorr, Gargi, Gelgelar, Gentes, Geonosis, Helska, Honoghr, Hoth, Isis, Ison, Kessel, Korriban, Ku’bakai, Kubindi, Liana, Mon Calamari, Morishim, Muunilinst, Nam Chorios, Ossus, Phindar, Pzob, Quermia, Roon, Rothana, Rutan, Ryloth, Sernpidal, Sluis Van, Sullust, Sump, Tatooine, Telos, Toong’l, Tund, Wayland, Yavin, Ylesia, Zhar, Zonama Sekot.
 
 Wild Space: Adumar, Almania, Kamino, Nirauan.
 
-Unknown Regions: Csilla, Nagi, possible Yuuzhan Vong worlds or colonies. ::
+Unknown Regions: Csilla, Nagi, possible Yuuzhan Vong worlds or colonies.
 
-io cut some time off the length of the ipical journey.
+Not all of these systems are interesting or important to the game. Significant systems are highlighted in this section.
 
-If the Astrogate check fails, but only 4 or less, the astrogator still
+Check Result: The base travel time given on the table may also be modified by the astrogator’s check result—if that result exceeds the DC of the check by 5 or more, the astrogator managed to cut some time off the length of the typical journey.
 
-manages to complete the hyperspace pumey, but the travel time is
+If the Astrogate check fails, but only by 4 or less, the astrogator still manages to complete the hyperspace journey, but the travel time is extended. If the Astrogate check fails by 5 or more, the astrogator’s ship suffers a hyperspace mishap; roll on Table 11-4: Hyperspace Mishaps to determine the nature and severity of the problem. (If the GM doesn’t want to use this table, in the interest of making hyperspace travel easier to accomplish, assume that any failed Astrogate check results in a failure to enter hyperspace.)
 
-mtended, If the Astrogate check fails ty 5 or more, the astrogator’s ship suffers a hyperspace mishap; roll on
+## Example of Hyperspace Travel
 
-jible 11-4: Hyperspace Mishaps to tetermine the nature and severity of ihe problem. (If the GM doesn't want lo use this table, in the interest of making hyperspace travel easier to
+A ship is planning to travel from Mimban, in the Expansion Region, to Gamorr, in the Outer Rim. The ship’s astrogator is relying on data that is a few days old, so the base DC for his Astrogate check is 15.
 
-aiomplish, assume that any failed Asrogate check results in a failure to enter hyperspace.)
+The location modifier for a trip from the Expansion Region to the Outer Rim is +2, reducing the DC to 13. The ship has a nav computer (-4 modifier), bringing the DC down to 9. No other modifiers apply because of situation or circumstances.
 
-Example of Hyperspace Travel
+Because the base DC is 15, the hazard die is a `d6`. The roll produces a 5, which means the DC is modified by +4 to account for random hazards, bringing it back up to 13.
 
-{ship is planning to travel from Ninban, in the Expansion Region, to famor, in the Outer Rim. The ship's ‘tiogator is relying on data that is a ity days old, so the base DC for his Atrogate check is 15.
+The astrogator has a skill modifier of +5. As such, he could safely take 10 on his Astrogate check (giving him a check result of 15, which beats the DC). However, he wants to see if he can cut down the travel time, so he takes his chances and rolls 1d20. The roll produces a 15, which added to his skill modifier gives him a check result of 20—success!
 
-The location modifier for a trip from ihe Expansion Region to the Outer Rim 4-2, reducing the DC to 13. The ship asa nav computer (-4 modifier), bringiiy the DC down to 9. No other modifiers apply because of Siuation or circumstances.
+The base travel time for a journey from the Expansion Region to the Outer Rim is 48 hours (from Table 11-3). The ship has a x2 hyperdrive, which doubles the travel time from 48 hours to 96 hours. However, Mimban and Gamorr are in the same quadrant of the galaxy, so the travel time is cut in half, from 96 hours back down to 48.
 
-Because the base DC is 15, the hazard die is a `d6`. The roll 16 produces a 5, which means the DC is modified by +4 account for random hazards, bringing it back up to 13.
-
-The astrogator has a skill modifier of +5. As such, he (ould safely take 10 on his Astrogate check (giving him a theck result of 15, which beats the DC), However, he wants lusee if he can cut down the travel time, so he takes his tances and rolls 1420. The roll produces a 15, which added iphis skill modifier gives him a check result of 20—success!
-
-The base travel time for a journey from the Expansion figion to the Outer Rim is 48 hours (from Table 11-3). The sip has a x2 hyperdrive, which doubles the travel time from 4M hours to 96 hours. However, Mimban and Gamorr are in esame quadrant of the galaxy, so the travel time is cut in , from 96 hours back down to 48.
-
-Because the astrogator’s check result (20) was 5 points jigher than the DC (15), he reduces the travel time by 112 jouts. Rolling 1412 produces an 8, meaning that the trip tikes only 40 hours instead of 48.
-
-of these systems aren't interesting or important to the game. Significant systems are highlighted in this section.
-
-Drive Systems All starships have two drive systems: sublight drives and hyperdrives.
-
-A starship uses its sublight (slower than light speed) drive to travel within realspace, usually within a star system. Atmospheric travel, planet-to-moon travel, and planet-toplanet travel in the same star system are all accomplished via the sublight drive. In general, a ship requires a few minutes to fly from orbit to a safe hyperspace jump point outside the planet's gravity well. It takes about half an hour to fly from a planet to one of its moons. A few hours are needed to fly between planets in a system, and it takes up to a day or two to fly from a star to the outer limits of its system (depending on hazards and the type of sublight drive being used).
-
-Starship pilots use the hyperdrive for system-to-system travel. The hyperdrive actually shifts the starship into the alternate dimension called hyperspace, in which the ship travels at many times the speed of light. See Hyperspace Travel in the previous section for more information.
-
-Starship Systems Starships also include repulsorlift systems, like those y starship contains a vast number of separate systems found on vehicles, that let them maneuver “vertically” (as work together to ensure that the ship functions. Most relative as that term is in space). Repulsorlifts are used
+Because the astrogator’s check result (20) was 5 points higher than the DC (15), he reduces the travel time by 1d12 hours. Rolling 1d12 produces an 8, meaning that the trip takes only 40 hours instead of 48.
 
 <!-- page 209 -->
 
-## The Galaxy
+*[Galaxy map — pages 209–210. This is a visual star map showing the galaxy regions and key systems. The OCR output of the map image is not usable text.]*
 
-Deep Core Core Worlds Colonies
-
-Inner Rim Expansion Region Mid Rim
-
-## Outer Rim
-
-## Luhekk
-
-Bakura y
-
-re Fifrerre
-
-- incor
-Sump
-
-- vespin
-Q@icth
-
-## Ison
-
-## Pbelsavis
-
-Karfeddion Asmeru
-
-Dorvalla Rutan Sluis
-
-Elrond Sector @ decobsh
-
-## Minos Cluster
-
-## Kathol Sector
-
-## Clak’dor VII
-
-## Unknown Regions
-
-## Ansion
-
-## Reecee
-
-## Coruscant
-
-Galantos
-
-ibyss
-
-Eclipse )Abregado-Rae  )iKhomm Tapani Sector
-
-) Fondor h = Sacorria Jum
-
-vow Talfaglio f
-
-## Thyferra
-
-Da" ee Newer tympte Moonje Bes tine
-
-PP Yag'dhut De Aleen . “a Atzerrie” _tyfna Tktote Aridus Cularin Kalarba
-
-Sullust mil . zi D Umgut
-
-\@ naboo
-
-## Xagobah
-
-## Seswenna
-
-Van
-
-## Bpfassh
-
-## Praesitlyn
-
-Vergesso Asteroids
-
-This map is not specific to any given era. During the Rise of the Empire era, the Old Republic controls mast af the galaxy and Hutt space is larger than shown on the map. During the
-
-Rebellion era, the Empire controls mast systems from the Core Worlds region out to and including the Mid Rim as well as some Duter Rim worlds, and Hutt space is sized as shawn. The
-
-## Wild Space
-
-Imperial Remnant does not exist until after the fall of the Empire, During The New Jedi Order era, several systems governed by the New Republic fall to the Yuuzhan Vong.
+This map is not specific to any given era. During the Rise of the Empire era, the Old Republic controls most of the galaxy and Hutt space is larger than shown on the map. During the Rebellion era, the Empire controls most systems from the Core Worlds region out to and including the Mid Rim as well as some Outer Rim worlds, and Hutt space is sized as shown. The Imperial Remnant does not exist until after the fall of the Empire. During The New Jedi Order era, several systems governed by the New Republic fall to the Yuuzhan Vong.
 
 <!-- page 210 -->
 
-## Adumar
-
-## Tridonia
-
-## Bastion
-
-Muumi inst Imperial Remnant Dubrillion
-
-## VCE bic Dantooine
-
-Ord.Mantell
-
-Bilbringi Ss, < CaPratos
-
-Borbeias. % <j Empress Te tax
-
-Ruan. yar
-
-wBrentaal 1 Caamas
-
-Alderaan Kuat
-
-## Corelli
-
-4008 Ondéron
-
-itis
-
-Gyndine thommamool
-
-Mimban Osarian
-
-## Bothan Space
-
-Noonus Nandell
-
-## Bothawui
-
-## Wild Space
-
-## Vortex
-
-u o, Balmorra” a 2
-
-q Commenor
-
-## Geral Bimmiel
-
-## Quis D Agamar Toprawa
-
-) dathomir Q@rovin
-
-## Puce )'Bandomeer
-
-kaniay ‘ s @ AQuatis Wyhkr \ Wayland s \ ) Obroa-Skai
-
-## Garos IV Gale
-
-Tanaab
-
-Meridian Sector. Teltifetapes Consortium
-
-3 et, d
-
-) Kashyyyk
-
-## Tholatin
-
-## MD sneeve ©) Binmisaari
-
-©) chalacta
-
-## Lannik
-
-) Toydaria
-
-Da Soocha V y 7 h Hutt Space sae D) vlesia Maw Cluster
-
-## Nar Shaddaa
-
-Corell Rimma
-
-Hydian Corel
-
-## Perlem
-
-## Trade
-
-## Zonama Sekot
-
-Belkadan PHelska
-
-Sernpidal Telos
-
-Ord Radama Corporate Sector
-
-## Korriban
-
-Quermia Tion Cluster
-
-## Lianna
-
-## Delldlt
-
-ei Auril Sector
-
-Cron Drift Ossus
-
-## Montu Cordu
-
-## Don Calamari
-
-## The Centrality
-
-ian Trade Spine Route Way
-
-ian Run
-
-ian Trade Route
-
-SdIHSAvlsS
-
 <!-- page 211 -->
 
-during docking, landing, and lift-off procedures, because they offer far more stable maneuvering capability in such circumstances than the higher-output ion engines,
+## Drive Systems
+
+All starships have two drive systems: sublight drives and hyperdrives.
+
+A starship uses its sublight (slower than light speed) drive to travel within realspace, usually within a star system. Atmospheric travel, planet-to-moon travel, and planet-to-planet travel in the same star system are all accomplished via the sublight drive. In general, a ship requires a few minutes to fly from orbit to a safe hyperspace jump point outside the planet's gravity well. It takes about half an hour to fly from a planet to one of its moons. A few hours are needed to fly between planets in a system, and it takes up to a day or two to fly from a star to the outer limits of its system (depending on hazards and the type of sublight drive being used).
+
+Starship pilots use the hyperdrive for system-to-system travel. The hyperdrive actually shifts the starship into the alternate dimension called hyperspace, in which the ship travels at many times the speed of light. See Hyperspace Travel in the previous section for more information.
+
+## Starship Systems
+
+Starships also include repulsorlift systems, like those found on vehicles, that let them maneuver “vertically” (as relative as that term is in space). Repulsorlifts are used during docking, landing, and lift-off procedures, because they offer far more stable maneuvering capability in such circumstances than the higher-output ion engines.
 
 ## Deflector Shields
 
@@ -507,9 +275,9 @@ Passive Mode: Sensors set to passive mode simply receive information about the i
 
 Scan Mode: In scan mode, sensors actively send out pulses in all directions (to a maximum of long range) to gather information about the ship’s surroundings. Sensors in scan mode grant a +2 equipment bonus on the user's skill checks. Using sensors in scan mode is a move action.
 
-Search Made: The search mode sweeps a specific fire arc (front, left, right, or rear) for information, out to a maximum of extreme range. This grants a +4 equipment bonus on Computer Use checks made to detect objects with sensors. Using sensors in search mode is a move action.
+Search Mode: The search mode sweeps a specific fire arc (front, left, right, or rear) for information, out to a maximum of extreme range. This grants a +4 equipment bonus on Computer Use checks made to detect objects with sensors. Using sensors in search mode is a move action.
 
-Focus Made: A sensor in focus mode directs its attention to a precise area or single object at up to extreme range. While in focus mode, a sensor grants a +6 equipment bonus on Computer Use checks made to operate the sensors. Using sensors in focus mode is a full-round action,
+Focus Mode: A sensor in focus mode directs its attention to a precise area or single object at up to extreme range. While in focus mode, a sensor grants a +6 equipment bonus on Computer Use checks made to operate the sensors. Using sensors in focus mode is a full-round action,
 
 The DC required to locate an object with sensors depends on the object’s size and range from the ship. See Table 11-5: Starship Sensor Detection for details.
 
@@ -538,34 +306,45 @@ The DC required to locate an object with sensors depends on the object’s size 
 | Target is powered down                                | +4          |
 | Target is using sensor mask                           | Varies      |
 | Target is concealed behind object 3+ sizes larger     | +10         |
-Communications A variety of communication systems exist for use on starshigs: All ships will have at least one of these systems, if not severil different types. Note that even systems that transmit through, hyperspace operate only when the ship is in realspace, HoloNet Transceiver: This is the top-of-the-line star ship communication system, generally present only on important military vessels. It uses a real-time holographic network transmitting through hyperspace to relay messages between users. The system is both expensive and ta Hypertransceiver: A hypertranceiver is less expensive than a HoloNet transceiver but still provides real-time audit and visual transmissions through hyperspace. Military vessel, and many large private starships have hypertransceivers. Subspace Transceiver: A subspace transceiver allows for audio, visual, and hologram communication at a range of a few to several dozen light years. Most starships have a subspace transceiver for emergency signals. Comm: Most starships use speed-of-light comms for ship-to-ship and ship-to-planet messages. They can interac directly with intercoms (shipboard communications) and comlinks (personal communication systems), Inertial Compensators Most starships employ a small field stabilizer known as an inertial compensator, to provide the crew with artificial gravity—and thus, a sensation of “down.” Thus, even when the ship is traveling upside down, the crew is always standing on the floor, rather than the ceiling or the walls. Some starfighter pilots prefer ships with the capacity for adjusting the inertial compensators to just below 100% gravity, finding that it improves the ship's performance slightly—while others find that it gives them a rough ride. Adjusting the inertial compensator in this way gives the pilot a +1 circumstance bonus on Pilot checks—but whenever the pilot fails a maneuver, each member of the crew takes `1d4` points of damage.
+
+## Communications
+
+A variety of communication systems exist for use on starships. All ships will have at least one of these systems, if not several different types. Note that even systems that transmit through hyperspace operate only when the ship is in realspace.
+
+HoloNet Transceiver: This is the top-of-the-line starship communication system, generally present only on important military vessels. It uses a real-time holographic network transmitting through hyperspace to relay messages between users. The system is both expensive and rare.
+
+Hypertransceiver: A hypertransceiver is less expensive than a HoloNet transceiver but still provides real-time audio and visual transmissions through hyperspace. Military vessels, and many large private starships, have hypertransceivers.
+
+Subspace Transceiver: A subspace transceiver allows for audio, visual, and hologram communication at a range of a few to several dozen light years. Most starships have a subspace transceiver for emergency signals.
+
+Comm: Most starships use speed-of-light comms for ship-to-ship and ship-to-planet messages. They can interact directly with intercoms (shipboard communications) and comlinks (personal communication systems).
+
+## Inertial Compensators
+
+Most starships employ a small field stabilizer known as an inertial compensator, to provide the crew with artificial gravity—and thus, a sensation of “down.” Thus, even when the ship is traveling upside down, the crew is always standing on the floor, rather than the ceiling or the walls. Some starfighter pilots prefer ships with the capacity for adjusting the inertial compensators to just below 100% gravity, finding that it improves the ship's performance slightly—while others find that it gives them a rough ride. Adjusting the inertial compensator in this way gives the pilot a +1 circumstance bonus on Pilot checks—but whenever the pilot fails a maneuver, each member of the crew takes `1d4` points of damage.
 <!-- page 212 -->
 
-Starship Combat The rules for starship combat are designed to create an aciting, fast-paced scene in which the heroes feel their Ais and aptitudes have an impact on the outcome of the tattle, These rules provide a framework for combat between wo or more ships; the more ships that are fighting, the
+## Starship Combat
 
-more complicated the situation becomes.
+The rules for starship combat are designed to create an exciting, fast-paced scene in which the heroes feel their skills and aptitudes have an impact on the outcome of the battle. These rules provide a framework for combat between two or more ships; the more ships that are fighting, the more complicated the situation becomes.
 
-Once it becomes clear that starship combat is going to ur—cither because opponents come within sensor range ofeach other or because the scenario calls for battle—you seed to know who acts first, what they can do during their ition, and how these choices affect the battle. Begin by ietermining initiative, just like in ordinary combat.
+Once it becomes clear that starship combat is going to occur—either because opponents come within sensor range of each other or because the scenario calls for battle—you need to know who acts first, what they can do during their action, and how these choices affect the battle. Begin by determining initiative, just like in ordinary combat.
 
-hhitiative The Gamemaster has two options for starship combat initia~ five. First, he or she can use individual initiative just as in jormal combat, where each hero rolls separately, This is pobably the best method if most or all of the heroes are iboard the same ship, but it can often result in a lot of islayed or readied actions as gunners wait for pilots to jerform maneuvers.
+## Initiative
 
-An easier method requires one initiative check for each dip (or wing of fighters), using the ship’s size modifier as
+The Gamemaster has two options for starship combat initiative. First, he or she can use individual initiative just as in normal combat, where each hero rolls separately. This is probably the best method if most or all of the heroes are aboard the same ship, but it can often result in a lot of delayed or readied actions as gunners wait for pilots to perform maneuvers.
 
-ie initiative modifier. This works best when most heroes are w different ships. Have everyone on the same ship act more irless simultaneously, Pilots of starfighters can also add ir personal initiative modifier to the initiative roll
-
-accounting for the starfighter’s quicker response time).
+An easier method requires one initiative check for each ship (or wing of fighters), using the ship’s size modifier as the initiative modifier. This works best when most heroes are on different ships. Have everyone on the same ship act more or less simultaneously. Pilots of starfighters can also add their personal initiative modifier to the initiative roll (accounting for the starfighter’s quicker response time).
 
 ## Starship Size
 
-Aslatship’s size is perhaps its most important characterisic. Aship’s size affects its Defense, attack rolls, initiative, ini Pilot checks,
+A starship’s size is perhaps its most important characteristic. A ship’s size affects its Defense, attack rolls, initiative, and Pilot checks.
 
-Asnoted on Table 11-6: Starship Sizes, starships operate ma larger scale than ground vehicles, characters, and crealures. For example, a Diminutive starship (such as a TIE fighter) is about the same size as a Huge vehicle or creature.
+As noted on Table 11-6: Starship Sizes, starships operate on a larger scale than ground vehicles, characters, and creatures. For example, a Diminutive starship (such as a TIE fighter) is about the same size as a Huge vehicle or creature.
 
-When combat occurs between starships and vehicles, or swships and characters, use the size categories in the second column of Table 11-6 to determine modifiers to Defense and attack rolls for the vehicles or characters,
+When combat occurs between starships and vehicles, or starships and characters, use the size categories in the second column of Table 11-6 to determine modifiers to Defense and attack rolls for the vehicles or characters.
 
 **Table 11-6: Starship Sizes**
-
-*[OCR data missing — table content was not captured. Table maps starship size categories to Defense and attack roll modifiers.]*
 
 ## STARSHIP COMBAT ACTIONS
 
@@ -587,53 +366,56 @@ Full-Round Actions A full-round action requires an entire round to complete and 
 
 Initiative checks and skill checks are not affected by this expanded scale,
 
-Starship Combat Tactics As with personal combat, a c action and an attack action in each round of starship combat. Instead of taking an attack action, a character can take a second move action,
+## Starship Combat Tactics
 
-ter can take both a move
+As with personal combat, a character can take both a move action and an attack action in each round of starship combat. Instead of taking an attack action, a character can take a second move action.
 
-rs
-
-un i u "0
-
-Character and Starship Size Vehicle Size Modifier Size (m) Examples Colossal - -8 1,001+ Imperial Star Destroyer, Mon Calamari star cruiser Gagantuan - -4 501-1,000 Assault frigate Huge - -2 251-500 Nebulon-B escort frigate large - -1 101-250 Corellian corvette, bulk freighter Medium-size - +0 51-100 Medium-size transport Small Colossal +1 21-50 Light freighter, Imperial customs light cruiser Tiny Gargantuan +2 11-20 X-wing starfighter, Sith war droid Siminutive Huge +4 6-10 TIE fighter, rancor Fine Large +8 25-5 Missile, escape pod, airspeeder, wampa Medium-size +12 1.21-2.4 Human, Arakyd Viper Series probe droid Small +16 0.61-1.2 Ewok, R2 Series astromech droid Tiny +20 0.31-0.6 Ysalamiri, Imperial Mark IV Series patrol droid Diminutive +24 0.1-0.3 Sand tick, Marksman-H training remote Fine +28 less than 0.1 Stingfly
+| Starship Size | Character/Vehicle Size | Modifier | Size (m) | Examples |
+| --- | --- | --- | --- | --- |
+| Colossal | — | −8 | 1,001+ | Imperial Star Destroyer, Mon Calamari star cruiser |
+| Gargantuan | — | −4 | 501–1,000 | Assault frigate |
+| Huge | — | −2 | 251–500 | Nebulon-B escort frigate |
+| Large | — | −1 | 101–250 | Corellian corvette, bulk freighter |
+| Medium-size | — | +0 | 51–100 | Medium-size transport |
+| Small | Colossal | +1 | 21–50 | Light freighter, Imperial customs light cruiser |
+| Tiny | Gargantuan | +2 | 11–20 | X-wing starfighter, Sith war droid |
+| Diminutive | Huge | +4 | 6–10 | TIE fighter, rancor |
+| Fine | Large | +8 | 2.5–5 | Missile, escape pod, airspeeder, wampa |
+| — | Medium-size | +12 | 1.21–2.4 | Human, Arakyd Viper Series probe droid |
+| — | Small | +16 | 0.61–1.2 | Ewok, R2 Series astromech droid |
+| — | Tiny | +20 | 0.31–0.6 | Ysalamiri, Imperial Mark IV Series patrol droid |
+| — | Diminutive | +24 | 0.1–0.3 | Sand tick, Marksman-H training remote |
+| — | Fine | +28 | less than 0.1 | Stingfly |
 
 <!-- page 213 -->
 
-4 “ “
-
-Flying Defensively Flying defensively grants a +2 dodge bonus to the ship's Defense and applies a -4 penalty on attack rolls. A pilot can also choose to use full defense, which grants a +4 dodge bonus to Defense but does not allow the pilot to attack (gunners suffer a -8 penalty on attack rolls). These modifiers last until the pilot’s next round of actions. The dodge bonuses increase if the pilot has 6 or more ranks in the Pilot skill and the appropriate Starship Operation feat (+3 dodge bonus for fighting defensively, +6 dodge bonus for full defense)
+## Flying defensively grants a +2 dodge bonus to the ship's Defense and applies a -4 penalty on attack rolls. A pilot can also choose to use full defense, which grants a +4 dodge bonus to Defense but does not allow the pilot to attack (gunners suffer a -8 penalty on attack rolls). These modifiers last until the pilot’s next round of actions. The dodge bonuses increase if the pilot has 6 or more ranks in the Pilot skill and the appropriate Starship Operation feat (+3 dodge bonus for fighting defensively, +6 dodge bonus for full defense)
 
 ## Powering Weapons
 
 Before you can begin blasting your enemies to space dust, you need to power up your ship's weapons. Starship weapons take time to charge before they can be fired. The following table describes the charging time of weapons based on ship size.
 
-Ship Size Huge/Gargantuan/Colossal Small/Medium-size/Large Fine/Diminutive/Tiny
-
-Time to Power Up Weapons Full round
-
-Move action
-
-Free action
+| Ship Size | Time to Power Up Weapons |
+|-----------|--------------------------|
+| Huge/Gargantuan/Colossal | Full round |
+| Small/Medium-size/Large | Move action |
+| Fine/Diminutive/Tiny | Free action |
 
 ## Raising Shields
 
-Starship shields take less time to ready than weapons, but the delay can still be costly. Note that the damage reduction of shields applies as soon as the shields are activated, even though the full protection of the shields might not be avail able immediately, The following table describes the charging time of shields based on the size of the ship.
+Starship shields take less time to ready than weapons, but the delay can still be costly. Note that the damage reduction of shields applies as soon as the shields are activated, even though the full protection of the shields might not be available immediately. The following table describes the charging time of shields based on the size of the ship.
 
-Ship Size Time to Power Up Shields Colossal Full round Large/Huge/Gargantuan
+| Ship Size | Time to Power Up Shields |
+|-----------|--------------------------|
+| Colossal | Full round |
+| Large/Huge/Gargantuan | Move action |
+| Fine/Diminutive/Tiny/Small/Medium-size | Free action |
 
-Fine/Diminutive/Tiny/Small/Medium-size
+## Making Attack Rolls
 
-Move action Free action
+Firing a starship weapon requires an attack action and uses the pilot’s or gunner’s base ranged attack value (including Dexterity modifier). Unless one has the proper Starship Operation feat (starfighter, space transport, or capital ship), a -4 penalty applies to attacks with starship weapons.
 
-## Making Attack Ralls
-
-Firing a starship weapon requires an attack action and uses
-
-the pilot's or gunner’s base ranged attack value (including
-
-Dexterity modifier). Unless one has the proper Starship Operation feat (starfighter, space transport, or capital ship), a -4 penalty applies to attacks with starship weapons.
-
-A starship pilot who has 5 or more ranks in the Pilot skill gains a +2 synergy bonus when firing starship weapons, A fire-control computer grants an equipment bonus to atta rolls (determined by the computer's quality) with starship weapons enhanced by the computer.
+A starship pilot who has 5 or more ranks in the Pilot skill gains a +2 synergy bonus when firing starship weapons. A fire-control computer grants an equipment bonus to attack rolls (determined by the computer’s quality) with starship weapons enhanced by the computer.
 
 ## Full Attack Actions
 
@@ -645,45 +427,33 @@ A character can make multiple attacks with a single weapon, a group of fire-link
 
 twice. The pilot cannot fire the laser cannons once and
 
-launch one proton torpedo as a full attack action. Taking a full attack action is useful only if a character can make more than one attack, Characters with a base tacks (+6 oF higher) can take the full attack action to make multiple t. Characters with the Rapid Shot feat can use it to make an extra attack with
-
-attack bonus high enough to get multiple
-
-attacks during starship combi
-
-starship weapons.
+launch one proton torpedo as a full attack action. Taking a full attack action is useful only if a character can make more than one attack, Characters with a base attack bonus high enough to get multiple attacks (+6 or higher) can take the full attack action to make multiple attacks. Characters with the Rapid Shot feat can use it to make an extra attack with starship weapons during starship combat.
 
 <!-- page 214 -->
 
-Double lasers, adjoining weapons, and all weapons iescribed as blasters are considered multifire weapons. As such, they can be used to make two attacks as a full attack xtion, but each attack takes a -4 penalty (see Multifire, jage 165 in Chapter Eight).
+Double lasers, adjoining weapons, and all weapons described as blasters are considered multifire weapons. As such, they can be used to make two attacks as a full attack action, but each attack takes a -4 penalty (see Multifire, page 165 in Chapter Eight).
 
-Quadlasers are autofire weapons. They can be used to make two additional attacks as a full attack action, but tach attack takes a -6 penalty (see Autofire, page 165 in Chapter Eight). Quadlasers on capital ships can be set to atofire; this is an exception to the normal rule prohibiting pital weapons from making multiple attacks.
+Quadlasers are autofire weapons. They can be used to make two additional attacks as a full attack action, but each attack takes a -6 penalty (see Autofire, page 165 in Chapter Eight). Quadlasers on capital ships can be set to autofire; this is an exception to the normal rule prohibiting capital weapons from making multiple attacks.
 
-facing and Firing Arcs
+## Facing and Firing Arcs
 
-Al standard-mounted weapons point in one of four direc- ‘ions: forward, aft (rear), right, or left. Some weapons are jatially turret-mounted (giving them two adjacent arcs of fie) or fully turret-mounted (allowing them to fire in all
+All standard-mounted weapons point in one of four directions: forward, aft (rear), right, or left. Some weapons are partially turret-mounted (giving them two adjacent arcs of fire) or fully turret-mounted (allowing them to fire in all four directions). A weapon’s facing and arc of fire are given in the ship’s description.
 
-four directions). A weapon’s facing and arc of fire are given inthe ship's description.
+With big ships, the part of the ship that includes a given fire arc might be 2 or more squares wide. When determining range or firing at point-blank range, count the number of weapons included in a given fire arc and divide by the number of squares the ship has in that fire arc to determine how many weapons are actually in a given square on a ship, and thus how much of the ship’s firing actually comes from that square.
 
-With big ships, the part of the ship that includes a given freare might be 2 or more squares wide. When determining ‘ange or firing at point-blank range, count the number of weapons included in a given fire arc and divide by the umber of squares the ship has in that fire arc to determine ow many weapons are actually in a given square on a ship, ind thus how much of the ship’s firing actually comes from Hat square.
-
-The accompanying diagrams illustrate the normal and agonal firing arcs for ships that occupy a single square
-
-and larger ships that occupy multiple squares.
+The accompanying diagrams illustrate the normal and diagonal firing arcs for ships that occupy a single square and larger ships that occupy multiple squares.
 
 ## Using Cover
 
-ier a pilot or gunner fires a ship’s weapons, objects or sips in the way can provide cover for the target, which gants a bonus to a target's Defense. The more cover, the Ierater the bonus.
+When a pilot or gunner fires a ship’s weapons, objects or ships in the way can provide cover for the target, which grants a bonus to a target’s Defense. The more cover, the greater the bonus.
 
-To determine whether a target gets a cover bonus to Ifense, draw an imaginary line from the center of the
-
-quare from which the attacker is firing to the center of the
+To determine whether a target gets a cover bonus to Defense, draw an imaginary line from the center of the square from which the attacker is firing to the center of the
 
 target’s square. (When the target occupies more than one square, the attacker must declare which square he or she is attacking.) Each interceding square that includes an object— anything from a ship to an asteroid to a planet—provides some degree of cover for the target, making the shot more difficult. Table 11-7: Starship Cover gives cover bonuses based on the size of the interceding objects. This cover bonus stacks with any bonus provided by movement. When multiple obstacles occupy the same square, apply the cover bonus of the largest obstacle.
 
 When firing at a target occupying the same square as an obstacle, the cover bonus for the obstacle applies. Obstacles in the same square as the attacking ship do not provide cover to the target.
 
-**Table 1-7: Starship Cover**
+**Table 11-7: Starship Cover**
 
 | Cover Size (Target's)  | Defense Bonus |
 | ---------------------- | ------------- |
@@ -699,10 +469,6 @@ Enormous ships such as Star Destroyers let other ships provide cover for them. H
 When the attack roll that would have hit the target (had it not been protected) is higher than the Defense of the covering ship or obstacle, it is struck instead. If a ship is using more than one ship or object for cover, start with the cover closest to the target vessel and compare the attack roll to its Defense. If the roll is sufficient to hit, apply the damage to the cover. If not, move outward to the next distant ship or obstacle, and repeat this process until either a piece of cover is struck or all the cover has been missed.
 
 If the object providing cover is a ship, and the pilot is using a dodge ability (such as Starfighter Dodge), the effect
-
-Nn oc]
-
-“i 4 "i ae u vA)
 
 <!-- page 215 -->
 
@@ -741,7 +507,7 @@ bonus to the attack roll, to a maximum of +4 for a five weapon battery. If the a
 
 If an attack roll with battery fire results in a threat, use the above procedure to determine which shots are consid: ered critical hits (and thus deal hull damage instead of shield damage). Weapons in the battery that do not achi a critical hit are treated as ordinary shots.
 
-Fire-Linked Weapons Instead of weapon batteries, starfighters (and some vehic sometimes have fire-linked guns: groups of weapons that point and fire in the same direction. The effect is similar that of a single weapon (fired with a single attack roll) thal deals greater damage than either weapon alone. Each doubling of the number of fire-linked weapons (two, fous, eight, and so forth) adds one die of damage (before mull plication). Thus, if two weapons that normally deal 4d10x2) points of damage individually are fire-linked, they would attack together and deal 5d10x2 points of damage for the pair. If another pair of weapons were added to the link (bringing the total to four fire-linked weapons), the set would deal 6d10x2 points of damage.
+Fire-Linked Weapons Instead of weapon batteries, starfighters (and some vehic sometimes have fire-linked guns: groups of weapons that point and fire in the same direction. The effect is similar that of a single weapon (fired with a single attack roll) thal deals greater damage than either weapon alone. Each doubling of the number of fire-linked weapons (two, four, eight, and so forth) adds one die of damage (before multiplication). Thus, if two weapons that normally deal 4d10×2 points of damage individually are fire-linked, they would attack together and deal 5d10×2 points of damage for the pair. If another pair of weapons were added to the link (bringing the total to four fire-linked weapons), the set would deal 6d10×2 points of damage.
 
 Only identical weapons can be fire-linked.
 
@@ -751,9 +517,9 @@ Missile weapons (such as proton torpedoes and concussion missiles) function diff
 
 ## Firing a Missile Weapon
 
-A missile can be fired at any target within the attacking ship's sensor range and firing are (most starship missile weapons are restricted to the front firing arc).
+A missile can be fired at any target within the attacking ship's sensor range and firing arc (most starship missile weapons are restricted to the front firing arc).
 
-The attacker designates the missile’s target when the missile is deployed; the attacker cannot change the target after the missile has been fired. The missile moves 9 squares each action and cannot adjust its velocity for any reason. It takes the most direct route to its target and stops only when it hits its target, runs out of fuel (see below), or explodes. A missile acts on the same initiative count as when it was launched and begins acting as soon as it is fired. A missile follows the same movement rules as starships, except that it cannot perform stunts. A missile’s Pilot skill modifier is related to the quality of its guidance systen,
+The attacker designates the missile’s target when the missile is deployed; the attacker cannot change the target after the missile has been fired. The missile moves 9 squares each action and cannot adjust its velocity for any reason. It takes the most direct route to its target and stops only when it hits its target, runs out of fuel (see below), or explodes. A missile acts on the same initiative count as when it was launched and begins acting as soon as it is fired. A missile follows the same movement rules as starships, except that it cannot perform stunts. A missile’s Pilot skill modifier is related to the quality of its guidance system.
 
 Fire-Linked Missiles: If a starship has two missile launchers or torpedo launchers with the same facing, the pilot can fire a missile from each launcher simultaneously. Both missiles fire at the same time and on the same vectors Two missiles traveling in tandem need not make Pilot checks to avoid colliding with one another; in all other respects, they behave as other fire-linked weapons.
 
@@ -761,39 +527,35 @@ Resolving Missile Attacks: When a missile enters the same square as its target, 
 
 <!-- page 216 -->
 
-af the missile’s guidance system (expressed as a number anging from +5 to +20) determines the bonus to the attack ‘oll. If the attack fails, the missile carries on with the rest of iis movement (if any), though it cannot attempt to attack
+of the missile’s guidance system (expressed as a number ranging from +5 to +20) determines the bonus to the attack roll. If the attack fails, the missile carries on with the rest of its movement (if any), though it cannot attempt to attack the target again in the same action.
 
-ihe target again in the same action.
+Missile Fuel: A missile operates for 6 rounds before it runs out of fuel and burns out. It can make several attempts to hit its target in that time, though not more than one attempt each action.
 
-Missile Fuel: A missile operates for 6 rounds before it
+## Avoiding Missile Attacks
 
-wns out of fuel and burns out, It can make several attempts whit its target in that time, though not more than one atiempt each action.
+Any ship can attempt to destroy a missile before it reaches its target. All missile weapons have a Defense of 22 (this includes modifiers for size and speed) and 30 hull points, with no shields or damage reduction. A missile can suffer ion cannon damage just as a starship can.
 
-voiding Missile Attacks
-
-Any ship can attempt to destroy a missile before it reaches is target. All missile weapons have a Defense of 22 (this includes modifiers for size and speed) and 30 hull points, with no shields or damage reduction. A missile can suffer jn cannon damage just as a starship can.
-
-The most dangerous method of avoiding a missile is to iistract” it with another target. The pilot of the targeted sip can attempt to trick a missile’s guidance system into jursuing a different target by flying through a square occujitd by another object—an asteroid, another ship, or even jhe ship that fired the missile. Flying into an occupied quare first requires a Pilot check to avoid collision (see \woiding Hazards). Assuming the check succeeds, the pilots sfall vessels occupying the square must make opposed Pilot thecks. The starship or object with the lowest Pilot check feult becomes the new target of the missile. Asteroids and uher unpiloted obstacles have a Pilot check result of 10. ifthe newly acquired target is an unpiloted obstacle (an wieroid or a derelict ship, for example), the missile collides with the obstacle and detonates; no attack roll is required.
+The most dangerous method of avoiding a missile is to “distract” it with another target. The pilot of the targeted ship can attempt to trick a missile’s guidance system into pursuing a different target by flying through a square occupied by another object—an asteroid, another ship, or even the ship that fired the missile. Flying into an occupied square first requires a Pilot check to avoid collision (see Avoiding Hazards). Assuming the check succeeds, the pilots of all vessels occupying the square must make opposed Pilot checks. The starship or object with the lowest Pilot check result becomes the new target of the missile. Asteroids and other unpiloted obstacles have a Pilot check result of 10. If the newly acquired target is an unpiloted obstacle (an asteroid or a derelict ship, for example), the missile collides with the obstacle and detonates; no attack roll is required.
 
 ## Starship Damage
 
-{istarships have hull points, which are similiar to a characis wound points. Some ships also have shield points that must be depleted before any damage is dealt to the star- 4ip’s hull points. Most starships have damage reduction
+All starships have hull points, which are similar to a character’s wound points. Some ships also have shield points that must be depleted before any damage is dealt to the starship’s hull points. Most starships have damage reduction (DR) as well. Subtract the ship’s DR from any damage dealt to a ship’s shields or hull points. A ship’s damage reduction is roughly related to its size, with smaller vessels having DR 5 or 10 and the largest capital ships having DR as high as 60—even the best blaster pistol shot simply cannot damage the hull or shields of a Star Destroyer.
 
-DR) as well. Subtract the ship's DR from any damage dealt iba ship’s shields or hull points. A ship's damage reduction btoughly related to its size, with smaller vessels having DR W5or 10 and the largest capital ships having DR as high as j0-even the best blaster pistol shot simply cannot damage Ww hull or shields of a Star Destroyer.
+A starship reduced to 0 hull points is disabled and stops moving. Furthermore, all of its onboard systems shut down immediately. If a disabled starship takes 100 or more points of additional hull damage, it explodes, dealing `20d6` points of damage to anyone still aboard (Reflex save DC 20 for half damage). Anyone who survives the explosion must contend with the vacuum of space (see Suffocation and Drowning, page 287). If a starship explodes while ramming or colliding with another vessel, the other ship takes `20d6` points of damage.
 
-Astarship reduced to 0 hull points is disabled and stops joving. Furthermore, all of its onboard systems shut down jnmediately. If a disabled starship takes 100 or more points Hfadditional hull damage, it explodes, dealing `20d6` points. ifdamage to anyone still aboard (Reflex save DC 20 for bifdamage). Anyone who survives the explosion must contend with the vacuum of space (see Suffocation and owning, page 287). If a starship explodes while ramming scolliding with another vessel, the other ship takes `20d6` ints of damage.
+## Battle Damage
 
-fattle Damage
-
-then a starship is down to half of its total hull points, roll N20 each time it is hit thereafter. Add the result of this roll ithe damage dealt by the attack and refer to Table 11-9: tle Damage to determine which specific systems are imaged or destroyed, If the result clearly does not apply
+When a starship is down to half of its total hull points, roll 1d20 each time it is hit thereafter. Add the result of this roll to the damage dealt by the attack and refer to Table 11-9: Battle Damage to determine which specific systems are damaged or destroyed. If the result clearly does not apply
 
 (for example, the destruction of a system that a ship does Not possess or a system that has already been destroyed), use the damage result one category higher. For example, if a ship’s ion engines have already been destroyed and a roll on Table 11-9 yields another result of 71-75, use the result for 76-80 instead.
 
-Shield Facing A ship's shields cover all of the ares of the ship: front, rear, left, and right. Damage to a ship's shields is not applied separately to each individual facing, however; when a ship takes, damage, the shield generators automatically equalize the remaining shield points so that all ares are protected equally. Two situations can prevent this equalization effect. First, ifa shield are becomes inoperable due to damage (a result of 31-35 on Table 11-9), the shield generators do not count that arc when redistributing shield power. Second, if a starship crew desires more protection in any given arc, they can angle the shields accordingly.
+## Shield Facing
+
+A ship's shields cover all of the arcs of the ship: front, rear, left, and right. Damage to a ship's shields is not applied separately to each individual facing, however; when a ship takes damage, the shield generators automatically equalize the remaining shield points so that all arcs are protected equally. Two situations can prevent this equalization effect. First, if a shield arc becomes inoperable due to damage (a result of 31–35 on Table 11-9), the shield generators do not count that arc when redistributing shield power. Second, if a starship crew desires more protection in any given arc, they can angle the shields accordingly.
 
 ## Angling Shields
 
-Angling a ship's shields increases their defensive power against threats from one direction. Angling shields takes a great deal of power, preventing the ship’s shield generators from protecting against attacks from any other direction. Angling shields is sometimes referred to as putting shields to “double.” For example, an X-wing pilot might decide to put his shields to “double front” while making an attack run against a battery of turbolasers, ("Angling the front shields of a starfighter” and “putting the starfighter’s shields to double front” are two ways of describing the same tactic.) When a ship angles its shields, the shield rating is doubled against attacks coming from one arc (forward, right, left, or rear). However, the shields do not protect against attacks from any other are. If the ship suffers damage to its angled shields, halve the remaining shield points when redistributing shield power to cover all arcs again.
+Angling a ship’s shields increases their defensive power against threats from one direction. Angling shields takes a great deal of power, preventing the ship’s shield generators from protecting against attacks from any other direction. Angling shields is sometimes referred to as putting shields to “double.” For example, an X-wing pilot might decide to put his shields to “double front” while making an attack run against a battery of turbolasers. (“Angling the front shields of a starfighter” and “putting the starfighter’s shields to double front” are two ways of describing the same tactic.) When a ship angles its shields, the shield rating is doubled against attacks coming from one arc (forward, right, left, or rear). However, the shields do not protect against attacks from any other arc. If the ship suffers damage to its angled shields, halve the remaining shield points when redistributing shield power to cover all arcs again.
 
 Example: A starfighter wing of X-wings makes an attack run on a Star Destroyer and the pilots angle their front shields to absorb damage from the capital ship's pointdefense guns, X-wings have 30 shield points normally, or 60
 
@@ -801,15 +563,14 @@ Example: A starfighter wing of X-wings makes an attack run on a Star Destroyer a
 
 Sublight drives put out a considerable amount of heat and radiation, which is one reason why repulsorlifts are preferable to ion engines when landing or taking off. The damage is relatively light for smaller ships, but getting behind larger ships at point blank range (occupying the same space on the map grid) can prove devastating. Each round a ship occupies the rear arc of another ship at point blank range, apply damage to the “tailing” ship as noted below.
 
-## Ship Size Damage Ship Size Damage
-
-Colossal 1od6 Medium-size `3d6` Gargantuan `8d6` Small `2d6` Huge `6d6` Tiny/Diminutive/Fine 146 Large `4d6`
-
-215 "0 al “a i i “
+| Ship Size | Damage | Ship Size | Damage |
+| --- | --- | --- | --- |
+| Colossal | `10d6` | Medium-size | `3d6` |
+| Gargantuan | `8d6` | Small | `2d6` |
+| Huge | `6d6` | Tiny/Diminutive/Fine | `1d6` |
+| Large | `4d6` | — | — |
 
 <!-- page 217 -->
-
-i “ i v “”
 
 **Table 11-9: Battle Damage**
 
@@ -867,13 +628,13 @@ Hull Damage: Lost hull points must be repaired manually A full hour of work is r
 
 A starship reduced to -10 hull points or less cannot be repaired.
 
-lon Weapons Jon weapons do not deal hull point damage. Instead, any hit by an ion cannon deals damage against a ship's systems,
+## Ion Weapons
+
+Ion weapons do not deal hull point damage. Instead, any hit by an ion cannon deals damage against a ship's systems, shorting them out. The ship cannot move, fire weapons, or perform stunts until the damage is repaired. Whenever an ion cannon deals damage, simply use the amount of damage dealt to determine the Repair check DC, as indicated on Table 11-11: Ion Damage.
 
 <!-- page 218 -->
 
-Hiorting them out. The ship cannot move, fire weapons, or perform stunts until the damage is repaired. Whenever an ion cannon deals damage, simply use the amount of damage dealt to determine the Repair check DC, as indisated on Table 11-11: lon Damage.
-
-**Table 11-11: lon Damage**
+**Table 11-11: Ion Damage**
 
 | Damage Effect                | Repair Check DC |
 | ---------------------------- | --------------- |
@@ -885,13 +646,9 @@ Hiorting them out. The ship cannot move, fire weapons, or perform stunts until t
 
 ## Tractor Beams
 
-Atractor beam does not deal damage to a target. Instead, it taps its target in place or pulls it toward or pushes it away jm the tractoring ship. Catching a ship or some other
+A tractor beam does not deal damage to a target. Instead, it traps its target in place or pulls it toward or pushes it away from the tractoring ship. Catching a ship or some other object in a tractor beam requires an attack roll, but the target receives no armor bonus to its Defense.
 
-shject in a tractor beam requires an attack roll, but the
-
-laget receives no armor bonus to its Defense.
-
-Asa move action, a tractor beam can pull a caught target joward itself or push it away a number of squares based on the size of the tractoring ship. The tractor beam does not juve to move its target the full given distance.
+As a move action, a tractor beam can pull a caught target toward itself or push it away a number of squares based on the size of the tractoring ship. The tractor beam does not have to move its target the full given distance.
 
 **Table 11-12: Tractor Beam Power**
 
@@ -903,27 +660,19 @@ Asa move action, a tractor beam can pull a caught target joward itself or push i
 | Large       | 5               | Fine       | 0               |
 | Medium-size | 4               | —          | —               |
 
-While caught in a tractor beam, a starship cannot move, iurform stunts, or change facing. Resisting or escaping a factor beam requires a successful Pilot check (see the ‘sbt/escape tractor beam stunt description). Attempting this Pilot check is a move action.
+While caught in a tractor beam, a starship cannot move, perform stunts, or change facing. Resisting or escaping a tractor beam requires a successful Pilot check (see the resist/escape tractor beam stunt description). Attempting this Pilot check is a move action.
 
 ## Starship Movement
 
-This section presents rules for moving starships while avoidfg obstacles that might cross one’s path—or evading
+This section presents rules for moving starships while avoiding obstacles that might cross one’s path—or evading pursuers. These rules are designed to strike a balance between fast-paced, cinematic action and turn-based movement.
 
-jusuers. These rules are designed to strike a balance
+## Not Just Starships!
 
-letween fast-paced, cinematic action and turn-based movement.
+The rules for starship maneuvers and combat also apply to airspeeders or similar atmospheric vehicles capable of changing altitude. Use these rules instead of the rules in Chapter Ten: Vehicles for resolving airspeeder combats and encounters between airspeeders and starships.
 
-Not Just Starships!
+## Using a Square Grid
 
-Ti rules for starship maneuvers and combat also apply to ispeeders or similar atmospheric vehicles capable of tnging altitude. Use these rules instead of the rules in Chapter Ten: Vehicles for resolving airspeeder combats and wcounters between airspeeders and starships.
-
-(sing a Square Grid
-
-Starship combat uses a square grid, with each I-inch
-
-ajuare representing an area of space 500 meters on a side. Tiys, a ship moving from one square to the next travels tala kilometer, Every ship is rated for its maximum
-
-‘peed in space, which is expressed as a number of squares mraction.
+Starship combat uses a square grid, with each 1-inch square representing an area of space 500 meters on a side. Thus, a ship moving from one square to the next travels half a kilometer. Every ship is rated for its maximum speed in space, which is expressed as a number of squares per action.
 
 Some capital ships take up 2 or more squares on the grid. Exactly how many squares such vessels occupy is noted in the ships’ descriptions at the end of this chapter. When moving such ships, always count the squares from the ship’s engine; when firing weapons, count the squares from the location of the weapon.
 
@@ -947,22 +696,7 @@ Death Star (see Climbs and Dives, below).
 
 ## Opening the Fight
 
-Most starship combats begin at extreme sensor range, though exceptions exist. For instance, if one side surprises the other, or if fighters are launched during combat, the bettle might erupt at a closer range. In most cases, the GM places all starship tokens at extreme range (21-40 squares apart), with opposing ships in each other's front are of fire.
-
-2: Starship moyes forward diagonally 2 squares.
-
-3: Starship slips diagonally | square (costs 3 squarbs).
-
-|: Starship moves
-forward 2 squares and turqs right
-
-45 degrees.
-
-- Mavement cast in squares
-
-~] 3
-
-4 “ Z “
+Most starship combats begin at extreme sensor range, though exceptions exist. For instance, if one side surprises the other, or if fighters are launched during combat, the battle might erupt at a closer range. In most cases, the GM places all starship tokens at extreme range (21–40 squares apart), with opposing ships in each other's front arc of fire.
 
 <!-- page 219 -->
 
@@ -986,15 +720,27 @@ Table 11-13: Starship Speeds shows how many squares a ship can move (as a move a
 
 At the beginning of a combat, the GM must decide how quickly GM-controlled vessels are moving. The default is the maximum speed of the slowest ship in the group (assuming they are ina group). When in doubt about a ship's speed at the start of combat, assume that a ship is moving the fewest number of squares possible for its speed category.
 
-**Table I-13: Starship Speeds** Speed Squares Per Defense Roll/Check Category Move Action Modifier Modifier Stationary 0 ~4 +08 Docking 1 -2 +0 Cruising 2-4 +0 =i Attack 5-8 +2 =e Ramming oF +4 -4
+**Table 11-13: Starship Speeds**
 
-4 stationary ship cannot make Pilot checks to perform stunts. Stationary: The ship is motionless. Docking Speed: The ship is moving very slowly. This speed is generally used during docking procedures.
+| Speed Category | Squares Per Move Action | Defense Modifier | Roll/Check Modifier |
+| --- | --- | --- | --- |
+| Stationary | 0 | −4 | +0 |
+| Docking | 1 | −2 | +0 |
+| Cruising | 2–4 | +0 | −1 |
+| Attack | 5–8 | +2 | −2 |
+| Ramming | 9+ | +4 | −4 |
 
-Cruising Speed: The ship is traveling at a normal eniis: ing speed. This is the maximum speed for ships of Huge size or larger, such as Imperial Star Destroyers and Mon Calamari cruisers.
+A stationary ship cannot make Pilot checks to perform stunts.
+
+Stationary: The ship is motionless.
+
+Docking Speed: The ship is moving very slowly. This speed is generally used during docking procedures.
+
+Cruising Speed: The ship is traveling at a normal cruising speed. This is the maximum speed for ships of Huge size or larger, such as Imperial Star Destroyers and Mon Calamari cruisers.
 
 Attack Speed: The ship is moving at combat speeds. Unless a ship has been heavily modified, only vessels of Large or lesser size can move at attack speed. This is the maximum speed for Y-wing fighters, stock YT-1300 freighters, and Corellian Corvettes, among other ships.
 
-Ramming Speed: The ship is traveling at the fastest sublight speed possible. Generally, only vessels of Small or lesser size can move at ramming speed. This is the maximum speed for X-wings and TIE fighters, Guardiqn class Custom cruisers, and similar ships. A-wing starfighters and the Millennium Falcon are at the uppet end of this range.
+Ramming Speed: The ship is traveling at the fastest sublight speed possible. Generally, only vessels of Small or lesser size can move at ramming speed. This is the maximum speed for X-wings and TIE fighters, Guardian-class Custom cruisers, and similar ships. A-wing starfighters and the Millennium Falcon are at the upper end of this range.
 
 Starship Maneuvers During starship combat, ships establish their positions and | relative proximity by moving around on the map grid. A ship's speed coupled with the pilot's skill determines hiow often, how far, and how nimbly a ship can move.
 
@@ -1004,44 +750,23 @@ The two kinds of starship movement are simple maneu= vers and stunts (complex ma
 
 Simple Maneuver: Simple maneuvers (moving forwarl, moving backward, slipping, tuming, and looping) allow a ship to move a specified number of squares on the map grid, as determined by its speed. Because simple maneuvers are easy to perform, they do not require Pilot skill checks, As a move action, a pilot can perform any number of
 
-## Starsh hip Maver
-
-% | ‘wows | : | eo o ; l i
-
-Move farward diagonally t 3 squares
-
-f 7 || Move baekward
-| G I squard
-- Mave babkward
-
-[dlagarrally square
-
-RX) avian pout in squat I,
-
 <!-- page 220 -->
 
-simple maneuvers provided that the total number of squares hoved does not exceed the ship’s current speed. For innce, an X-wing traveling at cruising speed ca ‘joe than 4 squares in a single move action. Stunt: Stunts are difficult and sometimes daring maneu- \wss that enable a pilot to change his ship’s heading or wientation at no movement cost. A stunt can be attempted 4:4 free action during the pilot's move action. Stunts always require Pilot checks. Apilot can attempt only one stunt per move action.
+simple maneuvers provided that the total number of squares moved does not exceed the ship’s current speed. For instance, an X-wing traveling at cruising speed cannot move more than 4 squares in a single move action.
 
-not move
+Stunt: Stunts are difficult and sometimes daring maneuvers that enable a pilot to change his ship’s heading or orientation at no movement cost. A stunt can be attempted as a free action during the pilot’s move action. Stunts always require Pilot checks. A pilot can attempt only one stunt per move action.
 
 ## Simple Maneuvers
 
-Plots can steer their ships across the map grid using simple aneuvers, moving a number of squares as dictated by the tip’s speed.
+Pilots can steer their ships across the map grid using simple maneuvers, moving a number of squares as dictated by the ship’s speed.
 
-forward
+## Forward
 
-fhing straight forward is a simple maneuver. The only decision
+Flying straight forward is a simple maneuver. The only decision required on the part of the pilot is how fast to go. A pilot can always choose to travel slower than his ship’s maximum speed.
 
-‘siuired on the part of the pilot is how fast to go. A pilot can
+A starship cannot combine forward and reverse movement in the same move action.
 
-Shays choose to travel slower than his ship's maximum speed.
-
-Astarship cannot combine forward and reverse movement le Same move action.
-
-| Diagonal |
-1]
-
-(9 [Movement ast in squares
+## Diagonal Movement
 
 Diagonal Movement: Moving diagonally (across the corner of a square) costs additional movement. The first diagonal move a starship makes during each action costs 1 square of movement. The second costs 2 squares of movement instead of 1. The third costs 1, and so on. Thus, every 2 squares of diagonal movement costs 3 squares of a ship's movement. See the accompanying diagram.
 
@@ -1085,11 +810,7 @@ movernent for each square traversed, while a dive maneuver (moving toward the pl
 
 ## Stunts
 
-Stunts are special maneuvers that allow a pilot to reorient his ship without expending any of the ship's movement. successful Pilot check. If this led by 10 or more, there is a chance that the
-
-Performing a stunt require
-
-check is pilot loses control of his ship (see Failed Stunts, below).
+Stunts are special maneuvers that allow a pilot to reorient his ship without expending any of the ship's movement. Performing a stunt requires a successful Pilot check. If this check is failed by 10 or more, there is a chance that the pilot loses control of his ship (see Failed Stunts, below).
 
 ## Quick Turn
 
@@ -1101,77 +822,35 @@ Failed Quick Turn: If a pilot fails a quick turn stunt while attempting a turn o
 
 ## Landing
 
-Landing a ship on a solid surface (such as a landing baye landing platform, or the ground) requires a Pilot check (Ut 20 +5 per size category larger than Medium-size, or -5 pet size category smaller than Medium-size), A pilot can take or take 20 on this check, if circumstances allow. The GM can increase the DC of the Pilot check to account for adverse conditions (a windstorm or a structurally unsound landing platform, for example)
+Landing a ship on a solid surface (such as a landing bay, landing platform, or the ground) requires a Pilot check (DC 20, +5 per size category larger than Medium-size, or −5 per size category smaller than Medium-size). A pilot can take 10 or take 20 on this check, if circumstances allow. The GM can increase the DC of the Pilot check to account for adverse conditions (a windstorm or a structurally unsound landing platform, for example).
 
-This stunt is best attempted at docking speed. A pilot who attempts to land at cruising, attack, or ramming spel takes a penalty on his skill check (either ~1, -2, or ~4, as noted on Table 11-13: Starship Speeds).
+This stunt is best attempted at docking speed. A pilot who attempts to land at cruising, attack, or ramming speed takes a penalty on his skill check (either −1, −2, or −4, as noted on Table 11-13: Starship Speeds).
 
 A ship that fails a landing stunt by 4 or less fails to land and hovers a meter or so above the surface. Failing the check by 5 or more indicates that the ship has hit the surface harder than intended and takes collision damage (see the Ramming and Collisions sidebar).
 
-Docking Generally, ships have no need to dock in space. Larger ships are self-sufficient, and smaller ships usually land in the docking bays of bigger ships. Personnel and materials are transferred in shuttles. However, sometimes a ship lacking its own shuttle needs to make transfers to a larger ship, Smaller vessels occasionally need to dock with one anothet In these circumstances, a docking stunt is required. Docking two ships is tricky, One of the ships must be stationary, and the other should be moving no faster than docking speed. If the
+## Docking
 
-ter vessel is moving faster than
-
-135 degrees right
+Generally, ships have no need to dock in space. Larger ships are self-sufficient, and smaller ships usually land in the docking bays of bigger ships. Personnel and materials are transferred in shuttles. However, sometimes a ship lacking its own shuttle needs to make transfers to a larger ship. Smaller vessels occasionally need to dock with one another. In these circumstances, a docking stunt is required. Docking two ships is tricky. One of the ships must be stationary, and the other should be moving no faster than docking speed.
 
 <!-- page 222 -->
 
-king speed, apply a penalty to the Pilot check noted in Table 11-13: Starship Speeds (-1 for uising speed, ~2 for attack speed, -4 for
+If the other vessel is moving faster than docking speed, apply a penalty to the Pilot check noted in Table 11-13: Starship Speeds (−1 for cruising speed, −2 for attack speed, −4 for ramming speed).
 
-amming speed).
+The two ships must occupy the same square on the map grid before they can attempt to dock. The pilot initiating the docking maneuver must succeed at a Pilot check (DC 13). If the docking ship is moving at docking speed, a failed check just means the ships haven't lined up properly, and the stunt can be attempted again during the pilot's next move action. At higher speeds, a check failed by 4 or less represents a failed attempt; a check failed by 5 or more indicates the ships have hit each other and have taken collision damage. When calculating damage from this collision, the ships are assumed to have a net speed of 1 (see the Ramming and Collisions sidebar).
 
-The two ships must occupy the same square the map grid before they can attempt to
+Some ships are equipped with inflatable docking collars coupled with tractor beams. With this equipment, a ship can attempt to force another ship to dock with it by hitting its target with a tractor beam and drawing it in. If the opposing ship is successfully drawn into the same space as the ship attempting this procedure and held there for a full round, the pilot of the docking ship can attempt a forced-dock stunt with a successful Pilot check (DC 18).
 
-ack, The pilot initiating the docking maneuver ust succeed at a Pilot check (DC 13). If the iocking ship is moving at docking speed, a failed jeck just means the ships haven't lined up
+## Strafing Runs
 
-perly, and the stunt can be attempted again wring the pilot's next move action. At higher
+A strafing run allows the pilot of a starfighter or space transport to skim the surface of a capital ship or a space station, reducing the chance of being hit by the capital ship’s or station’s defense fire. Strafing requires that the pilot move his ship into one of the squares occupied by the capital ship or space station. Due to their size and bulk, capital ships cannot perform strafing runs. A starfighter or space transport can also make strafing runs against installations on a planetary surface.
 
-peeds, a check failed by 4 or less represents a iled attempt; a check failed by 5 or more indiates the ships have hit each other and have
+As a pilot enters the target ship’s square or draws to within 10 meters of a planetary surface, he must succeed at a Pilot check (DC 10) to avoid colliding with the target (see the Ramming and Collisions sidebar, treating a planetary collision as a ramming attack against a Colossal target). A collision immediately aborts the strafing run.
 
-ken collision damage. When calculating
+If the pilot avoids collision, a second Pilot check must be made to determine whether the strafing run succeeds. The DC of the check depends on the size of the target: Colossal (DC 17), Gargantuan (DC 21), Huge (DC 23), or Large (DC 24). If the stunt is successful, the pilot’s starfighter or space transport flies so close to the target that only its point-defense weapons can attack.
 
-mage from this collision, the ships are assumed
+If the stunt fails, regardless of the size or location of the target, the pilot must immediately attempt
 
-have a net speed of 1 (see the Ramming and illisions sidebar),
-
-ships are equipped with inflatable dockig collars coupled with tractor beams. With this uipment, a ship can attempt to force another hip to dock with it by hitting its target with z tor beam and drawing it in. If the opposing hip is successfully drawn into the same space as ship attempting this procedure and held
-
-ve for a full round, the pilot of the docking tip can attempt a forced-dock stunt with a iecessful Pilot check (DC 18).
-
-Sirafing Runs \strafing run allows the pilot of a starfighter or
-
-ce transport to skim the surface of a capital
-
-: i) or a space station, reducing the chance of
-
-ng hit by the capital ship’s or station’s defene fire, Strafing requires that the pilot move his pinto one of the squares occupied by the
-
-ipital ship or space station. Due to their size and
-
-uk, capital ships cannot perform stra
-
-y runs. Astarfighter or space transport can also make strafing runs against installations on a Janetary surface
-
-As a pilot enters the target ship’s square or
-
-ses to within 10 meters of a planetary surface, ihe must succeed at a Pilot check (DC 10) to id colliding with the target (see the Zimming and Collisions sidebar, treatir
-
-a plan ay collision as a ramming attack against a nlossal target). A collision immediately aborts he strafing run.
-
-if the pilot avoids collision, a second Pilot
-
-heck must be made to determine whether the fraling run succeeds. The DC of the check
-
-pends on the size of the target: Colossal
-
-iC 17), Gargantuan (DC 21), Huge (DC 23), or ange (DC 24). If the stunt is successful, the
-
-jat’s starfighter or space transport flies so close the target that only its point-defense weapons an attack.
-
-ifthe stunt fails, regardless of the size or location
-
-the target, the pilot must immediately atte
-
-é ¥e) RAMMING AND COLLISIONS 4
+## RAMMING AND COLLISIONS
 
 Collisions occur when a vessel loses control and strikes a solid object or when a ship's pilot decides to ram into an object on purpose.
 
@@ -1222,12 +901,6 @@ Finally, decide the collision’s damage multiplier based on the movement vector
 
 Once the damage has been determined, apply it to both ships (or objects) involved in the collisior
 
-N SS
-
-SAVLs
-
-Sd
-
 <!-- page 223 -->
 
 Pilot check to regain control, using the same DC as for the strafing run attempt. If the Pilot check to regain control succeeds, the ship carries on without mishap and can attempt another strafing run on its next action, Otherwise, the ship cannot attempt another strafing run until the pilot regains control. Note that if the failed Pilot check results in a change in pitch, the starfighter might collide with whatever it was strafing (see Failed Stunts, below).
@@ -1236,7 +909,7 @@ A ship of Small or lesser size disappears off the sensors of a ship of Huge or g
 
 Avoiding Hazards Sometimes space is littered with obstacles: asteroids, starship wreckage, and even other ships. A pilot can avoid such obstacles by flying around the square they occupy. If a pilot flies through a square that contains an obstacle, the pilot must succeed at a Pilot check to avoid the hazard. Avoiding a hazard does not require an action: The pilot makes a Pilot check to avoid each obstacle in her path. The obstacle’s size determines the DC for each Pilot check, though the GM can apply additional modifiers to the DC based on the obstacle’s speed and course. Use Table 11-17: Pilot Checks to Avoid Hazards to determine randomly the size, speed, and course of a particular obstacle.
 
-**Table 11-17: Pilot Checks ta Avoid Hazards**
+**Table 11-17: Pilot Checks to Avoid Hazards**
 
 | `d20` Roll | Obstacle Size* | Pilot Check DC |
 | ---------- | -------------- | -------------- |
@@ -1260,61 +933,37 @@ Failing a Pilot check to avoid a hazard almost always means that the starship ha
 
 ## Tight Loop
 
-An ordinary loop is costly in terms of movement (16 squares, With a successful Pilot check (DC 25), a starship pilot can execute a tight loop at no movement cost, placing the ship 1 square behind its starting position, facing the same ditection (as shown in the accompanying diagram). This stunt i: useful for shaking off pursuers (see Pursuit, below).
+An ordinary loop is costly in terms of movement (16 squares). With a successful Pilot check (DC 25), a starship pilot can execute a tight loop at no movement cost, placing the ship 1 square behind its starting position, facing the same direction (as shown in the accompanying diagram). This stunt is useful for shaking off pursuers (see Pursuit, below).
 
 Sometimes a pilot needs to reverse course but maintain relative gravity—that is, keep “down” on the ship the same as “down” in the prevailing gravity—to avoid straining the ship's inertial compensators. The necessary stunt is a halfloop that incorporates a roll.
 
-If the Pilot check to perform this stunt (DC 30) is successful, the ship ends up | square behind its starting position, facing the opposite direction (as shown in the accompanying diagram).
+If the Pilot check to perform this stunt (DC 30) is successful, the ship ends up 1 square behind its starting position, facing the opposite direction (as shown in the accompanying diagram).
 
 ## Pursuit
 
-Sometimes a pilot wants to get behind an opponent and follow his every move, or take advantage of a “blind spot.” To establish pursuit, a ship must be in the same square as the target, must haye the same facing, and must be traveling within one speed category of the target's current speed
-
-oe ! jompletes|a tight loop
-
-pe25y-ane
-
-Sompletes|a falf-loop (DC 30), ||
-
-@nding | square hind its Stat ing josition and |
-
-Bointed in'the |
-
-Qpposite direction. |
-
-Stunt-incorporates. |
-
-4 180-degtee roll.
-
-|
-
-|
+Sometimes a pilot wants to get behind an opponent and follow his every move, or take advantage of a “blind spot.” To establish pursuit, a ship must be in the same square as the target, must have the same facing, and must be traveling within one speed category of the target's current speed.
 
 <!-- page 224 -->
 
-ategory (attack, ramming, and so forth). A pilot cannot sstablish pursuit if the target ship hasn't moved yet in the ‘ound. The pilots of both ships make an opposed Pilot heck, The target gains a +5 circumstance bonus on his heck unless he’s completely unaware of the pursuer. If the pursuer wins the opposed Pilot check, she successfully stablishes pursuit.
+category (attack, ramming, and so forth). A pilot cannot establish pursuit if the target ship hasn’t moved yet in the round. The pilots of both ships make an opposed Pilot check. The target gains a +5 circumstance bonus on his check unless he’s completely unaware of the pursuer. If the pursuer wins the opposed Pilot check, she successfully establishes pursuit.
 
-Once a pilot has established pursuit, she becomes the jarget’s shadow: She acts on the same initiative count, moves at the speed of the ship being pursued, and must do
+Once a pilot has established pursuit, she becomes the target’s shadow: She acts on the same initiative count, moves at the speed of the ship being pursued, and must do everything the target does in order to maintain pursuit. (If the pursuer can’t match the target’s speed, it can’t maintain pursuit.) A pursuing ship moves at the same time as its target through exactly the same squares the target moves through—even squares including obstacles, if need be—and must perform all the same stunts and Pilot checks to avoid hazards. If a pursuer fails to execute the maneuvers taken by the target, the pursuit ends (even if the pursuer does not suffer any damage as a result of a failed check).
 
-thing the target does in order to maintain pursuit. (If ¢ pursuer can't match the target’s speed, it can’t maintain wrsuit.) A pursuing ship moves at the same time as its urget through exactly the same squares the target moves ough—even squares including obstacles, if need be—and must perform all the same stunts and Pilot checks to avoid hazards. If a pursuer fails to execute the maneuvers taken ly the target, the pursuit ends (even if the pursuer does not huffer any damage as a result of a failed check).
+Attack as a Free Action: After the target has declared his speed category for the round (which also determines the pursuer’s speed for the round), the pilot of the pursuing craft can make a single attack with one forward-firing weapon. All gunners with forward-firing weapons can act as normal. While pursuing a ship, a pilot or gunner ignores all speed modifiers to the pursued ship’s Defense.
 
-Attack as a Free Action: After the target has declared jis speed category for the round (which also determines the yursuer’s speed for the round), the pilot of the pursuing waft can make a single attack with one forward-firing arapon. All gunners with forward-firing weapons can act as sormal. While pursuing a ship, a pilot or gunner ignores all jeed modifiers to the pursued ship's Defense.
+Flanking: Similar to flanking in personal combat, two or more ships can “bracket” an enemy ship and thus increase their chances of successfully hitting it with an attack. Two or more ships that have established pursuit on the same target gain a +2 circumstance bonus on attacks against the pursued ship.
 
-Flanking: Similar to flanking in personal combat, two or ore ships can “bracket” an enemy ship and thus increase heir chances of successfully hitting it with an attack. Two amore ships that have established pursuit on the same lnget gain a +2 circumstance bonus on attacks against the jursued ship.
+Breaking off Pursuit: A pursuer can break off pursuit at any time by choosing a course different from that of his target.
 
-Breaking off Pursuit: A pursuer can break off pursuit at hiy time by choosing a course different from that of his get.
+Breaking off pursuit is a special delaying action. When the pursuer decides to break off pursuit, the pursuer’s initiative count automatically drops by 1; she no longer acts at the same time as her erstwhile target.
 
-Breaking off pursuit is a special delaying action. When fhe pursuer decides to break off pursuit, the pursuer’s initiaie count automatically drops by 1; she no longer acts at ihe same time as her erstwhile target.
+## Escape Pursuit
 
-{scape Pursuit
+To escape a pursuer, the pilot of the pursued ship must succeed at an opposed Pilot check. The pursuer gains a +5 circumstance bonus on the check. If the pursued pilot wins, he breaks the pursuit, and the pursuer no longer ignores the speed modifier to the pursued ship’s Defense. Whenever a ship escapes pursuit, its pursuer’s initiative count drops by 1; it no longer acts at the same time as its erstwhile target.
 
-J escape a pursuer, the pilot of the pursued ship must jicceed at an opposed Pilot check. The pursuer gains a +5 Heumstance bonus on the check. If the pursued pilot
+Example: Vuko (initiative count 17) is flying his YT-1300 freighter past an Imperial blockade when he attracts the attention of a pair of TIE fighters (initiative count 14). The TIEs chase Vuko’s ship, moving into the square behind the YT-1300 and attempting to establish pursuit.
 
-ins, he breaks the pursuit, and the pursuer no longer inores the speed modifier to the pursued ship’s Defense. iienever a ship escapes pursuit, its pursuer’s initiative unt drops by 1; it no longer acts at the same time as its isiwhile target.
-
-Example: Vuko (initiative count 17) is flying his YT-1300 jrighter past an Imperial blockade when he attracts the tention of a pair of TIE fighters (initiative count 14). The Es chase Vuko’s ship, moving into the square behind the 7-1300 and attempting to establish pursuit.
-
-fach TIE pilot attempts an opposed Pilot check against Huko. Vuko has a skill modifier of +10 to his Pilot checks; ie TIE pilots each have a +8 skill modifier. Vuko gains a +5 jcumstance bonus on his check to avoid pursuit and rolls a 2 for a result of 27 (12 + 10 + 5). One of the TIE pilots. nis a9, for a result of 17 (8 + 9) and the other rolls a 20, ira result of 28 (8 + 20).
+Each TIE pilot attempts an opposed Pilot check against Vuko. Vuko has a skill modifier of +10 to his Pilot checks; the TIE pilots each have a +8 skill modifier. Vuko gains a +5 circumstance bonus on his check to avoid pursuit and rolls a 12 for a result of 27 (12 + 10 + 5). One of the TIE pilots rolls a 9, for a result of 17 (8 + 9) and the other rolls a 20, for a result of 28 (8 + 20).
 
 The second TIE successfully pursues Vuko’s ship. The initiative count of this pilot changes to match Vuko’s initiative count (17); when Vuko acts, the second TIE pilot acts. The first TIE still acts on initiative count 14; if it can get in behind the YT-1300, it can make another attempt to establish pursuit. (If both TIEs establish pursuit, they each gain a +2 circumstance bonus on attacks against Vuko’s ship.)
 
@@ -1331,8 +980,6 @@ Forming a wing requires that the ships all occupy the same square, moving at the
 AGM can expedite space battles involving dozens of starfighters by using starfighter wings. Since wings are typically formed before battle begins, even lousy pilots can join by taking 20 on their Pilot checks. Each wing is treated as a single ship in most respects (see Starfighter Wings for details). Forming starfighter wings saves time when making attack rolls and Pilot checks. When attacks are made against a starfighter wing, assume the same ship is hit every time until it is destroyed. While not realistic, picking on one ship at a time helps keep a large and complicated space battle moving quickly.
 
 ‘A GM who wants to involve the players’ heroes in epic space battles might want to assign them to starfighter wings and allow each player to run one wing. While this prevents each player from using her character's Pilot skill, it allows him to assign damage to other ships before his own, increasing the character's chance of survival. Some players might be upset by these sorts of limitations. ‘As with any advanced rule, the GM might want to discuss it with his players before implementing it in a game.
-
-SdlIHSAvisS
 
 <!-- page 225 -->
 
@@ -1358,13 +1005,13 @@ As a move action, and with a successful Charisma check (DC 10), a commander can 
 
 Commanders with the ability to inspire confidence or coordinate (such as nobles) or those with the leadership class ability
 
-(such as officers) can use these abilities while in command d a ship.
+(such as officers) can use these abilities while in command of a ship.
 
 ## Countermanding Orders
 
-Sometimes when a commander gives orders, the crew members interpret them differently than intended. If the commander issued the orders as a free action, she can take a move action to countermand one crew station's actions-telling the crew member at that station more specifically what she had in mind. the commander exercises this option, the commander's player resolves the action for that station. For example, the commande tells the pilot to navigate along the edge of an asteroid field. The pilot declares that he will fly the ship well past the edge of the asteroid field, 2 squares away. The commander chooses to courtermand, taking control of the helm and moving the ship around the asteroids at the very edge of the field.
+Sometimes when a commander gives orders, the crew members interpret them differently than intended. If the commander issued the orders as a free action, she can take a move action to countermand one crew station's actions-telling the crew member at that station more specifically what she had in mind. the commander exercises this option, the commander's player resolves the action for that station. For example, the commander tells the pilot to navigate along the edge of an asteroid field. The pilot declares that he will fly the ship well past the edge of the asteroid field, 2 squares away. The commander chooses to countermand, taking control of the helm and moving the ship around the asteroids at the very edge of the field.
 
-Note that a crew station can deliberately choose to ignore a commander's orders rather than simply misinterpret them. The commander can still countermand, but the crew member manning the station might not like it. In the event that a crew member tries to prevent the commander from taking control of his station, a personal combat might occur—in which case, neither the commander nor the crew member might be in a pos! tion to operate that station. (If the station in question is the pilot's station, the ship travels forward in a straight line at the speed it traveled during the pilot’s previous action.)
+Note that a crew station can deliberately choose to ignore a commander's orders rather than simply misinterpret them. The commander can still countermand, but the crew member manning the station might not like it. In the event that a crew member tries to prevent the commander from taking control of his station, a personal combat might occur—in which case, neither the commander nor the crew member might be in a position to operate that station. (If the station in question is the pilot's station, the ship travels forward in a straight line at the speed it traveled during the pilot’s previous action.)
 
 ## Pilot
 
@@ -1393,17 +1040,13 @@ Sensor Operator A character operating a ship's sensors can:
 - Asamove action, grant a +2 bonus to one gunner’s attack
   roll with a successful Computer Use check (DC 20).
 
-€ngineer
+## Engineer
 
 An engineer can reroute power or jury-rig a damaged system. Most jury-rigs require at least a full-round action. Rerouting power requires that the character disconnect power from one system as a move action, then divert it to the new system as
 
-continued on page 225
-
 <!-- page 226 -->
 
-continued from page 224
-
-J} another move action. The character chooses which power system to disconnect, then chooses, on her next action, which system gets the additional power. (Both can be accomplished in the same round using two move actions.) In some cases, disconnecting power merely reduces the capability of a given system. In others, it can shut the system off outright.
+another move action. The character chooses which power system to disconnect, then chooses, on her next action, which system gets the additional power. (Both can be accomplished in the same round using two move actions.) In some cases, disconnecting power merely reduces the capability of a given system. In others, it can shut the system off outright.
 
 The task of tending a ship’s engines is frequently fulfilled by droids—particularly astromech droids, who are designed for this exact sort of thing.
 
@@ -1434,19 +1077,6 @@ Remember that jury-rigged repairs only last until the end of the scene or encoun
 
 I's possible to repair one system on a ship by reducing the utility of or disabling a different system. The first step in rerouting power is to take the power away from the system being sacrificed. A character acting as engineer can get extra power by doing one of the following:
 
-Astarfighter wing operates like a single s
-
-jects. The initiative count of all the pilots in th
-
-er wing drops to the lowest initiativ
-
-ats in the wing (this does not allow a ship t
-
-B actedita act-acain) clhestafighte
-
-t Pilot check result when attempting a stu
-
-—_—
 
 - Asa move action, reduce the ship’s maximum speed by
   one square with a successful Repair check (DC 10).   As a move action, decrease the ship’s shield points by 20   with a successful Repair check (DC 10).   As a move action, disable the ship's hyperdrive with a   successful Repair check (DC 15).   ‘As a move action, disable one of a ship's weapons with a   successful Repair check (DC 15).   As a move action, disable the ship's minor systems (internal   power, life support, and so on) with a successful Repair   check (DC 15).
@@ -1484,23 +1114,13 @@ G@ Asa move action, adjust the angle of the ship's shields (see Angling Shields,
 
 15-19 `1d4` `2d6` `2d10`
 
-20-24 244 36 4di0
+20-24 | `2d4` | `3d6` | `4d10`
 
-25-29 `2d4` `4d6` `7d10` `3d4` `5d6` `10d10` =
+25-29 | `2d4` | `4d6` | `7d10`
 
-wing succeed. If the
-
-wing after failing a
-
-acking, each st
-
-N NS
-
-“ al Al “ ar u “
+30+ | `3d4` | `5d6` | `10d10`
 
 <!-- page 227 -->
-
-“ uf “ u “
 
 fire like a battery. When a wing combines fire, a single starfighter is designated as the primary shooter. Only this ship’s attack bonus is used, but it gains a +1 circumstance bonus for each additional ship in the wing. On a successful hit, resolve damage as with battery fire (see Weapon Batteries, page 214), using the primary shooter's weapon as the default weapon. No more weapons can hit than are
 
@@ -1516,15 +1136,13 @@ If the pilot rolls high enough to resist the tractor beam, he maintains his curr
 
 escape, his ship breaks free and can act normally. Resisting
 
-or escaping a tractor beam is a free action that can be attempting during the pilot's move action.
+or escaping a tractor beam is a free action that can be attempted during the pilot's move action.
 
-Failed Stunts A failed Pilot check on a stunt means the pilot has fai execute the stunt. If the Pilot check fails by 10 or more, the pilot might also lose control of the ship. (A pilot cannot los control due to a failed opposed check.) The pilot must male another Pilot check against the same DC as the original (failed) check. If the second check succeeds, the pilot main; tains control of the vessel, but still fails to accomplish the desired stunt. If the second check fails, the pilot has lost control of her vessel. Compare the pilot's measure of failure (how much she missed the second check by) to Table 11-18: Loss of Starship Control to determine the effect Table 11-18 also shows the penalty that applies to any skill checks made by crew members of an out-of-control ship (including pilots, gunners, and anyone else operating ship systems) as well as the penalty that applies to the ships
+## Failed Stunts
 
-ed to
+A failed Pilot check on a stunt means the pilot has failed to execute the stunt. If the Pilot check fails by 10 or more, the pilot might also lose control of the ship. (A pilot cannot lose control due to a failed opposed check.) The pilot must make another Pilot check against the same DC as the original (failed) check. If the second check succeeds, the pilot maintains control of the vessel, but still fails to accomplish the desired stunt. If the second check fails, the pilot has lost control of her vessel. Compare the pilot's measure of failure (how much she missed the second check by) to Table 11-18: Loss of Starship Control to determine the effect. Table 11-18 also shows the penalty that applies to any skill checks made by crew members of an out-of-control ship (including pilots, gunners, and anyone else operating ship systems) as well as the penalty that applies to the ship's Defense for as long as the ship remains out of control.
 
-Defense for as long as the ship remains out of control.
-
-Regaining Control: In order for a pilot to regain contra of his ship after a failed stunt, he must succeed at a Pilot check against the same DC as the check he failed when he lost control.
+Regaining Control: In order for a pilot to regain control of his ship after a failed stunt, he must succeed at a Pilot check against the same DC as the check he failed when he lost control.
 
 **Table 11-18: Loss of Starship Control**
 
@@ -1535,66 +1153,40 @@ Regaining Control: In order for a pilot to regain contra of his ship after a fai
 | 11–15 | Yaw | −6 | −3 |
 | 16–20 | Spin | −8 | −4 |
 | 21+ | Tumble | −10 | −5 |
-While a ship is out of control, the pilot cannot perform any neuvers or stunts; the ship moves in the manner simple ni dictated by the Effect column on Table 11-18. Skew: The ship is marginally out of control, skewing to one side or spinning slightly. It continues to move in the same direction and at the same speed it traveled during the pilot’s previous action. Reposition the ship according} Pitch: The ship’s nose pitches up and down randomly. For the remainder of its action, the ship continues to move in the same direction and at the same speed it traveled during the pilot’s previous action. Roll `1d6` to determine the ship's -3, up; 4-6, down. A ship pointed up is climbing, and a ship pointed down is diving. In space, a ship's attitude attitude: doesn't matter, but if the ship is flying near a planet or other large object, its attitude can make a difference. Yaw: The ship turns at a 45-degree angle to its original position each action until the pilot regains control. On this action, it continues to move in the same direction and at the same speed it traveled during the pilot’s previous action Roll `1d6` to determine the direction: 1-3, left; 4-6, right. For the remainder of its action, it continues to move in the same direction and at the same speed it traveled during the pilot’s previous action. Spin: The ship goes wildly out of control but continues in the same direction it was heading. For the remainder of its action, the ship continues to move in the same direction and at the same speed it traveled during the pilot's previous
+While a ship is out of control, the pilot cannot perform any maneuvers or stunts; the ship moves in the manner dictated by the Effect column on Table 11-18.
+
+Skew: The ship is marginally out of control, skewing to one side or spinning slightly. It continues to move in the same direction and at the same speed it traveled during the pilot’s previous action. Reposition the ship accordingly.
+
+Pitch: The ship’s nose pitches up and down randomly. For the remainder of its action, the ship continues to move in the same direction and at the same speed it traveled during the pilot’s previous action. Roll `1d6` to determine the ship’s attitude: 1–3, up; 4–6, down. A ship pointed up is climbing, and a ship pointed down is diving. In space, a ship’s attitude doesn’t matter, but if the ship is flying near a planet or other large object, its attitude can make a difference.
+
+Yaw: The ship turns at a 45-degree angle to its original position each action until the pilot regains control. On this action, it continues to move in the same direction and at the same speed it traveled during the pilot’s previous action. Roll `1d6` to determine the direction: 1–3, left; 4–6, right. For the remainder of its action, it continues to move in the same direction and at the same speed it traveled during the pilot’s previous action.
+
+Spin: The ship goes wildly out of control but continues in the same direction it was heading. For the remainder of its action, the ship continues to move in the same direction and at the same speed it traveled during the pilot’s previous
 <!-- page 228 -->
 
-ition. Roll `1d8` to determine its facing: I, front ight; 3, right; 4, right r front left. Reposition
+action. Roll `1d8` to determine its facing: 1, front; 2, front right; 3, right; 4, right rear; 5, rear; 6, left rear; 7, left; 8, front left. Reposition the ship accordingly.
 
-ar; 5, rear; 6, left rear
-
-1€ ship accordingly Tumble: The ship rolls, pitches, spins, and yaws all at
-
-ance While simultaneously moving along its last vector. For
-
-the remainder of its action, the ship continues to mov
-
-the same direction and at the same speed it traveled during
-
-{he pilot’s previous action. Roll `1d8` to deterr
-
-s facing,
-
-s for a spin. Then roll `1d6` to determine its z
-
-ith a pitch result. Make both of these rolls each action
-
-the pilot regains control.
+Tumble: The ship rolls, pitches, spins, and yaws all at once while simultaneously moving along its last vector. For the remainder of its action, the ship continues to move in the same direction and at the same speed it traveled during the pilot’s previous action. Roll `1d8` to determine its facing, as for a spin. Then roll `1d6` to determine its attitude, as with a pitch result. Make both of these rolls each action until the pilot regains control.
 
 ## Starship Descriptions
 
-his section of the chapter contains descriptions of a variety starships, from starfighters to capital ships. This is by nc cans an exhaustive survey of the starships of the Star
-
-Wars universe, but instead a representative sample of the
-
-ypes of vessels that one might encounter in the ga
-
-ant to create new ships, use the existing desc
-
-base and extrapolate from
+This section of the chapter contains descriptions of a variety of starships, from starfighters to capital ships. This is by no means an exhaustive survey of the starships of the Star Wars universe, but instead a representative sample of the types of vessels that one might encounter in the game. If you want to create new ships, use the existing descriptions as a base and extrapolate from them.
 
 ## Starfighters
 
-larfighters, sometimes known as “snub fighters,” are the
+Starfighters, sometimes known as “snub fighters,” are the ships of choice for hotshot pilots. Equipped with strong, light engines and quick, responsive controls, they can zip in and out of tight spots before most heavier craft can react. Their weaponry is light, and their armor and shields are minimal compared to those of larger ships, but a starfighter can do as much damage as a capital ship with gun turrets.
 
-ips of choice for hotshot pilots. Equipped with strong,
+## X-Wing Fighter
 
-ght engines and quick, responsive controls, they can zip ind out of tight spots before most heavier craft can react heir weaponry is light, and their armor and shields are
+Often hailed as the best starfighter ever made, the T-65B X-wing was developed in secret when the Incom Corporation began to support the Rebel Alliance. With impressive firepower for a ship of its size, sturdy shields, and even a hyperdrive, the X-wing is as agile as an Imperial TIE fighter and far more versatile. It is equipped with a topside astromech bay, letting the pilot plug in an R2 droid to handle targeting, damage control, and hyperspace calculation.
 
-ninimal compared to those of larger ships, but
+**Incom T-65B X-wing**
 
-a starfighter can do as much damage as a capital ship
+Class: Starfighter Crew: 1 (Skilled +4) Size: Tiny (12.5 m long) Initiative: +6 (+2 size, +4 crew) Hyperdrive: x1 Maneuver: +6 (+2 size, +4 crew) Passengers: None Defense: 22 (+2 size, +10 armor) Cargo Capacity: 110 kg Shield Points: 50 (DR 10) Consumables: 1 week Hull Points: 120 (DR 10) Cost: 149,999 (new), 65,000 (used) Maximum Speed in Space: Ramming (10 squares/action) Atmospheric Speed: 1,050 km/h (18 squares/action)
 
-with gun turrets
+Weapon: Laser cannons (4 fire-linked); Fire Arc: Front; Attack Bonus: +10 (+2 size, +2 crew, +6 fire control); Damage: 6d10×2; Range Modifiers: See Table 11-8.
 
-‘Wing Fighter
-
-iften hailed as the best starfighter ever made, the T-65B ving was developed in secret when the Incom Corpora ion began to support the Rebel Alliance. With impressive
-
-irepower for a ship of its size, sturdy shields, and even a
-
-yperdrive, the X-wing is as agile as an Imp TIE hter and far more versatile. It is equipped with a apside astromech bay, letting the pilot plug in an R2 oid to handle targeting, damage control, and hyper pace calculation. eam T-B5B X-wing ss; Starfighter Crew Size: Tiny (12.5 m long) Initiative: +6 (+2 size, +4 crew) perdrive Maneuver jassengers: None Defense: 22 (+2 size, +10 armor) argo Capacity: 110 k Shield Points insumables: 1 week Hull Points: 120 (DR 1 eats Geis 900 faeeeh laximum Speed in Space: Ramming (10 squares/actio imospheric Speed: 1,050 km/h (18 squ: lapon: Laser cannons (4 fire-linked); Fire Arc: Front; Attack Bonus: +10 (+2 size, +2 crew, +6 fire control); Damage 6d10x2; Range Modifiers: See Table 11 \kapon: Proton torpedo launchers (2, 3 missiles each); Fire Arc
-
-front; Damage: 9d10x2; Missile Quality: Ordinary (+10)
+Weapon: Proton torpedo launchers (2, 3 missiles each); Fire Arc: Front; Damage: 9d10×2; Missile Quality: Ordinary (+10).
 
 The starship descriptions in this chapter use the following terms.
 
@@ -1648,25 +1240,15 @@ Like the X-wing, the Y-wing provides a topside port to allow an astromech droid 
 
 ## Koensayr BTL-S3 Y-wing
 
-Class: Starfighte Crew Sk ‘ Size: Tiny (16 m long) Initiative: +6 (+2 size, +4 crew) Hyperdrive Maneuver: + 4 crew) Passengers: None Defense: 22 (+2 size, +10 armor) Cargo Capacity: 110 kg Shield Points: 50 (DR 10) Consumables: 1 week Hull Points: 120 (DR 10) Maximum Speed in Space: Attack (8 squares/action) Atmospheric Speed: 1,000 km/h (17 squares/a
+Class: Starfighter Crew: 1 or 2 (Skilled +4) Size: Tiny (16 m long) Initiative: +6 (+2 size, +4 crew) Hyperdrive: x1 Maneuver: +6 (+2 size, +4 crew) Passengers: None Defense: 22 (+2 size, +10 armor) Cargo Capacity: 110 kg Shield Points: 50 (DR 10) Consumables: 1 week Hull Points: 120 (DR 10) Maximum Speed in Space: Attack (8 squares/action) Atmospheric Speed: 1,000 km/h (17 squares/action)
 
-Weapon: Laser cannons (2 fire-linked); Fire Are: Front; Attack
+Weapon: Laser cannons (2 fire-linked); Fire Arc: Front; Attack Bonus: +8 (+2 size, +2 crew, +4 fire control); Damage: 5d10×2; Range Modifiers: See Table 11-8.
 
-Bonus: +8 (+2 size, +2 crew, +4 fire control); Damage: 5d10x2:
+Weapon: Proton torpedo launchers (2, 8 missiles each); Fire Arc: Front; Damage: 9d10×2; Missile Quality: Marginal (+5).
 
-Table 11-8.
+Weapon: Light ion cannons (2 fire-linked); Fire Arc: Turret (Front); Attack Bonus: +10 (+2 size, +2 crew, +6 fire control*); Damage: 4d10×2; Range Modifiers: See Table 11-8.
 
-Range Modifiers: See W
-
-‘apon: Proton torpedo launchers (2, 8 missiles each); Fire Arc Front; Damage: 9d10x2; Missile Quality: Marginal (+5) Weapon: Light ion cannons (2 fire-linked); Fire Are Attack Bonus: +10 (+2 size 4d 102; Range Modifiers: See Table 11-8.
-
-Turret (Front) +2 crew, +6 fire control”)
-
-## Damag
-
-*the: reduces the fire control bonus from +6 to +2.
-
-1uns can be fixed to forward-iring to be operated by the pilot. Doing this
+*Fixing the guns to forward-firing to be operated by the pilot reduces the fire control bonus from +6 to +2.
 
 ## TIE Fighter
 
@@ -1674,19 +1256,17 @@ Cheap and efficient, TIE fighters are not so much feared for their capabilities 
 
 promoted to a more advanced TIE variant.
 
-Class: Si nter Crew: 1 (Skilled +4) Size: Diminutive (6.3 m long) Initiative: +8 (+4 size, +4 crew) Hyperdrive: Noni Maneuver c
+Class: Starfighter Crew: 1 (Skilled +4) Size: Diminutive (6.3 m long) Initiative: +8 (+4 size, +4 crew) Hyperdrive: None Maneuver: +8 (+4 size, +4 crew)
 
 Passengers: None Defense: 24 (+4 size, +10 armor)
 
-Shield Points: Nor Hull Points: 60 (DR 10)
+Shield Points: None Hull Points: 60 (DR 10)
 
-Cost; 60,000 (new), 100 (used)
+Cost: 60,000 (new), 100 (used)
 
-Cargo Capacity: ¢ Consumables: 2 days Maximum Speed in Space: Ramming (10 squares/action) Atmospheric Speed: 1,200 km/h (20 squares/actior Weapon: Laser cannons (2 fire-linked); Fire Are: Front; Attack Bonus: 5d10x2
+Cargo Capacity: None Consumables: 2 days Maximum Speed in Space: Ramming (10 squares/action) Atmospheric Speed: 1,200 km/h (20 squares/action)
 
-+10 (+4 size, +2 crew, +4 fire control); Dam
-
-ge:
+Weapon: Laser cannons (2 fire-linked); Fire Arc: Front; Attack Bonus: +10 (+4 size, +2 crew, +4 fire control); Damage: 5d10×2.
 
 Z-95 Headhunter
 
@@ -1696,7 +1276,9 @@ Republic, Z-95s are usually only found on backwater worl
 
 during the Rebellion era
 
-Incom/Subpro Z-35 Headhunter Class: Starfighter Crew: | (Skilled +4) Size: Tiny (11.8 m long) Initiative: +6 (+2 size, +4 cre) Hyperdrive: x1 Maneuver: +6 (+2 size, +4 cr Passengers: None Defense: 22 (+2 size, +10 arma) Shield Points: 30 (DR 10)
+**Incom/Subpro Z-95 Headhunter**
+
+Class: Starfighter Crew: 1 (Skilled +4) Size: Tiny (11.8 m long) Initiative: +6 (+2 size, +4 crew) Hyperdrive: x1 Maneuver: +6 (+2 size, +4 crew) Passengers: None Defense: 22 (+2 size, +10 armor) Shield Points: 30 (DR 10)
 
 Cost: 80,000 (new), 45,000 (used)
 
@@ -1706,13 +1288,9 @@ Consumables: 1 day
 
 Maximum Speed in Space: Ramming (9 squares/action) Atmospheric Speed: 1,150 km/h (19 squares/action)
 
-Weapon: Triple blasters (2 fire-linked); Fire Arc: Front; Attack
+Weapon: Triple blasters (2 fire-linked); Fire Arc: Front; Attack Bonus: +6 (+2 size, +2 crew, +2 fire control); Damage: 3d10×2; Range Modifiers: See Table 11-8.
 
-Bonus: +6 (+2 size, +2 crew, +2 fire control); Damage: 3410 Range Modifiers: See Table 11-8
-
-Weapon: Concussion missile launcher (6 Damage: 7d 10x2; Missile Quality: Ordinary (+10)
-
-issiles); Fire Are: Pron
+Weapon: Concussion missile launcher (6 missiles); Fire Arc: Front; Damage: 7d10×2; Missile Quality: Ordinary (+10).
 
 Droid Starfighter “Crewed” only by a droid brain—which is in turn controlled by a remote processor—the droid starfighter is a completely mechanized vessel. Armed with blaster cannons and torpedi launchers, droid starfighters are fast and agile. Unlike conventional fighters, however, they are able to reconfigure themselves into “walk mode,” allowing them to patrol on the ground every bit as well as they do in space.
 
@@ -1724,51 +1302,35 @@ Although able to launch from walk mode into flight or attack mode quite easily, 
 
 power grid when not in use. Hanging there, occasionally xing their wings and turning their “heads” to test their Hystems, they bear an unsettling resemblance to a colony of jinged beasts.
 
-Xi Char Variable Geometry Battle Droid Mark | Klass: Starfighter Crew: n/a (Normal +2)
+**Xi Char Variable Geometry Battle Droid Mark I**
 
-Sze: Fine (3.5 m long) Hyperdrive: None
+Class: Starfighter Crew: n/a (Normal +2) Size: Fine (3.5 m long) Initiative: +10 (+8 size, +2 crew) Hyperdrive: None Maneuver: +10 (+8 size, +2 crew) Passengers: None Defense: 28 (+8 size, +10 armor) Cargo Capacity: None Shield Points: None Consumables: None
 
-Hfssengers: None
+Cost: 19,000 (new), 5,000 (used) Maximum Speed in Space: Ramming (10 squares/action) Atmospheric Speed: 1,180 km/h (20 squares/action)
 
-argo Capacity: None fonsumables: None
+Weapon: Laser cannons (2 fire-linked pairs); Fire Arc: Front; Attack Bonus: +8 (+8 size, +0 crew); Damage: 5d10×2; Range Modifiers: See Table 11-8.
 
-fost: 19,000 (new), 5,000 (used) imum Speed in Space: Ramming (10 squares/action) Atmospheric Speed: 1,180 km/ tapon: Laser cannons (2 fire-linked pairs); Fire Are: Front; Attack
-| Bonus: +8 (+8 size, +0 crew); Damage: 5d10x2; Range
-Modifiers: See Table 11-8.
+Weapon: Proton torpedo launchers (2, 4 missiles each); Fire Arc: Front; Damage: 9d10×2; Missile Quality: Ordinary (+10).
 
-Heapon: Proton torpedo launchers (2, 4 missiles each); Fire Are: Front; Damage: 9d10x2; Missile Quality: Ordinary (+10).
+## Naboo N-1 Starfighter
 
-Initiative: +10 (+8 size, +2 crew) Maneuver: +10 (+8 size, +2 crew) Defense: 28 (+8 size, +10 armor) Shield Points: None
+From a world devoted to peace, the Naboo N-1 starfighter is an incongruous, though elegant, sight. It’s sleek, agile, armed with a pair of blaster cannons and a double rack of proton torpedoes, and equipped with a hyperdrive. The Space Fighter Corps takes great pride in the N-1, even though their duties primarily consist of putting on air shows and occasionally escorting the Queen’s Royal Starship. The N-1’s distinctive “tail” serves both as a power plug for recharging and an antenna for receiving data from the palace battle computer. The starfighter also includes an underside port for an astromech droid, which provides targeting and astrogation information when the ship is outside the Naboo system.
 
-h (20 squares/action)
+Class: Starfighter Crew: 1 (Skilled +4) Size: Tiny (11 m long) Initiative: +6 (+2 size, +4 crew) Hyperdrive: x1 Maneuver: +6 (+2 size, +4 crew) Passengers: None Defense: 22 (+2 size, +10 armor) Shield Points: 30 (DR 10)
 
-boo N-! Starfighter
+Cost: Not available for sale Maximum Speed in Space: Ramming (9 squares/action) Atmospheric Speed: 1,100 km/h (18 squares/action)
 
-ia world devoted to peace, the Naboo N-1 starfighter is mincongruous, though elegant, sight. It’s sleek, agile,
+Weapon: Laser cannons (2 fire-linked); Fire Arc: Front; Attack Bonus: +8 (+2 size, +2 crew, +4 fire control); Damage: 5d10×2; Range Modifiers: See Table 11-8.
 
-‘d with a pair of blaster cannons and a double rack of oton torpedoes, and equipped with a hyperdrive. The Space Fighter Corps takes great pride in the N-1, even dough their duties primarily consist of putting on air shows nd occasionally escorting the Queen’s Royal Starship. The 1's distinctive “tail” serves both as a power plug for hsharging and an antenna for receiving data from the lace battle computer. The starfighter also includes an underside port for an astromech droid, which provides ting and astrogation information when the ship is hutside the Naboo system.
+Weapon: Proton torpedo launchers (2 fire-linked, 5 missiles each); Fire Arc: Front; Damage: 10d10×2; Missile Quality: Ordinary (+10).
 
-Crew: 1 (Skilled +4) Initiative: +6 (+2 size, +4 crew) Maneuver: +6 (+2 size, +4 crew) Defense: 22 (+2 size, +10 armor) Shield Points: 30 (DR 10)
+## Jedi Starfighter
 
-ss; Starfighter Tiny (11 m Tong) perdrive: x1
-
-jot available for sale
-
-imum Speed in Space: Ramming (9 squares/action)
-
-jospheric Speed: 1,100 km/h (18 squares/action)
-
-Iitspon: Laser cannons (2 fire-linked); Fire Are: Front; Attack Bonus: +8 (+2 size, +2 crew, +4 fire control); Damage: 5d10x2; Range Modifiers: See Table 11-8.
-
-Kipon: Proton torpedo launchers (2 fire-linked, 5 missiles each); Fire Arc: Front; Damage: 10d10x2; Missile Quality: Ordinary {+10),
-
-adi Starfighter
-
-ihen Jedi Master Saesee Tiin—an experienced test pilot— Sggested that the Jedi create a “Jedi starfighter corps,” Kuat is Engineering stepped forward with its design for a single-passenger fighter craft. Unlike the Republic’s (ellian-built diplomatic cruisers, Jedi starfighters are a costtiective way of ferrying Jedi from place to place.
+When Jedi Master Saesee Tiin—an experienced test pilot—suggested that the Jedi create a “Jedi starfighter corps,” Kuat Systems Engineering stepped forward with its design for a single-passenger fighter craft. Unlike the Republic’s Corellian-built diplomatic cruisers, Jedi starfighters are a cost-effective way of ferrying Jedi from place to place.
 
 —————— 7
 
-## MEDI STARFIGHTER
+## JEDI STARFIGHTER
 
 The Aethersprite-class starfighter is not hyperspacecapable but can dock with a separate hyperdrive module: the TransGalMeg Industries hyperdrive booster ring. (The process takes 3 rounds and requires a Pilot check against DC 20.) However, when the Delta-7 is docked with the booster ting, the starfighter suffers a -4 penalty to maneuvers due to the unbalanced nature of the module.
 
@@ -1776,27 +1338,15 @@ The Delta-7 incorporates a specially adapted astromech droid. Without the proper
 
 The Delta-7 and accompanying astromech droid are only available to Jedi through the dispensation of the Supreme Chancellor's office. The cost for a used ship given below is the price an Aethersprite might fetch on the black market.
 
-## Kuat Systems Engineering
+**Kuat Systems Engineering Delta-7 Aethersprite-class Starfighter**
 
-Delta-7 Aethersprite-class Starfighter Class: Starfighter Crew: 1 (Normal +2) Size: Diminutive (8 m long) Hyperdrive: x1 Passengers: None
-
-Initiative: +6 (+4 size, +2 crew)
-
-Maneuver: +6 (+4 size, +2 crew)
-
-Defense: 24 (+4 size, +10 armor)
-
-Consumables: | week Hull Points: 65 (DR 10)
+Class: Starfighter Crew: 1 (Normal +2) Size: Diminutive (8 m long) Initiative: +6 (+4 size, +2 crew) Hyperdrive: x1 Maneuver: +6 (+4 size, +2 crew) Passengers: None Defense: 24 (+4 size, +10 armor) Consumables: 1 week Hull Points: 65 (DR 10)
 
 Cost: 180,000 (new), 145,000 (used)
 
-Atmospheric Speed: 1,150 km/h (19 squaresfaction)
+Atmospheric Speed: 1,150 km/h (19 squares/action)
 
-Weapon: Laser cannons (4 fire-linked); Fire Are: Front; Attack Bonus: +8 (+4 size, +0 crew, +4 fire control); Damage: 6d10x2; Range Modifiers: See Table 11-8.
-
-N ns oo
-
-“ Le Aj wu i im
+Weapon: Laser cannons (4 fire-linked); Fire Arc: Front; Attack Bonus: +8 (+4 size, +0 crew, +4 fire control); Damage: 6d10×2; Range Modifiers: See Table 11-8.
 
 <!-- page 231 -->
 
@@ -1808,73 +1358,45 @@ Corellian YT-1300 Transport
 
 Perhaps the most adaptable light cargo transport in the galaxy, the YT-1300 design is at the core of nearly every independent trader's ship. It’s built on a modular design to suit the needs of a wide variety of clients, many of whom aren't human, let alone bipedal, The YT-1300 is an excellent all-purpose cargo transport, with powerful engines and a sturdy hull, The Corellian Engineering Corporation was quick to realize that it had a winner on its hands and made almost as many credits selling conversion kits as it did selling the transports themselves. The most popular modification is an enhanced hyperdrive package (which replaces the x2 hyperdrive with a x1).
 
-## Transport
+**Corellian Engineering Corporation YT-1300 Transport**
 
-Class: Space transport Crew: | to 2 (Normal +2)
+Class: Space transport Crew: 1 to 2 (Normal +2) Size: Small (26.7 m long) Initiative: +3 (+1 size, +2 crew) Hyperdrive: x2 (backup x12) Maneuver: +3 (+1 size, +2 crew) Passengers: 6 Defense: 21 (+1 size, +10 armor) Cargo Capacity: 100 tons Shield Points: None Consumables: 2 months Hull Points: 120 (DR 20)
 
-Size: Small (26.7 m long) Initiative: +3 (+1 size, +2 crew) Hyperdrive: x2 (backup x12) Maneuver: +3 (+1 size, +2 crew) Passengers: 6 Defense: 21 (+1 size, +10 armor) Cargo Capacity: 100 tons Shield Points: None Consumables: 2 months Hull Points: 120 (DR 20)
+Cost: 100,000 (new), 25,000 (used) Maximum Speed in Space: Attack (8 squares/action) Atmospheric Speed: 800 km/h (13 squares/action)
 
-Cost: 100,000 (new), 25,000 (used)
-
-## Maximum Speed in Space: Attack (8 square
-
-Atmospheric Speed: 800 km/h (13 squares/action)
-
-Weapon: Laser cannon: Fire Arc: Turret; Attack Bonus: +5 (+1 size, +0 crew, +4 fire control); Damage: 4d 10x2; Range Modif Table 11-8.
-
-faction)
+Weapon: Laser cannon; Fire Arc: Turret; Attack Bonus: +5 (+1 size, +0 crew, +4 fire control); Damage: 4d10×2; Range Modifiers: See Table 11-8.
 
 Millennium Falcon The light freighter by which all other light freighters are judged, the Millennium Falcon is “the fastest ship in the galaxy,” at least according to its captain and current owner, the Corellian smuggler Han Solo. Heavily modified by a string of smuggler captains, the Falcon boasts powerful sublight and hyperdrive engines, armor plating, enhanced deflector shields, laser turrets, long-range sensor arrays, and a hidden cargo compartment beneath the deck plates. Although the Falcon is ready for anything, the ship is extremely high-maintenance. Solo and Chewbacca spend as much time repairing her as they do flying her. Han leaves the dozens of blast marks, scratches, and micrometeorite pockmarks alone, though, saying they give the Falcon character. (Chewie believes Han would rather spend money on a fast ship than a pretty one.) Accommodations are sparse, and the cargo holds are perhaps not as large as some, but for a smuggler, it’s not how much you haul, or how comfortably, but how quickly you deliver the goods and how much you get paid.
 
-Heavily Modified Corellian Engineering Corporatio, YT-1300 Transport
+**Heavily Modified Corellian Engineering Corporation YT-1300 Transport**
 
-Size: Small (26.7 m long) Initiative: +3 (+1 size, +2 crf] Hyperdrive: x.5 (backup x10) Maneuver: +16 (+1 size, +15 00 Passengers: None Defense: 21 (+1 size, +10 aml) Cargo Capacity: 100 tons Shield Points: 90 (DR 20) Consumables: 2 months Hull Points: 180 (DR 20)
+Class: Space transport Crew: 2 (Expert +8) Size: Small (26.7 m long) Initiative: +3 (+1 size, +2 crew) Hyperdrive: ×0.5 (backup ×10) Maneuver: +16 (+1 size, +15 crew) Passengers: None Defense: 21 (+1 size, +10 armor) Cargo Capacity: 100 tons Shield Points: 90 (DR 20) Consumables: 2 months Hull Points: 180 (DR 20)
 
-Cost: Not available for sale
+Cost: Not available for sale Maximum Speed in Space: Ramming (12 squares/action) Atmospheric Speed: 1,050 km/h (18 squares/action)
 
-Atmospheric Speed: 1,050 km/h (18 squares/action)
+Weapon: Quad laser cannons (2); Fire Arc: Turret; Attack Bonus: +15 (+1 size, +8 crew*, +6 fire control); Damage: 6d10×2; Range Modifiers: See Table 11-8.
 
-Weapon: Quad laser cannons (2); Fire Arc: Turret; Attack Bonus, +15 (+1 size, +8 crew", +6 fire control); Damage: 6d 10x2; Range Modifiers: See Table 11-8.
+Weapon: Concussion missile launchers (2 fire-linked, 4 missiles each); Fire Arc: Front; Damage: 9d10×2; Missile Quality: Good (+15).
 
-Weapon: Concussion missile launchers (2 fire-linked, 4 missiles cach); Fire Are: Front; Damage: 9d 10x2; Missile Quality: Good (+15),
+Weapon: Blaster cannon (retractable); Fire Arc: Turret; Attack Bonus: +17 (+1 size, +8 crew*, +8 fire control); Damage: 4d10×2; Range Modifiers: See Table 11-8; Range Increment: 50 meters.
 
-Weapon: Blaster cannon (retractable); Fire Are: Turret; Attack Bonus: +17 (+1 size, +8 crew", +8 fire control); Damage: 4d Range Modifiers: See Table 11-8; Range Increment: 50 meley
+*When Han Solo pilots this ship, its initiative modifier includes his Dexterity modifier; its maneuver modifier includes his Pilot skill modifier; and each of its weapon's attack bonuses includes his base ranged attack bonus. The numbers above reflect Han Solo circa Star Wars Episode IV: A New Hope.
 
-“When Han Solo pilots tis ship, its initiative modifier includes his Dexteriy ma fier; its maneuver modifier includes his Pilot skill modifier; and each ofits weapon's attack bonuses includes his base ranged attack bonus, The number above reflect Han Solo circa Star Wars Episode IV; A New Hope.
+## Firespray-31
 
-## Firespray-3!
+The Firespray-31 was originally designed as a patrol and law enforcement craft. Built by Kuat Systems Engineering, the Firespray-31 incorporated numerous unusual features—including its “engines down” landing rig—resulting in a ship that effectively flies “standing up.” The ship does not need secondary landing engines, allowing it to use all of its engine space for primary thrust. The limited internal space of the Firespray-31 made it difficult for even a small crew make long trips comfortably, This was doubtless one of the reasons the Firespray-31 was never a popular ship with enforcement agencies. After a few years, KSE stopped producing them.
 
-The Firespray-31 was originally designed as a patrol and ji enforcement craft. Built by Kuat Systems Engineering, the Firespray-31 incorporated numerous unusual features~ including its “engines down” landing rig—resulting in a sip that effectively flies “standing up.” The ship does not need secondary landing engines, allowing it to use all of its engine space for primary thrust. The limited internal space of the Firespray-31 made it difficult for even a small crew make long trips comfortably, This was doubtless one of the reasons the Firespray-31 was never a popular ship with enforcement agencies. After a few years, KSE stopped producing them.
+Aftermarket sales of the Firespray-31 were brisk. The ships were easily stripped down and modified by individuals with particular needs, and soon became popular with scoundrels of all descriptions. The ship's excellent speed was a plus for these buyers, and everything else could be modified to fill their desires.
 
-Aftermarket sales of the Firespray-31 were brisk. The shi were easily stripped down and modified by individuals with particular needs, and soon became popular with scoundrel of all descriptions. The ship's excellent speed was a plus fol these buyers, and everything else could be modified to fil their desires.
+**Kuat Systems Engineering Firespray-31 Patrol and Attack Craft**
 
-## Kuat Systems Engineering Firespray-3!
+Class: Space transport Crew: 1 (Skilled +4) Size: Small (21.5 m long) Initiative: +5 (+1 size, +4 crew) Hyperdrive: x3 (backup x15) Maneuver: +5 (+1 size, +4 crew) Passengers: 6 Defense: 21 (+1 size, +10 armor) Cargo Capacity: 70 tons Shield Points: 60 (DR 20) Consumables: 1 month Hull Points: 150 (DR 20)
 
-## Patrol and Attack Craft
+Cost: 120,000 (new), 30,000 (used) Maximum Speed in Space: Ramming (11 squares/action) Atmospheric Speed: 1,050 km/h (18 squares/action)
 
-ch
+Weapon: Blaster cannons (2); Fire Arc: Turret; Attack Bonus: +7 (+1 size, +2 crew, +4 fire control); Damage: 5d10×2; Range Modifiers: See Table 11-8.
 
-Size: Small (21.5 m long)
-
-Hyperdrive: x3 (backup x15) Maneuver: +5 (+1 size, +4 cre}
-
-ry: 70 tons Shield Points: 60 (DR 20)
-
-Consumables: | month Hull Points: 150 (DR 20)
-
-Cost: 120,000 (new), 30,000 (used)
-
-Atmospheric Speed: 1,050 km/h (18 squares/action)
-
-Weapon: Blaster cannons (2); Fire Are: Turret; Attack Bonus; +7 (+1 size, +2 crew, +4 fire control); Damage: 5d10x2; Range Modifiers: See Table 11-8,
-
-Weapon: Tractor beam projector; Fire Are: Front; Attack Bonus: +5 (+1 size, +2 crew, +2 fire control); Damage: Special; Range Modifiers: See Table 11-8. |
-
-1 (Skilled +4) ive: +5 (+1 size, +4 cre)
-
-s: Space transport
-
-## Cargo Caps
+Weapon: Tractor beam projector; Fire Arc: Front; Attack Bonus: +5 (+1 size, +2 crew, +2 fire control); Damage: Special; Range Modifiers: See Table 11-8.
 
 <!-- page 232 -->
 
@@ -1891,101 +1413,40 @@ For unique vehicles where the crew's statistics are included, this table is unne
 | Untrained    | −4             | −2           |
 | Normal       | +2             | +0           |
 | Skilled      | +4             | +2           |
+| Very Skilled | +6             | +3           |
 | Expert       | +8             | +4           |
 
-Slave |
+## Slave I
 
-for which Boba Fett is famous originally belonged is father, Jango Fett. Jango acquired the Firespray-class aitol ship from the prison colony at Oovo IV, after the
+The ship for which Boba Fett is famous originally belonged to his father, Jango Fett. Jango acquired the Firespray-class patrol ship from the prison colony at Oovo IV, after the prison guards destroyed his own ship, Jaster’s Shadow. The bounty hunter made several adjustments to the ship’s systems. Young Boba Fett, inheriting the ship after his father’s death on Geonosis, made even more modifications throughout his own bounty hunting career. The most significant upgrades to Slave I are in its weaponry—a major step up from the standard Firespray’s blaster cannons and miniature tractor beam projector. In addition to a concussion missile launcher and proton torpedo tubes, Fett’s ship has an ion cannon and an aft-firing mine layer loaded with concussion charges, as well as a quality sensor masking package (+4 on Computer Use DCs to scan for Slave I)—all at considerable cost.
 
-son guards destroyed his own ship, Jaster’s Shadow. Th
+**Modified Kuat Systems Engineering Firespray-31 Patrol and Attack Craft**
 
-unty hunter made several adjustments to the ship's ems. Young Boba Fett, inheriting the ship after his ather’s death on Geonosis, made even more modifications youghout his own bounty hunting career. The most significant upgrades to Slave I are in its caponty—a major step up from the standard Firespray’s blaster cannons and miniature tractor beam projector. addition to a concussion missile launcher and proton
+Class: Space transport Crew: 1 (Expert +8) Size: Small (21.5 m long) Initiative: +9 (+1 size, +8 crew) Hyperdrive: x1 (backup x8) Maneuver: +9 (+1 size, +8 crew) Passengers: 6 Defense: 21 (+1 size, +10 armor) Cargo Capacity: 70 tons Shield Points: 100 (DR 20) Consumables: 1 month Hull Points: 150 (DR 20)
 
-» tubes, Fett’s ship has an ion cannon and an aftring mine layer loaded with concussion charges, as well as quality sensor masking package (+4 on Computer Use DCs
+Maximum Speed in Space: Ramming (12 squares/action) Atmospheric Speed: 1,000 km/h (17 squares/action)
 
-scan for Slave 1)—all at considerable cost
+Weapon: Blaster cannons (2 fire-linked); Fire Arc: Turret; Attack Bonus: +24/+19/+14 (+1 size, +17/+12/+7 crew*, +6 fire control); Damage: 5d10×2; Range Modifiers: See Table 11-8.
 
-Vodified Kuat Systems Engineering Firespray-3l atral and Attack Craft
+Weapon: Concussion missile launcher (8 missiles); Fire Arc: Front; Damage: 9d10×2; Missile Quality: Good (+15).
 
-Sze: Small (21.5 m long) Initiative: +9 (+1 size, +8 yerdrive 1 (backup x8) Maneuver )
+Weapon: Ion cannon; Fire Arc: Front; Attack Bonus: +22/+17/+12 (+1 size, +17/+12/+7 crew*, +4 fire control); Damage: 5d10×2; Range Modifiers: See Table 11-8.
 
-ssengers: 6 Defense: 21 (+1 size, +10 armor) 9 Capacity: 70 ton: Shield Points:
+Weapon: Tractor beam projector; Fire Arc: Turret; Attack Bonus: +22/+17/+12 (+1 size, +17/+12/+7 crew*, +4 fire control); Damage: Special; Range Modifiers: See Table 11-8.
 
-insumables: 1 month Hull Points: 150 (DR 20)
+Weapon: Proton torpedo tubes (4 missiles); Fire Arc: Front; Damage: 9d10×2; Missile Quality: Good (+15).
 
-daximum Speed in Space: Ramming (12 squares/action|
+Weapon: Concussion mine layer (16 mines*); Fire Arc: Rear; Damage: 4d10×2; Range Modifiers: Not applicable (mines do not move).
 
-spheric Speed: 1,000 km/h (
-
-ieapon: Blaster cannons (2 linked); Fire Arc Attack
-
-Bonus: +24/+19/+14 (+1 size, +17/+12/+7 crew", +6
-
-control); Damage: 5d10x2; Range Modifiers: See Table
-
-ies); Fire Arc: Front
-
-Weapon: Concus
-
-Weapon: lon cannon; Fire Arc: Front; Attack Bonus: +22/+17 12 (+ 7) 7 er 4 fire control); Damage: 5d10x2; Range Modifiers: See Table 11-8
-
-## Weapon jector; Fire Arc: Turret; Attack Bonus
-
-2/+17/+12 (+1 size, +17/+12/47 en 4 fire control):
-
-Damage: 5 Range Modifiers: See T
-
-Weapon: Protor
-
-Weapon: Concussion mine layer (16 mines"); Fire Are: Rear
-
-uidanc }; Damage
-
-410x2; Range Modifiers: Not applicable (mines do not move
-
-When it is too costly to send a larger ship to patrol a system, the Empire sends a handful of Guardian-class light uisers, While not particularly well armed or well shielded,
-
-atch for most system traffic, actir . When faced with
-
-itent on breaking the |:
-
-they are usually an
-
-deterrent for the not
-
-o-serious crimin:
-
-faster or more powerful ships
-
-Guardian-class cruisers generally give token resistance before calling for more capable ships to assist. Some are
-
-specifically sent
-
-to wait for Rebel ships or smugglers to
-
-come out of hyperspace
-
-SLAVE |
-
-nN Px}
-
-“i eal Al “ at u “
+When it is too costly to send a larger ship to patrol a system, the Empire sends a handful of Guardian-class light cruisers. While not particularly well armed or well shielded, they are usually an adequate match for most system traffic, acting as a deterrent for the not-so-serious criminal intent on breaking the law. When faced with faster or more powerful ships, Guardian-class cruisers generally give token resistance before calling for more capable ships to assist. Some are specifically sent to wait for Rebel ships or smugglers to come out of hyperspace.
 
 <!-- page 233 -->
 
-Sienar Fleet Systems Guardian-class Light Cruiser Class: Space transport Crew: 2, 8 Skilled +4)
+**Sienar Fleet Systems Guardian-class Light Cruiser**
 
-Size: Small (42 m long) Initiative: +5 (+1 size, +4 crew) Hyperdrive: x1 (backup x10) Maneuver: +5 (+1 size, +4 crew)
+Class: Space transport Crew: 2 + 8 (Skilled +4) Size: Small (42 m long) Initiative: +5 (+1 size, +4 crew) Hyperdrive: x1 (backup x10) Maneuver: +5 (+1 size, +4 crew) Passengers: 6 (prisoners) Defense: 21 (+1 size, +10 armor) Shield Points: 60 (DR 20) Hull Points: 150 (DR 20)
 
-21 (+1 size, +10 armor)
-
-Passengers: 6 (prisoners) Defensi Shield Points: 60 (DR 20) Hull Points: 150 (DR 20)
-
-Cargo Capacity: 200 tons Consumables: 3 months
-
-Cost: Not available for sale Maximum Speed in Space: Attack (7 squares/action)
-
-## Atmospheric Speed
+Cargo Capacity: 200 tons Consumables: 3 months Cost: Not available for sale Maximum Speed in Space: Attack (7 squares/action) Atmospheric Speed: 800 km/h (13 squares/action)
 
 Weapon: Laser cannons (4); Fire Arc: 2 front, 2 turret; Attack Bonus: +9 (+1 size, +2 crew, +6 fire control); Damage: 5d10x2 Range Modifiers: See Table 11-8
 
@@ -2003,115 +1464,57 @@ their guns to bear, let alone firing them. Imperial Star Destroyer For several d
 
 A Star Destroyer occupies a space three squares long and two squares wide on the grid map.
 
-Kuat Drive Yards Imperial |-class Star Destroyer Class: Capital shit Crew: 5,000-37,085 (Skilled +4) Size: Colossal (1,600 m long) Initiative: ~4 (-8 size, +4 crew) Hyperdrive: x2 (backup x8) Maneuver: ~4 (-8 size, +4 crew)
+**Kuat Drive Yards Imperial I-class Star Destroyer**
 
-Passengers: 9,700 (troops) Defense: 12 (-8 size, +10 armor)
+Class: Capital ship Crew: 5,000–37,085 (Skilled +4) Size: Colossal (1,600 m long) Initiative: −4 (−8 size, +4 crew) Hyperdrive: x2 (backup x8) Maneuver: −4 (−8 size, +4 crew) Passengers: 9,700 (troops) Defense: 12 (−8 size, +10 armor) Shield Points: 300 (DR 60) Hull Points: 700 (DR 60) Consumables: 6 years Cost: Not available for sale Maximum Speed in Space: Cruising (3 squares/action) Atmospheric Speed: Not applicable
 
-Shield Points: 300 (DR Hull Points: 700 (DR 60)
+Weapon: Turbolasers (60); Fire Arc: 4 batteries front, 4 batteries left, 4 batteries right; Attack Bonus: +6 (−8 size, +2 crew, +8 fire control, +4 battery fire); Damage: 5d10×5; Range Modifiers: See Table 11-8.
 
-Consumables: 6 years
-
-Cost: Not available for sal
-
-## Maximum Speed in Space: Cruising (3 squares/action)
-
-## Atmospheric Speed: Not applicabl
-
-Weapon: Turbolasers (60); Fire Arc: 4 batteries front, 4 batteries left, 4 batteries right; Attack Bonus: +6 (-8 size, +2 crew, +8
-
-5d10x5; Range
-
-fire control, +4 battery fire}; Dama: Modifiers: See Table 11-8. Weapon: Point Ia
-
-er cannons (40, point defense); Fire Arc: 2 batteries front, 3 batteries left, 3 batteries right; Attack Bonus:
-
-+6 (-8 size, +2 crew, +8 fire control, +4 battery fire); Damage:
-
-2d10x2; Range Modifiers: See Table 11-8.
+Weapon: Point laser cannons (40, point defense); Fire Arc: 2 batteries front, 3 batteries left, 3 batteries right; Attack Bonus: +6 (−8 size, +2 crew, +8 fire control, +4 battery fire); Damage: 2d10×2; Range Modifiers: See Table 11-8.
 
 ## STAR DESTROYER
 
-Weapon: Ion carmons (60); Fire Arc: 4 batteries front, 3 batteries (8
+Weapon: Ion cannons (60); Fire Arc: 4 batteries front, 3 batteries left, 3 batteries right, 2 batteries rear; Attack Bonus: +6 (−8 size, +2 crew, +4 fire control, +4 battery fire); Damage: 5d10×2; Range Modifiers: See Table 11-8.
 
-left, 3 batteries right, 2 batteries rear; Attack Bonus: size, +2 crew, +4 fire control, +4 battery fire); Damage: 5d10x2; Range Modifiers: See Table 11-8
-
-Weapon: Tractor beam projectors (10); Fire Arc: 6 front, 2 lefl,2 right; Attack Bonus: +2 (-8 size, +2 crew, +8 fire control) Damage: Special; Range Modifiers: See Table 11-8.
+Weapon: Tractor beam projectors (10); Fire Arc: 6 front, 2 left, 2 right; Attack Bonus: +2 (−8 size, +2 crew, +8 fire control); Damage: Special; Range Modifiers: See Table 11-8.
 
 ## Mon Calamari Star Cruiser
 
-Built originally as works of art by the peaceful Mon Cala, mari, the MC80s were fitted with sensor equipment and w
-
-‘apons batteries when the Mon Calamari joined the Rebel
-
-Alliance. The modifications were a sure sign of their dedica: tion to the Rebel cause, since many Mon Calamari could hardly bear seeing the beautiful smooth hulls of their ships
-
-marred in such a fashion. Their addition to the meager Rebel fleet finally put the Rebellion on a more or less equal footing with the Imperial Navy, with ships that could posea threat to the Empire’s fearsome Star Destroyers. Equipped with hangar bays hosting three dozen starfighters and living space for over a thousand Rebel troops, the ships are still crewed by Mon Calamari, since the control surfaces and instrumentation panels are all adapted for their unique physiology. This suits the Rebel Alliance just fine, since Mot Calamari make excellent command crews.
+Built originally as works of art by the peaceful Mon Calamari, the MC80s were fitted with sensor equipment and weapons batteries when the Mon Calamari joined the Rebel Alliance. The modifications were a sure sign of their dedication to the Rebel cause, since many Mon Calamari could hardly bear seeing the beautiful smooth hulls of their ships marred in such a fashion. Their addition to the meager Rebel fleet finally put the Rebellion on a more or less equal footing with the Imperial Navy, with ships that could pose a threat to the Empire’s fearsome Star Destroyers. Equipped with hangar bays hosting three dozen starfighters and living space for over a thousand Rebel troops, the ships are still crewed by Mon Calamari, since the control surfaces and instrumentation panels are all adapted for their unique physiology. This suits the Rebel Alliance just fine, since Mon Calamari make excellent command crews.
 
 A Mon Calamari Star Cruiser occupies a space two squares long on the grid map.
 
 <!-- page 234 -->
 
-Mon Calamari MCBO Star Cruiser (lass: Capital ship Crew: 1 Size: Colossal (1,200 m long) Initiative: ~4 (-8 size, +4 crew) Htyperdrive: x1 (backup x9)
+**Mon Calamari MC80 Star Cruiser**
 
-230-5,402 (Skilled +4)
+Class: Capital ship Crew: 230–5,402 (Skilled +4) Size: Colossal (1,200 m long) Initiative: −4 (−8 size, +4 crew) Hyperdrive: x1 (backup x9) Maneuver: −4 (−8 size, +4 crew) Passengers: 1,200 (troops) Defense: 12 (−8 size, +10 armor) Cargo Capacity: 20,000 tons Shield Points: 300* (DR 60) Consumables: 2 years Hull Points: 600 (DR 60)
 
-Maneuver: ~4 (-8 size, +4 crew) Passengers: 1,200 (troops) Defense: 12 (-8 size, +10 armor) Cargo Capacity: 20,000 tons Shield Points: 300° (DR 60) years Hull Points: 600 (DR 60)
+Cost: Not available for sale Maximum Speed in Space: Cruising (4 squares/action) Atmospheric Speed: Not applicable
 
-(fost: Not available for sale
+Weapon: Turbolasers (48); Fire Arc: 3 batteries front, 3 batteries left, 3 batteries right, 3 batteries rear; Attack Bonus: +1 (−8 size, +2 crew, +4 fire control, +3 battery fire); Damage: 4d10×5; Range Modifiers: See Table 11-8.
 
-## Consumables
+Weapon: Ion cannons (20); Fire Arc: 2 batteries front, 1 battery left, 1 battery right, 1 battery rear; Attack Bonus: +1 (−8 size, +2 crew, +4 fire control, +3 battery fire); Damage: 5d10×2; Range Modifiers: See Table 11-8.
 
-laximum Speed in Space: Cruising (4 squares/action)
+Weapon: Tractor beam projectors (6); Fire Arc: 4 front, 1 left, 1 right; Attack Bonus: −2 (−8 size, +2 crew, +4 fire control); Damage: Special; Range Modifiers: See Table 11-8.
 
-## Atmospheric Speed: Not applicable
+*Backup shield generators restore shield points at double the normal rate per minute (20 points instead of 10).
 
-Weapon: Turbolasers (48): Fire Arc: 3 batteries front, 3 batteries left, 3 batteries right, 3 batteries rear; Attack Bonus: +1 (-8 size, +2 crew, +4 fire control, +3 battery fire); Damage: 4d10x5; Range Modifiers: See Table 11-8
-
-Weapon: Ion cannons (20); Fire Are: 2 batteries front, 1 battery
-
-left, 1 battery right, 1 battery rear; Attack Bonus: +1 (-8 size,
-
-+2 crew, +4 fire control, +3 battery fire); Damage: 5d10x2; Range Modifiers: See Table 11-8.
-
-Weapon: Tractor beam projectors (6); Fire Are: 4 front, 1 left, 1 right; Attack Bonus: -2 (-8 size, +2 crew, +4 fire control); Damage: Special; Range Modifiers: See Table 11-8.
-
-'Sickup shield generators restore shield points at double the normal rate per fitute (20 points instead of 10).
-
-Although Star Destroyers have the right firepower and
-
-fighter complement to handle just about any threat the Rebel Alliance can throw at the Empire, they suffer from a wnajor drawback: cost. The Empire’s answer—the Nebulon-B
+Although Star Destroyers have the right firepower and fighter complement to handle just about any threat the Rebel Alliance can throw at the Empire, they suffer from a major drawback: cost. The Empire’s answer—the Nebulon-B escort frigate—packs nearly as much firepower as a Star Destroyer and backs it up with two TIE fighter squadrons. Although slow and clumsy, the Nebulon-B delivers significant power in a compact package, forcing Rebel starfighter pilots to rethink their hit-and-run strategies when attacking supply convoys. A few frigates changed hands to serve the Rebellion as hospital ships.
 
 ## ESCORT FRIGATE
 
-escort frigate—packs nearly as much firepower as a Star Destroyer and backs it up with two TIE fighter squadrons. Although stow and clumsy, the Nebulon-B delivers significant power in a compact package, forcing Rebel starfighter pilots to rethink their hit-and-run strategies when attacking supply convoys. A few frigates changed hands to serve the Rebellion as hospital ships.
+**Kuat Drive Yards’ Nebulon-B Frigate**
 
-Kuat Di Class: Capital ship Crew Size: Huge (300 m long) Hyperdrive: x2 (backup
+Class: Capital ship Crew: 307–920 (Normal +2) Size: Huge (300 m long) Initiative: +0 (−2 size, +2 crew) Hyperdrive: x2 (backup x12) Maneuver: +0 (−2 size, +2 crew) Passengers: 75 (troops) Defense: 18 (−2 size, +10 armor) Shield Points: 200 (DR 40) Hull Points: 360 (DR 40) Cargo Capacity: 6,000 tons Consumables: 2 years
 
-e@ Yards’ Nebulon-B Frigate
+Cost: Not available for sale Maximum Speed in Space: Cruising (3 squares/action) Atmospheric Speed: 800 km/h (13 squares/action)
 
-307-920 (Normal +2)
+Weapon: Turbolasers (12); Fire Arc: 2 batteries front, 1 battery left, 1 battery right; Attack Bonus: +5 (−2 size, +0 crew, +4 fire control, +3 battery fire); Damage: 4d10×5; Range Modifiers: See Table 11-8.
 
-Initiative: +0 (-2 size, +2 crew)
+Weapon: Laser cannons (12); Fire Arc: 6 front, 2 left, 2 right, 2 rear; Attack Bonus: +2 (−2 size, +0 crew, +4 fire control); Damage: 2d10×2; Range Modifiers: See Table 11-8.
 
-Maneuver:
-
-) (-2 size, +2 crew)
-
-Defense: 18 (-2 size, +10 armor) Shield Points: 200 (DR 40) Hull Points: 360 (DR 40)
-
-Passengers: 75 (troops) Cargo Capacity: 6,000 tons Consumables: 2 years
-
-Cost: Not avai Maximum Speed in Space: Cruising (3 squares/action)
-
-ble for sale
-
-Atmospheric Speed: 800 km/h (13 squares/action)
-
-Weapon: Turbolasers (12); Fire Are: 2 batteries front, 1 batteries left, 1 batteries right; Attack Bonus: +5 (-2 size, +0 crew, +4 fire control, +3 battery fire); Damage: 4d10x5; Range Modifiers: See Table 11-8.
-
-Weapon: Laser cannons (12); Fire Arc: 6 front, 2 left, 2 right, 2 rear; Attack Bonus: +2 (-2 size, +0 crew, +4 fire control); Damage: 2d10x2; Range Modifiers: See Table 11-8.
-
-Weapon: Tractor beam projectors (2); Fire Arc: Front; Attack Bonus: +2 (-2 size, +0 crew, +4 fire control); Damage: Special; Range Modifiers: See Table 11-8.
+Weapon: Tractor beam projectors (2); Fire Arc: Front; Attack Bonus: +2 (−2 size, +0 crew, +4 fire control); Damage: Special; Range Modifiers: See Table 11-8.
 
 Corellian Corvette The Corellian corvette is the logical step up from the YT- 1300 transport—a larger configurable space vessel for larger
 
@@ -2119,35 +1522,13 @@ jobs. The corvette can serve as a cargo transport, a passenger liner, a troop sh
 
 convert from one function to another is minimal. As many corvettes find their way into civilian use as they do military duty, and a significant number fall into the hands of pirates, who opt for a configuration somewhere between “military” and “cargo”—that is, big engines with lots of weapons and enough storage space to make it worthwhile, As the Empire closes its grip on the galaxy, the Corellian corvette rapidly becomes the capital ship of choice for worlds sympathetic to the Rebellion.
 
-Corellian Engineering Corporation Corvette Class: Capital ship
+**Corellian Engineering Corporation Corvette**
 
-Size: Large (150 m long) Hyperdrive: x2 Passengers: 600
+Class: Capital ship Crew: 30–165 (Normal +2) Size: Large (150 m long) Initiative: +1 (−1 size, +2 crew) Hyperdrive: x2 Maneuver: +1 (−1 size, +2 crew) Passengers: 600 Defense: 19 (−1 size, +10 armor) Shield Points: 200 (DR 40) Consumables: 1 year Hull Points: 300 (DR 40)
 
-Initiative: +1 (-1 size, +2 crew) Maneuver: +1 (-1 size, +2 crew) Defense: 19 {-1 size, +10 armor) Shield Points: 200 (DR 40)
+Cost: 3,500,000 (new), 1,500,000 (used) Maximum Speed in Space: Attack (5 squares/action) Atmospheric Speed: 950 km/h (16 squares/action)
 
-year Hull Points: 300 (DR 40)
-
-000 {new}, 1,500,00¢
-
-## Consumable
-
-## Maximum Speed in Spat
-
-Atmospheric Speed: 950 km/h (16 squares/action)
-
-Weapon: Double turbolaser cannons (6); Fire Are: 3 front, 1 left, I right, 1 rear; Attack Bonus: +5 (-1 size, +0 crew, +6 fire
-
-1d 102; Range Modifiers: See Table 11-8.
-
-) (used)
-
-ttack (5 squares/action)
-
-control); Damage:
-
-## ISUVLS &
-
-## Sdlt
+Weapon: Double turbolaser cannons (6); Fire Arc: 3 front, 1 left, 1 right, 1 rear; Attack Bonus: +5 (−1 size, +0 crew, +6 fire control); Damage: 1d10×2; Range Modifiers: See Table 11-8.
 
 <!-- page 235 -->
 
@@ -2157,51 +1538,37 @@ control); Damage:
 
 The Corellian Space Cruiser described below is the standard, nondiplomatic model. The diplomatic model forgoes weaponry—though because of its increased communications capability (adding a +4 equipment bonus to Computer Use checks for sensor scans and communication-related tasks), the cost is virtually the same.
 
-Corellian Engineering Corporation Space Cruiser Class: Capital ship Crew: 8 (Normal +2)
+**Corellian Engineering Corporation Space Cruiser**
 
-Size: Large (115 m long) Initiative: +1 (-1 size, +2 crew)
-
-Hyperdrive: x2 (backup x6) Maneuver: +1 (-1 size, +2 crew) Passengers: 16 Defense: 19 (1 size, +10 armor)
-
-Cargo Capacity: 110 tons Shield Points: 180 (DR 40) Consumables: | month Hull Points: 220 (DR 40) Cost: 850,000 (new), 550,000 (used)
+Class: Capital ship Crew: 8 (Normal +2) Size: Large (115 m long) Initiative: +1 (−1 size, +2 crew) Hyperdrive: x2 (backup x6) Maneuver: +1 (−1 size, +2 crew) Passengers: 16 Defense: 19 (−1 size, +10 armor) Cargo Capacity: 110 tons Shield Points: 180 (DR 40) Consumables: 1 month Hull Points: 220 (DR 40) Cost: 850,000 (new), 550,000 (used)
 
 ## Maximum Speed in Space: Attack (6 squares/action)
 
 Atmospheric Speed: 900 km/h (15 squares/action)
 
-Weapon: Medium turbolasers (3); Fire Arc: 1 front, 1 left, 1 right, 1 rear; Attack Bonus: +3 (-1 size, +0 crew, +4 fire control); Damage: 5d10x5; Range Modifiers: See Table 11-8.
+Weapon: Medium turbolasers (3); Fire Arc: 1 front, 1 left, 1 right, 1 rear; Attack Bonus: +3 (−1 size, +0 crew, +4 fire control); Damage: 5d10×5; Range Modifiers: See Table 11-8.
 
 Trade Federation Battleship Few systems in the galaxy have never seen one of the Trade Federation's ponderous, ring-shaped cargo freighters. Fewer still realize that the Trade Federation has been gradually converting these freighters into battleships. Although they have always sported defense turrets, these ships have only recently begun to increase both the number and firepower of their gun emplacements, steadily filling their holds with landing ships and droid starfighters instead of trade goods. While these massive ships have a few significant vulnerabilities—poor coverage on their gun emplacements and some vital systems lying exposed here and there—they can usually scramble more than a sufficient number of fighters to handle threats, Only about one in twenty of these cargo freighters have been converted into battleships capable of remotely operating the Trade Federation's massive battle droid armies. The rest are war freighters, carrying the troops, but lacking the control computer or antenna array to control them. This is as much a cost-saving measure as it is a security precaution. The Trade Federation suffers from as many ambitious bureaucrats and ship commanders as any other spacefaring power.
 
 A Trade Federation battleship occupies a three-by-three square area on the grid map.
 
-Class: Capital ship Crew: 30-165 (Skilled +4) Size: Colossal (3,170 m dia.) Initiative: ~4 (-8 size, +4 crew) Hyperdrive: x2 (backup x10) Maneuver: -4 (-8 size, +4 crew)
+Class: Capital ship Crew: 30–165 (Skilled +4) Size: Colossal (3,170 m dia.) Initiative: −4 (−8 size, +4 crew) Hyperdrive: x2 (backup x10) Maneuver: −4 (−8 size, +4 crew) Passengers: 100,000+ Defense: 12 (−8 size, +10 armor) Cargo Capacity: 5 million tons Shield Points: 300 (DR 60) Hull Points: 600 (DR 60) Consumables: 4 years
 
-Passengers: 100,000+ Defense: 12 (-8 size, +10 armor) Cargo Capacity: 5 million tons Shield Points: 300 (DR 60)
+Cost: Not available for sale Maximum Speed in Space: Cruising (2 squares/action) Atmospheric Speed: Not applicable
 
-Cost: Not available for sale
-
-## Maximum Speed in Space: Cruising (2 squares/action)
-
-## Atmospheric Speed: Not applicable
-
-Weapon: Quadlasers (48); Fire Arc: 4 batteries front, 2 batteries right, 2 batteries left, 4 batteries rear; Attack Bonus: +1 (-8 size, +2 crew, +4 fire control, +3 battery fire); Damage: 6d 105; Range Modifiers: See Table 11-8.
+Weapon: Quadlasers (48); Fire Arc: 4 batteries front, 2 batteries right, 2 batteries left, 4 batteries rear; Attack Bonus: +1 (−8 size, +2 crew, +4 fire control, +3 battery fire); Damage: 6d10×5; Range Modifiers: See Table 11-8.
 
 ## Republic Assault Ship
 
-The Republic assault ships that bear the clone troopers to Geonosis for the first battle of the Clone Wars are Acclamator-class military transports designed and constructed by Rothana Heavy Engineering (RHE), based or the Outer Rim world of Rothana. The assault ship’s distinetive triangular profile would re-emerge after the fall of the Republic and the birth of the Galactic Empire, in the mor sinister form of the Imperial Star Destroyer.
+The Republic assault ships that bear the clone troopers to Geonosis for the first battle of the Clone Wars are Acclamator-class military transports designed and constructed by Rothana Heavy Engineering (RHE), based on the Outer Rim world of Rothana. The assault ship’s distinctive triangular profile would re-emerge after the fall of the Republic and the birth of the Galactic Empire, in the more sinister form of the Imperial Star Destroyer.
 
-The Republic assault ship is designed for short hyperspace journeys and can deliver considerable military payloads to staging areas and battlefields. In its various holds and bays, the ship can carry four dozen walking and treaded weapons platforms, three dozen mobile heavy artillery carriers, eighty gunships, and more than three hundred speeder bikes—along with sixteen thousand clone troopers and support personnel, as well as the ship's own crew complement of seven hundred. The ship's powerful engines allow it to operate as effectively in atmosphere as in the vacuum of space, and its own considerable armaments enable it to deliver a devastating barrage to anything that stands in its way. The success of the vessel iy the early days of the Clone Wars prompted the Republic ty order a thousand more from RHE, which by that time had begun designing bigger and better variations, along the lines of battleships and destroyers.
+The Republic assault ship is designed for short hyperspace journeys and can deliver considerable military payloads to staging areas and battlefields. In its various holds and bays, the ship can carry four dozen walking and treaded weapons platforms, three dozen mobile heavy artillery carriers, eighty gunships, and more than three hundred speeder bikes—along with sixteen thousand clone troopers and support personnel, as well as the ship’s own crew complement of seven hundred. The ship’s powerful engines allow it to operate as effectively in atmosphere as in the vacuum of space, and its own considerable armaments enable it to deliver a devastating barrage to anything that stands in its way. The success of the vessel in the early days of the Clone Wars prompted the Republic to order a thousand more from RHE, which by that time had begun designing bigger and better variations, along the lines of battleships and destroyers.
 
 ## Rothana Heavy Engineering
 
 ## Acclamator-class Assault Ship
 
-Size: Gargantuan (752 m long) Initiative: +0 (-4 size, +4 crew)
-
-Hyperdrive: x2 (backup x10) Maneuver: +0 (~4 size, +4 crew]
-
-Passengers: 16,000 (troops) Defense: 16 (-4 size, +10 armor)
+Class: Capital ship Crew: 700 (Skilled +4) Size: Gargantuan (752 m long) Initiative: +0 (−4 size, +4 crew) Hyperdrive: x2 (backup x10) Maneuver: +0 (−4 size, +4 crew) Passengers: 16,000 (troops) Defense: 16 (−4 size, +10 armor) Shield Points: 240 (DR 50) Hull Points: 480 (DR 50) Cargo Capacity: 1,200 tons Consumables: 2 years
 
 Cost: 29,000,000 (new), 19,000,000 (used)
 
@@ -2209,77 +1576,59 @@ Cost: 29,000,000 (new), 19,000,000 (used)
 
 Atmospheric Speed: 1,200 km/h (20 squares/action)
 
-Weapon: Turbo quadlasers (12); Fire Arc: 6 front/left (partial turrets), 6 front/right (partial turrets); Attack Bonus: +4 (-4 size, +2 crew, +6 fire control); Damage: 6d10x5; Range Modifiers: See Table 11-8.
+Weapon: Turbo quadlasers (12); Fire Arc: 6 front/left (partial turrets), 6 front/right (partial turrets); Attack Bonus: +4 (−4 size, +2 crew, +6 fire control); Damage: 6d10×5; Range Modifiers: See Table 11-8.
 
-Weapon: Assault concussion missile tubes (4, 20 missiles each); Fire Are: 4 front; Damage: 9d10x5; Missile Quality: Ordinary (+10),
+Weapon: Assault concussion missile tubes (4, 20 missiles each); Fire Arc: 4 front; Damage: 9d10×5; Missile Quality: Ordinary (+10).
 
-Weapon: Point laser cannons (24, point defense); Fire Arc: 2 batteries front, 2 batteries left, 2 batteries right; Attack Bonus: +3 (-4 size, +2 crew, +2 fire control, +3 battery fire); Damage: 2d10x2; Range Modifiers: See Table 11-8.
+Weapon: Point laser cannons (24, point defense); Fire Arc: 2 batteries front, 2 batteries left, 2 batteries right; Attack Bonus: +3 (−4 size, +2 crew, +2 fire control, +3 battery fire); Damage: 2d10×2; Range Modifiers: See Table 11-8.
 
 <!-- page 236 -->
 
 ## Escape Pods
 
-scape pods are short-range, one-use landing craft designed io take a number of crew members to safety in the event of stisaster aboard a starship. Starfighters, due to their small hve, almost never have escape pods. Space transports generally have two or three escape pods. Capital ships have minimum of six escape pods, and extremely large vessels nay have dozens or hundreds. An escape pod can only be used once.
+Escape pods are short-range, one-use landing craft designed to take a number of crew members to safety in the event of disaster aboard a starship. Starfighters, due to their small size, almost never have escape pods. Space transports generally have two or three escape pods. Capital ships have a minimum of six escape pods, and extremely large vessels may have dozens or hundreds. An escape pod can only be used once.
 
 ## Escape Pod
 
-Class: Starfighter Crew: 0 Ste: Fine (3.5 m long) vone Maneuver: +4 (+8 size, -4 engine)
+Class: Starfighter Crew: 0 Size: Fine (3.5 m long) Initiative: +8 (+8 size, +0 crew) Hyperdrive: None Maneuver: +4 (+8 size, −4 engine) Passengers: 8 Cargo Capacity: 0 kg Consumables: 1 day
 
-Hyperdrive: Passengers: 8 tango Capacity: 0 kg Konsumables: 1 day
-
-(vst: 20,000
-
-\laximum Speed in Spac Amospheric Speed: 60 km/h (1 square/action)
+Cost: 20,000 Maximum Speed in Space: Docking (1 square/action) Atmospheric Speed: 60 km/h (1 square/action)
 
 Defense: 18 (+8 size, +10 armor) Shield Points: 0 Hull Points: 40 (DR 5)
 
-Docking (1 square/action) Weapon: None
+Weapon: None
 
-hirspeeders
+## Airspeeders
 
-Athough incapable of space travel, airspeeders are included Pee because the rules for airspeeder combat are similar to ‘ie nules for starship combat.
+Although incapable of space travel, airspeeders are included here because the rules for airspeeder combat are similar to the rules for starship combat.
 
-From the Coruscant Air Taxi to the Incom T-47 series ater modified into combat vehicles by Rebel forces on jth), airspeeders come in a variety of styles and models to acommodate most price ranges,
+From the Coruscant Air Taxi to the Incom T-47 series (later modified into combat vehicles by Rebel forces on Hoth), airspeeders come in a variety of styles and models to accommodate most price ranges.
 
-Ajrspeeders do not use the starship size scale. Instead, hey use the standard size scale (like characters and creawes). Use Table 11-6: Starship Sizes to convert an jispeeder's size to starship scale.
+Airspeeders do not use the starship size scale. Instead, they use the standard size scale (like characters and creatures). Use Table 11-6: Starship Sizes to convert an airspeeder’s size to starship scale.
 
 ## Coruscant Air Taxi
 
-(Cass: Airspeeder Crew: 1 (Normal +2) Sie: Large (5 m long) Hyperdrive: None fassengers: 3 Defense: 14° (-1 size, +5 armor) Ibigo Capacity: 50 kg Shield Points: 0
+Class: Airspeeder Crew: 1 (Normal +2) Size: Large (5 m long) Initiative: +1 (−1 size, +2 crew) Hyperdrive: None Maneuver: +1 (−1 size, +2 crew) Passengers: 3 Defense: 14* (−1 size, +5 armor) Cargo Capacity: 50 kg Shield Points: 0
 
-Kost; 20,000 (new), 10,000 (used)
-
-## Jliximum Speed in Space: Not applicable
-
-Aimospheric Speed: 190 km/h (3 squares/action)
+Cost: 20,000 (new), 10,000 (used) Maximum Speed in Space: Not applicable Atmospheric Speed: 190 km/h (3 squares/action)
 
 Weapon: None
 
-*hrvides full cover to crew and passengers
+*Provides full cover to crew and passengers.
 
-Initiative: +1 (-1 size, +2 crew) Maneuver: +1 (-1 size, +2 crew)
+## Incom T-47 Airspeeder
 
-jeam T-47 Airspeeder (iss: Airspeeder
+Class: Airspeeder Crew: 1 (Normal +2) Size: Large (4.5 m long) Initiative: +1 (−1 size, +2 crew) Hyperdrive: None Maneuver: +1 (−1 size, +2 crew) Passengers: 1 Defense: 14* (−1 size, +5 armor) Cargo Capacity: 10 kg Shield Points: 0 Maximum Altitude: 25 km Hull Points: 20 (DR 5)
 
-See: Large (4.5 m long) Hyperdrive: None
+Cost: 12,000 (new), 6,000 (used) Maximum Speed in Space: Not applicable Atmospheric Speed: 650 km/h (11 squares/action)
 
-hssengers: 1 Defense: forgo Capacity: 10 kg Shield Points: 0 \aximum Altitude: 25 km Hull Points: 20 (DR 5) lust: 12,000 (new), 6,000 (used)
+Weapon: None
 
-ilaximum Speed in Space: Not applicable
-
-Crew: 1 (Normal +2)
-
-Initiative: +1 (-1 size, +2 crew) Maneuver: +1 (-1 size, +2 crew) 14° (-1 size, +5 armor)
-
-\tmospherie Speed: 650 km/h (11 squares/action) Weapon: None ides three-quarters cover to crew and passengers.
+*Provides three-quarters cover to crew and passengers.
 
 Rebel Alliance Combat Snowspeeder (Modified Incom T-47 Airspeeder)
 
-Class: Airspeeder Crew: 2 (Skilled +4) Size: Huge (6.5 m long) Initiative: +2 (-2 size, +4 crew)
-
-Hyperdrive: None Maneuver: +2 (-2 size, +4 crew)
-
-Passengers: None Defense: 16° (-2 size, +8 armor) Cargo Capacity: 50 kg Shield Points: 0 Maximum Altitude: 25 km Hull Points: 30 (DR 5)
+Class: Airspeeder Crew: 2 (Skilled +4) Size: Huge (6.5 m long) Initiative: +2 (−2 size, +4 crew) Hyperdrive: None Maneuver: +2 (−2 size, +4 crew) Passengers: None Defense: 16* (−2 size, +8 armor) Cargo Capacity: 50 kg Shield Points: 0 Maximum Altitude: 25 km Hull Points: 30 (DR 5)
 
 Cost: 25,000 (used; black market only)
 
@@ -2287,49 +1636,29 @@ Cost: 25,000 (used; black market only)
 
 Atmospheric Speed: 1,000 km/h (17 squares/action)
 
-Weapon: Double laser cannon (fire-linked); Fire Are: Front; Attack Bonus: +4 (-2 size, +2 crew, +4 fire control); Damage: `5d8`; Range Increment: 150 m.
-
-“Provides full cover to crew and passengers
-
-Class: Airspeeder Crew: 2 (Skilled +4)
-
-Size: Huge (6.5 m long) Ini +2 (-2 size, +4 crew)
-
-2 size, +4 crew)
-
-Hyperdrive: None Maneuver: +2 ( Passengers: | Defense: 13° (-2 size, +5 armor) Cargo Capacity: 10 Shield Points: 0
-
-Cost: 50,000 (new), 25,000 (used)
-
-## Maximum Speed in Space: Not applicable
-
-Atmospheric Speed: Weapon:
-
-Bonus: +4 (-2 size, +2 crew, +4 fire control); Damage: `5d8`;
-
-100 km/h (13 squares/action)
-
-Jouble laser cannon (fire-linked); Fire Are: Front; Attack
-
-Range Increment: 200 m.
+Weapon: Double laser cannon (fire-linked); Fire Arc: Front; Attack Bonus: +4 (−2 size, +2 crew, +4 fire control); Damage: `5d8`; Range Increment: 150 m.
 
 *Provides full cover to crew and passengers.
 
-AIRSPEEDER
+## Santhe/Sienar Technologies Stormtrooper Airspeeder
 
-235 “ eal “ im
+Class: Airspeeder Crew: 2 (Skilled +4) Size: Huge (6.5 m long) Initiative: +2 (−2 size, +4 crew) Hyperdrive: None Maneuver: +2 (−2 size, +4 crew) Passengers: 1 Defense: 13* (−2 size, +5 armor) Cargo Capacity: 10 kg Shield Points: 0
+
+Cost: 50,000 (new), 25,000 (used) Maximum Speed in Space: Not applicable Atmospheric Speed: 800 km/h (13 squares/action)
+
+Weapon: Double laser cannon (fire-linked); Fire Arc: Front; Attack Bonus: +4 (−2 size, +2 crew, +4 fire control); Damage: `5d8`; Range Increment: 200 m.
+
+*Provides full cover to crew and passengers.
 
 <!-- page 237 -->
 
 The airspeeder used by the bounty hunter Zam Wesell on Coruscant is the Koro-2 All-Environment Exodrive Airspeeder, a sport-utility speeder (detailed below), Fast and sleek, the Koro-2 is loaded with safety features and an atmospherically sealed cabin, with an operational air supply of two weeks at maximum occupancy.
 
-Desler Gizh Qutworld Mobility Carp Koro-2 Airspeeder
+**Desler Gizh Outworld Mobility Corp Koro-2 Airspeeder**
 
 Class: Airspeeder
 
-Size: Huge (6.61 m long) Hyperdrive: None Maneuver: +0 (~2 size, +2 crew)
-
-Crew: | (Normal +2) Initiative: +0 (-2 size, +2 crew) Passengers: | Defense: 13° (-2 size, +5 armor) Cargo Capacity: 80 kg Shield Points: 0
+Class: Airspeeder Crew: 1 (Normal +2) Size: Huge (6.61 m long) Initiative: +0 (−2 size, +2 crew) Hyperdrive: None Maneuver: +0 (−2 size, +2 crew) Passengers: 1 Defense: 13* (−2 size, +5 armor) Cargo Capacity: 80 kg Shield Points: 0
 
 Cost: 24,800 (new), 16,400 (used)
 
@@ -2341,105 +1670,59 @@ Atmospheric Speed: 800 km/h (13 squares/action) Weapon: None
 
 Attack Gunships During the Rise of the Empire era, Kuat Drive Yards manufactures gunships through its subsidiary, Rothanian Heavy Engineering, for a variety of clients all across the galaxy, most notably the Republic. Since Kuat Drive Yards is responsible for both the attack gunships and the Acclamator-class capital ships they are carried aboard, deploying the gunships on far-flung worlds like Geonosis is hardly an issue.
 
-The 17.4-meter-long, 17-meter wide attack gunship can deliver up to thirty troops to a landing zone. It is armed
+The 17.4-meter-long, 17-meter-wide attack gunship can deliver up to thirty troops to a landing zone. It is armed with two forward-facing dorsal mass driver missile launchers (fired by the copilot) and a trio of ball-joint-mounted point-defense laser cannons on the gunship's nose and wings (operated by either the pilot or copilot). For landings and additional firepower, the attack gunship comes equipped with crew-operated gunnery pods mounted with laser cannons—one on either side of the main compartment. These latter pods are mounted on extendable swivel-arms designed to swing out when the main hatches are opened, providing troops with a wall of laser fire to clear their way.
 
-ATTACK GUNSH|
-
-with two forward-facing dorsal mass driver missile launches) (fired by the copilot) and a trio of ball-joint-mounted point-defense laser cannons on the gunship's nose and wings (operated by either the pilot or copilot). For landings and additional firepower, the attack gunship comes equipped with crew-operated gunnery pods mounted with laser cannons—one on either side of the main compartment These latter pods are mounted on extendable swivel-atms designed to swing out when the main hatches are opened, providing troops with a wall of laser fire to clear their way.
+## ATTACK GUNSHIP
 
 The typical attack gunship stocks four military swoops in a rear cargo hold. The swoops cannot be dropped as fast as troops; unloading a single swoop requires 5 rounds, and only two can be unloaded at any one time.
 
-Class: Airspeeder Crew: 6 (Very Skilled +6)
+Class: Airspeeder Crew: 6 (Very Skilled +6) Size: Gargantuan (17.4 m long) Initiative: +2 (−4 size, +6 crew*) Hyperdrive: None Maneuver: +2 (−4 size, +6 crew*) Passengers: 30 (troops) Defense: 16† (−4 size, +10 armor) Cargo Capacity: 2 tons Shield Points: 0
 
-ive: +2 (-4 size, +6 crew"
+Cost: 65,000 (new), 40,000 (used) Maximum Speed in Space: Not applicable Atmospheric Speed: 620 km/h (10 squares/action)
 
-Maneuver: +2 (-4 size, +6 crew"
+Weapon: Mass driver missile launchers (2 fire-linked); Fire Arc: Front; Attack Bonus: +12 (−4 size, +14 crew*, +2 fire control); Damage: `6d10`; Range Increment: 300 m.
 
-Passengers: 30 (troops) Defense: 16" (~4 size, +10 armat)
-
-## Cargo Capacity: 2 tons Shield Points: 0
-
-Cost: 65,000 (new), 40,000 (used)
-
-## Maximum Speed in Space: Not applicable
-
-Atmospheric Speed: 620 km/h (10 squares/action)
-
-Weapon: Mass driver missile launchers (2 fire-linked); Fire Are: Front; Attack Bonus: +12 (-4 size, +14 crew™, +2 fire control), Damage: `6d10`; Range Increment: 300 m.
-
-Weapon: Anti-personne! laser cannons (3); Fire Arc: Partial turet (1 front/right/left, 1 front/right/rear, 1 front/left/rear): Attack Bonus: +10/+5/+0 (~4 size, +14/+9]+4 crew); Damage: 48;
-
-Size: Gargantuan (17.4 m long) Ini Hyperdrive: None
+Weapon: Anti-personnel laser cannons (3); Fire Arc: Partial turret (1 front/right/left, 1 front/right/rear, 1 front/left/rear); Attack Bonus: +10/+5/+0 (−4 size, +14/+9/+4 crew*); Damage: `4d8`;
 
 <!-- page 238 -->
 
-Weapon: Composite-beam pinpoint laser turrets (4); Fire Are: Turret; Attack Bonus: +14/+9/+4 (-4 size, +14/+9/+4 crew +4 fire control); Damage: 348; Range Increment: 30 m.
+Weapon: Composite-beam pinpoint laser turrets (4); Fire Arc: Turret; Attack Bonus: +14/+9/+4 (−4 size, +14/+9/+4 crew*, +4 fire control); Damage: `3d8`; Range Increment: 30 m.
 
-Weapon: Rocket launchers (2, 4 missiles each); Fire Arc: Front Attack Bonus: +12 (~4 size, +14 crew
+Weapon: Rocket launchers (2, 4 missiles each); Fire Arc: Front; Attack Bonus: +12 (−4 size, +14 crew*, +2 fire control); Damage: `5d10`; Range Increment: 200 m.
 
-Damage: 5d 10; Range Increment: 200 m.
+†Provides full cover to crew and passengers.
 
-+2 fire control):
-
-‘Provides full cover to crew and passengers.
-
-done troopers operate this vehicle, its init s Dexterity modi
-
-and its manew lifer i
-
-fer Each of its weapon's attack bonuses includes the gu itack bonus.
+*When clone troopers operate this vehicle, its initiative modifier includes their Dexterity modifier, its maneuver modifier includes their Pilot skill modifier, and each of its weapon’s attack bonuses includes the gunner’s ranged attack bonus.
 
 ## Single Trooper Aerial Platforms
 
-Iesigned to transport a single battle droid (usually one wrogrammed with several ranks in the Pilot skill), the Single Trooper Aerial Platform (STAP) is a fast and Jatform capable of transporting its pilot
+Designed to transport a single battle droid (usually one programmed with several ranks in the Pilot skill), the Single Trooper Aerial Platform (STAP) is a fast and maneuverable weapon platform capable of transporting its pilot quickly across any battlefield or terrain.
 
-weapon uickly across any attlefield or terrain.
+Variations on the mass-produced Baktoid Armor Workshop STAP have been designed for living (not droid) troopers as well.
 
-Variations on the mass-produced Baktoid Armor Workshop STAP t joopers as well.
+**Baktoid Armor Workshop Single Trooper Aerial Platform (STAP)**
 
-ve been designed for living (not droid)
+Class: Airspeeder Crew: 1 (Normal +2) Size: Medium-size (1.9 m long) Initiative: +2 (+0 size, +2 crew) Hyperdrive: None Maneuver: +2 (+0 size, +2 crew) Passengers: None Defense: 10 (+0 size, +0 armor) Cargo Capacity: None Shield Points: None Maximum Altitude: 20 m Hull Points: 10 (DR 10)
 
-Baktoid Armor Workshop Single Trooper Aerial Platfarm (STAP)
+Cost: 10,000 (used; black market) Maximum Speed in Space: Not applicable Atmospheric Speed: 300 km/h (5 squares/action)
 
-ss: Airspeed Crew: 1 (Normal Sie: Medium-size (1.9 m long) Initiative: +2 (+2 en lyperdrive: Non Maneuver
+Weapon: Double blaster cannon (fire-linked); Fire Arc: Front; Attack Bonus: +2 (+0 crew, +2 fire control); Damage: `3d8`; Range Increment: 20 m.
 
-Capacity: None Shield Points: laximum Altitude: 20 m Hull Points: 10 (DR 10)
-
-st; 10,000 (used; black marke
-
-Yoximum Speed in Space: Not applicable mospheric Speed: 300 km/h (5 squares/ac
-
-aster cannon (fire-linked); Fire Are: Fron
-
-iicapon: Double
-
-Attack Bonus: +2 (+0 crew, +2 fire control); Damage
-
-Range Increment: 20 m.
-
-Treides one-quarter cover to its pilot.
+*Provides one-quarter cover to its pilot.
 
 ## Cloud Cars
 
-dn many worlds, cloud cars are used as high-altitude patrol nd defense craft. The dual-pod craft that intercepted the Millennium Falcon on its approach to Cloud City in
+On many worlds, cloud cars are used as high-altitude patrol and defense craft. The dual-pod craft that intercepted the Millennium Falcon on its approach to Cloud City in Episode V: The Empire Strikes Back was one of the popular Bespin Motors Storm series of cloud cars.
 
-hisode V: The Empire Strikes Back was one of the popu- Bespin Motors Storm series of cloud cars.
+**Bespin Motors Storm IV Cloud Car**
 
-fespin Motors Storm IV Cloud Car
+Class: Airspeeder Crew: 2 (Skilled +4) Size: Huge (7 m long) Initiative: +2 (−2 size, +4 crew) Hyperdrive: None Maneuver: +2 (−2 size, +4 crew) Passengers: None Defense: 13* (−2 size, +5 armor) Cargo Capacity: 10 kg Shield Points: None Maximum Altitude: 100 km Hull Points: 40 (DR 5)
 
-Sue: Huge (7 m long) Initiative: +2 (-2 size, +4 crew) iyperdrive: None Maneuver
+Cost: 30,000 (new) Maximum Speed in Space: Not applicable Atmospheric Speed: 1,000 km/h (17 squares/action)
 
-hassengers: None Defense: 13* (-2 size, +5 armor igo Capacity: 10 kg Shield Points
+Weapon: Double blaster cannon (fire-linked); Fire Arc: Front; Attack Bonus: +2 (−2 size, +2 crew, +2 fire control); Damage: `5d6`; Range Increment: 300 m.
 
-liximum Altitude: 100 km Hull Points: 40 (DR 5)
-
-imum Speed in Space: Not applicable
-
-spheric Speed: 1,000 km/h (17 Wapon: Double blaster cannon (fire-linked); Fire Are: Front Attack Bonus: +2 (-2 size, +2 crew, +2 fire control); Damage
-
-«6; Range Increment: 300 m.
-
-es full caver to crew and passengers.
+*Provides full cover to crew and passengers.
 
 Buying a used starship can be tricky, particularly if the ship sports a defective shield generator or a jury-rigged system. To simulate this situation, the Gamemaster can roll d% to determine a used starship's general quality. The result indicates the flaw (or flaws) possessed by the ship.
 
@@ -2465,7 +1748,4 @@ The GM should generate these flaws secretly. Unfortunately, unscrupulous sellers
 
 Repairing a flaw usually requires at least an hour of work, although the GM can increase the time or difficulty as necessary. A fiendish GM might require the character to acquire esoteric replacement parts, bargain for vital components, bribe docking bay officials, or travel to appropriate facilities before repairs can begin. The GM should feel free to add or subtract flaws and systems as he sees fit to create unique vessels.
 
-N 3
-
-“ 4 Al “1 ag u “
 

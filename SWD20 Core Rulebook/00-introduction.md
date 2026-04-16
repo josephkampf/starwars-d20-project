@@ -6,29 +6,29 @@
 
 ## Introduction
 
-The Star Wars films depict an amazing galaxy of strange aliens, wondrous machinery, mystical powers, epic struggles, great heroes, and terrible villains.  From the moment the first Star Destroyer blazed across the screen, the story of Star Wars captivated the world. With this game, you can recreate the story of the films or craft your own adventures in the Star Wars universe. All you need is some dice, a few friends, and your imagination.
+The Star Wars films depict an amazing galaxy of strange aliens, wondrous machinery, mystical powers, epic struggles, great heroes, and terrible villains. From the moment the first Star Destroyer blazed across the screen, the story of Star Wars captivated the world. With this game, you can recreate the story of the films or craft your own adventures in the Star Wars universe. All you need is some dice, a few friends, and your imagination.
 
 ## This Is Star Wars
 
-Blasters; X-wing starfighters; lightsabers; clone troopers; the Force:
+Blasters; X-wing starfighters; lightsabers; clone troopers; the Force...
 
-Star Wars is space fantasy at its best, full of action, adventure, and a sense of wonder, The heroes are larger than life. The villains are utterly evil. The universe has a lived-in, well-used look and feel to it. It's a familiar story, but it’s never been told quite this way before. It has mythic elements that speak to the heart of the audience. It’s epic in scope; everything appears on a grand scale. And it’s fun. Vehicles move very fast. Things blow up. We want to cheer for the good guys and boo the bad guys. And, sometimes, we want to be a part of that faraway galaxy,
+Star Wars is space fantasy at its best, full of action, adventure, and a sense of wonder. The heroes are larger than life. The villains are utterly evil. The universe has a lived-in, well-used look and feel to it. It's a familiar story, but it’s never been told quite this way before. It has mythic elements that speak to the heart of the audience. It’s epic in scope; everything appears on a grand scale. And it’s fun. Vehicles move very fast. Things blow up. We want to cheer for the good guys and boo the bad guys. And, sometimes, we want to be a part of that faraway galaxy,
 
 ## This Is a Roleplaying Game
 
-It’s a game of your imagination, where you get to tell stories by taking on roles of the main characters~characters you create, It’s a game that offers a multitude of choices to those characters—more choices than even the most sophisticated computer game, because the only limit to what you can do is what you can imagine. The story is like a movie, except all of the action takes place in your imagination. There's no script to the movie (other than a rough outline used by the Gamemaster); you decide what your character says and does. The Gamemaster is the director and special effects designer, deciding what the story is about and taking on the roles of all the other characters—the villains, the extras, the special guest stars. The Gamemaster also keeps track of the rules, interprets the outcome of actions, and describes what happens. Together, players and Gamemaster create a story, and everybody has a great time.
+It’s a game of your imagination, where you get to tell stories by taking on roles of the main characters—characters you create. It’s a game that offers a multitude of choices to those characters—more choices than even the most sophisticated computer game, because the only limit to what you can do is what you can imagine. The story is like a movie, except all of the action takes place in your imagination. There's no script to the movie (other than a rough outline used by the Gamemaster); you decide what your character says and does. The Gamemaster is the director and special effects designer, deciding what the story is about and taking on the roles of all the other characters—the villains, the extras, the special guest stars. The Gamemaster also keeps track of the rules, interprets the outcome of actions, and describes what happens. Together, players and Gamemaster create a story, and everybody has a great time.
 
 ## This Is the Star Wars Roleplaying Game
 
-Combine the fabulous elements of the Star Wars universe with the imagination-powered engine of a roleplaying game, and the faraway galaxy draws nearer. Everything you need is in this book except the dice, Check out The Basics, starting on page 8, to get an idea of the fundamentals of the game.
+Combine the fabulous elements of the Star Wars universe with the imagination-powered engine of a roleplaying game, and the faraway galaxy draws nearer. Everything you need is in this book except the dice. Check out The Basics, starting on page 8, to get an idea of the fundamentals of the game.
 
 When you're ready, flip through the rest of this book. It offers a wealth of options, allowing you to play in any Star Wars era. It lets you play the good guys, the bad guys, or the guys in between if you want to add a little ambiguity to an otherwise black-and-white universe.
 
 When you play the Star Wars Roleplaying Game, you create a unique fictional character that lives in the imaginations of you and your friends. One person in the game, the Gamemaster (GM), controls the villains and other people who live in the Star Wars universe. Through your characters, you and your friends face the dangers and explore the mysteries that your Gamemaster sets before you.
 
-Anything is possible in the Star Wars Roleplaying Game. You can have your character try anything you can think of. If it sounds good and the dice fall in your favor, the action succeeds. The Basics section has more details,
+Anything is possible in the Star Wars Roleplaying Game. You can have your character try anything you can think of. If it sounds good and the dice fall in your favor, the action succeeds. The Basics section has more details.
 
-Now, get ready, It’s a long time ago in a galaxy far, far away, And the Force is with you, Enjoy!
+Now, get ready. It’s a long time ago in a galaxy far, far away. And the Force is with you. Enjoy!
 
 ## Characters
 
@@ -36,7 +36,7 @@ Your characters are the stars of the movie, the main characters in the game. We 
 
 A tough blaster-for-hire.
 
-A Padawan leamer seeking to gain power in the Force. A brash starfighter pilot.
+A Padawan learner seeking to gain power in the Force. A brash starfighter pilot.
 
 A gambler looking to make the next big score.
 
@@ -68,11 +68,9 @@ Here's what you need to start playing the Star Wars Roleplaying Game:
 
 - A copy of the character sheet.
 
-- A pencil and scratch paper; graph paper might be
-  useful, too.
+- A pencil and scratch paper; graph paper might be useful, too.
 
-- One or two four-sided dice (`d4`), four or more six-sided
-  dice (`d6`), an eight-sided die (`d8`), two ten-sided dice (`d10`),   a twelve-sided die (`d12`), and a twenty-sided die (`d20`).
+- One or two four-sided dice (`d4`), four or more six-sided dice (`d6`), an eight-sided die (`d8`), two ten-sided dice (`d10`), a twelve-sided die (`d12`), and a twenty-sided die (`d20`).
 
 - A miniature, an action figure, or something else to represent your character in the game.
 
@@ -134,7 +132,7 @@ And remember, the Force will be with you. Always.
 
 ## The Core Mechanic
 
-The Star Wars Roleplaying Game uses a core mechanic to resolve all actions. This central game rule keeps play fast and intuitive. Whenever you want to attempt an action that has some chance of failure, you roll a twenty-sided die (or “`d20`"). To determine whether your character succeeds at a task (such as an attack, the use of a skill or ability, or an attempt to save your character from harm), you do this;
+The Star Wars Roleplaying Game uses a core mechanic to resolve all actions. This central game rule keeps play fast and intuitive. Whenever you want to attempt an action that has some chance of failure, you roll a twenty-sided die (or “`d20`"). To determine whether your character succeeds at a task (such as an attack, the use of a skill or ability, or an attempt to save your character from harm), you do this:
 
 - Roll a `d20`.
 - Add any relevant modifiers.
@@ -145,8 +143,6 @@ If the result equals or exceeds the target number (set by the GM or given in the
 ## The Gamemaster
 
 When you play the Star Wars Roleplaying Game, you're participating in an interactive story. Players take on the roles of unique characters, called heroes. One player serves as the Gamemaster, a combination director, narrator, and referee. The GM describes situations, asks the players what their characters want to do, and resolves these actions according to the rules of the game. The GM sets each scene, keeps the story moving, and takes on the roles of the opponents and other characters that the players’ heroes encounter in each adventure. If you're the GM, you should read through all sections of this book; you don't need to memorize it, but you do need to have an idea of where to find things once play begins.
-
-participating in an interactive story. Pl
 
 ## Heroes
 
@@ -214,9 +210,9 @@ The other dice (`d4`, `d6`, `d8`, `d10`, and `d12`) are used to determine what h
 
 In the Star Wars Roleplaying Game, the Gamemaster and players get together to tell a story through the play of the game. We call these group-created stories “adventures.” A Star Wars adventure features plenty of action, lots of opportunities for combat, cool villains, epic plots, and a sense of wonder and grandeur.
 
-Typically, the game consists of adventures that resemble episodes in the movie saga. One adventure might play out in a single game session; another might stretch across several evenings of play. A session can last as long as you're comfortable playing, from as short as one hour to as long as a twelve-hour marathon, Most groups get together and play for two to four hours at a time. The game can be stopped at any time and restarted when the players get back together,
+Typically, the game consists of adventures that resemble episodes in the movie saga. One adventure might play out in a single game session; another might stretch across several evenings of play. A session can last as long as you're comfortable playing, from as short as one hour to as long as a twelve-hour marathon, Most groups get together and play for two to four hours at a time. The game can be stopped at any time and restarted when the players get back together.
 
-Each adventure consists of interrelated scenes, A scene might feature some kind of challenge or roleplaying encounter, or it could revolve around combat, When there’s no combat going on, play is much more casual, The GM describes the scene and asks the players what their characters do. When combat breaks out, game play becomes more structured, and the action takes place in rounds.
+Each adventure consists of interrelated scenes. A scene might feature some kind of challenge or roleplaying encounter, or it could revolve around combat. When there’s no combat going on, play is much more casual. The GM describes the scene and asks the players what their characters do. When combat breaks out, game play becomes more structured, and the action takes place in rounds.
 
 ## What Characters Can Do
 
@@ -250,7 +246,7 @@ For example, climbing a chain to get out of a repulsorlift repair pit depends on
 
 Opposed Checks: An opposed check occurs when another character actively attempts to prevent your character from succeeding at a given task.
 
-The DC for an opposed check is the check result of the character opposing your action. The opponent's check might be made using the same skill you are using or a different skill, as defined in the description of the skill you are using. The character with the higher result succeeds at the action being performed, while the character with the lower result fails. In the case of a tie, roll the checks again, until one character achieves a higher result than the other,
+The DC for an opposed check is the check result of the character opposing your action. The opponent's check might be made using the same skill you are using or a different skill, as defined in the description of the skill you are using. The character with the higher result succeeds at the action being performed, while the character with the lower result fails. In the case of a tie, roll the checks again, until one character achieves a higher result than the other.
 
 For example, if your character tries to hide from an opponent, your Hide check is opposed by the opponent's Spot check, If your result is higher, your character successfully hides, and your opponent fails to spot him. If your result is lower, your opponent spots you, and your attempt to hide fails.
 
@@ -258,11 +254,11 @@ For example, if your character tries to hide from an opponent, your Hide check i
 
 Ability checks are used when a character doesn’t have any ranks in a particular skill and tries to use that skill untrained. Note that some skills can't be used untrained,
 
-For example, if your character wants to bluff a couple of Imperial officers but doesn’t have any ranks in the Bluff. skill, the GM calls for a Charisma check (Charisma is the ability associated with the Bluff skill).
+For example, if your character wants to bluff a couple of Imperial officers but doesn’t have any ranks in the Bluff skill, the GM calls for a Charisma check (Charisma is the ability associated with the Bluff skill).
 
 Ability checks are also used to determine success when no skill applies. Trying to move a heavy cargo container, for example, requires a Strength check.
 
-To make an ability check, roll a `d20` and add your character's modifier for the appropriate ability. If the result is equal to or greater than the DC of the task, the check succeeds,
+To make an ability check, roll a `d20` and add your character's modifier for the appropriate ability. If the result is equal to or greater than the DC of the task, the check succeeds.
 
 ## Attack Rolls
 
@@ -286,9 +282,9 @@ See Chapters Seven and Eight for more details.
 
 Most of the time, game play is relaxed and casual. The GM sets the scene, and players take turns describing what their characters are doing. When the situation calls for it, the GM has the players make die rolls (skill checks or ability checks) to determine the results of their characters’ actions. But when a scene involves combat or the imminent threat of combat, a structured sequence of combat rounds is used to govern play.
 
-Ina combat round, each character gets to do something. Around represents 6 seconds in the game world, regardless of how long it takes the players to complete the round.
+In a combat round, each character gets to do something. Around represents 6 seconds in the game world, regardless of how long it takes the players to complete the round.
 
-At the start of a battle, each player makes an initiative check for his or her character, and the Gamemaster makes initiative checks for the opponents. The character with the highest result acts first, followed by the other characters in order (from highest result to lowest result). This order of play is used in every round until the battle ends. When your tum in the order comes up, you perform all the actions you are entitled to in the current round.
+At the start of a battle, each player makes an initiative check for his or her character, and the Gamemaster makes initiative checks for the opponents. The character with the highest result acts first, followed by the other characters in order (from highest result to lowest result). This order of play is used in every round until the battle ends. When your turn in the order comes up, you perform all the actions you are entitled to in the current round.
 
 There are four types of actions: attack actions, move actions, full-round actions, and free actions. In a round, you can do one of the following things (but see Chapter Eight for additional information):
 
@@ -308,7 +304,7 @@ An attack action lets you do something. You can make an attack, use a skill or a
 
 A move action lets you move your speed in a round or perform an equivalent action. Equivalent actions include climbing, drawing or loading a weapon, opening a door, and picking up an item. You can move and attack, in either order, in a round. Or you can perform two move actions in a round, using a second move action in place of an attack action.
 
-A full-round action consumes all of your effort in a round, Attacking more than once (if you are of sufficient level to do so) or using a skill or feat that requires a full round to accomplish is considered a full-round action.
+A full-round action consumes all of your effort in a round. Attacking more than once (if you are of sufficient level to do so) or using a skill or feat that requires a full round to accomplish is considered a full-round action.
 
 ## Free Actions
 
@@ -338,7 +334,7 @@ If you're new to roleplaying games, you might be wondering how to proceed. After
 
 ## Playing Star Wars
 
-The Star Wars galaxy is huge. More than a billion star systems fall within the known reaches of space, offering countless opportunities for wonder, mystery, and danger. Thousands of alien species live in this galaxy, from humble Jawas to powerful Wookiees. While humans are prevalent throughout known space, other species can be found everywhere. In this galaxy, the many worlds share a common history that extends thousands of years into the past. A galaxywide government (be it Republic or Empire) maintains law and order thanks to faster-than-light-speed travel provided by the amazing hyperdrive engine. Because hyperspace travel makes the distance between the stars insignificant, trade, commerce, and culture mix freely in regions as. diverse as the Core and the Outer Rim.
+The Star Wars galaxy is huge. More than a billion star systems fall within the known reaches of space, offering countless opportunities for wonder, mystery, and danger. Thousands of alien species live in this galaxy, from humble Jawas to powerful Wookiees. While humans are prevalent throughout known space, other species can be found everywhere. In this galaxy, the many worlds share a common history that extends thousands of years into the past. A galaxywide government (be it Republic or Empire) maintains law and order thanks to faster-than-light-speed travel provided by the amazing hyperdrive engine. Because hyperspace travel makes the distance between the stars insignificant, trade, commerce, and culture mix freely in regions as diverse as the Core and the Outer Rim.
 
 The Star Wars Roleplaying Game lets you explore this imaginary galaxy. All you need is this book, some dice, a few willing friends, and your imagination. The game works best with a group of five, one GM and four players. It can be played with as few as two participants (one GM and one player) or as many as seven,
 
@@ -374,15 +370,15 @@ Anyway, it looks like everyone's ready to get started. Michele answers a few las
 
 Michele (GM): A long time ago, in a galaxy far, far away ... it is the time of the Republic, about twenty-two years before the days of the Empire and the first Death Star battle station. Supreme Chancellor Palpatine leads the Republic, Mace Windu and Yoda lead the Jedi Council, and the start of the Clone Wars is still a few weeks away.
 
-You're in a spaceport cantina on Corellia, a prominent world in the galactic core, The place is pretty busy for a weekday afternoon, though it's not packed to capacity. You see humans and a variety of other species drinking, laugh-
+You're in a spaceport cantina on Corellia, a prominent world in the galactic core, The place is pretty busy for a weekday afternoon, though it's not packed to capacity. You see humans and a variety of other species drinking, laughing, and talking quietly near the bar
 
 <!-- page 14 -->
 
-ing, and talking quietly near the bar, in shadowy booths, and at a scattering of freestanding tables. Among those you see are the other players’ characters, Why don’t you each take a moment to describe yourselves?
+, in shadowy booths, and at a scattering of freestanding tables. Among those you see are the other players’ characters, Why don’t you each take a moment to describe yourselves?
 
-Chris (Sia-Lan); You see a young woman with brown hair sitting alone in one of the booths. She’s sipping a clear liquid and watching the crowd. Her hair style and outfit mark her as a Jedi, She's a Padawan learner, if any of you know anything about the specifics of the Jedi Order. She has a lightsaber hanging at her side, but it’s probably hidden beneath the table,
+Chris (Sia-Lan): You see a young woman with brown hair sitting alone in one of the booths. She’s sipping a clear liquid and watching the crowd. Her hair style and outfit mark her as a Jedi, She's a Padawan learner, if any of you know anything about the specifics of the Jedi Order. She has a lightsaber hanging at her side, but it’s probably hidden beneath the table,
 
-Mike (Rorworr): There's a young male Wookiee standing at the bar. He’s exchanging words with the bartender. He's tall, but perhaps a bit thin when compared to other Wookiees you may have seen. He’s got a boweaster slung across his back, and he’s nursing a huge mug of some foamy liquid.
+Mike (Rorworr): There's a young male Wookiee standing at the bar. He’s exchanging words with the bartender. He's tall, but perhaps a bit thin when compared to other Wookiees you may have seen. He’s got a bowcaster slung across his back, and he’s nursing a huge mug of some foamy liquid.
 
 Penny (Vor‘an): My character sits in a corner booth, his back to the wall as he nonchalantly studies the crowd. He's got dark eyes and an intense gaze, and he looks strong and capable. He’s wearing bits and pieces of light body armor. If he has any weapons—and you're sure he does—they’re either hidden under the table or in the booth’s darker shadows.
 
@@ -392,17 +388,17 @@ Michele (GM): Okay, You've all noticed each other, but you don't know each other
 
 The players each roll a `d20` and add their Spot skill modifier to get a result. If a character doesn't have the Spot skill, the player still gets to apply his Wisdom modifier (if any) to the roll. After all the players have made the skill check, they let the GM know the results.
 
-Chris (Sia-Lan); Sia-Lan got a 15,
+Chris (Sia-Lan): Sia-Lan got a 15.
 
 Penny (Vor'en): The soldier got an 8,
 
-Brian (Deel): The amazingly perceptive Deel Surool got a22.
+Brian (Deel): The amazingly perceptive Deel Surool got a 22.
 
 Michele consults her notes, checking to see what the DC for the Spot check is. She nods and makes a note or two, just to keep the players guessing.
 
 Michele (GM): Vor'en the soldier, even though he’s watching the room, fails to notice something that the rest of you successfully spot. The rest of you see a human male who looks a lot like Alastar Treen, the senator from Corulag. He's dressed like most of the other spacers in the cantina, and he’s deep in conversation with a Rodian female.
 
-Just then, you all see the cantina doors slide open as a group of tough-looking thugs enters the room. The bartender yells, “Hey, no blasters in here!” He ducks behind the bar, just in time, as one of the thugs casually fires a blaster bolt in his direction. There are four thugs—two. Humans, a Rodian, and a Gamorrean. The Gamorrean wields avibroblade, and the other three are armed with blaster pistols. The Gamorrean grunts something foul and gestures toward the table where the senator is sitting.
+Just then, you all see the cantina doors slide open as a group of tough-looking thugs enters the room. The bartender yells, “Hey, no blasters in here!” He ducks behind the bar, just in time, as one of the thugs casually fires a blaster bolt in his direction. There are four thugs—two. Humans, a Rodian, and a Gamorrean. The Gamorrean wields a vibroblade, and the other three are armed with blaster pistols. The Gamorrean grunts something foul and gestures toward the table where the senator is sitting.
 
 “For the Separatists!” shouts one of the humans with a sneer as he prepares to target Senator Treen.
 
@@ -420,11 +416,11 @@ Michele writes down the initiative order, from highest result to lowest. She jot
 
 Michele (GM): The thugs look like they're gunning for the senator. Sia-Lan, what are you going to do?
 
-Chris (Sia-Lan): | leap out of the booth and position myself between the senator and the thugs as my first move action, As my second move action | draw my lightsaber, As a free action, | activate the lightsaber and shout, “This man is under the protection of the Jedi Knights!”
+Chris (Sia-Lan): I leap out of the booth and position myself between the senator and the thugs as my first move action. As my second move action I draw my lightsaber. As a free action, I activate the lightsaber and shout, “This man is under the protection of the Jedi Knights!”
 
 Michele (GM); Your lightsaber hums to life. Deel, you're next. What are you going to do?
 
-Brian (Deel): Helping a senator and a Jedi could be profitable, Deel tips his table over and crouches behind it to get some cover. | guess that’s a move action. Then he pulls out his blaster for his second move action,
+Brian (Deel): Helping a senator and a Jedi could be profitable. Deel tips his table over and crouches behind it to get some cover. | guess that’s a move action. Then he pulls out his blaster for his second move action,
 
 Michele (GM): When the table crashes onto its side, sabacc card-chips and credits scatter across the floor. The spacers you were playing with dive for cover.
 
@@ -558,11 +554,7 @@ For example, if you have 4 ranks in Climb and a Strength modifier of +2, your Cl
 
 ## Select Feats
 
-You start with at least one feat, though your class and
-
-species might provide additional feats at 1st level. Select your feats from Chapter Five and record them on the character sheet. Some feats may affect the information you've
-
-already recorded, so make adjustments as necessary.
+You start with at least one feat, though your class and species might provide additional feats at 1st level. Select your feats from Chapter Five and record them on the character sheet. Some feats may affect the information you've already recorded, so make adjustments as necessary.
 
 ## Determine Starting Credits and Buy Gear
 

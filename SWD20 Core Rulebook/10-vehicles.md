@@ -4,13 +4,13 @@
 
 <!-- page 185 -->
 
-VeHicLes| ff]
+<!-- garbled OCR header removed -->
 
 <!-- page 186 -->
 
 Vehicles in the Star Wars universe run the gamut from ponderous armored walkers to agile aircars. Despite this variety, the basic purpose of all vehicles remains similar: moving passengers from one place to another. Of course, the places involved in this joumey can greatly affect the form and function of the vehicle—if you're headed to the battlefield, you'll
 
-ant a far different transport than if you're headed across town.
+want a far different transport than if you're headed across town.
 
 In most respects, vehicles follow the same rules as characters. Their movement, actions, and capacity to take damage are all on the same scale as those of characters.
 
@@ -28,11 +28,11 @@ Wheeled [Ground] Vehicles: The most basic vehicles in the Star Wars universe, wh
 
 Tracked [Ground] Vehicles: These vehicles are more stable and versatile than wheeled ground vehicles but also tend to move more slowly. They have treads or tracks looped around a large number of wheels, providing great traction but making them less maneuverable at higher speeds—and extremely loud at any speed. Tracked vehicles gain a +2 equipment bonus when the driver attempts a turn maneuver, they take no movement penalty in undergrowth, and they take a x3/4 penalty in thick undergrowth rather than x1/2 (see Table 10-1).
 
-Walker [Ground] Vehicles: These vehicles move about ‘on two or more legs, literally walking over the terrain. Walkers retain their balance by means of finely tuned gyroscopes and offer a fairly smooth ride. They rely on even footing, however, and when they topple, the results can be disastrous. Walkers take no movement penalty for obstructions but take an addi tional x1/4 movement penalty for terrain (see Table 10-1).
+Walker [Ground] Vehicles: These vehicles move about ‘on two or more legs, literally walking over the terrain. Walkers retain their balance by means of finely tuned gyroscopes and offer a fairly smooth ride. They rely on even footing, however, and when they topple, the results can be disastrous. Walkers take no movement penalty for obstructions but take an additional x1/4 movement penalty for terrain (see Table 10-1).
 
 <!-- page 187 -->
 
-SSATOIHSA
+<!-- garbled OCR header removed -->
 
 Speeder (Ground) Vehicles: Speeders are common on the civilized worlds of the galaxy. Equipped with repulsorlift drive technology, they hover above the ground at a height of anywhere from a few centimeters to several meters and can achieve remarkable speeds. The classification can be some-
 
@@ -60,29 +60,21 @@ In general, a vehicle described in this chapter can be purchased for the cost gi
 
 poor surfaces as “poor”
 
-Vehicle Systems Vehicles range from exceedingly simple machines to exceet ingly complex ones. The larger a vehicle, the more likely i has sophisticated systems on board to maintain and regulate various processes. Unlike starships, most vehicle system boil down to just a few significant pieces of equipment.
+Vehicle Systems Vehicles range from exceedingly simple machines to exceedingly complex ones. The larger a vehicle, the more likely it has sophisticated systems on board to maintain and regulate various processes. Unlike starships, most vehicle systems boil down to just a few significant pieces of equipment.
 
 ## Drive Systems
 
-Vehicle drives fall into various categories, from wheels and treads to wings and rockets. In places where the technolog) hasn’t taken a step or two backward, the prevailing vehide drive is the repulsorlift.
+Vehicle drives fall into various categories, from wheels and treads to wings and rockets. In places where the technology hasn’t taken a step or two backward, the prevailing vehicle drive is the repulsorlift.
 
-Repulsorlift drives, or repulsors, operate by producing an antigravity field that pushes against the local gravity, thus providing lift. While vehicles can “angle” this field to produce forward motion (or motion in any lateral direction), doing so is inefficient; almost all vehicles equipped with repulsors have another drive system to provide thrust. A system for providing thrust can be anything from an archi internal combustion engine to an ion engine.
+Repulsorlift drives, or repulsors, operate by producing an antigravity field that pushes against the local gravity, thus providing lift. While vehicles can “angle” this field to produce forward motion (or motion in any lateral direction), doing so is inefficient; almost all vehicles equipped with repulsors have another drive system to provide thrust. A system for providing thrust can be anything from an archaic internal combustion engine to an ion engine.
 
-Sensors While more common on starships, sensors are also standart, on many modern yehicles—particularly those capable of high speeds that must be safely maneuvered around obste« cles such as buildings. Vehicle sensors are generally smal, dashboard-mounted screen that provide a visual representation of the surroundi terrain or, at the very least, an obstacle proximity alert =2 These sensors do not actu- ~4 ally improve the driver’s
+Sensors While more common on starships, sensors are also standard on many modern vehicles—particularly those capable of high speeds that must be safely maneuvered around obstacles such as buildings. Vehicle sensors are generally small, dashboard-mounted screens that provide a visual representation of the surrounding terrain or, at the very least, an obstacle proximity alert. These sensors do not actually improve the driver’s ability—they merely enable him to operate normally at higher speeds. Gathering data from such sensors is a free action.
 
-ability—they merely enable
-
-him to operate normally at +2 higher speeds. Gathering 4 data from such sensors isa -6 free action.
-
-The DC required to locate ae an object with a vehicle's -4 sensors depends primarily on the object's size and its distance from the vehicle.
+The DC required to locate an object with a vehicle’s sensors depends primarily on the object’s size and its distance from the vehicle.
 
 <!-- page 188 -->
 
-ible 10-2: Vehicle Sensor Detection gives base DCs and sodifiers for detecting objects using vehicle sensors. Athough vehicles can be fitted with starship-style sensors, ‘he standard sensor is merely a “line-of-travel” sensor that ‘sweeps the front arc of the vehicle, similar to the way “search pode” works on starship sensors (see Chapter Eleven: Sarships). This mode sweeps the forward arc for information, wut to a distance of 5,000 meters. Using the sensors in this fashion is considered “active” for purposes of detection by iher vehicles or ships, and it requires a move action. When
-
-sensors are used in active mode, the sensor operator receives 444 equipment bonus on his Computer Use check made to detect objects in his vehicle’s path. However, active sensors ako make a vehicle easier for someone else's sensors to
-
-de The DC to detect the vehicle is reduced by 4 (see fable 10-2).
+Table 10-2: Vehicle Sensor Detection gives base DCs and modifiers for detecting objects using vehicle sensors. Although vehicles can be fitted with starship-style sensors, the standard sensor is merely a “line-of-travel” sensor that sweeps the front arc of the vehicle, similar to the way “search mode” works on starship sensors (see Chapter Eleven: Starships). This mode sweeps the forward arc for information, out to a distance of 5,000 meters. Using the sensors in this fashion is considered “active” for purposes of detection by other vehicles or ships, and it requires a move action. When sensors are used in active mode, the sensor operator receives a +4 equipment bonus on his Computer Use check made to detect objects in his vehicle’s path. However, active sensors also make a vehicle easier for someone else’s sensors to detect. The DC to detect the vehicle is reduced by 4 (see Table 10-2).
 
 **Table 10-2: Vehicle Sensor Detection**
 
@@ -111,27 +103,19 @@ de The DC to detect the vehicle is reduced by 4 (see fable 10-2).
 
 ## Communications
 
-Jone vehicles include full communication arrays, while
+Some vehicles include full communication arrays, while others are lucky to have a voice-only communication system. Some vehicle designs rely on the driver or rider to provide his own comm system if one is desired.
 
-shers are lucky to have a voice-only communication
-
-ysiem. Some vehicle designs rely on the driver or rider to wovide his own comm system if one is desired,
-
-Most vehicles use speed-of-light communication for wveying messages. They can interact directly with interans (onboard communication) and comlinks (personal immunication), though their maximum range is about 50 liometers (due to planet curvature preventing line-of-sight yond that distance). Like comlinks, vehicle comm units a also communicate with starships in low orbit. Asubspace transceiver allows for audio, visual, and holophic communication out to a range of several dozen ht-years. Military vehicles and top-of-the-line private
-
-ft tend to have subspace transceivers.
+Most vehicles use speed-of-light communication for conveying messages. They can interact directly with intercoms (onboard communication) and comlinks (personal communication), though their maximum range is about 50 kilometers (due to planet curvature preventing line-of-sight beyond that distance). Like comlinks, vehicle comm units can also communicate with starships in low orbit. A subspace transceiver allows for audio, visual, and holographic communication out to a range of several dozen light-years. Military vehicles and top-of-the-line private craft tend to have subspace transceivers.
 
 ## Vehicle Combat
 
-hie following rules provide a framework for combat involvby vehicles. The more vehicles involved, the more
-
-implicated the combat.
+The following rules provide a framework for combat involving vehicles. The more vehicles involved, the more complicated the combat.
 
 Once it becomes clear that vehicle combat is going to occur—either because vehicles come within sensor range of each other or because the scenario calls for battle—-you need to know who acts first, what each vehicle and pilot can do during each action, and how these choices affect the battle, Begin by determining initiative, just like in combat between characters.
 
 ## Initiative
 
-The Gamemaster has two options for determining initiative in vehicle combat. First, the GM can use individual initiative just as in normal combat, where each hero rolls separately. This is probably the best method if most or all of the heroes are aboard the same vehicle, but it can result in a lot of delayed or readied actions as gunners wait for pilots to perform maneuvers. An easier way is to roll initiative for each vehicle, using the vehicle's size modifier as the initia tive modifier. This is particularly appropriate when heroes are in separate vehicles and allows everyone on the same vehicle to act more or less simultaneously.
+The Gamemaster has two options for determining initiative in vehicle combat. First, the GM can use individual initiative just as in normal combat, where each hero rolls separately. This is probably the best method if most or all of the heroes are aboard the same vehicle, but it can result in a lot of delayed or readied actions as gunners wait for pilots to perform maneuvers. An easier way is to roll initiative for each vehicle, using the vehicle's size modifier as the initiative modifier. This is particularly appropriate when heroes are in separate vehicles and allows everyone on the same vehicle to act more or less simultaneously.
 
 Table 10-3: Vehicle Speeds and Modifiers, on the next page, notes bonuses to a ship’s Defense and penalties (if any) to the crew's attack rolls and skill checks based on the vehicle’s speed. You will need to refer to this table frequently during combat.
 
@@ -945,35 +929,19 @@ Cost: Not available for sale
 
 “Provides full cover to crew and passengers.
 
-Weapon: ire Arc: Front; Attack Bonus: +0 (-4 size, +0 crew, +4 fire control); Damage: `5d8`; Range Increment: 30 m.
+Weapon: Heavy laser cannon; Fire Arc: Front; Attack Bonus: +0 (-4 size, +0 crew, +4 fire control); Damage: `5d8`; Range Increment: 30 m.
 
-Weapon: Shell launchers (6 front-mounted); Fire Are: Front;
-
-jeavy laser canno}
-
-Attack Bonus: -2 (4 size, +2 crew, +0 fire control); Damage: 3d 10x6; Range Increment: 100 m.
+Weapon: Shell launchers (6 front-mounted); Fire Arc: Front; Attack Bonus: -2 (-4 size, +2 crew, +0 fire control); Damage: `3d10x6`; Range Increment: 100 m.
 
 These resilient, well-armed vehicles use wheels, treads, powered legs, or repulsorlifts to transport large numbers of troops across the battlefield and into hostile territory.
 
 The slow Trade Federation MTT is designed to carry up to one hundred battle droids and ten super battle droids but cannot effectively transport any other kind of troops. Baktoid Armor Workshop’s MTT occupies an area 16 squares long by 5 squares wide.
 
-Baktoid Armor Workshop MTT Class: Speeder [Ground] Crew: 2 (Normal +2) si
+**Baktoid Armor Workshop MTT** Class: Speeder [Ground] Crew: 2 (Normal +2) Size: Colossal (31 m long) Initiative: -6 (-8 size, +2 crew) Passengers: See above Maneuver: -6 (-8 size, +2 crew) Cargo Capacity: 10 tons Defense: 12\* (-8 size, +10 armor) Speed: 25 Shield Points: 0
 
-Colossal (31 m long) Initiative: -6 (-8 size, +2 crew)
+Cost: 8,000 (new), 80,000 (used)
 
-assengers: See above Maneuver: -6 (-8 size, +2 crew)
+\*Provides full cover to crew and passengers below decks.
 
-Cargo Capacity: 10 tons Defense: 12° (-8 size, +10 armor) Speed: 2¢ Shield Points: 0
-
-Cost 8,000 (new), 80,000 (used)
-
-“Provides full cover to crew and passengers below decks. Weapon: turret (front/right/
-
-laster cannons (2 fire-linked pairs); Fire Are: Partial
-
-eft); Attack Bonus: ~4 (-8 size, +0 crew, +4 fire control); Damage: 3d 10x2; Range Increment: 200 m.
-
-aA 8
-
-vA)
+Weapon: Blaster cannons, 2 fire-linked pairs (partial turret); Fire Arc: Front/Right/Left; Attack Bonus: -4 (-8 size, +0 crew, +4 fire control); Damage: `3d10x2`; Range Increment: 200 m.
 

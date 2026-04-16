@@ -24,11 +24,13 @@ The New Republic, of course, minted its own credits after the victory at Endor a
 
 <!-- page 131 -->
 
-Carrying Credits The most common method for keeping track of your credits during the Rise of the Empire era is carrying a credit chip. It contains memory algorithms that can securely monitor the amount of credits available to the owner of the chip and accurately add to and subtract from that amount as transactions occur, In later years, the credit chip is replaced by the cred stick, a pen-sized device that takes up less space.
+## Carrying Credits
 
-Electronic vouchers, corporate and bank notes, and even stocks are also available, but any electronic device can be traced, For this reason, many criminal elements (including the Alliance during the Rebellion era) use hard currency or bars of precious metals to avoid the telltale sign of electronic exchanges,
+The most common method for keeping track of your credits during the Rise of the Empire era is carrying a credit chip. It contains memory algorithms that can securely monitor the amount of credits available to the owner of the chip and accurately add to and subtract from that amount as transactions occur. In later years, the credit chip is replaced by the cred stick, a pen-sized device that takes up less space.
 
-What you carry around depends on the campaign era, the type of character you're playing, and the rules your GM establishes about the campaign world,
+Electronic vouchers, corporate and bank notes, and even stocks are also available, but any electronic device can be traced. For this reason, many criminal elements (including the Alliance during the Rebellion era) use hard currency or bars of precious metals to avoid the telltale sign of electronic exchanges.
+
+What you carry around depends on the campaign era, the type of character you're playing, and the rules your GM establishes about the campaign world.
 
 ## Wealth Beyond Credits
 
@@ -72,9 +74,11 @@ Weapons are grouped into three types of categories: the feat needed for proficie
 
 ## Simple Weapons
 
-Simple weapons require almost no special training to use, and all classes start out proficient with them. Simple weapons include the club, combat gloves, knife, mace, quarterstaff, stun baton, grenades, and thermal detonator
+Simple weapons require almost no special training to use, and all classes start out proficient with them. Simple weapons include the club, combat gloves, knife, mace, quarterstaff, stun baton, grenades, and thermal detonator.
 
-Blaster Pistols Blaster pistols (commonly called blasters) are ranged energy weapons that can be fired with one hand — the blaster pistol, heavy blaster pistol, hold-out blaster, sporting blaster, and ion gun pistol. This type of weapon is the most basic firearm in the Star Wars universe. Most classes start out proficient in the use of blaster pistols.
+## Blaster Pistols
+
+Blaster pistols (commonly called blasters) are ranged energy weapons that can be fired with one hand — the blaster pistol, heavy blaster pistol, hold-out blaster, sporting blaster, and ion gun pistol. This type of weapon is the most basic firearm in the Star Wars universe. Most classes start out proficient in the use of blaster pistols.
 
 ## Blaster Rifles
 
@@ -102,19 +106,25 @@ Large, powerful energy weapons that require either a brace or tripod to operate 
 
 A class of bladed, powered melee weapons, vibro weapons are among the deadliest items in anyone’s close combat arsenal. A vibro weapon consists of a mundane-looking blade with an ultrasonic generator in the hilt or handle. The ultrasonics vibrate along the blade edge. The user gets greater cutting power with less effort. Vibro applications are seen in a variety of cutting tools, from industrial-sized cutters to small scalpels used by artisans and surgeons. Offensive versions were a natural evolution of the technology, from the Small vibrodagger to the Medium-size vibroblade to the Large vibro-ax.
 
-Exotic Weapons Unlike other weapon groups, you must select the Exotic Weapon Proficiency feat each time you want to learn how to use a different exotic weapon. Exotic weapons include the lightsaber, longsword, bowcaster, gaderffii, atlatl, cesta, and electro-net. Each selection of the feat represents proficiency in a different exotic weapon.
+## Exotic Weapons
+
+Unlike other weapon groups, you must select the Exotic Weapon Proficiency feat each time you want to learn how to use a different exotic weapon. Exotic weapons include the lightsaber, longsword, bowcaster, gaderffii, atlatl, cesta, and electro-net. Each selection of the feat represents proficiency in a different exotic weapon.
 
 Exotic weapons are hard to come by and may not be available in many cases. The prices shown are for comparison purposes or for characters with the Craft skill who want to build such an item. Lightsabers, bowcasters, gaderffii, and cestas aren’t usually found on the open market and normally can’t be purchased.
 
-Primitive Weapons In an increasingly technological society, nontech or low-tech items see less and less use. Primitive weapons include the spear, net, sling, and bow (with arrows).
+## Primitive Weapons
+
+In an increasingly technological society, nontech or low-tech items see less and less use. Primitive weapons include the spear, net, sling, and bow (with arrows).
 
 ## Slugthrowers
 
 A class of projectile weapons, slugthrowers hurl physical bullets instead of packets of coherent light. Used primarily in frontier settlements or on worlds that have not achieved space flight, this proficiency covers both pistol and rifle slugthrowers.
 
-Melee Weapons These are among the simplest weapons of all. Used in close combat, melee weapons inflict bludgeoning, slashing, or piercing damage, depending on the weapon’s design. Some combine powered components to augment or even replace the user's own strength. Many types of melee weapons are widely available and have few governmental or legal restrictions. Civilians, law enforcement agents, and military personnel alike carry these items,
+## Melee Weapons
 
-A character's Strength bonus is always added to a melee weapon's attack roll and damage roll,
+These are among the simplest weapons of all. Used in close combat, melee weapons inflict bludgeoning, slashing, or piercing damage, depending on the weapon’s design. Some combine powered components to augment or even replace the user’s own strength. Many types of melee weapons are widely available and have few governmental or legal restrictions. Civilians, law enforcement agents, and military personnel alike carry these items.
+
+A character’s Strength bonus is always added to a melee weapon’s attack roll and damage roll.
 
 ## Atlatl
 
@@ -124,13 +134,15 @@ If forced into close combat, the wielder can use the atlatl as a club.
 
 ## Cesta
 
-Another Gungan weapon, the cesta is a flexible pole used to hurl small energy balls. 1t can also be used as a stafflike melee weapon.
+Another Gungan weapon, the cesta is a flexible pole used to hurl small energy balls. It can also be used as a stafflike melee weapon.
 
 ## Club
 
 Clubs are among the most ancient weapons. While the materials used to manufacture them may have improved over the centuries, they still function the same way: Powered by the wielder's brute strength, clubs break an opponent’s bones, or worse. They are the favored weapons of thugs. Batons (a variety of the club) are used by police forces on relatively peaceful worlds in crowd-control situations.
 
-Combat Gloves A pair of padded gloves provides extra hitting power thanks to their weight and the materials used to construct them. Anyone who expects to get into a fistfight or a brawl probably wants to wear combat gloves. They provide a +2 bonus to damage on a successful unarmed strike.
+## Combat Gloves
+
+A pair of padded gloves provides extra hitting power thanks to their weight and the materials used to construct them. Anyone who expects to get into a fistfight or a brawl probably wants to wear combat gloves. They provide a +2 bonus to damage on a successful unarmed strike.
 
 <!-- page 133 -->
 
@@ -254,9 +266,13 @@ A double-bladed lightsaber requires two special energy cells to operate (the cos
 
 An exotic weapon primarily because it isn’t widely used throughout the galaxy, this straight-bladed weapon is used on some less technologically advanced worlds. Some pirates take up the longsword to use as a secondary weapon when making raids and participating in boarding party actions.
 
-Mace, Light The mace is a Weapon made of metal, consisting of a heavy ball atop a handle,
+## Mace, Light
 
-Quarterstaff A quarterstaff is made of wood, plasteel, or a metal alloy. A user can strike with either end of the quarterstaff, taking full advantage of any openings in an opponent's defenses. A quarterstaff is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons as if you were using a one-handed weapon and a light weapon (see Attacking with Two Weapons, page 156),
+The mace is a weapon made of metal, consisting of a heavy ball atop a handle.
+
+## Quarterstaff
+
+A quarterstaff is made of wood, plasteel, or a metal alloy. A user can strike with either end of the quarterstaff, taking full advantage of any openings in an opponent's defenses. A quarterstaff is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons as if you were using a one-handed weapon and a light weapon (see Attacking with Two Weapons, page 156).
 
 ## Spear
 
@@ -264,31 +280,37 @@ A common weapon used by hunters and warriors in primitive cultures, the spear is
 
 ## Stun Baton
 
-A short club with a power pack in the handle, the stun baton can be activated to produce a stunning charge when it strikes a target. §
+A short club with a power pack in the handle, the stun baton can be activated to produce a stunning charge when it strikes a target.
 
-A stun baton tequires an energy & cell to operate. &
+A stun baton requires an energy cell to operate.
 
-Vibro-Ax This powerful vibro weapon features an energy cell that causes the specially seated blade to vibrate rapidly when activated. This gives the weapon far greater cutting power than a standard axe, with minimal effort from the wielder. These weapons are illegal on most Core worlds.
+## Vibro-Ax
 
-A vibro-ax requires two energy cells to operate,
+This powerful vibro weapon features an energy cell that causes the specially seated blade to vibrate rapidly when activated. This gives the weapon far greater cutting power than a standard axe, with minimal effort from the wielder. These weapons are illegal on most Core worlds.
+
+A vibro-ax requires two energy cells to operate.
 
 ## Vibroblade
 
-The vibroblade is a close-combat weapon favored by soldiers and mercenaries throughout the galaxy, It resembles a short sword with a high-tech look and feel. The energy cell powers the blade-edge vibrations that make this weapon so deadly. Vibroblades are illegal in most urban areas. A vibroblade requires an energy cell to operate.
+The vibroblade is a close-combat weapon favored by soldiers and mercenaries throughout the galaxy. It resembles a short sword with a high-tech look and feel. The energy cell powers the blade-edge vibrations that make this weapon so deadly. Vibroblades are illegal in most urban areas. A vibroblade requires an energy cell to operate.
 
-Vibrodagger Assassins and petty thugs favor the smallest of the vibro weapons, the vibrodagger. A number of civilians carry it for defense. It alone among vibro weapons is subject to very little regulation, since it is viewed as a common tool for crafters and explore As with other vibro weapons, an energy cell produces rapid vibrations along the specially seated blade edge, giving the vibrodagger extra cutting power with relatively little extra effort on the part of the user.
+## Vibrodagger
 
-A vibrodagger requires an energy cell to operate,
+Assassins and petty thugs favor the smallest of the vibro weapons, the vibrodagger. A number of civilians carry it for defense. It alone among vibro weapons is subject to very little regulation, since it is viewed as a common tool for crafters and explorers. As with other vibro weapons, an energy cell produces rapid vibrations along the specially seated blade edge, giving the vibrodagger extra cutting power with relatively little extra effort on the part of the user.
+
+A vibrodagger requires an energy cell to operate.
 
 ## Ranged Weapons
 
-At any given time, hundreds of manufacturers are creating and marketing a wide array of ranged weapons. These weapons run the gamut from small, concealable handheld weapons to tripod-mounted cannons that require a crew transport and operate.
+At any given time, hundreds of manufacturers are creating and marketing a wide array of ranged weapons. These weapons run the gamut from small, concealable handheld weapons to tripod-mounted cannons that require a crew to transport and operate.
 
-All ranged weapons apply the wielder’s Dexterity modifier to the attack roll, Any attack at less than the range increment distance is not penalized for range. However, each full range increment of distance between the weapon wielder and the target causes a cumulative -2 penalty to the attack roll.
+All ranged weapons apply the wielder’s Dexterity modifier to the attack roll. Any attack at less than the range increment distance is not penalized for range. However, each full range increment of distance between the weapon wielder and the target causes a cumulative -2 penalty to the attack roll.
 
-Ranged weapons have a maximum range of ten range increments, except for strength-powered ranged weapons (thrown weapons, bows, or slings), which have a maximum, range of five increments,
+Ranged weapons have a maximum range of ten range increments, except for strength-powered ranged weapons (thrown weapons, bows, or slings), which have a maximum range of five increments.
 
-Blaster Carbine This smaller than normal blaster rifle has a short barrel and compact two-handed grip, making it look more liked long pistol than a rifle.
+## Blaster Carbine
+
+This smaller than normal blaster rifle has a short barrel and compact two-handed grip, making it look more like a long pistol than a rifle.
 
 A blaster carbine requires a power pack to operate. After 50 shots, the power pack must be replaced.
 
@@ -338,7 +360,7 @@ The weapon produces additional “punch” by drawing heavily on its power pack,
 
 The heavy blaster pistol is illegal or heavily restricted in most systems. Han Solo uses a heavy blaster pistol, the BlasTech DL-44.
 
-A heavy blaster pistol requires a power pack to ope! After 50 shots, the power pack must be replaced.
+A heavy blaster pistol requires a power pack to operate. After 50 shots, the power pack must be replaced.
 
 ## Blaster Pistol, Hold-Out
 
@@ -379,13 +401,11 @@ Sporting blaster rifles are popular with the galactic elite, as well as among in
 > Mastercraft items with a +1 bonus can be purchased on the open market for twice the cost of an ordinary item of the same type. Items that provide a +2 or +3 bonus are not common by any means and are generally not for sale. If a +2 item could be found available for purchase, it would be priced at twice the cost of a +1 item (or higher). Likewise, the cost of a +3 item would be at least twice the cost of a +2 item.
 >
 > A tech specialist with the appropriate specialty (see page 53) can create a mastercraft item.
-his T-16” on Tatooine.
+A sporting blaster rifle requires a power pack to operate. After 50 shots, the power pack must be replaced.
 
-A sporting blaster rifle requires a power pack to operate, After 50 shots, the power pack must be replaced.
+## Bow
 
-ullseye womp rats i
-
-Bow The bow is a typical hunter's weapon on low-tech worlds and is also used for sport on high-tech planets. A primitive bow and its arrows are made of wood with metal or stone augmentations, while more advanced versions tend to be made from durable, lightweight composite materials, The wielder’s Strength modifier applies to damage deall with a bow.
+The bow is a typical hunter’s weapon on low-tech worlds and is also used for sport on high-tech planets. A primitive bow and its arrows are made of wood with metal or stone augmentations, while more advanced versions tend to be made from durable, lightweight composite materials. The wielder’s Strength modifier applies to damage dealt with a bow.
 
 ## Bowcaster
 
@@ -459,7 +479,9 @@ A thermal detonator’s timer can be set for as little as 6 seconds (1 round) to
 
 <!-- page 139 -->
 
-Armor Protective armor exists in the Star Wars universe, but only the lightest types see widespread use. Heavier armor is considered to be too expensive, too restrictive, and just not worth the trouble unless it serves an additional function {such as providing environmental protection, as in the case of Imperial stormtrooper armor). See Table 7-3: Armor for the list of armor types. It describes armor for Medium-size characters. Larger or smaller characters might pay more for equivalent armor, depending on where they purchase it. Many forms of armor are restricted or even illegal outside of approved military uses. In locations where armor isn’t prohibited, the wearer of armor identifies himself as someone who either expects to cause trouble or expects trouble to come his way.
+## Armor
+
+Protective armor exists in the Star Wars universe, but only the lightest types see widespread use. Heavier armor is considered to be too expensive, too restrictive, and just not worth the trouble unless it serves an additional function (such as providing environmental protection, as in the case of Imperial stormtrooper armor). See Table 7-3: Armor for the list of armor types. It describes armor for Medium-size characters. Larger or smaller characters might pay more for equivalent armor, depending on where they purchase it. Many forms of armor are restricted or even illegal outside of approved military uses. In locations where armor isn’t prohibited, the wearer of armor identifies himself as someone who either expects to cause trouble or expects trouble to come his way.
 
 ## Armor Qualities
 
@@ -469,7 +491,7 @@ Cost: The cost of the armor. Note that not all armor is available for sale on th
 
 Damage Reduction: The protective value of the armor. When a character wears armor, the armor's damage reduction reduces wound damage by the given amount (but not vitality damage). For example, when a character wearing a combat jumpsuit is hit for 6 points of wound damage, the armor’s damage reduction of 3 means that the character only loses 3 wound points (6 - 3 = 3).
 
-Maximum Dex Banus: This is the maximum Dexterity bonus you can apply to your Defense when wearing this type of armor. Heavier armor limits your mobility, reducing your ability to avoid attacks, For example, padded battle armor permits a maximum Dexterity bonus of +3. A character with a Dexterity score of 18 normally gains a +4 bonus to his Defense, but if he’s wearing padded battle armor, his bonus drops to +3.
+Maximum Dex Bonus: This is the maximum Dexterity bonus you can apply to your Defense when wearing this type of armor. Heavier armor limits your mobility, reducing your ability to avoid attacks. For example, padded battle armor permits a maximum Dexterity bonus of +3. A character with a Dexterity score of 18 normally gains a +4 bonus to his Defense, but if he’s wearing padded battle armor, his bonus drops to +3.
 
 **Table 7-3: Armor**
 
@@ -485,7 +507,9 @@ Maximum Dex Banus: This is the maximum Dexterity bonus you can apply to your Def
 
 The types of armor given on Table 7-3: Armor are described below.
 
-Armored Flight Suit A combat-ready flight suit that provides additional protection against vacuum for limited periods, this armor comes in various models, including the Corellian TX-3, favored by various pirate gangs, and the Imperial TIE suit, worn by TIE fighter pilots throughout the Empire.
+## Armored Flight Suit
+
+A combat-ready flight suit that provides additional protection against vacuum for limited periods, this armor comes in various models, including the Corellian TX-3, favored by various pirate gangs, and the Imperial TIE suit, worn by TIE fighter pilots throughout the Empire.
 
 This suit provides a +4 equipment bonus on Fortitude saves made to resist cold temperatures.
 
@@ -549,11 +573,9 @@ A padded flight suit provides a +2 equipment bonus on Fortitude saves made to re
 
 ## Stormtrooper Armor
 
-Worn by the elite soldiers of the Galactic Empire, stormtrooper armor comes in a variety of models based around a standard white-and-black shell. Filled with electronics that assist and augment the stormtrooper in his duties, it includes rudimentary environmental protection, three-phase sonic filtering, and visual amplifica~ tion. Because stormtrooper armor requires training to operate properly, those who attempt to employ “appropriated” stormtrooper armor find it cumbersome and restrictive.
+Worn by the elite soldiers of the Galactic Empire, stormtrooper armor comes in a variety of models based around a standard white-and-black shell. Filled with electronics that assist and augment the stormtrooper in his duties, it includes rudimentary environmental protection, three-phase sonic filtering, and visual amplification. Because stormtrooper armor requires training to operate properly, those who attempt to employ “appropriated” stormtrooper armor find it cumbersome and restrictive.
 
-Variants of this armor also exist, including snowtrooper armor and sandtrooper armor. Each has slightly different characteristics, but all include the basic charac-
-
-teristics common to all stormtrooper armor, though unavailable on the open market, these suits can occasionally be found on the black market at the given price.
+Variants of this armor also exist, including snowtrooper armor and sandtrooper armor. Each has slightly different characteristics, but all include the basic characteristics common to all stormtrooper armor. Though unavailable on the open market, these suits can occasionally be found on the black market at the given price.
 
 Stormtrooper armor (including all variants, such as clone trooper armor) provides a wearer who has the Armor Proficiency (powered) feat a +2 equipment bonus on Listen checks, Spot checks, and Fortitude saving throws made to resist hostile environments.
 
@@ -565,15 +587,21 @@ Sandtrooper armor provides a +6 equipment bonus on Fortitude saving throws made 
 
 A sample of common equipment available during the time periods covered in this book is given on Table 7-4: Equipment. Refer to the descriptions below for other pertinent information.
 
-All-Temperature Cloak This wrap-around cloak protects its wearer from the elements and hostile condi~ tions.
+## All-Temperature Cloak
 
-An all-temperature cloak provides a +2 equipment bonus on Fortitude saves made to resist severe weather,
+This wrap-around cloak protects its wearer from the elements and hostile conditions.
 
-Aquata Breather An Aquata Breather can provide up to 2 hours of breathable air through its mouthpiece. Characters typically use it underwater or in other hazardous environments. Aquata Breathers are a standard part of many high-end utility belt and field kit packages. Some consider them more reliable than breath masks, since they consist of a single part rather than several linked components. Qui-Gon Jinn and Obi-Wan
+An all-temperature cloak provides a +2 equipment bonus on Fortitude saves made to resist severe weather.
+
+## Aquata Breather
+
+An Aquata Breather can provide up to 2 hours of breathable air through its mouthpiece. Characters typically use it underwater or in other hazardous environments. Aquata Breathers are a standard part of many high-end utility belt and field kit packages. Some consider them more reliable than breath masks, since they consist of a single part rather than several linked components. Qui-Gon Jinn and Obi-Wan
 
 Kenobi use Aquata Breathers while swimming to Otoh Gunga in The Phantom Menace.
 
-Bacta Tank This large, specialized tank is filled with the powerful heal ing agent, bacta, which promotes rapid healing. A bacta tank and a supply of bacta is expensive, so such medical equipment is usually found only in hospitals, on board capital-class vessels, and within major military bases, A patient must be equipped with a breath mask and fully submerged within the bacta for the healing agent to do its job. Bacta is a synthetic chemical that consists of gelatinous, translucent red alazhi and kavam bacterial particles mixed within the colorless liquid ambori. The bacterial particles seek out wounds and promote exceedingly fast tissue rejuvenation without scarring. Any character who has suffered damage can benefit from a bacta tank treatment, but its miraculous properties are most in evidence when used on severely wounded patients, Bacta treatment is the best method for reviving characters that have been reduced to 0 or fewer wound points. Patients undergoing bacta tank treatment heal at the following rates: Vitality points return at a rate of 3 per hour of treatment, and wound points return at a rate of 1 per hour of treatment.
+## Bacta Tank
+
+This large, specialized tank is filled with the powerful healing agent, bacta, which promotes rapid healing. A bacta tank and a supply of bacta is expensive, so such medical equipment is usually found only in hospitals, on board capital-class vessels, and within major military bases. A patient must be equipped with a breath mask and fully submerged within the bacta for the healing agent to do its job. Bacta is a synthetic chemical that consists of gelatinous, translucent red alazhi and kavam bacterial particles mixed within the colorless liquid ambori. The bacterial particles seek out wounds and promote exceedingly fast tissue rejuvenation without scarring. Any character who has suffered damage can benefit from a bacta tank treatment, but its miraculous properties are most in evidence when used on severely wounded patients. Bacta treatment is the best method for reviving characters that have been reduced to 0 or fewer wound points. Patients undergoing bacta tank treatment heal at the following rates: Vitality points return at a rate of 3 per hour of treatment, and wound points return at a rate of 1 per hour of treatment.
 
 ## Breath Mask
 
@@ -581,7 +609,7 @@ This personal atmosphere-filtering system consists of a mask that fits over the 
 
 A breath mask system can also be built into an armored suit. Darth Vader's armor contains such a system.
 
-To replace the filter and atmosphere canister, the user must make a Repair check (DC 10). The GM makes this check for the character. If the check fails, the mask ceases function 1d6x4 minutes after it is activated.
+To replace the filter and atmosphere canister, the user must make a Repair check (DC 10). The GM makes this check for the character. If the check fails, the mask ceases function `1d6`×4 minutes after it is activated.
 
 <!-- page 142 -->
 
@@ -633,17 +661,19 @@ Essentially a backpack full of survival gear, the typical field kit contains two
 
 <!-- page 143 -->
 
-Flight Suit The flight suit is a one-piece coverall (plus a helmet) that provides life support, protects the wearer from hostile environments, and prevents the wearer from succumbing to the adverse effects of high-velocity flying.
+## Flight Suit
+
+The flight suit is a one-piece coverall (plus a helmet) that provides life support, protects the wearer from hostile environments, and prevents the wearer from succumbing to the adverse effects of high-velocity flying.
 
 ## Fusion Lantern
 
 A hand-held light source, larger than a glow rod, the fusion lantern produces light and heat. The light spreads out from the lantern, producing a 10-meter radius of illumination.
 
-Glow Rod
+## Glow Rod
 
 A glow rod is a portable illumination device that projects a beam of light up to 10 meters.
 
-Grappling Spike Launcher
+## Grappling Spike Launcher
 
 A spike launcher, sometimes known as an ascension gun, has a grappling spike on one end, a sliding hook on the other, and a liquid cable reservoir in the middle. The launcher hurls the spike at extreme velocity, allowing it to anchor itself in any hard surface, such as a building ledge or cliff face. The launcher can be used alone or attached to the barrel of a blaster. It holds enough liquid to form 20 meters of cable. Captain Panaka and Padmé use ascension guns to scale the walls of the Theed Royal Palace in The Phantom Menace.
 
@@ -705,7 +735,7 @@ A mastercraft sensor pack provides a higher equipment bonus (+3 for a +1 item, +
 
 ## Tool Kit
 
-A tool kit includes a variety of pliers, wrenches, hydrospanners, circuit testers, and other general-purpose tools. A tool kit provides a +2 equipment bonus on Repair
+A tool kit includes a variety of pliers, wrenches, hydrospanners, circuit testers, and other general-purpose tools. A tool kit provides a +2 equipment bonus on Repair checks.
 
 **Table 7-4: Equipment**
 

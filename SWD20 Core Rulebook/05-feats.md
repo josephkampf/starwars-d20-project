@@ -6,15 +6,15 @@
 
 <!-- page 104 -->
 
-A feat is a special feature that either gives your character a new capability or improves one he or she already has. For example, Kelko, a Rodian fringer, chooses to start with the Improved Initiative feat at Ist level. That feat adds a +4 circumstance bonus to his initiative checks. He gains a new feat at 3rd level and chooses Dodge. This feat allows Kelko to avoid the attacks of an opponent he selects, improving his Defense against that opponent.
+A feat is a special feature that either gives your character a new capability or improves one he or she already has. For example, Kelko, a Rodian fringer, chooses to start with the Improved Initiative feat at 1st level. That feat adds a +4 circumstance bonus to his initiative checks. He gains a new feat at 3rd level and chooses Dodge. This feat allows Kelko to avoid the attacks of an opponent he selects, improving his Defense against that opponent.
 
 Unlike a skill, a feat has no ranks. A character either has the feat or doesn’t have it.
 
 ## Acquiring Feats
 
-Unlike skills, feats are not bought with points. You simply choose them for your character. Each character gets one feat when the character is created (at Ist level). At 3rd, 6th, 9th, 12th, 15th, and 18th level, he or she gains another feat (see Table 3-1: Experience and Level- Dependent Benefits, page 36). For multiclass characters, feats are gained according to total character level, not by individual class levels.
+Unlike skills, feats are not bought with points. You simply choose them for your character. Each character gets one feat when the character is created (at 1st level). At 3rd, 6th, 9th, 12th, 15th, and 18th level, he or she gains another feat (see Table 3-1: Experience and Level- Dependent Benefits, page 36). For multiclass characters, feats are gained according to total character level, not by individual class levels.
 
-Additionally, many classes get extra class-related feats chosen from special lists (see the class descriptions in Chapter Three: Classes). Humans also get a bonus feat at Ist level, chosen from any feat the character qualifies for.
+Additionally, many classes get extra class-related feats chosen from special lists (see the class descriptions in Chapter Three: Classes). Humans also get a bonus feat at 1st level, chosen from any feat the character qualifies for.
 
 ## Prerequisites
 
@@ -124,7 +124,7 @@ In this chapter, we did some work to clarify each feat and its uses in play. We 
 
 The following entries describe each feat in detail.
 
-Prerequisite: A minimum ability score, another feat or feats, a minimum base attack bonus, the minimum rank ina skill, and/or a minimum level in a class that a character must have to acquire this feat. This entry is absent if a feat has no prerequisite.
+Prerequisite: A minimum ability score, another feat or feats, a minimum base attack bonus, the minimum rank in a skill, and/or a minimum level in a class that a character must have to acquire this feat. This entry is absent if a feat has no prerequisite.
 
 <!-- page 106 -->
 
@@ -163,9 +163,7 @@ Prerequisite: A minimum ability score, another feat or feats, a minimum base att
 
 Force-Sensitive is a prerequisite for all Force feats. The prerequisite “Force level” indicates levels in any of the three Force-using classes (Force adept, Jedi consular, and Jedi guardian). “Jedi level” indicates levels in a Jedi class (consular or guardian).
 
-Benefit: What the feat enables you (the character) to do. Normal: What a character who does not have this feat is
-|imited to or restricted from doing. If not having the feat
-causes no particular drawback, this entry is absent.
+Benefit: What the feat enables you (the character) to do. Normal: What a character who does not have this feat is limited to or restricted from doing. If not having the feat causes no particular drawback, this entry is absent.
 
 Special: Additional facts about the feat that may be helpful when you decide whether to acquire the feat.
 
@@ -179,7 +177,7 @@ Prerequisite: Martial Arts, Improved Martial Arts, base attack bonus +8.
 
 Benefit: A Medium-size character deals `3d4` damage with an unarmed strike. Strength modifiers apply. Also, you threaten a critical hit on a natural 18, 19, or 20 when making an unarmed attack.
 
-‘Small characters deal `3d3` damage and Large characters deal `3d6` damage with an unarmed strike and this feat.
+Small characters deal `3d3` damage and Large characters deal `3d6` damage with an unarmed strike and this feat.
 
 Alertness You are keenly aware of your surroundings.
 
@@ -187,7 +185,7 @@ Benefit: You get a +2 aptitude bonus on all Listen checks and Spot checks.
 
 Alter (Force Feat) You can change the distribution and nature of the Force in your environment.
 
-Prerequisite: Force-Sensitive, Force level Ist.
+Prerequisite: Force-Sensitive, Force level 1st.
 
 Benefit: You may learn Alter-based Force skills. Once this feat is selected, Alter-based Force skills are considered to be class skills for you.
 
@@ -211,11 +209,6 @@ Animal Affinity You are good with animals.
 
 Benefit: You get a +2 aptitude bonus on all Handle Animal checks and Ride checks. Remember that the Handle Animal skill can’t be used untrained.
 
-|
-an
-
-7
-
 <!-- page 107 -->
 
 Armor Proficiency (heavy) You are proficient with heavy armor (see Table 7-3: Armor). Prerequisite: Armor Proficiency (light), Armor Proficiency (medium). Benefit: See Armor Proficiency (light). Normal: See Armor Proficiency (light).
@@ -226,7 +219,7 @@ proficient takes an armor check penalty on attack rolls and on all skill checks 
 
 ## Armor Proficiency (medium)
 
-You are proficient with medium armor (see Table 7-3: Armor). Prerequisite: Armor Proficiency (light). Benafit: See Armor Proficiency (light). Normal: See Armor Proficiency (light).
+You are proficient with medium armor (see Table 7-3: Armor). Prerequisite: Armor Proficiency (light). Benefit: See Armor Proficiency (light). Normal: See Armor Proficiency (light).
 
 Armor Proficiency (powered) You understand how to fully utilize the various features of powered armor.
 
@@ -240,9 +233,7 @@ provided by the armor.
 
 ## Athletic
 
-You have a knack for athletic endeavors. Benefit: You get a +2 aptitude bonus on all Climb ched
-
-and Swim checks.
+You have a knack for athletic endeavors. Benefit: You get a +2 aptitude bonus on all Climb checks and Swim checks.
 
 Attuned (Force Feat) You are in harmony with yourself through your connection to the Force.
 
@@ -266,17 +257,15 @@ Concealment, page 163).
 
 reduces your speed to three-quarters of normal, instead of one-half (see Table 6-8: Hampered Movement, page 126)
 
-Burst of Speed (Force Feat) The Force allows you to move exceptionally fast for a brief period of time. Prerequisite: Force-Sensitive, Control, Force level 3rd. Benefit: You may increase your base speed to 10 times normal for | round. This increase has the side effect of multiplying your jump distance by 5 during this time period Using this feat requires a full-round action and an expenditure of 5 vitality points.
+Burst of Speed (Force Feat) The Force allows you to move exceptionally fast for a brief period of time. Prerequisite: Force-Sensitive, Control, Force level 3rd. Benefit: You may increase your base speed to 10 times normal for 1 round. This increase has the side effect of multiplying your jump distance by 5 during this time period. Using this feat requires a full-round action and an expenditure of 5 vitality points.
 
 Cautious You are especially careful with tasks that may yield catastrophic results.
 
-Benefit: You get a +2 aptitude bonus on all Demolitions checks and Disable Device checks. You must have at least | rank in the skill to use the aptitude bonus, since neither skill can be used untrained.
+Benefit: You get a +2 aptitude bonus on all Demolitions checks and Disable Device checks. You must have at least 1 rank in the skill to use the aptitude bonus, since neither skill can be used untrained.
 
-Cleave You can follow through with a powerful melee attack. Prerequisite: Strength 13, Power Attack Benefit: If you deal an opponent enough damage to reduce his wound points to below 0, you get an immediate extra melee attack against another opponent in the ares You cannot take a 2-meter step before making this extra
+Cleave You can follow through with a powerful melee attack. Prerequisite: Strength 13, Power Attack Benefit: If you deal an opponent enough damage to reduce his wound points to below 0, you get an immediate extra melee attack against another opponent in the area. You cannot take a 2-meter step before making this extra back. The extra attack is with the same weapon and at the bonus as the attack that dropped the previous opponent. You can use this ability once per round.
 
 <!-- page 108 -->
-
-fack. The extra attack is with the same weapon and at the bonus as the attack that dropped the previous oppoi. You can use this ability once per round.
 
 Combat Expertise You are trained at using your combat skill for defense as ‘well as offense.
 
@@ -292,23 +281,23 @@ Normal: A character without the Combat Reflexes feat tan make only one attack of
 
 ## Compassion (Force Feat)
 
-You are concerned with the welfare of others and connected (othem through the Force,
+You are concerned with the welfare of others and connected to them through the Force.
 
 Prerequisite: Force-Sensitive, Alter.
 
-Benefit: You get a +2 aptitude bonus on all Empathy thecks and Heal Another checks.
+Benefit: You get a +2 aptitude bonus on all Empathy checks and Heal Another checks.
 
 ## Control (Force Feat)
 
 You can access your inner Force, using it to better utilize the powers of your own body,
 
-Prerequisite: Force-Sensitive, Force level Ist.
+Prerequisite: Force-Sensitive, Force level 1st.
 
-Benefit: You may learn Control-based Force skills. Once this feat is selected, Control-based Force skills are considted to be class skills for you.
+Benefit: You may learn Control-based Force skills. Once this feat is selected, Control-based Force skills are considered to be class skills for you.
 
-With this feat, you can use the following skills untrained: force Defense, Force Stealth, and Heal Self.
+With this feat, you can use the following skills untrained: Force Defense, Force Stealth, and Heal Self.
 
-Force Trance: Also, you may enter a Force trance that slows ‘your metabolism, allowing you to survive for extended periods of time with very little air, water, or food. You may enter a trance at will; doing this requires a full-round action. It also tukes a full round to awaken from the trance. While in a
+Force Trance: Also, you may enter a Force trance that slows your metabolism, allowing you to survive for extended periods of time with very little air, water, or food. You may enter a trance at will; doing this requires a full-round action. It also takes a full round to awaken from the trance. While in a
 
 trance, your heartbeat slows, your breathing all but ceases, and you appear to be dead. (Use of the Sense-based skill See Force will identify the target as being in a trance, though the DC is increased by 5.) A character in a Force trance uses only 10% as much air as a sleeping person and needs no food or water for an extended period of time. For purposes of natural healing, a Force trance is the equivalent of assisted healing (see Healing, page 160).
 
@@ -318,7 +307,7 @@ A character can remain in a trance for up to one week in a dry climate or up to 
 
 Prolong Force: Also, you may continue to use Force skills after you run out of vitality points by powering them with wound points. You must be reduced to 0 vitality points to use this option. A wound point provides twice the power of a vitality point, so all costs are halved (round up, minimum of 1). For example, a Force skill that costs 5 vitality points to use can be powered with 3 wound points, provided you are totally out of vitality points.
 
-Normal: Without this feat, you can't leam Control-based Force skills,
+Normal: Without this feat, you can't learn Control-based Force skills.
 
 Special: A character from any of the Force-using classes can select this feat for free with the Force training class feature, or a Force-user can select this feat earlier at the expense of some other feat. If Control is selected earlier, then no bonus feat is gained when the character reaches the level at which Force training would provide Control for free.
 
@@ -332,15 +321,11 @@ Dissipate Energy (Force Feat) You can resist and sometimes absorb energy damage 
 
 Prerequisite: Force-Sensitive, Control, Force level 4th.
 
-Benefit: You may dissipate or perhaps absorb energy damage you would otherwise take because of your environment or because of an attack. To do so, you make a Fortitude saving throw against a DC equal to 10 + the amount of damage inflicted. If the save is successful, you don’t take any damage and you gain | vitality point for every 2 points of wound damage you would have taken (but you can't gain vitality points in excess of your full normal total). If the saving throw fails, you take the full damage.
+Benefit: You may dissipate or perhaps absorb energy damage you would otherwise take because of your environment or because of an attack. To do so, you make a Fortitude saving throw against a DC equal to 10 + the amount of damage inflicted. If the save is successful, you don’t take any damage and you gain 1 vitality point for every 2 points of wound damage you would have taken (but you can’t gain vitality points in excess of your full normal total). If the saving throw fails, you take the full damage.
 
 Dissipate Energy is used as a reaction, and costs no vitality points.
 
 Dodge You are adept at dodging attacks. Prerequisite: Dexterity 13.
-
-Ss i
-
-sf “A
 
 <!-- page 109 -->
 
@@ -350,7 +335,7 @@ Special: A condition that makes you lose your Dexterity bonus to Defense (if any
 
 Endurance You are capable of amazing feats of endurance.
 
-Benefit: You gain a +4 bonus to the following checks and saves: Swim checks to stave off weariness, Constitution. checks to continue running, Constitution checks to hold your breath, Constitution checks to avoid damage from starvation or thirst, Fortitude checks to avoid damage from hot or cold environments, and Fortitude checks to resist damage from oxygen deprivation.
+Benefit: You gain a +4 bonus to the following checks and saves: Swim checks to stave off weariness, Constitution checks to continue running, Constitution checks to hold your breath, Constitution checks to avoid damage from starvation or thirst, Fortitude checks to avoid damage from hot or cold environments, and Fortitude checks to resist damage from oxygen deprivation.
 
 ## Exotic Weapon Proficiency
 
@@ -368,7 +353,7 @@ or drawbacks when used by a character who is not profi-
 
 nt (see Chapter Seven: Equipment).
 
-Special: You can gain this feat multiple times. Each timd you take the feat, it applies toa different weapon. Proficiency with the lightsaber has a prerequisite of Dexterity 11
+Special: You can gain this feat multiple times. Each time you take the feat, it applies to a different weapon. Proficiency with the lightsaber has a prerequisite of Dexterity 11.
 
 Fame You are particularly well known. Benefit: Your Reputation bonus increases by +3. Special: You can’t select both the Fame feat and the Infamy feat. You're either famous or infamous, not both.
 
@@ -376,15 +361,15 @@ Far Shot You can get greater distance out of a ranged weapon.
 
 Prerequisite: Point Blank Shot.
 
-Banefit: When you use a blaster or a projectile weapon (such as a bow), its range increment increases by one-half (multiply by 1.5). When you use a thrown weapon (such a a grenade), its range increment is doubled.
+Benefit: When you use a blaster or a projectile weapon (such as a bow), its range increment increases by one-half (multiply by 1.5). When you use a thrown weapon (such as a grenade), its range increment is doubled.
 
-Focus (Force Feat) You have a knack for using the Force in focused and specific ways. Prerequisite: Force-Sensitive, Alter, Control, Benefit: You get a +2 aptitude bonus on all Force Stealll checks and Force Strike checks.
+Focus (Force Feat) You have a knack for using the Force in focused and specific ways. Prerequisite: Force-Sensitive, Alter, Control, Benefit: You get a +2 aptitude bonus on all Force Stealth checks and Force Strike checks.
 
 Force Flight (Force Feat) You can wrap yourself in the Force and move yourself toward a specific destination.
 
 Prerequisite: Force-Sensitive, Alter, Move Object 6 ranks, Force level 7th,
 
-Benefit: You gain the ability to control the Force toa greater degree and can use it to move yourself from one spot to another. Doing this requires a successful Move Object check and a vitality point cost of 4, You can take 1 but you can’t take 20 on this check. The distance you travd either horizontally or vertically as a move action is determined by the check result.
+Benefit: You gain the ability to control the Force to a greater degree and can use it to move yourself from one spot to another. Doing this requires a successful Move Object check and a vitality point cost of 4. You can take 10 but you can’t take 20 on this check. The distance you travel either horizontally or vertically as a move action is determined by the check result.
 
 Result Distance 19 or less 10 meters 20-24 15 meters 25+ 20 meters
 
@@ -392,7 +377,7 @@ Force Mastery (Force Feat) You can accomplish Force-related tasks with less conc
 
 Prerequisite: Wisdom 15, Force-Sensitive, Force level 7th.
 
-Benefit: Once per round, you may accomplish a Forcerelated task that normally requires an attack or move actioll as a free action. The vitality point cost for this action is double the normal cost (or 1 point if no cost is given).
+Benefit: Once per round, you may accomplish a Force-related task that normally requires an attack or move action as a free action. The vitality point cost for this action is double the normal cost (or 1 point if no cost is given).
 
 Special: This feat is not cumulative with the effects of High Force Mastery. That is, you cannot use both feats to reduce a full-round action to a free action.
 
@@ -402,37 +387,35 @@ Prerequisite: Wisdom 15, Force-Sensitive, Sense, Force level 3rd.
 
 <!-- page 110 -->
 
-Benefit: The targets of this feat each gain a +2 Force bonus toa single ability score of your choice (all those affected gain the bonus to the same ability score). This benefit requires a full-round action to initiate and lasts for amumber of rounds equal to your Force-user level. Using the Force Mind feat costs 4 vitality points plus 1 vitality point per target included. The individual using Force Mind may not be one of the targets.
+Benefit: The targets of this feat each gain a +2 Force bonus to a single ability score of your choice (all those affected gain the bonus to the same ability score). This benefit requires a full-round action to initiate and lasts for a number of rounds equal to your Force-user level. Using the Force Mind feat costs 4 vitality points plus 1 vitality point per target included. The individual using Force Mind may not be one of the targets.
 
 Force-Sensitive
 
-‘You are sensitive to the ebb and flow of the Force. Though pol necessarily a Jedi or a Force-user, you are capable of learning some basic Force skills.
+You are sensitive to the ebb and flow of the Force. Though not necessarily a Jedi or a Force-user, you are capable of learning some basic Force skills.
 
-Benefit: You may learn Force-Sensitive-based Force skills as cass skills, If you have any Force-user levels (levels in any of the foree-using classes), you may select other Force-based feats when the opportunity arises,
+Benefit: You may learn Force-Sensitive-based Force skills as class skills. If you have any Force-user levels (levels in any of the force-using classes), you may select other Force-based feats when the opportunity arises.
 
 You gain one bonus Force Point when this feat is selected, There is no limit to the number of Force Points a character with this feat may possess.
 
 You are more adept at calling upon the Force to use a Force Point (see Chapter Nine: The Force).
 
-AForce-sensitive character (one who has the Force- Sensitive feat) can make a Wisdom check (DC 20) to avoid being surprised. A successful check allows you to act during the surprise round, even if you would otherwise be surprised.
+A Force-sensitive character (one who has the Force-Sensitive feat) can make a Wisdom check (DC 20) to avoid being surprised. A successful check allows you to act during the surprise round, even if you would otherwise be surprised.
 
 This feat also allows characters to begin the training necessary to eventually take up the mantle of a Force-user. With this feat and a qualified teacher, a character can start to learn the fundamentals of the primary Force feats (Alter, Control, and Sense) without actually gaining any of the
 
-formidable powers associated with them. All of the children learning at the Jedi temple, for example, use this feat to help them through their various studies (including lightsaber training) until they are selected by a single master to serve as a Padawan learner (and thus gain their status as a Istlevel Jedi consular or Jedi guardian).
+formidable powers associated with them. All of the children learning at the Jedi temple, for example, use this feat to help them through their various studies (including lightsaber training) until they are selected by a single master to serve as a Padawan learner (and thus gain their status as a 1st-level Jedi consular or Jedi guardian).
 
 Normal: Without this feat, you cannot gain any ranks in Force skills or select other Force-based feats. Also, your maximum allowed total of Force Points is 5 (any points gained beyond this maximum are lost).
 
-‘Special: Not everyone who selects this feat believes in the Force. A character can gain the benefits of this feat and its associated skills without understanding that he or she is calling upon the Force. Such characters instead attribute their success to luck, a special knack, or some other reason when they take advantage of this feat.
+Special: Not everyone who selects this feat believes in the Force. A character can gain the benefits of this feat and its associated skills without understanding that he or she is calling upon the Force. Such characters instead attribute their success to luck, a special knack, or some other reason when they take advantage of this feat.
 
-Force adepts, Jedi consulars, and Jedi guardians gain this feat for free at Ist level. A character who decides to pick up a Force-user level later in his or her career must adhere to the tules for multiclassing and starting feats (see page 63).
+Force adepts, Jedi consulars, and Jedi guardians gain this feat for free at 1st level. A character who decides to pick up a Force-user level later in his or her career must adhere to the rules for multiclassing and starting feats (see page 63).
 
 Force Speed (Force Feat) The Force allows you to move extremely fast for a brief period of time.
 
 Prerequisite: Force-Sensitive, Control, Burst of Speed, Force level 7th.
 
-Benefit: Your base speed becomes 20 times normal for | round. This benefit has the side effect of multiplying your jump distance by 10 during this time period. Using this feat requires a full-round action and an expenditure of 8 vitality points.
-
-Ss
+Benefit: Your base speed becomes 20 times normal for 1 round. This benefit has the side effect of multiplying your jump distance by 10 during this time period. Using this feat requires a full-round action and an expenditure of 8 vitality points.
 
 <!-- page 111 -->
 
@@ -440,7 +423,7 @@ Force Whirlwind (Force Feat) You can use the Force to create a whirlwind of smal
 
 Prerequisite: Intelligence 13, Force-Sensitive, Alter, Move Object 5 ranks, Force level 6th.
 
-Benefit: You can use this specialized application of Move Object to deal damage. With this feat, you wrap a swarm of small objects in the Force and whip them into a whirlwind that has a 4-meter radius. Doing this requires a Move Object check (DC 20), an expenditure of 6 vitality points, and a full-round action, You can take 10 when making this check, but you can’t take 20.
+Benefit: You can use this specialized application of Move Object to deal damage. With this feat, you wrap a swarm of small objects in the Force and whip them into a whirlwind that has a 4-meter radius. Doing this requires a Move Object check (DC 20), an expenditure of 6 vitality points, and a full-round action. You can take 10 when making this check, but you can’t take 20.
 
 All targets within the whirlwind take a -4 penalty on all attack rolls, skill checks, and ability checks as they are struck repeatedly by small objects (rocks, tools, scrap metal, or whatever else is in the area) and buffeted by a Force-generated wind. The whirlwind deals `3d4` points of damage per round. A target may attempt a Reflex save (DC 20) to reduce the damage by half every round, The swarm lasts for 3 rounds.
 
@@ -496,7 +479,7 @@ High Force Mastery (Force Feat) You can accomplish Force-related tasks with much
 
 Prerequisite: Wisdom 17, Force-Sensitive, Force Mastery, Force level 11th.
 
-Benefit: Once per round, you may accomplish a Forcerelated task that normally requires a full-round action as at attack action. The vitality point cost for this action is double the normal cost (or 1 point if no cost is given).
+Benefit: Once per round, you may accomplish a Force-related task that normally requires a full-round action as an attack action. The vitality point cost for this action is double the normal cost (or 1 point if no cost is given).
 
 Special: This feat is not cumulative with the effects of Force Mastery. That is, you cannot use both feats to reduce a full-round action to a free action,
 
@@ -518,15 +501,15 @@ Improved Disarm You know how to disarm opponents in melee combat.
 
 Prerequisites: Intelligence 13, Combat Expertise.
 
-Benefit: You do not draw an attack of opportunity when jou attempt to disarm an opponent, nor does the opponent get a chance to disarm you.
+Benefit: You do not draw an attack of opportunity when you attempt to disarm an opponent, nor does the opponent get a chance to disarm you.
 
 Normal: See the normal disarm rules in Chapter Eight: Combat, page 169.
 
-Improved Force Mind (Force Feat) You can grant a Force bonus to a single ability score of Jour allies,
+Improved Force Mind (Force Feat) You can grant a Force bonus to a single ability score of your allies.
 
-Prerequisite: Wisdom 15, Force-Sensitive, Sense, Force level Sth.
+Prerequisite: Wisdom 15, Force-Sensitive, Sense, Force level 5th.
 
-Benefit: The targets of this feat each gain a +4 Force bonus to a single ability score of your choice (all those affected gain the bonus to the same ability score). This. benefit requires a full-round action to initiate and lasts for a number of rounds equal to your Force-user level. Using the Improved Force Mind feat costs 8 vitality points plus 1 \itality point per target included. The individual using Improved Force Mind may not be one of the targets.
+Benefit: The targets of this feat each gain a +4 Force bonus to a single ability score of your choice (all those affected gain the bonus to the same ability score). This benefit requires a full-round action to initiate and lasts for a number of rounds equal to your Force-user level. Using the Improved Force Mind feat costs 8 vitality points plus 1 vitality point per target included. The individual using Improved Force Mind may not be one of the targets.
 
 ## Improved Initiative
 
@@ -919,7 +902,5 @@ Prerequisite: Dexterity 13, Intelligence 13, Dodge, Mobility, Spring Attack, Com
 
 Benefit: When you perform a full-round action, you can give up your regular attacks and instead make one melee attack at your full base attack bonus against each opponent within 2 meters of your position.
 
-Zero-G Training You can function normally in low gravity or zero gravity. Prerequisite: Dexterity 13, Tumble 4 ranks. Benefit: You take no penalty to actions in low gravity or zero gravity. Normal: Without this feat, most actions in zero gravity have a -4 penalty, and actions in low-gravity environments. have a -2 penalty.
-
-B
+Zero-G Training You can function normally in low gravity or zero gravity. Prerequisite: Dexterity 13, Tumble 4 ranks. Benefit: You take no penalty to actions in low gravity or zero gravity. Normal: Without this feat, most actions in zero gravity have a -4 penalty, and actions in low-gravity environments have a -2 penalty.
 

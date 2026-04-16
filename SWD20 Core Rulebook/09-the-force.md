@@ -28,7 +28,7 @@ compared to the military might of the Empire. In many ways, that’s just how th
 
 If your campaign is set in The New Jedi Order era, the Force has regained a place in everyday society and a new fellowship of Jedi has come to prominence under the tutelage of Luke Skywalker. Many beings in the New Republic, however, harbor varying degrees of mistrust and fear toward Force-users. These negative feelings are due, in part, to the actions of a few rogue Jedi who have taken the law into their own hands and have begun to rebel against Luke Skywalker’s leadership. The memories of a host of darksiders that plagued the galaxy since the time of Darth Vader and the Emperor add fuel to the fire of fear, and the political machinations of members of the Republic Council have begun to fan these flames. Force-users of this period, then, are finding that acceptance of the Force among the general population may turn into a bad thing—at least as far as they are concerned. Tensions are already high, as this era is marked by the invasion of the Yuuzhan Vong.
 
-Even those who don’t believe in the Force and aren’t particularly attuned to its flow can call upon the Force without understanding exactly what they are doing. When a stroke of amazing luck occurs, or fate seems to be on your side and helps you accomplish a difficult objective, it could be the Force coming to your aid. In game terms, the expenditure of Force Points by non-Force-using characters represents this unconscious, tenuous connection to the Force that all living beings share. When a Force-using char acter calls on the Force in this way, he or she knows exactly what's happening and gets a more impressive boost because of it. (See Force Points, page 179.)
+Even those who don’t believe in the Force and aren’t particularly attuned to its flow can call upon the Force without understanding exactly what they are doing. When a stroke of amazing luck occurs, or fate seems to be on your side and helps you accomplish a difficult objective, it could be the Force coming to your aid. In game terms, the expenditure of Force Points by non-Force-using characters represents this unconscious, tenuous connection to the Force that all living beings share. When a Force-using character calls on the Force in this way, he or she knows exactly what's happening and gets a more impressive boost because of it. (See Force Points, page 179.)
 
 The most prominent and well-known Force-users in the galaxy are the Jedi, But the Jedi are not the only ones who have learned to manipulate the Force. These others sometimes attribute their abilities to sources other than the Force, such as magic or gods, but they are all using the energy to manipulate the world around them. In game terms, anyone with the Force-Sensitive feat has the ability to learn Force skills and feats, though many of these beings will never go down this particular path.
 
@@ -187,11 +187,11 @@ The second reason is that judgment leads to vengeance and vengeance leads to the
 
 At the same time, while not judges, Jedi can be mediators. It is a role they are suited for, and one that works in accord with the Force, since mediation leads to balance.
 
-Discretion “The galaxy will live in tranquility if certain matters arei bit overlooked or left unheard.”
+Discretion “The galaxy will live in tranquility if certain matters are a bit overlooked or left unheard.”
 
-—Master Odan-tit
+—Master Odan-Urr
 
-Though Master Odan-Urr believed in justice, he also understood that it was sometimes necessary for a Jedi to practice discretion. Some have seen this as a sign of J partisanship, Others, particularly law enforcement agencies, believe that Jedi ignore small crimes in order to apprehend greater criminals. Obviously, neither of these assertions is true.
+Though Master Odan-Urr believed in justice, he also understood that it was sometimes necessary for a Jedi to practice discretion. Some have seen this as a sign of partisanship, Others, particularly law enforcement agencies, believe that Jedi ignore small crimes in order to apprehend greater criminals. Obviously, neither of these assertions is true.
 
 The truth is that Jedi Knights are suffered throughout the galaxy—despite their facility with the Force. This is because they do not actively interfere with the lives of the common people. Jedi stand for order and justice, and these qualities do not begin with the misdeeds of the few. The goal of the Jedi should be to create and preserve an atmosphere where justice can flourish, rather than to try to create justice themselves.
 
@@ -241,9 +241,9 @@ A character who selects the Force-Sensitive feat gains 1 bonus Force Point and m
 
 A character gains additional Force Points in two ways.
 
-G Each time a character gains a level, he gains 1 Force Point.
+- Each time a character gains a level, he gains 1 Force Point.
 
-G Each time a character performs an act of dramatic heroism, he gains 1 Force Point.
+- Each time a character performs an act of dramatic heroism, he gains 1 Force Point.
 
 Dramatic Heroism To qualify as an act of dramatic heroism, an action must fulfill three criteria.
 
@@ -251,9 +251,9 @@ Dramatic Heroism To qualify as an act of dramatic heroism, an action must fulfil
   good or the defeat of evil.
 
 - It must occur at a dramatically appropriate time
-{usually the climax of an adventure).
+  (usually the climax of an adventure).
 
-G It should require significant risk on the part of the hero.
+- It should require significant risk on the part of the hero.
 
 Examples of dramatic heroism from the Star Wars movies include the defeat of Darth Maul by Obi-Wan Kenobi, the destruction of the Death Stars, and the defeat of the Emperor. Heroic acts that weren't necessarily dramatically heroic include Anakin’s victory at the Boonta Eve Podrace, the escape from Hoth, and the slaying of the rancor beneath Jabba’s palace.
 
@@ -295,9 +295,9 @@ The Force has two aspects, one light and one dark. The dark side lurks in the sh
 
 <!-- page 182 -->
 
-respond as quickly, and it demands more and more of hose in its embrace.
+respond as quickly, and it demands more and more of those in its embrace.
 
-Dark Side Points measure the corrupting influence of the lark side of the Force. These points gauge a character’s fevotion—consciously or otherwise—to the dark side.
+Dark Side Points measure the corrupting influence of the dark side of the Force. These points gauge a character’s devotion—consciously or otherwise—to the dark side.
 
 ## Gaining Dark Side Points
 
@@ -330,7 +330,7 @@ Use the considerations detailed below as guidelines for whether or not to award 
 - A character deliberately kills or injures a character who
   hasn't done anything wrong.
 
-GA character deliberately kills or injures another character who has done something wrong but has asked to be allowed to make reparations or to be granted a trial by his peers, or deliberately allows such a character to be killed or injured.
+- A character deliberately kills or injures another character who has done something wrong but has asked to be allowed to make reparations or to be granted a trial by his peers, or deliberately allows such a character to be killed or injured.
 
 Major Transgression—Using the Force in Anger: Using the Force in anger or hatred is bad, but this can be hard to enforce. It’s difficult to determine the emotion a character is experiencing. The GM should award a Dark Side Point in these situations only when the player specifically states that his character is feeling fear, anger, hatred, pride, jealousy, greed, vengeance, and so forth.
 
@@ -338,16 +338,13 @@ Common Transgression—Using the Force to Cause Harm: Many uses of the Force are
 
 > **Dark Side Points and Non-Force Characters**
 >
-> Most of the examples and discussions in this chapter concerning the dark side apply to characters with the Force-Sensitive feat and, usually, at least one level in a Force-using class. It
-makes sense, however, to award Dark Side Points to all heroic characters and keep track of them for two reasons.
-
-First, if a hero picks up the Force-Sensitive feat later, the Dark Side Points that he or she has accumulated immediately apply. Second, even without the Force-Sensitive feat, the number of Dark Side Points a character possesses indicates that character's relative tendency toward evil. Even the most honorable, good-hearted hero can rack up a Dark Side Point or two over the course of a few adventures, but the more Dark Side Points a character accumulates, the more the character reveals himself as a servant of evil.
-
-When a character gains a number of Dark Side Points equal to or greater than half his Wisdom score, he can definitely be considered a bad guy. He’s more than willing to look out for himself first, rob an old Ithorian in the street, or kick a Jawa just because he can.
-
-When a character gains a number of Dark Side Points equal to or greater than her Wisdom score, that character can definitely be considered Evil with a capital “E.” When you see a GM character with a Wisdom score of 12 and a Dark Side Point total of 14, you know that that character has committed completely to the path of darkness.
-
-7 _ q
+> Most of the examples and discussions in this chapter concerning the dark side apply to characters with the Force-Sensitive feat and, usually, at least one level in a Force-using class. It makes sense, however, to award Dark Side Points to all heroic characters and keep track of them for two reasons.
+>
+> First, if a hero picks up the Force-Sensitive feat later, the Dark Side Points that he or she has accumulated immediately apply. Second, even without the Force-Sensitive feat, the number of Dark Side Points a character possesses indicates that character’s relative tendency toward evil. Even the most honorable, good-hearted hero can rack up a Dark Side Point or two over the course of a few adventures, but the more Dark Side Points a character accumulates, the more the character reveals himself as a servant of evil.
+>
+> When a character gains a number of Dark Side Points equal to or greater than half his Wisdom score, he can definitely be considered a bad guy. He’s more than willing to look out for himself first, rob an old Ithorian in the street, or kick a Jawa just because he can.
+>
+> When a character gains a number of Dark Side Points equal to or greater than her Wisdom score, that character can definitely be considered Evil with a capital “E.” When you see a GM character with a Wisdom score of 12 and a Dark Side Point total of 14, you know that that character has committed completely to the path of darkness.
 
 <!-- page 183 -->
 
@@ -357,7 +354,7 @@ Common Transgression—Performing a Questionably Evil Act: Some acts, while seem
 
 For example, it may be a transgression to deliberately kill or injure (or allow someone else to kill or injure) a character who you know has done evil acts and has shown no remorse, but who is otherwise helpless.
 
-Common Transgression—Acting While Experiencing a Negative Emotion: A character experiencing a negative emotion but who doesn’t use the Force at that time can still eam a Dark Side Point by acting on the negative emotions. The GM should only award a Dark Side Point in cases when a player specifically states what the character is feeling.
+Common Transgression—Acting While Experiencing a Negative Emotion: A character experiencing a negative emotion but who doesn’t use the Force at that time can still earn a Dark Side Point by acting on the negative emotions. The GM should only award a Dark Side Point in cases when a player specifically states what the character is feeling.
 
 Minor Transgression—Performing a Dubiously Evil Act: The morality of some acts can be considered only slightly evil. Award a Dark Side Point only when the act is out of proportion to the situation. In most cases, the GM shouldn't award the Dark Side Point, but should remember the incident to determine if the character has a unconscious cruel streak. For example, a hero who kills an opponent in combat while ignoring opportunities to end the situation without the loss of life might deserve a Dark Side Point, though a specific situation might not appear quite so clear-cut.
 
@@ -379,7 +376,7 @@ Thereafter, each time the hero gains a Dark Side Point he must make a Wisdom che
 >
 > In addition, while in a Wookiee rage, a Wookiee Force-user can’t call upon the Force (except for calling upon the dark side when using a Force Point). All other uses of the Force require more calm and peace than the Wookiee can manage while in the natural frenzy.
 
-He is now effectively lost He is now effectively los to the dark side. A dark side character gains a +4 dark side bonus on any Force skill checks made to use a dark-side Force skill. He takes a −8 penalty on any Force skill checks made to use light-side Force skills. Any Force Points spent by a dark character automatically call upon the dark side of the Force.
+He is now effectively lost to the dark side. A dark side character gains a +4 dark side bonus on any Force skill checks made to use a dark-side Force skill. He takes a −8 penalty on any Force skill checks made to use light-side Force skills. Any Force Points spent by a dark character automatically call upon the dark side of the Force.
 
 ### Atoning
 A tainted character tempts fate with each appeal to the dark side, but also has the option of working his way back to the light through heroic deeds, the use of Force Points, and by atoning for past misdeeds. A dark character’s only path back to the light is to accomplish a truly epic act of heroism against the dark and in the service of the light.

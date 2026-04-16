@@ -62,7 +62,7 @@ The standard score package is:
 Each ability partially describes your character and affects some of your character's actions.
 
 ### Strength (Str)
-Strength measures your character's muscle and physical power, This ability is especially important for soldiers because it helps them prevail in physical combat,
+Strength measures your character's muscle and physical power. This ability is especially important for soldiers because it helps them prevail in physical combat.
 
 You apply your character's Strength modifier to:
 
@@ -127,7 +127,7 @@ You apply your Constitution modifier to:
 If a character's Constitution changes, his or her vitality and wound points increase or decrease accordingly.
 
 ### Intelligence (Int)
-Intelligence determines how well your character learns and reasons. Intelligence is important for any character who wants to have a wide assortment of skills,
+Intelligence determines how well your character learns and reasons. Intelligence is important for any character who wants to have a wide assortment of skills.
 
 You apply your character's Intelligence modifier to:
 
@@ -140,7 +140,7 @@ You apply your character's Intelligence modifier to:
 - Search and Knowledge checks, and other skill checks
   using Intelligence as the key ability.
 
-- Some Alter-based Force skill checks,
+- Some Alter-based Force skill checks.
 
 ### Wisdom (Wis)
 
