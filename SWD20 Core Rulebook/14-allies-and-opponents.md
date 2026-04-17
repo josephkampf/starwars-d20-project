@@ -4,11 +4,9 @@
 
 <!-- page 319 -->
 
-ALLIES ol OPPONENTS
-
 <!-- page 320 -->
 
-Aliens of the Galaxy
+## Aliens of the Galaxy
 
 The Star Wars universe is home to a dizzying array of sapient species, Despite the fact that Humans have been traveling the stars for tens of thousands of years, and many aliens have been doing the same for an equal amount of time, scouts discover new inhabited worlds all the time.
 
@@ -18,13 +16,13 @@ If you don’t have the previous edition of the Star Wars Roleplaying Game, you 
 
 We've added creature creation rules to this chapter, as well as more creatures—including some from Episode Il. We've updated and expanded the character archetypes, reworking the way we present this information. Finally, we've added more alien species, all of which can be played as hero characters with the GM's permission.
 
-Commoners The following entries represent a small sample of the alien species that heroes might encounter as either friends or foes. A typical commoner of each species is described and provided with game statistics.
+## Commoners
+
+The following entries represent a small sample of the alien species that heroes might encounter as either friends or foes. A typical commoner of each species is described and provided with game statistics.
 
 All commoners described here have Face/Reach of 2 m by 2 m/2 m unless otherwise noted, and all of them are considered Challenge Code A. (See page 161 for information on face and reach, and page 256 for more about Challenge Codes.)
 
-Sper its: Most commoners have advantages and
-
-disadvantages because of the species they belong to. Species traits most often take the form of adjustments to ability scores (made after the scores are rolled and assigned)
+*Species traits:* Most commoners have advantages and disadvantages because of the species they belong to. Species traits most often take the form of adjustments to ability scores (made after the scores are rolled and assigned)
 
 and modifiers to skill checks. Unless otherwise noted, species traits have been incorporated into the statistics for commoners that follow. (For instance, don’t add 2 to the Ewok’s Dexterity and subtract 2 from its Strength; those calculations are already reflected in the ability scores given in its statistics block.)
 
@@ -42,7 +40,7 @@ tion they can find to acquire either leverage or money. However, no one wants to
 
 Bothans are capable of speaking Basic, because their native language is a forerunner of that language.
 
-Baothan Commoner: Init +1 (Dex); Defense 1! (+1 Dex); Spd 10 m; VP/WP 0/8; Atk +0 melee (`1d3`, unarmed) or +1 ranged (`2d4` or `1d4`/DC 10 stun, hold-out blaster); SQ Species traits; SV Fort -1, Ref +1, Will +0; SZ M; FP 0; Rep +0; Str 10, Dex 12, Con 8, Int 10, Wis 10, Cha 10.
+Bothan Commoner: Init +1 (Dex); Defense 11 (+1 Dex); Spd 10 m; VP/WP 0/8; Atk +0 melee (`1d3`, unarmed) or +1 ranged (`2d4` or `1d4`/DC 10 stun, hold-out blaster); SQ Species traits; SV Fort -1, Ref +1, Will +0; SZ M; FP 0; Rep +0; Str 10, Dex 12, Con 8, Int 10, Wis 10, Cha 10.
 
 Equipment: Variety of personal belongings.
 
@@ -62,7 +60,7 @@ The Cerean species established contact with the rest of the galaxy shortly befor
 
 The Cerean homeworld is largely an unspoiled paradise. The Cerean culture’s traditional values emphasize living in harmony with nature, always minimizing any impact on the environment from technology. The philosophies of the Jedi appeal to Cereans, but there is much about the Republic and the Empire that disturbs those who subscribe to their more traditional values. This concern seems justified, since the few cities where they have allowed outsiders to build have decayed into dirty warrens of avarice and greed.
 
-Cerean Commoner: Init +1 (-1 Dex, +2 species); Defense 9 (-1 Dex); Spd 10 m; VP/WP 0/10; Atk +0 melee (143, unarmed) or -1 ranged; SQ Species traits; SV Fort +0,
+Cerean Commoner: Init +1 (-1 Dex, +2 species); Defense 9 (-1 Dex); Spd 10 m; VP/WP 0/10; Atk +0 melee (`1d3`, unarmed) or -1 ranged; SQ Species traits; SV Fort +0,
 
 Ref -1, Will +1; SZ M; FP 0; Rep +0; Str 10, Dex 8, Con 10, Int 12, Wis 12, Cha 10.
 
@@ -90,7 +88,7 @@ The Duros species has existed on other worlds in isolation from the rest of thei
 
 Duros Commoner: Init +1 (Dex); Defense 11 (+1 Dex);
 
-Spd 10 m; VP/WP 0/8; Atk -1 melee (143-1, unarmed) or +1 ranged; SQ Species traits; SV Fort -1, Ref +1, Will +0; SZ M; FP 0; Rep +0; Str 8, Dex 12, Con 8, Int 12, Wis 10, Cha 10.
+Spd 10 m; VP/WP 0/8; Atk -1 melee (`1d3-1`, unarmed) or +1 ranged; SQ Species traits; SV Fort -1, Ref +1, Will +0; SZ M; FP 0; Rep +0; Str 8, Dex 12, Con 8, Int 12, Wis 10, Cha 10.
 
 Equipment: Variety of personal belongings.
 
@@ -124,9 +122,7 @@ Feats: Alertness.
 
 Species Traits: +2 Dex, -2 Str; +2 bonus on Search checks due to heightened sense of smell; +4 size bonus on Hide checks; Primitive—Ewoks with heroic or professional classes receive the bonus feats Weapon Group Proficiency (primitive weapons) and Weapon Group Proficiency (simple weapons) instead of the usual Weapon Group Proficiency bonus feats.
 
-## Automatic Li
-
-nguage: Ewokese.
+Automatic Language: Ewokese.
 
 ## Gamorreans
 
@@ -136,9 +132,7 @@ Gamorrean civilization is geared toward preparing and carrying out the never-end
 
 Gamorreans are generally viewed as mindless brutes with primitive social values. The fact that their physiology does not allow them to speak Basic reinforces these views. The Gamorreans, however, don’t care what others think of them, so long as they are paid for their work and given plenty of opportunities to bash, hack, and slash.
 
-## Gamorrean Commoner: Init -1 (Dex); Defense 9
-
-(-1 Dex); Spd 10 m; VP/WP 0/10; Atk +1 melee (`1d3+1`, unarmed) or -1 ranged; SQ Species traits; SV Fort + Ref -1, Will +0; SZ M; FP 0; Rep +0; Str 12, Dex 8, Con 10, Int 8, Wis 10, Cha 10.
+Gamorrean Commoner: Init -1 (Dex); Defense 9 (-1 Dex); Spd 10 m; VP/WP 0/10; Atk +1 melee (`1d3+1`, unarmed) or -1 ranged; SQ Species traits; SV Fort +0, Ref -1, Will +0; SZ M; FP 0; Rep +0; Str 12, Dex 8, Con 10, Int 8, Wis 10, Cha 10.
 
 Equipment: Simple melee weapon, a variety of personal belongings.
 
@@ -146,7 +140,7 @@ Skills: Craft (any one) +0 or Knowledge (any one) +0, Profession (any one) +1, S
 
 Feats: None.
 
-Species Traits: +2 Str, -2 Dex, -2 Int; can understand but can’t speak Basic; +2 species bonus on Fortitude saves; Primitive-Gamorreans with heroic or professional classes receive the bonus feats Weapon Group Proficiency (primitive \eapons) and Weapon Group Proficiency (simple weapons) instead of the usual Weapon Group Proficiency bonus feats.
+Species Traits: +2 Str, -2 Dex, -2 Int; can understand but can’t speak Basic; +2 species bonus on Fortitude saves; Primitive-Gamorreans with heroic or professional classes receive the bonus feats Weapon Group Proficiency (primitive weapons) and Weapon Group Proficiency (simple weapons) instead of the usual Weapon Group Proficiency bonus feats.
 
 Automatic Language: Gamorrean.
 
@@ -157,12 +151,6 @@ The Geonosians are a caste-dominated species from the world of Geonosis, in the 
 Geonosians are born into specific castes divided along the lines of their physical attributes, and though most Geonosians are content to remain within their caste until they die, some workers develop ambition. The life of a worker is ordinarily one of ongoing toil, laboring to fulfill the whims of a Geonosian aristocracy that sometimes makes spectacular demands—regardless of how many workers must die in the effort. Geonosian society allows workers to escape from the drudgery through gladiatorial combat.
 
 Anyone the Geonosians capture is sent to the arena, to provide amusement for the masses. There, the hapless individual either faces some savage beast or fights to the death against another sentient being. A worker who volunteers for these battles can, if he survives, achieve some measure of status by distinguishing himself in the arena—if only in the form of fame, fortune, and the right to be recognized by aristocrats (though still not treated quite as an equal). Most workers who survive long enough to amass any amount of real wealth or prestige use it to buy their way off Geonosis, never to return.
-
-GEGNGSIAN
-
-J
-
-Ti a“ Zs 0 Z 4 fn
 
 <!-- page 323 -->
 
@@ -182,7 +170,7 @@ Automatic Language: Geonosian.
 
 Geonosian Commoner (Aristocrat): Init +1 (Dex);
 
-Defense 13 (+2 natural, +1 Dex); Spd 10 m, fly 16 m (poor); VP/WP 0/8; Atk +0 melee (`1d3`, unarmed) or +1 ranges SQ Species traits; SV Fort -1, Ref +1, Will +0; SZ M; FP Rep +0; Str 10, Dex 12, Con 8, Int 10, Wis 10, Cha 10.
+Defense 13 (+2 natural, +1 Dex); Spd 10 m, fly 16 m (poor); VP/WP 0/8; Atk +0 melee (`1d3`, unarmed) or +1 ranged; SQ Species traits; SV Fort -1, Ref +1, Will +0; SZ M; FP 0; Rep +0; Str 10, Dex 12, Con 8, Int 10, Wis 10, Cha 10.
 
 Equipment: Variety of personal belongings.
 
@@ -194,7 +182,9 @@ Species Traits: +2 Dex, -2 Con; +2 species bonus on Fortitude saves against radi
 
 Automatic Language: Geonosian.
 
-Gungans The Gungans are humanoids native to the swamps of the Outer Rim world of Naboo. Centuries ago, they all but abandoned life on the surface of the world. They now live at the bottom of deep lakes and in the ocean. Gungans are technologically advanced, relying mostly on forms of biotech that allow them to not so much build their homes and production facilities as grow them. They take great cultural pride in coexisting with nature, manufacturing as much as possible from the natural resources of their underwater habitat while taking great strides to create items that blend with it.
+## Gungans
+
+The Gungans are humanoids native to the swamps of the Outer Rim world of Naboo. Centuries ago, they all but abandoned life on the surface of the world. They now live at the bottom of deep lakes and in the ocean. Gungans are technologically advanced, relying mostly on forms of biotech that allow them to not so much build their homes and production facilities as grow them. They take great cultural pride in coexisting with nature, manufacturing as much as possible from the natural resources of their underwater habitat while taking great strides to create items that blend with it.
 
 Gungan culture is basically peaceful, but it evolved from a series of long, bloody clan wars. The arrival of Human settlers on Naboo forced them to unite. Elements of the warrior culture still remain, and Gungans still admire strength and cunning. Most Gungan communities are devoted to farming or the manufacture of goods that are then traded to other Gungan settlements. They also reluctantly trade with the Humans of Naboo, though they keep contact to a minimum.
 
@@ -224,7 +214,9 @@ Human or Near-Human Commoner: Init +0; Defense 10; Spd 10 m; VP/WP 0/10; Atk +0 
 
 <!-- page 324 -->
 
-Hutts Hutts are immense, sluglike, hermaphroditic creatures with bulbous heads. Two catlike eyes rise from the surface of a Hutt’s face; his lipless mouth spreads from ear hole to ear hole. Most Hutts are vicious megalomaniacs who consider their kind to be beyond morality as perceived by lesser beings. They have a talent for manipulating other beings and enjoy accumulating and exerting power over others. Hutts are often found at the center of business and criminal enterprises. Legality (or lack thereof) does not affect whether a Hutt will pursue a venture. All that matters is how much of a benefit—and a profit—one can get from it.
+## Hutts
+
+Hutts are immense, sluglike, hermaphroditic creatures with bulbous heads. Two catlike eyes rise from the surface of a Hutt’s face; his lipless mouth spreads from ear hole to ear hole. Most Hutts are vicious megalomaniacs who consider their kind to be beyond morality as perceived by lesser beings. They have a talent for manipulating other beings and enjoy accumulating and exerting power over others. Hutts are often found at the center of business and criminal enterprises. Legality (or lack thereof) does not affect whether a Hutt will pursue a venture. All that matters is how much of a benefit—and a profit—one can get from it.
 
 Hutt Commoner: Init -2 (Dex); Defense 7 (-1 size,
 
@@ -232,7 +224,7 @@ Hutt Commoner: Init -2 (Dex); Defense 7 (-1 size,
 
 Equipment: Repulsor sled, variety of tasty foods, plenty of bodyguards.
 
-Skills: Bluff +3, Diplomacy +2 or Intimidate +2, Knowledge (any one) +3, Read/Write Basic, Read/Write ‘Huttese, Speak Basic, Speak Huttese.
+Skills: Bluff +3, Diplomacy +2 or Intimidate +2, Knowledge (any one) +3, Read/Write Basic, Read/Write Huttese, Speak Basic, Speak Huttese.
 
 Feats: Infamy (bonus feat).
 
@@ -240,23 +232,21 @@ Species Traits: +2 Str, +2 Con, +2 Int, +2 Wis, +2 Cha, -4 Dex; +6 species bonus
 
 Automatic Languages: Huttese and Basic.
 
-{thorians
+## Ithorians
 
 An Ithorian is a large humanoid with a long neck that curls forward and ends in a dome-shaped head. Peaceful and gentle, Ithorians are widely recognized as talented artists, brilliant agricultural engineers, and skilled diplomats.
 
 Ithorians are perhaps the greatest ecologists in the galaxy. They have a technologically advanced society but have devoted much of their efforts to preserving the natural beauty of their homeworld’s tropical jungles. They live in what they refer to as “herds,” dwelling in floating cities that hover above the surface of their planet, where they continually strive to maintain the ecological balance in what they reverently refer to as “Mother Jungle.”
 
-Ithorians developed space travel early in their civilization. They travel through hyperspace in massive “herdships,” hich are masterpieces of environmental engineering. Each hip carries within it a perfect replica of their native jungle. Ithorian herdships are familiar sights from one end of the alaxy to the other. Many planetary populations look forward to trading for whatever exotic wares the Ithorians bring from distant planets.
+Ithorians developed space travel early in their civilization. They travel through hyperspace in massive “herdships,” which are masterpieces of environmental engineering. Each ship carries within it a perfect replica of their native jungle. Ithorian herdships are familiar sights from one end of the galaxy to the other. Many planetary populations look forward to trading for whatever exotic wares the Ithorians bring from distant planets.
 
 An Ithorian has two mouths, one on either side of its curling neck, This produces a stereo effect that can be disconcerting to beings who aren't used to dealing with their kind.
 
-ithorian Commoner: Init -1 (Dex); Defense 9 (-1 Dex); Spd 10 m; VP/WP 0/10; Atk +0 melee (143, unarmed) or -| ranged; SQ Species traits; SV Fort +0, Ref -1, Will +2; 52M; FP 0; Rep +0; Str 10, Dex 8, Con 10, Int 10, Wis 12, Cha 12.
+Ithorian Commoner: Init -1 (Dex); Defense 9 (-1 Dex); Spd 10 m; VP/WP 0/10; Atk +0 melee (`1d3`, unarmed) or -1 ranged; SQ Species traits; SV Fort +0, Ref -1, Will +2; SZ M; FP 0; Rep +0; Str 10, Dex 8, Con 10, Int 10, Wis 12, Cha 12.
 
 Equipment: Variety of personal belongings.
 
-Ss i]
-
-Skills: Knowledge (wildemess lore) +5, Profession (engineer) +2, Read/Write Ithorese, Speak Basic, Speak Ithorese, Survival +4.
+Skills: Knowledge (wilderness lore) +5, Profession (engineer) +2, Read/Write Ithorese, Speak Basic, Speak Ithorese, Survival +4.
 
 Feats: None.
 
@@ -264,21 +254,19 @@ Species Traits: +2 Wis, +2 Cha, -2 Dex; +2 species bonus on Knowledge (nature) c
 
 Automatic Language: Ithorese.
 
-## Jdawas
+## Jawas
 
 Jawas are intelligent scavengers of short stature. Dressed in their distinctive, dark-hooded robes covering all but their characteristic glowing eyes, Jawas are found in seemingly every dark nook and cranny of Tatooine. They survive by scrounging for scrap, which forms the basis of their economy, and hiding from the planet's terrible predators.
 
-Although not particularly advanced technologically, Jawas have a gift for discovering unusual ways to make things work—at least for a little while. Jawas have a welldeserved reputation as thieves and swindlers, although they would hardly consider these words insults. Jawas are proud of their ability to acquire what others obviously no longer need and sell things that require frequent maintenance and costly replacement parts. Through most people despise Jawas for their underhanded practices (and unpleasant odor), they also realize that Jawas occasionally lay their hands on priceless treasures.
+Although not particularly advanced technologically, Jawas have a gift for discovering unusual ways to make things work—at least for a little while. Jawas have a welldeserved reputation as thieves and swindlers, although they would hardly consider these words insults. Jawas are proud of their ability to acquire what others obviously no longer need and sell things that require frequent maintenance and costly replacement parts. Though most people despise Jawas for their underhanded practices (and unpleasant odor), they also realize that Jawas occasionally lay their hands on priceless treasures.
 
 Jawas have a complex language all but incomprehensible to non-Jawas. It consists of almost meaningless syllables that only make sense when combined with pheromonally produced emphasis. (Even when a Jawa isn’t actively conversing, his scent can tell others his mood.) When bargaining with non-Jawas, they use a simplified form of their native tongue known as Jawa Trade Language.
-
-ee) SL NINOddO ONV SIT 1V
 
 Jawa Commoner: Init +1 (Dex); Defense 12 (+1 size,
 
 +1 Dex); Spd 6 m; VP/WP 0/10; Atk -1 melee (`1d2-2`, unarmed) or +2 ranged; SQ Species traits; SV Fort +0,
 
-Ref +1, Will +0; SZ'S; FP 0; Rep +0; Str 6, Dex 12, Con 10, Int 10, Wis 10, Cha 8.
+Ref +1, Will +0; SZ S; FP 0; Rep +0; Str 6, Dex 12, Con 10, Int 10, Wis 10, Cha 8.
 
 Equipment: Desert robes, variety of personal belongings.
 
@@ -286,7 +274,7 @@ Skills: Craft (any one) +1, Hide +5, Profession (scrap dealer) +2, Read/Write Ja
 
 Feats: None.
 
-Species Traits: +2 Dex, —4 Str, -2 Cha; +4 size bonus on Hide checks; +2 species bonus on Survival checks; darkvision 20 meters.
+Species Traits: +2 Dex, -4 Str, -2 Cha; +4 size bonus on Hide checks; +2 species bonus on Survival checks; darkvision 20 meters.
 
 Automatic Languages: Jawa and Jawa Trade Language.
 
@@ -295,8 +283,6 @@ Automatic Languages: Jawa and Jawa Trade Language.
 Not all Kaminoans are clone technicians, but Kaminoans are known—among those who still remember them—as cloners. Long ago, to better survive rising sea levels at the end of a planetary ice age, the Kaminoans turned to cloning technology to ensure the continuance of their species, weeding out physical weaknesses and enabling them to survive on less. As a result, Kaminoans are somewhat hardier, but even genetic engineering has only taken them so far.
 
 <!-- page 325 -->
-
-KAMINGAN
 
 Kaminoans are tall, bipedal beings with pale skin and dark eyes. They are thin to the point of being gaunt, and have long, graceful necks and slender fingers. Their mouths are somewhat smaller than those of Humans, but seem smaller yet because of their large eyes. They present an aspect of quiet curiosity, and are generally pleasant and approachable. Kaminoans have no respect for weakness and tend to think of identifiably weak persons as beneath their notice. They do not bear such individuals any animosity; to the Kaminoans, such people should simply be culled from the “herd”—and they find it vaguely disturbing that others cannot seem to grasp this fact.
 
@@ -316,7 +302,7 @@ Automatic Languages: Kaminoan and Basic.
 
 The Kel Dor are a species of humanoids that arose on Dorin, a world with an atmosphere consisting mostly of helium and a gas that is unique to that world. Common atmospheres, such as those consisting mostly of oxygen, nitrogen, or carbon dioxide, are often deadly to Kel Dor; at their mildest, they cause severe irritation of the Kel Dor’s eyes and air passages. Conversely, Dorin’s atmosphere is toxic to most beings and plant life that isn’t native to the planet.
 
-Kel Dor adults stand between 1.4 and 2 meters tall, with males being taller and somewhat more sturdy of build than the females. Skin color ranges from peach to deep red, with eye color mostly black, although a rare few Kel Dor are bon! with silver irises. In times past, such males and females were viewed as being blessed by the deities and would receive training in the culture’s elaborate Force adept ition, These beliefs faded, however, six millennia ago after Dorin became part of the Republic and the Kel Dor were introduced to the Jedi traditions and the concept of the Force a the rest of the galaxy understood it.
+Kel Dor adults stand between 1.4 and 2 meters tall, with males being taller and somewhat more sturdy of build than the females. Skin color ranges from peach to deep red, with eye color mostly black, although a rare few Kel Dor are born with silver irises. In times past, such males and females were viewed as being blessed by the deities and would receive training in the culture’s elaborate Force adept tradition. These beliefs faded, however, six millennia ago after Dorin became part of the Republic and the Kel Dor were introduced to the Jedi traditions and the concept of the Force as the rest of the galaxy understood it.
 
 The Kel Dor are kind-hearted and even-tempered—traits that stand in stark contrast to the Kel Dor belief in quick, simple justice. No host ever turns away a guest, and it is virtually unthinkable for a Kel Dor to ignore or refuse another being in need. Someone who steals a landspeeder from a Kel Dor family, however, could well be executed upon capture.
 
@@ -324,7 +310,7 @@ Kel Dor who live under alien skies refurbish their dwellings with materials adap
 
 When outside their dwellings on an alien world, Kel Dor must wear breath masks and protective eyewear. They can neither see nor breathe for an extended period of time without these devices. Most Kel Dor breath masks include vocoders that amplify the wearer's speech; while their vocal cords function normally in their native atmosphere, Kel Dor must shout to produce sound in more typical environments, Their eyesight, however, is enhanced when they are away from Dorin.
 
-Kel Dor Commoner: Init +1 (Dex); Defense 11 (+1 Dex); Spd 10 m; VP/WP 0/8; Atk +0 melee (143, unarmed) or +1 ranged; SQ Species traits; SV Fort -1, Ref +1, Will +1; SZ M; FP 0; Rep +0; Str 10, Dex 12, Con 8, Int 10, Wis 12, Cha 10.
+Kel Dor Commoner: Init +1 (Dex); Defense 11 (+1 Dex); Spd 10 m; VP/WP 0/8; Atk +0 melee (`1d3`, unarmed) or +1 ranged; SQ Species traits; SV Fort -1, Ref +1, Will +1; SZ M; FP 0; Rep +0; Str 10, Dex 12, Con 8, Int 10, Wis 12, Cha 10.
 
 Equipment: Breath mask, protective goggles, variety of personal belongings.
 
@@ -334,21 +320,19 @@ Feats: None.
 
 <!-- page 326 -->
 
-Species Traits: +2 Dex, +2 Wis, -2 Con; low-light vision outside their native atmosphere; Gas Breather—Kel Dor cannot survive without their native atmosphere, specifically
-- gas unique to their homeworld. Without protective
-  goggles, a Kel Dor is considered blinded. Without a breath   mask, a Kel Dor begins to suffocate (see Suffocation and   Drowning in Chapter Twelve).
+Species Traits: +2 Dex, +2 Wis, -2 Con; low-light vision outside their native atmosphere; Gas Breather—Kel Dor cannot survive without their native atmosphere, specifically a gas unique to their homeworld. Without protective goggles, a Kel Dor is considered blinded. Without a breath mask, a Kel Dor begins to suffocate (see Suffocation and Drowning in Chapter Twelve).
 
 Automatic Languages: Kel Dor and Basic.
 
 ## Mon Calamari
 
-The Mon Calamari are land-dwellers who share their Outer Rim homeworld with the Quarren. They tend to be softspoken but vigorously defend causes that inspire them. Mon Calamari believe sentient beings should struggle to make order out of chaos, while attending to the greater good whenever possible. Their ancestors have been explorers from the species’ earliest recorded history. They always dreamed of traveling to the stars. When they finally achieved their dream, they were delighted to find they weren't alone in the galaxy. Delight turned to disappointment when the corrupt forces that gripped the Galactic Republic in its later years devastated their homeworld. Mon Calamari suffered under great oppression when the Empire was formed; thus, it was ‘one of the first alien civilizations to declare support for the Rebel Alliance.
+The Mon Calamari are land-dwellers who share their Outer Rim homeworld with the Quarren. They tend to be softspoken but vigorously defend causes that inspire them. Mon Calamari believe sentient beings should struggle to make order out of chaos, while attending to the greater good whenever possible. Their ancestors have been explorers from the species’ earliest recorded history. They always dreamed of traveling to the stars. When they finally achieved their dream, they were delighted to find they weren't alone in the galaxy. Delight turned to disappointment when the corrupt forces that gripped the Galactic Republic in its later years devastated their homeworld. Mon Calamari suffered under great oppression when the Empire was formed; thus, it was one of the first alien civilizations to declare support for the Rebel Alliance.
 
 Mon Calamari are widely recognized for their keen analytical and organizational abilities. The Mon Calamari have developed a reputation as being among the foremost ship designers in the galaxy. They are able to speak Basic and Quarrenese with ease, even though their vocal cords seem to produce a gurgling sound when they do.
 
 Mon Calamari Commoner: Init +0; Defense 10; Spd 10 m, swim 6 m; VP/WP 0/8; Atk +0 melee (`1d3`, unarmed) or
 
-+0 ranged; SQ Species traits; SV Fort -1, Ref +0, Will +0; SZM; FP 0; Rep +0; Str 10, Dex 10, Con 8, Int 12, Wis 10, tha 10.
++0 ranged; SQ Species traits; SV Fort -1, Ref +0, Will +0; SZ M; FP 0; Rep +0; Str 10, Dex 10, Con 8, Int 12, Wis 10, Cha 10.
 
 Equipment: Variety of personal belongings.
 
@@ -360,13 +344,13 @@ Species Traits: +2 Int, -2 Con; low-light vision; +4 species bonus on Swim check
 
 ## Neimoidians
 
-The Neimoidians are the dominant sapients in a handful of planetary systems within the same sector as their home- ‘world, Neimoidia. The Neimoidia system itself is scarcely populated, since Neimoidians in general prefer to live offworld. Neimoidians stand between 1.6 and 2 meters tall and are of slight build. Their skin ranges from mottled green to gray, and their vaguely reptilian faces are flat and elongated, They have red eyes, thick lips, and no noses. Clothing presents status in Neimoidian society, which is why most Neimoidians traveling abroad favor long robes of rich fabfs with elaborate collars, hats, and cloaks.
+The Neimoidians are the dominant sapients in a handful of planetary systems within the same sector as their homeworld, Neimoidia. The Neimoidia system itself is scarcely populated, since Neimoidians in general prefer to live offworld. Neimoidians stand between 1.6 and 2 meters tall and are of slight build. Their skin ranges from mottled green to gray, and their vaguely reptilian faces are flat and elongated, They have red eyes, thick lips, and no noses. Clothing presents status in Neimoidian society, which is why most Neimoidians traveling abroad favor long robes of rich fabrics with elaborate collars, hats, and cloaks.
 
 Neimoidians have two primary motivations: to control their surroundings at all times and to acquire as much wealth and power as they can. The latter goal might seem a logical means of attaining the former, but to a Neimoidian, the pursuit of wealth and power is an end unto itself. Such traits gave rise to the Trade Federation, one of the most powerful and influential economic forces in the Galactic Republic. Not all Neimoidians serve the Trade Federation, but few independent Neimoidians get by without maintaining strong ties to the Trade Federation and its members.
 
 Neimoidians constantly exploit weaknesses in others— friends and enemies alike. Extortion and manipulation are perfectly acceptable practices, particularly when directed at other species. Most Neimoidians take strides to hide their actions behind veils of legality or other “good faith efforts,” if only to minimize personal liability and avoid embarrassment. Neimoidians loathe to be held accountable for the results of a failed scheme.
 
-Neimoidian Commoner: Init +0; Defense 10; Spd 10 m: VP/WP 0/10; Atk -1 melee (`1d3-1`, unarmed) or +0 ranged; SQ Species traits; SV Fort +0, Ref +0, Will +1; SZ M; FP 0; Rep +0; Str 8, Dex 10, Con 10, Int 12, Wis 12, Cha 10.
+Neimoidian Commoner: Init +0; Defense 10; Spd 10 m; VP/WP 0/10; Atk -1 melee (`1d3-1`, unarmed) or +0 ranged; SQ Species traits; SV Fort +0, Ref +0, Will +1; SZ M; FP 0; Rep +0; Str 8, Dex 10, Con 10, Int 12, Wis 12, Cha 10.
 
 Equipment: Fine robes, variety of personal belongings.
 
@@ -388,10 +372,6 @@ The Noghri served Vader as his secret assassins for decades. Five years after Va
 
 The Noghri rarely travel the galaxy alone. During the Civil War, they are always found in the company of Darth Vader's agents or (briefly) with the forces of Grand Admiral Thrawn. Later, they can be found in the company of New Republic agents, as well as the allies, friends, and relatives of Leia Organa. They speak Basic with ease, albeit with soft, whispered, chilling voices.
 
-ra NS = |
-
-Ec 7) 0 QO ie zZ 4 a“
-
 <!-- page 327 -->
 
 Noghri Commoner: Init +1 (Dex); Defense 11 (+1 Dex); Spd 6 m; VP/WP 0/10; Atk +1 melee (`1d2`, unarmed) or +2 ranged; SQ Species traits; SV Fort +0, Ref +1, Will +1; SZ S; FP 0; Rep +0; Str 10, Dex 12, Con 10, Int 10, Wis 12, Cha 6.
@@ -402,7 +382,7 @@ Skills: Hide +5, Listen +2, Move Silently +2, Read/Write Honoghran, Speak Basic,
 
 Feats: None.
 
-+2 Dex, +2 Wis, -4 Cha; +4 size bonus on ell—Noghri can identify an individual by smell at a range of 10 meters with a successful Wisdom check (DC 10); Primitive-Noghri with heroic or professional classes receive the bonus feats Weapon Group Proficiency (primitive weapons) and Weapon Group Proficiency (simple weapons) instead of the usual Weapon Group Proficiency bonus feats.
+Species Traits: +2 Dex, +2 Wis, -4 Cha; +4 size bonus on Hide checks; Keen Smell—Noghri can identify an individual by smell at a range of 10 meters with a successful Wisdom check (DC 10); Primitive-Noghri with heroic or professional classes receive the bonus feats Weapon Group Proficiency (primitive weapons) and Weapon Group Proficiency (simple weapons) instead of the usual Weapon Group Proficiency bonus feats.
 
 Automatic Language: Honoghran.
 
@@ -420,33 +400,29 @@ Offworld, Quarren generally stay clear of becoming entangled with the Empire or 
 
 just see as foolish) for the devastation visited upon their homeworld, They try to get some measure of revenge without bringing further harm to their world or themselves.
 
-Quarren Commoner: Init +0; Defense 10; Spd 10 m,
-
-swim 6 m; VP/WP 0/12; Atk +0 melee (143, unarmed) or + ranged; SQ Species traits; SV Fort +1, Ref +0, Will -1; SZ; FP 0; Rep +0; Str 10, Dex 10, Con 12, Int 10, Wis 8, Cha 8,
+Quarren Commoner: Init +0; Defense 10; Spd 10 m, swim 6 m; VP/WP 0/12; Atk +0 melee (`1d3`, unarmed) or +0 ranged; SQ Species traits; SV Fort +1, Ref +0, Will -1; SZ M; FP 0; Rep +0; Str 10, Dex 10, Con 12, Int 10, Wis 8, Cha 8,
 
 Equipment: Variety of personal belongings.
 
 Skills: Craft (any one) +1, Knowledge +1 (any one), Profession (any one) +0, Read/Write Basic, Read/Write Quarrenese, Speak Basic, Speak Mon Calamarian, Speak Quarrenese, Swim +4.
 
-None.
+Feats: None.
 
-ies Traits: +2 Con, -2 Wis, -2 Cha; +4 species bonus on Swim checks; Breathe Underwater—Quarren cannot drown in water.
+Species Traits: +2 Con, -2 Wis, -2 Cha; +4 species bonus on Swim checks; Breathe Underwater—Quarren cannot drown in water.
 
-## Automatic Language
-
-Quarrenese and Basic.
+Automatic Languages: Quarrenese and Basic.
 
 ## Rodians
 
 Rodians hail from the Tyrius star system in the Mid Rim. They have multifaceted eyes that range in color from light blue to pitch black, a tapered snout, and skin that is univer sally deep green. A typical Rodian has a prominent ridge of spines running along the back of his skull. His fingers are long and flexible, and end in suction cups.
 
-The Rodian homeworld of Rodia is humid and choked with heavy rain forests teeming with dangerous life forms. The Rodians evolved into brutal hunters and killers to survive. As their technology became more advanced, they started exterminating other life forms on their world at an increasing pace. If a Republic scout vessel hadn't reached Rodia when it did, the world’s ecosystem might well have been damaged beyond repair, and the Rodians would have died out. Instead, they joined the Galactic Republic, fascinated by the powerful ships that let them travel to the stats and the mighty energy weapons used by the aliens they found there.
+The Rodian homeworld of Rodia is humid and choked with heavy rain forests teeming with dangerous life forms. The Rodians evolved into brutal hunters and killers to survive. As their technology became more advanced, they started exterminating other life forms on their world at an increasing pace. If a Republic scout vessel hadn’t reached Rodia when it did, the world’s ecosystem might well have been damaged beyond repair, and the Rodians would have died out. Instead, they joined the Galactic Republic, fascinated by the powerful ships that let them travel to the stars and the mighty energy weapons used by the aliens they found there.
 
-Rodian culture is built almost entirely around the concept | of “the hunt.” Their art glorifies violence and the act of stalking prey. The more intelligent and dangerous a hunters prey, the more honorable the hunt. Rodians have numerous annual festivals that exist solely to honor such activities. Since joining the rest of the galaxy’s starfaring species, the Rodians have come to view bounty hunting as the most honorable profession in existence. Many of them have found great success in this field.
+Rodian culture is built almost entirely around the concept of “the hunt.” Their art glorifies violence and the act of stalking prey. The more intelligent and dangerous a hunters prey, the more honorable the hunt. Rodians have numerous annual festivals that exist solely to honor such activities. Since joining the rest of the galaxy’s starfaring species, the Rodians have come to view bounty hunting as the most honorable profession in existence. Many of them have found great success in this field.
 
 <!-- page 328 -->
 
-Radian Commoner: Init +1 (Dex); Defense 11 (+1 Dex); Spd 10 m; VP/WP 0/10; Atk +0 melee (`1d3`, unarmed), +1 ranged (`2d4` or `1d4`/DC 10 stun, hold-out blaster); SQ Species traits; SV Fort +0, Ref +1, Will -1; SZ M; FP 0; Rep +0; Str 10, Dex 12, Con 10, Int 10, Wis 8, Cha 8.
+Rodian Commoner: Init +1 (Dex); Defense 11 (+1 Dex); Spd 10 m; VP/WP 0/10; Atk +0 melee (`1d3`, unarmed), +1 ranged (`2d4` or `1d4`/DC 10 stun, hold-out blaster); SQ Species traits; SV Fort +0, Ref +1, Will -1; SZ M; FP 0; Rep +0; Str 10, Dex 12, Con 10, Int 10, Wis 8, Cha 8.
 
 Equipment: Variety of personal belongings, hold-out blaster.
 
@@ -476,7 +452,9 @@ Species Traits: +2 Dex, -2 Con; +2 species bonus on Climb checks and Listen chec
 
 Automatic Language: Sullustese.
 
-Trandoshans Trandoshans are strong reptilian humanoids from the planet Trandosha (also called Dosha). They have supersensitive eyes that can see into the infrared range and the ability to regenerate lost limbs when they are young. They also shed their skin.
+## Trandoshans
+
+Trandoshans are strong reptilian humanoids from the planet Trandosha (also called Dosha). They have supersensitive eyes that can see into the infrared range and the ability to regenerate lost limbs when they are young. They also shed their skin.
 
 Trandoshans are a warlike species who allied early with the Empire, taking Wookiees as slaves. They value hunting above all else and worship a female deity who rewards
 
@@ -484,7 +462,7 @@ Trandoshans based on their success or failure in the hunt. Young Trandoshans hat
 
 Trandoshans have a difficult time manipulating delicate objects with their relatively clumsy clawed hands. Trandoshans refer to themselves as “T’doshok.”
 
-(-1 Dex, +1 natural armor); Spd 10 m; VP/WP 0/10; Atk +1 melee (`1d3+1`, unarmed) or -1 ranged; SQ Species traits; SV Fort +0, Ref -1, Will +0; SZ M; FP 0; Rep +0; Str 12, Dex 8, Con 10, Int 10, Wis 10, Cha 10.
+Trandoshan Commoner: Init -1 (Dex); Defense 10 (-1 Dex, +1 natural armor); Spd 10 m; VP/WP 0/10; Atk +1 melee (`1d3+1`, unarmed) or -1 ranged; SQ Species traits; SV Fort +0, Ref -1, Will +0; SZ M; FP 0; Rep +0; Str 12, Dex 8, Con 10, Int 10, Wis 10, Cha 10.
 
 Equipment: Variety of personal belongings.
 
@@ -508,33 +486,31 @@ Tusken Raider Commoner: Init +0; Defense 10; VP/WP 0/12; Atk +0 melee (143, unar
 
 Twi'leks are tall, thin humanoids native to the Ryloth star system in the Outer Rim. They come in a wide variety of distinct races, but are all instantly recognizable by the tentacular “head-tails” that protrude from the backs of their heads. Their native technology is primitive by galactic standards. While they haven't developed their own means of space travel, they have become a common sight on many Outer Rim planets. Twi'leks are sly, cunning beings who can be found with merchants, pirates, mercenaries, and slavers.
 
-=| | Ny 3
-
-rz E ZS 0 u oh 4 “
-
 <!-- page 329 -->
 
 Twi'leks are a calculating, pragmatic people. Generally speaking, they try to avoid being swept up in other beings’ troubles, preferring instead to duck into the shadows and wait out large conflicts, From a safe hiding place, they can observe, plan, and prepare to profit from the outcome.
 
 Twi'leks are able to speak most humanoid tongues and have no difficulty with Basic. However, the Twi'lek head-tail language known as Lekku cannot be effectively spoken by other species and is unique to Twi'leks.
 
-Twi'lek Commoner: Init +0; Defense 10; Spd 10 m; VP/WP 0/10; Atk +0 melee (143, unarmed) or +0 ranged; SQ Species traits; SV Fort +1, Ref +0, Will -1; SZ M; FP 0;
+Twi'lek Commoner: Init +0; Defense 10; Spd 10 m; VP/WP 0/10; Atk +0 melee (`1d3`, unarmed) or +0 ranged; SQ Species traits; SV Fort +1, Ref +0, Will -1; SZ M; FP 0;
 
 Rep +0; Str 10, Dex 10, Con 10, Int 10, Wis 8, Cha 12.
 
 Equipment: Variety of personal belongings.
 
-Skills: Craft (any one) +1, Diplomacy +2, Knowledge (any one) +1, Read/Write Ryl, Speak Basic, Speak Lekku (headtails), Spea
+Skills: Craft (any one) +1, Diplomacy +2, Knowledge (any one) +1, Read/Write Ryl, Speak Basic, Speak Lekku (head-tails), Speak Ryl.
 
-## Feat
+Feats: None.
 
 Species Traits: +2 Cha, -2 Wis; +1 species bonus on Fortitude saves; low-light vision.
 
 Automatic Languages: Ryl and Lekku (head-tail).
 
-Wookiees Wookiees are intelligent arboreal creatures from the forested Mid Rim world of Kashyyyk. Although Wookiees are widely recognized as one of the strongest and fiercest intelligent species in the galaxy, other creatures on Kashyyyk are so. powerful that the Wookiees are relegated to living in the tops of the world’s giant trees. When the Republic first made contact with Kashyyyk, the Wookiees were engaged in a war against the Trandoshans, a reptilian species native to another world in the star system. The Republic mediated the dispute, and the Wookiees eagerly joined the galactic community. During the days of the Republic, the Wookiees were admired as honorable, trustworthy warriors and technical experts, due to their knack for repairing all types of machinery. When the Empire came to power, however, the Trandoshans, for whom the war against the Wookiees never really ended, gained ultimate victory when they convinced the Emperor to declare all Wookiees slaves. When the New Republic was founded, Wookiees regained their freedom and once again became active in the galaxy at large. Wookiees can’t typically speak Basic due to the nature of their voice boxes. However, a rare deformity exists that allows a Wookiee to speak the galactic tongue, although such an unfortunate being finds it very difficult to speak his native language.
+## Wookiees
 
-Wookiee Commoner: Init ~1 (Dex); Defense 9 (-1 Dex); Spd 10 m; VP/WP 0/10; Atk +2 melee (`1d3+2`, unarmed) or =1 ranged; SQ Species traits; SV Fort +0, Ref -1, Will -1; SZ M; FP 0; Rep +0; Str 14, Dex 8, Con 10, Int 10, Wis 8, Cha 8.
+Wookiees are intelligent arboreal creatures from the forested Mid Rim world of Kashyyyk. Although Wookiees are widely recognized as one of the strongest and fiercest intelligent species in the galaxy, other creatures on Kashyyyk are so. powerful that the Wookiees are relegated to living in the tops of the world’s giant trees. When the Republic first made contact with Kashyyyk, the Wookiees were engaged in a war against the Trandoshans, a reptilian species native to another world in the star system. The Republic mediated the dispute, and the Wookiees eagerly joined the galactic community. During the days of the Republic, the Wookiees were admired as honorable, trustworthy warriors and technical experts, due to their knack for repairing all types of machinery. When the Empire came to power, however, the Trandoshans, for whom the war against the Wookiees never really ended, gained ultimate victory when they convinced the Emperor to declare all Wookiees slaves. When the New Republic was founded, Wookiees regained their freedom and once again became active in the galaxy at large. Wookiees can’t typically speak Basic due to the nature of their voice boxes. However, a rare deformity exists that allows a Wookiee to speak the galactic tongue, although such an unfortunate being finds it very difficult to speak his native language.
+
+Wookiee Commoner: Init -1 (Dex); Defense 9 (-1 Dex); Spd 10 m; VP/WP 0/10; Atk +2 melee (`1d3+2`, unarmed) or -1 ranged; SQ Species traits; SV Fort +0, Ref -1, Will -1; SZ M; FP 0; Rep +0; Str 14, Dex 8, Con 10, Int 10, Wis 8, Cha 8.
 
 Equipment: Variety of personal belongings.
 
@@ -544,7 +520,7 @@ Feats: None.
 
 Species Traits: +4 Str, -2 Dex, -2 Wis, -2 Cha; +2 species bonus on Climb checks; +4 species bonus on Intimidate
 
-checks; Wookiee Rage-A Wookiee who rages temporarily gains +4 Strength, 2 vitality points, and a +2 rage bonus on. Fortitude and Will saves, but suffers a -2 penalty to Defense. A raging Wookiee cannot use skills that require patience and concentration. The rage lasts a number of rounds equal to 5 + the Wookiee's Constitution modifier, after which the Wookiee loses the bonus vitality points gained from the rage and is fatigued (-2 penalty to effective Strength and Dexterity, cannot run or charge) fora number of rounds equal to the rage’s duration; Extra~ ordinary Recuperation—A Wookice regains vitality and wound points at twice the normal rate.
+checks; Wookiee Rage-A Wookiee who rages temporarily gains +4 Strength, 2 vitality points, and a +2 rage bonus on. Fortitude and Will saves, but suffers a -2 penalty to Defense. A raging Wookiee cannot use skills that require patience and concentration. The rage lasts a number of rounds equal to 5 + the Wookiee's Constitution modifier, after which the Wookiee loses the bonus vitality points gained from the rage and is fatigued (-2 penalty to effective Strength and Dexterity, cannot run or charge) fora number of rounds equal to the rage’s duration; Extraordinary Recuperation—A Wookiee regains vitality and wound points at twice the normal rate.
 
 Automatic Languages: Shyriiwook and Basic (understand only).
 
@@ -554,11 +530,11 @@ Conquerors from beyond the galactic rim, the Yuuzhan Vong are organized, bloodth
 
 The Yuuzhan Vong are masters of biotechnology. Their weapons, equipment, even their clothing, are all genetically engineered and adapted life forms, employed by the warrior species to do everything from lighting their way to building and powering their ships. Using dovin basals—a kind of living gravity-well projector—Yuuzhan Vong ships literally pull themselves through space. The gravitic energy of a dovin basal can also shut down the shields of a spacecraft, or—as the Yuuzhan Vong have recently demonstrated—pull moons out of their orbit onto their parent planet.
 
-The culture of the Yuuzhan Vong is based on the domination of lesser species. To the Yuuzhan Vong, most other species are unworthy. The worthy are regarded with enough tolerance to grant them a clean di all other species are effectively suitable only as slaves. This mentality derives from the Yuuzhan Vong focus on Yun-Yammka, the Slayer, their god of war. In observance of its imperatives, the Yuuzhan Vong spread across the stars, destroying worlds and subjugating other species. At their forefront is the Praetorite Vong, the war force charged with establishing a staging ground in the galaxy.
+The culture of the Yuuzhan Vong is based on the domination of lesser species. To the Yuuzhan Vong, most other species are unworthy. The worthy are regarded with enough tolerance to grant them a clean death; all other species are effectively suitable only as slaves. This mentality derives from the Yuuzhan Vong focus on Yun-Yammka, the Slayer, their god of war. In observance of its imperatives, the Yuuzhan Vong spread across the stars, destroying worlds and subjugating other species. At their forefront is the Praetorite Vong, the war force charged with establishing a staging ground in the galaxy.
 
 Those who run afoul of the Yuuzhan Vong are more likely to encounter Yuuzhan Vong warriors (see Character Archetypes) than the commoner detailed below,
 
-Yuuzhan Vang Commoner: Init +0; Defense 10; Spd 10 mj VP/WP 0/12; Atk +1 melee (`1d3+1`, unarmed) or +0 ranged; SQ Species traits; SV Fort +1, Ref +0, Will -1; SZ M; FP 0; Rep +0; Str 12, Dex 10, Con 12, Int 10, Wis 8, Cha 10.
+Yuuzhan Vong Commoner: Init +0; Defense 10; Spd 10 m; VP/WP 0/12; Atk +1 melee (`1d3+1`, unarmed) or +0 ranged; SQ Species traits; SV Fort +1, Ref +0, Will -1; SZ M; FP 0; Rep +0; Str 12, Dex 10, Con 12, Int 10, Wis 8, Cha 10.
 
 Equipment: Variety of personal belongings.
 
@@ -576,7 +552,7 @@ Automatic Language: Yuuzhan Vong.
 
 The Zabrak are another early spacefaring race, a humanoid species that arose on the planet Iridonia (many refer to the species as Iridonian Zabrak). They are distinguished by patterns of vestigial horns on their foreheads unique to each individual. Zabrak have been starfarers for so long that they define themselves and each other according to the colony from which they hail. Female Zabrak are generally of slighter build than the males, but both stand between 1.6 and 2.1 meters tall as adults.
 
-lridonia is ill-suited to support humanoid life, with most of the landscape scarred by deep canyons through which strong winds race, sometimes reaching over 200 kilometers per hour. Seas of acidic liquid swirl up into “acidspouts” that soar hundreds of kilometers into the sky. Worse still, these acid seas are home to gigantic predators.
+Iridonia is ill-suited to support humanoid life, with most of the landscape scarred by deep canyons through which strong winds race, sometimes reaching over 200 kilometers per hour. Seas of acidic liquid swirl up into “acidspouts” that soar hundreds of kilometers into the sky. Worse still, these acid seas are home to gigantic predators.
 
 The harshness of their world forged in the Zabrak an iron will to survive. Driven to escape their world, they sought to obtain the knowledge of space flight. When Duros scouts began exploring the Mid Rim Territories, they encountered Zabrak in eight thriving colonies in five different systems.
 
@@ -584,25 +560,27 @@ Each Zabrak colony considered itself a sovereign system. However, each colony an
 
 The Zabrak were made to serve as examples to any other species or planetary group that dared resist the Emperor's will. The Empire established garrisons on all Zabrak-inhabited worlds, plundered or dismantled the Zabrak factories, subjected trade routes through Zabrak-inhabited systems to heavy taxes, and allowed disease to run rampant through Zabrak colonies.
 
-Imperial oppression reunited the Zabrak who lived on alll the colonies. Underground resistance movements formed. As the New Republic established itself, the Zabrak sent a single fepresentative to the Galactic Caucus, positioning themselves as a unified state.
+Imperial oppression reunited the Zabrak who lived on alll the colonies. Underground resistance movements formed. As the New Republic established itself, the Zabrak sent a single representative to the Galactic Caucus, positioning themselves as a unified state.
 
 Zabrak Commoner: Init +0; Defense 10; Spd 10 m; VP/WP 0/10; Atk +0 melee (`1d3`, unarmed) or +0 ranged; SQ Species traits; SV Fort +2, Ref +0, Will +2; SZ M; FP 0; Rep +0; Str 10, Dex 10, Con 10, Int 10, Wis 10, Cha 10.
 
 Equipment: Variety of personal belongings.
 
-Skills: Craft (any one) or Profession (any one) +1, Knowledge (any one) +2, Read/Write Basic, Read/Write Tabrak, Speak Basic, Speak Zabrak, Survival +1.
+Skills: Craft (any one) or Profession (any one) +1, Knowledge (any one) +2, Read/Write Basic, Read/Write Zabrak, Speak Basic, Speak Zabrak, Survival +1.
 
 Feats: None,
 
 Species Traits: +2 species bonus on Fortitude and Will saving throws.
 
-Automatic Language: Zabtak and Basic.
+Automatic Language: Zabrak and Basic.
 
 ## Creatures
 
 Creatures come in many forms. Although most creature information uses the same rules and format as for characters, creature entries include some additional rules, unique to creatures. These additional rules are explained below.
 
-Climate The natural environment in which a creature lives grants it certain bonuses. These climates and the associated bonuses are as follows.
+### Climate
+
+The natural environment in which a creature lives grants it certain bonuses. These climates and the associated bonuses are as follows.
 
 Airborne: +2 species bonus on Spot checks; +2 species bonus on initiative checks.
 
@@ -634,14 +612,12 @@ Vermin: A creature that possesses some of the traits of ‘one or more of the pr
 
 The creature’s modifier to initiative checks generally comes from its Dexterity modifier and the Improved Initiative feat (if the creature has it).
 
-## Defense
+### Defense
 
 The Defense entry gives the creature’s Defense rating for normal combat and includes a parenthetical listing of the modifiers contributing to it (usually size and Dexterity).
 
 ### Speed (Spd)
 Speed is the amount of distance the creature can cover in one move. If the creature has other modes of movement, these are noted after the main entry. Unless otherwise specified, modes of movement are natural. Burrow: The creature can tunnel through dirt, but not through rock (unless the descriptive text says otherwise). Climb: Creatures with climb speeds gain a +8 species bonus on all Climb checks. The creature must make a Climb
-
-— 323 fa C ZE 0 u U al vA)
 
 <!-- page 331 -->
 
@@ -657,13 +633,13 @@ Average: The creature can fly as adroitly as a small bird.
 
 Poor: The creature flies as well as a very large bird.
 
-Clumsy; The creature can barely fly at all.
+Clumsy: The creature can barely fly at all.
 
 Creatures that fly can make dive attacks. A dive attack Works just like a charge, but the diving creature must move a minimum of 10 meters. It can make only claw attacks, but these deal double damage.
 
 Swim: A creature with a swim speed can move through water without making Swim checks. It gains a +8 species bonus on any Swim check to perform some special action or avoid a hazard. The creature always can choose to take 10, even if rushed or threatened when swimming.
 
-## Vitality and Wound Points (VP/WP)
+### Vitality and Wound Points (VP/WP)
 
 This entry details the vitality points and wound points of a typical member of this species, The creature's type, level. and Constitution modifier determine its total vitality points. The creature's size and Constitution determine its total wound points.
 
@@ -684,13 +660,13 @@ Claw or Rake: The creature rips with a sharp appendage, dealing piercing or slas
 
 Gore: The creature spears an opponent with an antler, horn, or similar appendage, dealing piercing damage.
 
-Tonization: The creature releases a natural charge of electricity or ionization, dealing energy damage.
+Ionization: The creature releases a natural charge of electricity or ionization, dealing energy damage.
 
 Punch, Slap, or Slam: The creature batters opponents with an appendage, dealing bludgeoning damage.
 
 Sting: The creature stabs with a stinger, dealing piercing damage. Stings are usually poisoned.
 
-## Damage
+### Damage
 
 A creature's primary attack damage includes its full Strength modifier (or 1.5 x Strength bonus if it’s the creature's sole attack), Secondary attacks add one-half the creature's Strength bonus.
 
@@ -700,7 +676,7 @@ Unless noted otherwise, creatures deal wound damage when they score critical hit
 
 ### Special Qualities (SQ)
 
-‘This entry lists all the creature's special qualities. If the creature has no special qualities, it does not appear. Details of the most common special qualities are given here, with additional information in the creature entries:
+This entry lists all the creature’s special qualities. If the creature has no special qualities, it does not appear. Details of the most common special qualities are given here, with additional information in the creature entries:
 
 Blindsight: Using nonvisual senses, such as sensitivity to vibrations, scent, acute hearing, or echolocation, the creature maneuvers and fights as well as a sighted creature. Invisibility and darkness are irrelevant.
 
@@ -708,7 +684,7 @@ Breathe Underwater: The creature can breathe water normally and cannot drown in 
 
 Camouflage: The creature blends in with its surroundings, granting a circumstance bonus on Hide checks in its native environment. See details with each entry.
 
-Constrict: After a successful grapple check, the creature can crush its opponent (see Grapple in Chapter Bight). The amount of damage dealt by the grapple is noted in the creature’s entry, If the creature has the improved grab ability (see below), it deals constriction damage in addition to its natural weapon damage.
+Constrict: After a successful grapple check, the creature can crush its opponent (see Grapple in Chapter Eight). The amount of damage dealt by the grapple is noted in the creature’s entry, If the creature has the improved grab ability (see below), it deals constriction damage in addition to its natural weapon damage.
 
 Damage Reduction (DR): The creature ignores a specified amount of wound damage (usually 2 to 15 points) from most weapons and natural attacks; the attacks bounce off harmlessly, and the opponent knows the attack was ineffective. Sometimes a creature’s damage reduction is not effective against a certain type of attack. A creature with damage reduction can deal damage normally to opponents with natural damage reduction equal to or less than its own. Damage reduction applies only to wound points, not vitality points,
 
@@ -716,21 +692,21 @@ Damage Reduction (DR): The creature ignores a specified amount of wound damage (
 
 Darkvision: The creature can see up to 20 meters in total darkness. Darkvision is black-and-white only, but it is otherwise like normal sight,
 
-Energy [Type] Resistance: The creature ignores some damage of the listed type each round (commonly acid, cold, fre/blasters, electricity/ion, or sonic energy). The listing indicates the amount and type of damage ignored.
+Energy [Type] Resistance: The creature ignores some damage of the listed type each round (commonly acid, cold, fire/blasters, electricity/ion, or sonic energy). The listing indicates the amount and type of damage ignored.
 
 Fast Healing: The creature regains vitality points at an exceptionally fast rate, usually 1 or more vitality points per round, as given in the entry. Except where noted here, fast healing works just like natural healing (see Injury and Death in Chapter Eight).
 
 Improved Grab: If the creature hits with a melee attack {usually a bite or claw attack), it deals normal damage and attempts to start a grapple as a free action without provoking an attack of opportunity (see Grapple in Chapter Eight). No initial touch attack is required, and Tiny and Small creatures don’t suffer a special size penalty. Unless otherwise stated, improved grab can be used only on opponents at least one size category smaller than the creature.
 
-A creature with improved grab can attempt a normal hold, or it can attempt to hold its opponent only with the part of its body it uses to make an improved grab. To use the latter option, the creature makes a grapple check with a -20 penalty. If the grapple check succeeds, the creature grabs and holds its opponent without being grappled in retum. The grappling creature does not lose its Dexterity bonus to Defense while grappling, still threatens an area, and can use its remaining attacks against other opponents.
+A creature with improved grab can attempt a normal hold, or it can attempt to hold its opponent only with the part of its body it uses to make an improved grab. To use the latter option, the creature makes a grapple check with a -20 penalty. If the grapple check succeeds, the creature grabs and holds its opponent without being grappled in return. The grappling creature does not lose its Dexterity bonus to Defense while grappling, still threatens an area, and can use its remaining attacks against other opponents.
 
-When a creature gets a hold after an improved grab attack, it pulls the opponent into its space. This act doesn’t provoke attacks of opportunity. The creature isn’t considtred grappled while it holds the opponent, so it still threatens adjacent squares and retains its Dexterity bonus. It tan even move, carrying away the opponent, provided it can drag the opponent’s weight.
+When a creature gets a hold after an improved grab attack, it pulls the opponent into its space. This act doesn’t provoke attacks of opportunity. The creature isn’t considered grappled while it holds the opponent, so it still threatens adjacent squares and retains its Dexterity bonus. It can even move, carrying away the opponent, provided it can drag the opponent’s weight.
 
 Low-Light Vision: A creature with low-light vision can see twice as far as normal in poor lighting situations (see Darkness and Light in Chapter Twelve). The creature can still distinguish colors, even in dim light.
 
 Maddened: Certain creatures (the reek, for example) become maddened when they find themselves in a combat situation. This special quality provides the creature with a +3 morale bonus on initiative checks, double its normal number of vitality points, and a +4 morale bonus on attack tolls and Will saving throws. The creature takes a -4 penalty on any skill checks it makes while maddened.
 
-Paisan: Poison deals initial damage (usually ability damage) to the victim on a failed Fortitude saving throw. Unless otherwise noted, if the first saving throw fails, a second saving throw is required | minute later to avoid secondary damage. If the first saving throw succeeds, a second save is not required. The creature's descriptive text details the specific effects of the poison. The Fortitude save against poison has a DC of 10 + the poisoning creature’s kvel + the poisoning creature’s Constitution modifier. A successful save negates the damage.
+Poison: Poison deals initial damage (usually ability damage) to the victim on a failed Fortitude saving throw. Unless otherwise noted, if the first saving throw fails, a second saving throw is required 1 minute later to avoid secondary damage. If the first saving throw succeeds, a second save is not required. The creature’s descriptive text details the specific effects of the poison. The Fortitude save against poison has a DC of 10 + the poisoning creature’s level + the poisoning creature’s Constitution modifier. A successful save negates the damage.
 
 Run-By Attack: Using a run-by attack, a creature can move and attack as a charge, then move again (continuing the straight line of the charge). When a creature uses this ability, its total movement in that round can’t exceed double its speed.
 
@@ -740,7 +716,7 @@ The creature can detect opponents within 10 meters by sense of smell. If the opp
 
 A creature with the scent ability can follow tracks by smell, making a Wisdom check to find or follow a track. The typical DC for a fresh trail is 10. This DC increases or decreases depending on how strong the quarry’s odor is, the number of creatures, and the age of the trail. For each hour that the trail is cold, the DC increases by 2. The ability otherwise follows the rules for the Track feat. Creatures tracking by scent ignore the effects of surface conditions and poor visibility.
 
-Swallow Whale: After a successful grapple check, the creature can immediately attempt to swallow its opponent as a free action. To swallow its prey, it must succeed at a second grapple check. Unless otherwise noted, the opponent can be up to one size category smaller than the swallowing creature. Damage is usually bludgeoning, often accompanied by acid damage from the creature's digestive juices. The consequences of being swallowed can vary.
+Swallow Whole: After a successful grapple check, the creature can immediately attempt to swallow its opponent as a free action. To swallow its prey, it must succeed at a second grapple check. Unless otherwise noted, the opponent can be up to one size category smaller than the swallowing creature. Damage is usually bludgeoning, often accompanied by acid damage from the creature's digestive juices. The consequences of being swallowed can vary.
 
 Terrifying Presence: The creature has an extremely fierce, intimidating presence, causing its opponents to freeze in fear. When the creature first attacks, it can make an Intimidate check as a free action to attempt to awe its opponent. The DC for this check is 15 + the opponent's level. If the check is successful, the opponent must make a Will save (DC 15). If the opponent fails this Will save, he can only take a move action or attack action on his next turn. If the opponent fails the save by 10 or more, he is cowering (see the Character Condition Summary sidebar in Chapter Twelve). The opponent continues to cower until he succeeds at a Will save (DC 10), which he can attempt once per round as a free action. A creature can make only one Intimidate check in a given encounter.
 
@@ -750,11 +726,9 @@ Trample: As a full-round action, the creature can run over a single opponent at 
 
 This entry gives modifiers to the creature's Fortitude (Fort), Reflex (Ref), and Will saves. These scores depend on its type, ability score modifiers, and special qualities.
 
-7 pee eee) SLNINOddO ONV SaITIV
-
 <!-- page 333 -->
 
-Size (SZ)
+### Size (SZ)
 
 A creature's size determines modifiers to its Defense, attack rolls, and certain skill checks. Size can also affect a creature’s total wound points. Table 14-1: Creature Size Modifiers summarizes this information.
 
@@ -773,19 +747,19 @@ A creature's size determines modifiers to its Defense, attack rolls, and certain
 | Fine (stingfly) | +8 | 0.1 m or less | 0.27 kg or less | Con |
 
 Face/Reach: A creature’s size and shape determine its face and reach. For more information, see Big and Little Characters in Combat, page 161.
-## Abilities
+### Abilities
 
 This entry gives all six of the creature's ability scores, in
 
 order: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Most abilities work exactly as described in Chapter One, with the following exceptions.
 
-Strength: Quadrupeds can carry heavier loads than bipedal characters can. To determine a quadruped’s carrying capacity limits, use Table 6-10; Carrying Capacity, multiply ing by the appropriate modifier for the creature's size: Fine 1/4, Diminutive 1/2, Tiny 3/4, Small 1, Medium-size 1 1/2, Large 3, Huge 6, Gargantuan 12, and Colossal 24
+Strength: Quadrupeds can carry heavier loads than bipedal characters can. To determine a quadruped’s carrying capacity limits, use Table 6-10: Carrying Capacity, multiply ing by the appropriate modifier for the creature's size: Fine 1/4, Diminutive 1/2, Tiny 3/4, Small 1, Medium-size 1 1/2, Large 3, Huge 6, Gargantuan 12, and Colossal 24
 
 Intelligence: Creatures don’t generally speak an intelligible language, although creatures with an Intelligence of 8 or higher can learn to understand one or two languages or imitate the languages of others (at the GM's discretion).
 
 A creature's skill points are based purely on its type and level; the creature’s Intelligence modifier does not apply.
 
-## Challenge Code
+### Challenge Code
 
 A creature's Challenge Code gives a measure of the difficulty it can present to heroes. The code assigned to each creature in this book assumes that the heroes encounter the creature at full strength in its natural surroundings.
 
@@ -799,25 +773,33 @@ Predators: Multiple predators attack in packs. Increase the Challenge Code by on
 
 Scavengers: Like predators, scavengers are known to
 
-## Feats
+### Feats
 
 The Creature Feats sidebar (on this page) describes two feats available exclusively to creatures; Flyby Attack and Multi: attack. Most creatures (except predators) don’t gain starting feats; however, they gain a new feat at 3rd level and every three levels thereafter (6th, 9th, 12th, 15th, and 18th), just as characters do.
 
-Creating Your Own Creatures The Star Wars galaxy contains more creatures than can be described in one book—or a series of books. Every time heroes visit a new world, they have the opportunity to run across strange beasts unlike any they've seen before. For some encounters, you can take the statistics for a creature presented in this book, change the creature's appearance, and introduce it as a new species, Sometimes you can apply a template to a creature to alter its statistics.
+### Creating Your Own Creatures
+
+The Star Wars galaxy contains more creatures than can be described in one book—or a series of books. Every time heroes visit a new world, they have the opportunity to run across strange beasts unlike any they've seen before. For some encounters, you can take the statistics for a creature presented in this book, change the creature's appearance, and introduce it as a new species, Sometimes you can apply a template to a creature to alter its statistics.
 
 Consider ecology and game balance when creating new
 
-## CREATURE FEATS
-
-Flyby Attack The creature can attack on the wing.
-
-Prerequisite: Fly speed.
-
-Benefit: When flying, the creature can take a move action (including a dive) and an attack action at any point during the move
-
-Normal: Without this feat, the creature takes an attack action either before or after its move.
-
-Multiattack The creature is adept at using all its natural weapons at once. Prerequisite: Three or more natural weapons. Benefit: The creature's secondary attacks with natural weapons suffer only a -2 penalty. Normal: Without this feat, the creature’s secondary natural attacks suffer a -5 penalty,
+> **Creature Feats**
+>
+> **Flyby Attack** — The creature can attack on the wing.
+>
+> *Prerequisite:* Fly speed.
+>
+> *Benefit:* When flying, the creature can take a move action (including a dive) and an attack action at any point during the move.
+>
+> *Normal:* Without this feat, the creature takes an attack action either before or after its move.
+>
+> **Multiattack** — The creature is adept at using all its natural weapons at once.
+>
+> *Prerequisite:* Three or more natural weapons.
+>
+> *Benefit:* The creature’s secondary attacks with natural weapons suffer only a -2 penalty.
+>
+> *Normal:* Without this feat, the creature’s secondary natural attacks suffer a -5 penalty.
 
 <!-- page 334 -->
 
@@ -856,7 +838,7 @@ Once you have an idea in mind for what you're making, decide on the creature's t
 
 Typical herd animal behavior includes foraging or grazing, organized defense against threats, and formalized mating rituals (in which creatures of the same gender compete against each other for the best mates of the opposite gender). Survival doesn’t preclude sacrificing one or more members of the herd so that the rest can escape. Herd animals don’t necessarily feel the herding urge at all times during their lives. Some might congregate only for short times, such as during the mating season. Herd animals are not always docile. Domesticated herd animals are generally used as livestock, beasts of burden, pets, or riding animals.
 
-Game Rule Information
+### Game Rule Information
 
 Herd animals have the following game statistics.
 
@@ -884,7 +866,9 @@ Special Qualities: Choose from the following: breathe underwater (aquatic herd a
 
 Typical parasite behavior includes searching for sources of sustenance, favoring flight over defense, and attacking only when the target is perceived as a source of food.
 
-Game Rule Information Parasites have the following game statistics:
+### Game Rule Information
+
+Parasites have the following game statistics:
 
 Abilities: Dexterity, Constitution, and Wisdom form the basis of most parasites’ skills.
 
@@ -954,7 +938,7 @@ Typical predator behavior includes solitary or pack hunting, displays of aggress
 | Diminutive | `1d6` (3) | `2d4+20` (25) | `1d6` (4) | — | 1 | — | — |
 | Fine | *[OCR missing]* | *[OCR missing]* | `1d4` (3) | — | — | — | — |
 
-Game Rule Information
+### Game Rule Information
 
 Predators have the following game statistics.
 
@@ -995,9 +979,7 @@ Typical scavenger behavior includes scrounging for edibles, natural caution, and
 | Diminutive | `1d3` (2) | `1d6+20` (24) | `1d4+6` (8) | — | `1d3` | `1d2` | `1d2` |
 | Fine | *[OCR missing]* | *[OCR missing]* | `1d4+2` (4) | — | `1d2` | 1 | 1 |
 
-**Table 14-4 Addendum: Parasite Constitution and Attacks**
-
-*The following constitution and attack data was recovered from OCR at this location; it is attributed to Table 14-4 (Parasites) based on context.*
+**Table 14-4 (continued): Parasite Physical Characteristics**
 
 | Size | Constitution (Average) | Slam | Bite | Claw | Gore |
 |------|------------------------|------|------|------|------|
@@ -1012,7 +994,9 @@ Typical scavenger behavior includes scrounging for edibles, natural caution, and
 | Fine | `1d6` (4) | — | 1 | — | — |
 <!-- page 336 -->
 
-Game Rule Information Scavengers have the following game statistics:
+### Game Rule Information
+
+Scavengers have the following game statistics:
 
 Abilities: Dexterity, Constitution, and Wisdom form the basis of most scavengers’ skills.
 
@@ -1038,7 +1022,9 @@ Special Qualities: Choose any or none of the following: breathe underwater (aqua
 
 Vermin are typically unintelligent omnivores. Having little or no cognitive facility, they receive a +10 species bonus on saving throws against mind-influencing effects. Vermin are usually more interested in hiding than fighting. A vermin’s “attack” generally involves swarming over a target (when in numbers) or invading a target's clothing (when solitary) to locate food. Some vermin can behave aggressively, especially when confronted with opponents smaller than them.
 
-Game Rule Information Vermin have the following game statistics:
+### Game Rule Information
+
+Vermin have the following game statistics:
 
 Abilities: Strength, Dexterity, and Wisdom form the basis of most vermin’s skills.
 
@@ -1088,23 +1074,15 @@ When attacking, an acklay tries to disable its prey with its claws. Once the pre
 
 Acklay: Predator 7; Init +3 (-1 Dex, +4 Improved Initiative); Defense 15 (+8 natural, -1 Dex, -2 size); Spd 12 m; VP/WP 85/48; Atk +13 melee (`2d6+8`, 2 claws) or +13 melee (`2d4+4`, bite) or +6 ranged; SQ +4 species bonus on Fortitude saves against radiation, DR 7; SV Fort +12,
 
-Ref +4, Will +2; SZ H; Face/Reach 4 m by 6 m/4 m; Str 27, Dex 8, Con 24, Int 3, Wis 10, Cha 12. Challenge Code D. limb +14, Intimidate +7, Jump +14, Spot +6. leave, Improved Initiative, Power Attack.
+Ref +4, Will +2; SZ H; Face/Reach 4 m by 6 m/4 m; Str 27, Dex 8, Con 24, Int 3, Wis 10, Cha 12. Challenge Code D.
+
+Skills: Climb +14, Intimidate +7, Jump +14, Spot +6.
+
+Feats: Alertness, Improved Initiative, Power Attack.
 
 ## Bantha
 
 Found on dozens of worlds, the bantha is one of the most adaptable herbivorous creatures in the galaxy. Banthas can thrive in almost any climate, able to survive for weeks without food or water. Ranchers throughout the galaxy raise banthas for the lucrative bantha-steak and bantha-hide
-
-Constitution (Average) Slam Bite Claw Gore
-
-`2d8+31` (40) `2d6` `2d6` `2d8` `4d6` `2d6+13` (20) `1d8` `2d8` = `2d6` 28 `2d4+9` (14) `1d6` `2d6` `2d4` `2d6` `2d4+5` (10) 144 -1d8_ 161d `2d4+3` (8) `1d3` 1d61d4— 16 `2d4+1` (6) `1d2` `1d4`- `1d3` 14 `1d4+1` (4) 1 143 1d2_— 13 `1d3` (2) - `1d2` 1 `1d2`
-
-`1d2` (1) - 1 - 1
-
-S.LNSNOdd0 ONV saniv a|
-
-se
-
-i
 
 <!-- page 337 -->
 
@@ -1114,13 +1092,11 @@ Bantha calves are born in litters of two to four. Young banthas are raised and p
 
 Although banthas on different worlds have naturally diverged from their baseline ancestors, all fit the same general description: 3- to 4-meter-tall quadrupeds covered in shaggy fur. Males tend to be slightly larger than females,
 
-and both genders grow a pair of long, spiral hors on top of
-
-their heads. Banthas adapted to different climates receive different benefits (see Climate, above).
+and both genders grow a pair of long, spiral horns on top of their heads. Banthas adapted to different climates receive different benefits (see Climate, above).
 
 Some cultures have important beliefs centered around banthas. The Sand People of Tatooine have special bonds with their bantha mounts, and the priests of the Dim-U revere banthas as holy beasts and divine messengers.
 
-Bantha: Herd animal 3; Init +0; Defense 18 (+10 natural, ~2 size); Spd 6 m; VP/WP 29/50; Atk +7 melee (`2d6+12`, gore) or ~1 ranged; SQ Climate bonus (choose one), trample; SV Fort +12, Ref +1, Will +1; SZ H; Face/Reach 4 m by 6 m/2 m; Str 27, Dex 10, Con 25, Int 3, Wis 11, Cha 3. Challenge Code C,
+Bantha: Herd animal 3; Init +0; Defense 18 (+10 natural, -2 size); Spd 6 m; VP/WP 29/50; Atk +7 melee (`2d6+12`, gore) or -1 ranged; SQ Climate bonus (choose one), trample; SV Fort +12, Ref +1, Will +1; SZ H; Face/Reach 4 m by 6 m/2 m; Str 27, Dex 10, Con 25, Int 3, Wis 11, Cha 3. Challenge Code C,
 
 Skills: Listen +6, Survival +6.
 
@@ -1134,13 +1110,9 @@ Of all the creatures indigenous to Tatooine's vast deserts, the dewback is the m
 
 Dewbacks are herbivorous lizards, built for digging through the dunes of the desert in search of moisture and scrub, Their only real natural enemy is the krayt dragon.
 
-Dewbacks are also popular with Tatooine’s law enforcement contingent, being faster than banthas. At a full tun, a dewback can even overtake a Jawa sanderawler— though at night, dewbacks are so sluggish as to be practically useless.
+Dewbacks are also popular with Tatooine’s law enforcement contingent, being faster than banthas. At a full run, a dewback can even overtake a Jawa sandcrawler— though at night, dewbacks are so sluggish as to be practically useless.
 
-Dewback: Desert scavenger 3; Init ~1 (Dex); Defense 18 (+10 natural, ~1 size, -1 Dex); Spd 8 m; VP/WP 22/18;
-
-|
-
-Atk +5 melee (`1d8+6`, bite) or +0 ranged; SQ +4 species bonus on Survival (desert) checks; SV Fort +7, Ref +0, Will +0; SZ L; Face/Reach 2 m by 4 m/2 m; Str 19, Dex 9, Con 18, Int 2, Wis 8, Cha 3, Challenge Code C.
+Dewback: Desert scavenger 3; Init -1 (Dex); Defense 18 (+10 natural, -1 size, -1 Dex); Spd 8 m; VP/WP 22/18; Atk +5 melee (`1d8+6`, bite) or +0 ranged; SQ +4 species bonus on Survival (desert) checks; SV Fort +7, Ref +0, Will +0; SZ L; Face/Reach 2 m by 4 m/2 m; Str 19, Dex 9, Con 18, Int 2, Wis 8, Cha 3, Challenge Code C.
 
 Skills: Hide -1, Listen +1, Survival +7.
 
@@ -1154,26 +1126,33 @@ The species hails originally from the swamps of the planet Vordan. Most dianogas
 
 Its tentacles are the dianoga’s key to survival. Constantly in motion, it feels about for any sign of motion. When the motion is frenzied or erratic, the dianoga takes this fora sign of life, wrapping one or more tentacles about the object and dragging it toward its mouth. If the object continues to move after a small bite, the dianoga continues eating until the object is gone. Afterward, the creature's body takes on the coloration of its meal. A blood-red dianoga is a bone-chilling sight indeed,
 
-Dianaga: Aquatic scavenger 4; Init +5 (+1 Dex, +4 Improved Initiative); Defense 20 (+10 natural, +1 Dex, ~1 size); Spd 6 m, swim 10 m; VP/WP 26/17; Atk +5 melee (`1d4+4`, tentacle) or +5 melee (`1d8+4`, bite) or +3 ranged; SQ Constrict; SV Fort +7, Ref +2, Will +0; SZ L; Face/Reach 2 m by 2 m/6 m; Str 17, Dex 13, Con 17, Int 4, Wis 8, Cha 6. Challenge Code C. : Hide +6, Move Silently +6, Search +3, Swim +11, Feats: Improved Initiative. Special Qualities: Constrict—Once it grapples its prey, a dianoga can crush it for `1d4+4` points of damage per round,
+Dianoga: Aquatic scavenger 4; Init +5 (+1 Dex, +4 Improved Initiative); Defense 20 (+10 natural, +1 Dex, -1 size); Spd 6 m, swim 10 m; VP/WP 26/17; Atk +5 melee (`1d4+4`, tentacle) or +5 melee (`1d8+4`, bite) or +3 ranged; SQ Constrict; SV Fort +7, Ref +2, Will +0; SZ L; Face/Reach 2 m by 2 m/6 m; Str 17, Dex 13, Con 17, Int 4, Wis 8, Cha 6. Challenge Code C.
 
-Gundark This powerful, semi-intelligent anthropoid stands among the most vicious, strong, and aggressive in the galaxy. An adult gundark has four arms and large ears as wide as its head. Its broad hands and feet have opposable digits. Subspecies of gundark range in size from 1 to 2.5 meters tall; an average specimen stands about 1.5 meters tall. All subspecies are covered in short brown or gray hair. Most gundarks live in temperate climates, but witnesses have reported arctic, desert, and subterranean gundarks, Gundarks are found on many worlds throughout the galaxy. Most gundark populations are the offspring of escaped slaves or are groups relocated to new worlds by Galactic Republic agents attempting to protect them from slavery. They are often captured and sold to underground or
+Skills: Hide +6, Move Silently +6, Search +3, Swim +11.
 
-<!-- page 338 -->
+Feats: Improved Initiative.
 
-Ordinary creatures are the weakest representatives of their species, not especially adept at defending themselves and dodging attacks. They rely more on their natural toughness and their ability to withstand damage, making them easier to overcome,
+Special Qualities: Constrict—Once it grapples its prey, a dianoga can crush it for `1d4+4` points of damage per round.
 
-“Ordinary” is a template that can be added to any creature.
+## Ordinary Template
 
-An ordinary creature retains all of the base creature’s statistics and special qualities except as noted below.
+Ordinary creatures are the weakest representatives of their species, not especially adept at defending themselves and dodging attacks. They rely more on their natural toughness and their ability to withstand damage, making them easier to overcome.
 
-Vitality Points: An ordinary creature's levels are treated the same as professional class levels (diplomat, expert, thug) As such, the ordinary creature has no vitality points.
+"Ordinary" is a template that can be added to any creature.
+
+An ordinary creature retains all of the base creature's statistics and special qualities except as noted below.
+
+Vitality Points: An ordinary creature's levels are treated the same as professional class levels (diplomat, expert, thug). As such, the ordinary creature has no vitality points.
 
 Challenge Code: Reduce the Challenge Code of an ordinary creature by one rank.
 
-illegal gladiatorial arenas, where they have earned a reputation as fearless combatants.
+## Gundark
 
-| Though not quite possessed of sentient-level intelligence,
-gundarks are advanced enough to use simple tools such as rocks and clubs. They live in organized family units and dwell in hollowed-out trees or in caves. Gundark society is matriarchal, with the oldest and most cunning female ruling the tribe, Males build homes and defend them ferociously from predators and interlopers. The females are hunter-gatherers, acquiring food for the tribe and training the young gundarks that are not old enough to go out on their own.
+This powerful, semi-intelligent anthropoid stands among the most vicious, strong, and aggressive in the galaxy. An adult gundark has four arms and large ears as wide as its head. Its broad hands and feet have opposable digits. Subspecies of gundark range in size from 1 to 2.5 meters tall; an average specimen stands about 1.5 meters tall. All subspecies are covered in short brown or gray hair. Most gundarks live in temperate climates, but witnesses have reported arctic, desert, and subterranean gundarks. Gundarks are found on many worlds throughout the galaxy. Most gundark populations are the offspring of escaped slaves or are groups relocated to new worlds by Galactic Republic agents attempting to protect them from slavery. They are often captured and sold to underground or illegal gladiatorial arenas, where they have earned a reputation as fearless combatants.
+
+<!-- page 338 -->
+
+Though not quite possessed of sentient-level intelligence, gundarks are advanced enough to use simple tools such as rocks and clubs. They live in organized family units and dwell in hollowed-out trees or in caves. Gundark society is matriarchal, with the oldest and most cunning female ruling the tribe. Males build homes and defend them ferociously from predators and interlopers. The females are hunter-gatherers, acquiring food for the tribe and training the young gundarks that are not old enough to go out on their own.
 
 Gundark: Predator 7; Init +4 (Dex); Defense 19 (+5 natural, +4 Dex); Spd 12 m; VP/WP 66/20; Atk +12/+7 melee (`1d6+5`, 4 punches) and +10/+5 melee (`1d8+2`, bite); or +12/+7 melee (`1d6+7`, two-handed club) and +10/+5 melee (`1d6+5`, 2 punches) and +10/+5 melee (`1d8+2`, bite); or +11/+6 ranged; SQ Constrict, low-light vision, run-by attack, scent, +6 species bonus on Listen, Search, and Spot checks, fearlessness (males only; see descriptive text below); SV Fort +10, Ref +9, Will +4; SZ M; Face/Reach 2 m by 2 m/2 m; Str 21, Dex 18, Con 20, Int 6, Wis 15, Cha 13. Challenge Code E.
 
@@ -1181,9 +1160,7 @@ Skills: Climb +10, Hide +7, Intimidate +5, Listen +10, Search +6, Spot +10, Surv
 
 Feats: Blind-Fight, Multiattack, Power Attack.
 
-Special Qualities: Constrict—Once it grapples its prey, a gundark can crush it for `1d6+5` points of damage per
-
-ound. A gundark gets a +4 species bonus on grapple checks when it grapples with all four of its arms.
+Special Qualities: Constrict—Once it grapples its prey, a gundark can crush it for `1d6+5` points of damage per round. A gundark gets a +4 species bonus on grapple checks when it grapples with all four of its arms.
 
 Fearlessness—Male gundarks gain a +4 species bonus on any checks to resist Intimidate checks made against them and a +4 species bonus on saves against the Force skill Fear.
 
@@ -1193,29 +1170,21 @@ The kouhun is an arthropodic killer with a segmented body up to 30 centimeters l
 
 surfaces and through tiny spaces, making it a favored weapon among stealthy assassins and bounty hunters.
 
-The kouhun fearlessly pursues warm-blooded prey and le between targets, usually going after the nearest one. Handling the insect without some special container is especially dangerous; with such a container, a failed Handle Animal check (DC 30) indicates that the kouhun perceives its handler as a threat and attacks.
+The kouhun fearlessly pursues warm-blooded prey and leaps between targets, usually going after the nearest one. Handling the insect without some special container is especially dangerous; with such a container, a failed Handle Animal check (DC 30) indicates that the kouhun perceives its handler as a threat and attacks.
 
-The creature's planet of origin is unknown. Kouhuns can be found in alarming numbers on a great many Outer Rim
-
-does not discrimina
-
-worlds, including Gamorr, Geonosis, Honoghr, and Tatooine.
+The creature's planet of origin is unknown. Kouhuns can be found in alarming numbers on a great many Outer Rim worlds, including Gamorr, Geonosis, Honoghr, and Tatooine.
 
 An intolerable menace, the kouhun has also been introduced to heavily populated worlds such as Coruscant and Corellia. A kouhun is capable of surviving in virtually any climate except extreme cold and has even been found underground in deep, damp subterranean caves.
 
 A kouhun kills without mercy or thought. Despite its predatory nature, the kouhun is classified as vermin because it is barely intelligent and omnivorous.
 
-Kauhun: Vermin 6; Init +5 (Dex); Defense 23 (+4 natural, +5 Dex, +4 size); Spd 6 m; VP/WP 6/1; Atk +13 melee (`1d2` plus poison, sting) or +13 ranged; SO Vermin, blindsight,
-
-V Fort +1, Ref +10, Will +3; SZ D; Face/Reach 1 m by 1 m/O m; Str 2, Dex 20, Con 2, Int 1, Wis 12, Cha 1 Challenge Code C.
+Kouhun: Vermin 6; Init +5 (Dex); Defense 23 (+4 natural, +5 Dex, +4 size); Spd 6 m; VP/WP 6/1; Atk +13 melee (`1d2` plus poison, sting) or +13 ranged; SQ Vermin, blindsight, poison; SV Fort +1, Ref +10, Will +3; SZ D; Face/Reach 1 m by 1 m/0 m; Str 2, Dex 20, Con 2, Int 1, Wis 12, Cha 1. Challenge Code C.
 
 Skills: Hide +11, Listen +5, Move Silently +11, Spot +5, Survival +5.
 
 Feats: Stealthy, Weapon Finesse (sting).
 
-Special Qualities: Vermin—Kouhun receive a +10 species bonus on saves against mind-influencing effects; Poison— Fortitude save (DC 12) negates, initial damage 146 temporary Con, secondary damage `2d6` temporary Con.
-
-poison;
+Special Qualities: Vermin—Kouhun receive a +10 species bonus on saves against mind-influencing effects; Poison—Fortitude save (DC 12) negates, initial damage `1d6` temporary Con, secondary damage `2d6` temporary Con.
 
 ## Massiff
 
@@ -1229,10 +1198,6 @@ Skills: Climb +6, Hide +4, Jump +6, Move Silently +4, Listen +3.
 
 Feats: Run, Track.
 
-337
-
-|
-
 <!-- page 339 -->
 
 ## Mynock
@@ -1241,9 +1206,7 @@ Mynocks are pernicious, silicon-based lifeforms that evolved in the depths of sp
 
 and even chew holes into the ship’s internal compartments after a few days’ work.
 
-Resembling leathery bats with large, suckered mouths, mynocks travel throughout the galaxy in search of minerals and energy. Although incapable of hyperspace travel themselves, mynocks have a knack for securing purchase on a ship’s hull before the ship enters hyperspace. Since the velocity doesn’t always dislodge a feeding mynock, spacers h galaxy, spre
-
-unwittingly carried the wretched pests all across the ading them like a plague.
+Resembling leathery bats with large, suckered mouths, mynocks travel throughout the galaxy in search of minerals and energy. Although incapable of hyperspace travel themselves, mynocks have a knack for securing purchase on a ship’s hull before the ship enters hyperspace. Since the velocity doesn’t always dislodge a feeding mynock, spacers have unwittingly carried the wretched pests all across the galaxy, spreading them like a plague.
 
 Mynock: Vacuum parasite 1; Init +1 (Dex); Defense 13 (+2 natural, +1 Dex); Spd fly 8 m (poor); VP/WP 4/11; Atk +0 melee (`1d4`, bite) or +0 ranged; SQ Electricity/ion energy resistance 10; SV Fort +2, Ref +1, Will -2; SZ M; Face/Reach 2 m by 2 m/2 m; Str 10, Dex 12, Con 11, Int 4, Wis 6, Cha 4. Challenge Code A.
 
@@ -1257,7 +1220,7 @@ A nexu in battle is quite a spectacle. When possible, it takes advantage of high
 
 nexu always leads with a charge, following up with its claws and fangs.
 
-Nexu: Predator 4; Init +8 (+4 Dex, +4 Improved Initiative); Defenese 16 (+2 natural, +4 Dex); Spd 16 m; VP/WP 35/17; Atk +7 melee (`1d6+3`, 2 claws) and +2 melee (`1d8+3`, bite) or +8 ranged; SQ +2 species bonus on Listen checks, +2 species bonus on Survival checks; SV Fort +7, Ref +8, Will +3; SZ M; Face/Reach 2 m by 2 m/2 m; Str 17, Dex 18, Con 17, Int 5, Wis 14, Cha 12. Challenge Code C.
+Nexu: Predator 4; Init +8 (+4 Dex, +4 Improved Initiative); Defense 16 (+2 natural, +4 Dex); Spd 16 m; VP/WP 35/17; Atk +7 melee (`1d6+3`, 2 claws) and +2 melee (`1d8+3`, bite) or +8 ranged; SQ +2 species bonus on Listen checks, +2 species bonus on Survival checks; SV Fort +7, Ref +8, Will +3; SZ M; Face/Reach 2 m by 2 m/2 m; Str 17, Dex 18, Con 17, Int 5, Wis 14, Cha 12. Challenge Code C.
 
 Skills: Climb +7, Hide +8, Jump +5, Listen +6, Move Silently +8, Spot +4, Survival +4.
 
@@ -1267,21 +1230,21 @@ Feats: Improved Initiative, Run.
 
 While there are certainly larger and more vicious creatures in the galaxy, the rancor holds a special place in the nightmares of countless sentient creatures. Creatures of vast rage and single-minded camage, rancors are periodically captured by big game hunters and shipped to new worlds as
 
-NEXU
-
 exotic pets. Only the wealthiest of the wealthy can afford to keep a rancor. If not fed frequently, rancors have a distressing habit of smashing through the bars of their cages to devour whatever is at hand—including unwise owners.
 
-Rancors (and rancorlike creatures) live on a great many untamed worlds. All are dangerous predators, bringing down creatures up to twice their size with startling ferocity, ‘ancors have been known to attack one another, especially during the mating season.
+Rancors (and rancorlike creatures) live on a great many untamed worlds. All are dangerous predators, bringing down creatures up to twice their size with startling ferocity, Rancors have been known to attack one another, especially during the mating season.
 
 The rancor generally uses its long reach to claw opponents its own size or larger, slashing at them until they stop moving. With a smaller opponent, the rancor frequently grasps its prey in one or both claws, then draws it in for a bite a few moments later. (In game terms, this requires two separate melee attacks; once grasped, the victim can't add his Dexterity bonus to his Defense.)
 
-Rancor: Predator 5; Init -1 (Dex); Defense 20 (+13 natural, -1 Dex, -2 size); Spd 20 m; VP/WP 52/46; Atk +11 melee (`2d6+8`, 2 claws) or +11 melee (`2d8+12`, bite) or +2 ranged; SQ Low-light vision, fast healing 2, terrifying presenc SV Fort +10, Ref +3, Will -1; SZ H; Face/Reach 4 m by 4 m/4 m; Str 26, Dex 9, Con 23, Int 4, Wis 7, Cha 4. Challenge Code D.
+Rancor: Predator 5; Init -1 (Dex); Defense 20 (+13 natural, -1 Dex, -2 size); Spd 20 m; VP/WP 52/46; Atk +11 melee (`2d6+8`, 2 claws) or +11 melee (`2d8+12`, bite) or +2 ranged; SQ Low-light vision, fast healing 2, terrifying presence; SV Fort +10, Ref +3, Will -1; SZ H; Face/Reach 4 m by 4 m/4 m; Str 26, Dex 9, Con 23, Int 4, Wis 7, Cha 4. Challenge Code D.
 
 Skills: Climb +15, Intimidate +5, Spot +3.
 
 Feats: Power Attack, Track.
 
-Reek Reeks are normally docile, placid creatures that wander the plains of Yiesia in great herds, contentedly munching on
+## Reek
+
+Reeks are normally docile, placid creatures that wander the plains of Yiesia in great herds, contentedly munching on
 
 <!-- page 340 -->
 
@@ -1295,21 +1258,17 @@ Skills: Hide +1, Listen +0, Spot +0, Survival +2.
 
 Feats: Endurance, Great Fortitude, Power Attack.
 
-Tauntaun Dirty and smelly, the reptilian tauntaun is perfectly suited to its environment: the barren ice world of Hoth. On a planet covered with thick glaciers and scoured by cutting winds, the tauntaun’s thick fur and layers of fat keep its body temperature high enough for it to operate during the day. Even tauntauns lapse into a kind of hibernation when the temperature drops at night. Some breeds of tauntaun actually freeze to death if they are awakened after sundown. Hoth boasts several varieties of tauntauns. The most common is the ice field variety, with its grayish-white fur, curved horns, and particular bleat. Other species occupy the mountains of Hoth, while a strangely lizardlike breed roams the deepest of the planet's ice caves, feeding on the lichens that grow in the steamy environs of the planet's natural hot Springs.
+## Tauntaun
 
-Tauntaun: Arctic herd animal 2; Init +1 (Dex); Defense 17 (+7 natural, +1 Dex, -1 size); Spd 20 m; VP/WP 11/16;
+Dirty and smelly, the reptilian tauntaun is perfectly suited to its environment: the barren ice world of Hoth. On a planet covered with thick glaciers and scoured by cutting winds, the tauntaun’s thick fur and layers of fat keep its body temperature high enough for it to operate during the day. Even tauntauns lapse into a kind of hibernation when the temperature drops at night. Some breeds of tauntaun actually freeze to death if they are awakened after sundown. Hoth boasts several varieties of tauntauns. The most common is the ice field variety, with its grayish-white fur, curved horns, and particular bleat. Other species occupy the mountains of Hoth, while a strangely lizardlike breed roams the deepest of the planet's ice caves, feeding on the lichens that grow in the steamy environs of the planet's natural hot Springs.
 
-Atk +4 melee (`1d4+6`, claw) or +4 melee (`1d6+6`, bite) or
-
-+] ranged; SQ +4 species bonus on Survival checks;
-
-SV Fort +6, Ref +1, Will -1; SZ L; Face/Reach 2 m by 4 m/2 m; Str 18, Dex 12, Con 16, Int 2, Wis 8, Cha 6. Challenge Code B.
+Tauntaun: Arctic herd animal 2; Init +1 (Dex); Defense 17 (+7 natural, +1 Dex, -1 size); Spd 20 m; VP/WP 11/16; Atk +4 melee (`1d4+6`, claw) or +4 melee (`1d6+6`, bite) or +1 ranged; SQ +4 species bonus on Survival checks; SV Fort +6, Ref +1, Will -1; SZ L; Face/Reach 2 m by 4 m/2 m; Str 18, Dex 12, Con 16, Int 2, Wis 8, Cha 6. Challenge Code B.
 
 Skills: Listen +4, Spot +2, Survival +6.
 
 ## Wampa
 
-‘The most dangerous and unpredictable creature on the icecovered planet Hoth, the towering wampa ice creature is a fearsome predator, both aggressive and subtle. Displaying uncanny cunning, a wampa sometimes ventures into even heavily guarded areas to slaughter and drag a victim away, ‘aving the survivors confused, terrified, and ripe targets for another attack later.
+The most dangerous and unpredictable creature on the ice-covered planet Hoth, the towering wampa ice creature is a fearsome predator, both aggressive and subtle. Displaying uncanny cunning, a wampa sometimes ventures into even heavily guarded areas to slaughter and drag a victim away, leaving the survivors confused, terrified, and ripe targets for another attack later.
 
 Wampas are intelligent carnivores. Because fresh meat is scarce on the ice planet, a wampa can never be certain that
 
@@ -1317,13 +1276,15 @@ it will find a meal, even in its large and fiercely guarded territory. The creat
 
 Wampas are covered in dirty white fur and move with amazing stealth. Only their claws, horns, and gleaming yellow eyes show up against the backdrop of Hoth’s endless snowfields. Most of the time, especially in a raging storm, that simply isn’t enough to betray the wampa’s presence.
 
-Wampa: Arctic predator 3; Init +0; Defense 19 (+10 natural, ~1 size); Spd 10 m; VP/WP 28/20; Atk +6 melee (`2d4+4`, 2 claws) and +1 melee (`2d6+2`, bite) or +2 ranged; SQ Camouflage (+2 species bonus on Hide checks in snowy conditions), +4 species bonus on Survival checks; SV Fort +8, Ref +3, Will +1; SZL; Face/Reach 2 m by 2 m/4 m; Str 19, Dex 10, Con 20, Int 6, Wis 10, Cha 12. Challenge Code C.
+Wampa: Arctic predator 3; Init +0; Defense 19 (+10 natural, -1 size); Spd 10 m; VP/WP 28/20; Atk +6 melee (`2d4+4`, 2 claws) and +1 melee (`2d6+2`, bite) or +2 ranged; SQ Camouflage (+2 species bonus on Hide checks in snowy conditions), +4 species bonus on Survival checks; SV Fort +8, Ref +3, Will +1; SZ L; Face/Reach 2 m by 2 m/4 m; Str 19, Dex 10, Con 20, Int 6, Wis 10, Cha 12. Challenge Code C.
 
 Skills: Hide +4, Listen +4, Move Silently +4, Survival +6.
 
 Feats: Power Attack, Track.
 
-Character Archetypes The following pregenerated characters are offered as samples of typical allies and opponents. Gamemasters can use them to flesh out adventures on the fly or detail minor characters in a campaign. GMs are encouraged to add personalities and histories to these archetypal templates. The statistics provided here don’t include species traits {such as ability score adjustments and saving throw bonuses) or species bonuses (such as the Humans extra skill points or feats). The GM can use the information in the Commoners section at the start of this chapter to modify the statistics for specific species.
+## Character Archetypes
+
+The following pregenerated characters are offered as samples of typical allies and opponents. Gamemasters can use them to flesh out adventures on the fly or detail minor characters in a campaign. GMs are encouraged to add personalities and histories to these archetypal templates. The statistics provided here don’t include species traits {such as ability score adjustments and saving throw bonuses) or species bonuses (such as the Humans extra skill points or feats). The GM can use the information in the Commoners section at the start of this chapter to modify the statistics for specific species.
 
 ## Administrator
 
@@ -1331,7 +1292,7 @@ From tiny outposts in the Outer Territories to the massive orbital space docks o
 
 A low-level administrator might be in charge of the Civic Starport on an out-of-the-way planet like Naboo. The Kuati Human in charge of payroll administration at one of the Kuat Driveyards facilities may be a mid-level administrator. A Sector Moff or the governor of a key system who gained her standing through toadying and subterfuge is considered a high-level administrator.
 
-Low-Level Administrator: Diplomat 4; Init +0; Defense 11 {+1 class); Spd 10 m; VP/WP 0/8; Atk +1 melee (`1d3-1`, unarmed) or +2 ranged (344 or DC 10 stun, hold-out blaster); SV Fort +0, Ref +1, Will +4; FP 0; DSP 0; Rep +1; Str 9, Dex 10, Con 8, Int 12, Wis 11, Cha 14. Challenge Code B.
+Low-Level Administrator: Diplomat 4; Init +0; Defense 11 (+1 class); Spd 10 m; VP/WP 0/8; Atk +1 melee (`1d3-1`, unarmed) or +2 ranged (`3d4` or DC 10 stun, hold-out blaster); SV Fort +0, Ref +1, Will +4; FP 0; DSP 0; Rep +1; Str 9, Dex 10, Con 8, Int 12, Wis 11, Cha 14. Challenge Code B.
 
 Equipment: Datapad, comlink, hold-out blaster.
 
@@ -1339,15 +1300,11 @@ Skills: Bluff +8, Computer Use +5, Diplomacy +9, Knowledge (local) +11, Professi
 
 Feats: Dodge, Skill Emphasis (knowledge [bureaucracy]).
 
-al oo
-
-eee) oLNINOddO ONV SalT1Vv
-
 <!-- page 341 -->
 
-Mid-Level Administrator: Diplomat 8; Init +0; Defense 12 (+2 class); Spd 10 m; VP/WP 0/8; Atk +3 melee (143-1, unarmed) or +4 ranged (`3d4` or DC 10 stun, hold-out blaster); SV Fort +1, Ref +2, Will +6; FP 0; DSP 0; Rep +3; Str 9, Dex 10, Con 8, Int 12, Wis 11, Cha 15. Challenge Code C.
+Mid-Level Administrator: Diplomat 8; Init +0; Defense 12 (+2 class); Spd 10 m; VP/WP 0/8; Atk +3 melee (`1d3-1`, unarmed) or +4 ranged (`3d4` or DC 10 stun, hold-out blaster); SV Fort +1, Ref +2, Will +6; FP 0; DSP 0; Rep +3; Str 9, Dex 10, Con 8, Int 12, Wis 11, Cha 15. Challenge Code C.
 
-Equipment: Datapad, comlink, general access pass, hold~ out blaster.
+Equipment: Datapad, comlink, general access pass, hold-out blaster.
 
 Skills: Bluff +8, Computer Use +7, Diplomacy +16, Knowledge (local) +14, Profession (administrator) +11, Sense Motive +11.
 
@@ -1365,11 +1322,11 @@ Feats: Dodge, Iron Will, Fame (or Infamy), Skill Emphasis (Diplomacy), Skill Emp
 
 ## Assassin
 
-An assassin usually maintains a cover—a legitimate front that gives the assassin cause to travel or explains why he's in a given location at a given time if he are caught. assassins hold jobs as merchants, sales represen interstellar corporations, or diplomats.
+An assassin usually maintains a cover—a legitimate front that gives the assassin cause to travel or explains why he's in a given location at a given time if they are caught. Assassins hold jobs as merchants, sales representatives for interstellar corporations, or diplomats.
 
 A truly villainous assassin has a “signature” consisting either of a particular unique weapon used to perform the deed, a particular approach, or some other form of “calling card,” An assassin who uses a signature weapon is always proficient in its use (effectively gaining the appropriate Exotic Weapon Proficiency feat as a bonus feat).
 
-Low-Level Assassin: Scoundrel 4; Init +6 (+2 Dex, +4 Improved Initiative); Defense 15 (+3 class, +2 Dex); Spd 10. m; VP/WP 16/10; Atk +2 melee (`1d3-1`, unarmed) or +5 ranged (346 or DC 15 stun, blaster pistol); SQ Mlicit barter, lucky (1/day), precise attack +1; SV Fort +1, Ref +6, Will +2; FP 1; DSP 1; Rep +1; Str 8, Dex 15, Con 10, Int 12, Wis 13, Cha 15. Challenge Code C,
+Low-Level Assassin: Scoundrel 4; Init +6 (+2 Dex, +4 Improved Initiative); Defense 15 (+3 class, +2 Dex); Spd 10. m; VP/WP 16/10; Atk +2 melee (`1d3-1`, unarmed) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (1/day), precise attack +1; SV Fort +1, Ref +6, Will +2; FP 1; DSP 1; Rep +1; Str 8, Dex 15, Con 10, Int 12, Wis 13, Cha 15. Challenge Code C.
 
 Equipment: Blaster pistol (or signature weapon).
 
@@ -1377,9 +1334,7 @@ Skills: Bluff +8, Climb +2, Computer Use +7, Disguise +11, Demolitions +3, Forge
 
 Feats: Improved Initiative, Skill Emphasis (Disguise), Stealthy, Weapon Group Proficiencies (blaster pistols, simple weapons),
 
-Mid-Level Assassin: Scoundrel 6/Soldier 2; Init +6 (+2 Dex, +4 Improved Initiative); Defense 17 (+5 class, +2 Dex); Spd 10 m; VP/WP 34/10; Atk +5/+0 melee (143-1, unarmed) or +8/4+3 ranged (`3d6` or DC 15 stun, blaster
-
-pistol); SQ Mlicit barter, lucky (2/day), precise attack +1; SV Fort +5, Ref +7, Will +3; FP 2; DSP 3; Rep +2; Str 8, Dex 15, Con 10, Int 12, Wis 13, Cha 16. Challenge Code D.
+Mid-Level Assassin: Scoundrel 6/Soldier 2; Init +6 (+2 Dex, +4 Improved Initiative); Defense 17 (+5 class, +2 Dex); Spd 10 m; VP/WP 34/10; Atk +5/+0 melee (`1d3-1`, unarmed) or +8/+3 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (2/day), precise attack +1; SV Fort +5, Ref +7, Will +3; FP 2; DSP 3; Rep +2; Str 8, Dex 15, Con 10, Int 12, Wis 13, Cha 16. Challenge Code D.
 
 Equipment: Blaster pistol (or signature weapon), 2 stun grenades.
 
@@ -1387,17 +1342,19 @@ Skills: Bluff +10, Climb +4, Computer Use +9, Disguise +11, Demolitions +5, Forg
 
 Feats: Armor Proficiency (light), Dodge, Improved Initiative, Point Blank Shot, Precise Shot, Skill Emphasis (Disguise), Stealthy, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-High-Level Assassin: Scoundrel 7/Soldier 5; Init +6 (+2 Dex, +4 Improved Initiative); Defense 20 (+8 class, +2 Dex); Spd 10 m; VP/WP 54/10; Atk +9/+4 melee (143-1, unarmed) or +12/+7 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Mlicit barter, lucky (2/day), precise attack +1; SV Fort +6, Ref +8, Will +4; FP 3; DSP 6; Rep +3; Str 8, Dex 15, Con 10, Int 12, Wis 14, Cha 15. Challenge Code E. Equipment: Blaster pistol (or signature weapon), 2 stun grenades, thermite detonator, YT-1300 space transport. Skills: Bluff +11, Climb +4, Computer Use +12, Disguise +12, Demolitions +10, Forgery +6, Hide +11, Gather Information +11, Listen +9, Move Silently +11, Pilot +10, Profession (servant) +5, Repair +9, Search +8, Spot +9. Feats: Armor Proficiencies (light, medium), Dodge, Heroic Surge, Improved Critical, Improved Initiative, Point Blank Shot, Precise Shot, Quick Draw, Skill Emphasis (Disguise), Stealthy, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
+High-Level Assassin: Scoundrel 7/Soldier 5; Init +6 (+2 Dex, +4 Improved Initiative); Defense 20 (+8 class, +2 Dex); Spd 10 m; VP/WP 54/10; Atk +9/+4 melee (`1d3-1`, unarmed) or +12/+7 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (2/day), precise attack +1; SV Fort +6, Ref +8, Will +4; FP 3; DSP 6; Rep +3; Str 8, Dex 15, Con 10, Int 12, Wis 14, Cha 15. Challenge Code E. Equipment: Blaster pistol (or signature weapon), 2 stun grenades, thermite detonator, YT-1300 space transport. Skills: Bluff +11, Climb +4, Computer Use +12, Disguise +12, Demolitions +10, Forgery +6, Hide +11, Gather Information +11, Listen +9, Move Silently +11, Pilot +10, Profession (servant) +5, Repair +9, Search +8, Spot +9. Feats: Armor Proficiencies (light, medium), Dodge, Heroic Surge, Improved Critical, Improved Initiative, Point Blank Shot, Precise Shot, Quick Draw, Skill Emphasis (Disguise), Stealthy, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
 ## Battle Droid
 
 Chapter Fifteen provides statistics for the factory-model Baktoid Combat Automata battle droid, notably the type used by the Trade Federation. However, more expensive versions with improved targeting capabilities can be procured for double and triple the normal price (1,600 credits for the mid-level model and 2,400 credits for the high-level model).
 
-Mid-Level Battle Droid: Baktoid Combat Automata Battle Droid, Thug 2; Init -3 (-2 remote processor, ~1 Dex); Defense 9 (+0 class, -1 Dex); DR 3; Spd 10 m; VP/WP 0/8; Atk +3 melee (`1d4+1`, hand) or +1 ranged (`2d8`/19-20, blaster rifle); SV Fort +4, Ref -1, Will -1; FP. 0; DSP 0; Rep +0; Str 12, Dex 8, Con 8, Int 6, Wis 8, Cha 6. Challenge Code A.
+Mid-Level Battle Droid: Baktoid Combat Automata Battle Droid, Thug 2; Init -3 (-2 remote processor, -1 Dex); Defense 9 (+0 class, -1 Dex); DR 3; Spd 10 m; VP/WP 0/8; Atk +3 melee (`1d4+1`, hand) or +1 ranged (`2d8`/19-20, blaster rifle); SV Fort +4, Ref -1, Will -1; FP. 0; DSP 0; Rep +0; Str 12, Dex 8, Con 8, Int 6, Wis 8, Cha 6. Challenge Code A.
 
-Equipment: Armor (light), blaster rifle, integrated comlink, remote receiver (5,000-km range), vocabulator. intimidate +0, Speak Basic.
+Equipment: Armor (light), blaster rifle, integrated comlink, remote receiver (5,000-km range), vocabulator.
 
-: Ambidexterity, Armor Proficiency (light), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
+Skills: Intimidate +0, Speak Basic.
+
+Feats: Ambidexterity, Armor Proficiency (light), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
 High-Level Battle Droid: Baktoid Combat Automata Battle Droid, Thug 4; Init +1 (-2 remote processor, -1 Dex, +4 Improved Initiative); Defense 10 (+1 class, -1 Dex); DR 3;
 
@@ -1411,13 +1368,15 @@ Skills: Intimidate +4, Speak Basic.
 
 Feats: Ambidexterity, Armor Proficiency (light), Improved Initiative, Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
-Bounty Hunter Bounty hunters track and recover sentient beings to bring them to “justice"—even if that’s little more than a Hutt’s personal vendetta. Before the rise of the Emperor, a bounty hunter’s guild worked openly, taking contracts to find those whom the authorities could not. At one point during Palpatine’s reign, however, the guild fragmented, leaving a large number of independent operatives. Though they occasionally band together to tackle particularly difficult targets, most of the time they work alone, vying against each other to collect the largest rewards. Bounty hunters differ from assassins in that they usually seek to capture their targets. The bounty hunters described here range from rank amateurs to hard-bitten veterans nearly the equal of infamous figures such as Boba Fett, Zam Wessell, and Aurra Sing.
+## Bounty Hunter
+
+Bounty hunters track and recover sentient beings to bring them to “justice"—even if that’s little more than a Hutt’s personal vendetta. Before the rise of the Emperor, a bounty hunter’s guild worked openly, taking contracts to find those whom the authorities could not. At one point during Palpatine’s reign, however, the guild fragmented, leaving a large number of independent operatives. Though they occasionally band together to tackle particularly difficult targets, most of the time they work alone, vying against each other to collect the largest rewards. Bounty hunters differ from assassins in that they usually seek to capture their targets. The bounty hunters described here range from rank amateurs to hard-bitten veterans nearly the equal of infamous figures such as Boba Fett, Zam Wessell, and Aurra Sing.
 
 Low-Level Bounty Hunter: Scout 4; Init +6 (+2 Dex,
 
 +4 Improved Initiative); Defense 15 (+3 class, +2 Dex);
 
-Spd 10 m; VP 25/12; Atk +3 melee (`1d4`, knife) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Trailblazing, heart +1, uncanny dodge (Dex bonus to Defense); SV Fort +3, Ref +4, Will +4; FP 1; DSP 1; Rep +1; Str 10, Dex 15, Con 12, Int 13, Wis 14, Cha 9. Challenge Code C.
+Spd 10 m; VP/WP 25/12; Atk +3 melee (`1d4`, knife) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Trailblazing, heart +1, uncanny dodge (Dex bonus to Defense); SV Fort +3, Ref +4, Will +4; FP 1; DSP 1; Rep +1; Str 10, Dex 15, Con 12, Int 13, Wis 14, Cha 9. Challenge Code C.
 
 Equipment: Landspeeder, blaster pistol, knife, datapad with open bounties, guild membership badge.
 
@@ -1425,7 +1384,7 @@ Skills: Computer Use +8, Gather Information +6, Hide +9, Intimidate +2, Listen +
 
 Feats: Improved Initiative, Quick Draw, Track, Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
-Mid-Level Bounty Hunter: Scout 4/Scoundrel 2/Bounty Hunter 2; Init +6 (+2 Dex, +4 Improved Initiative); Defense 17 (45 class, +2 Dex); DR 3; Spd 10 m; VP 47/12; Atk +6/+1 melee (`1d4`, knife) or +8/+3 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Trailblazing, heart +1, uncanny dodge (Dex bonus to Defense), illicit barter, lucky (I/day), target bonus +1, sneak attack +`1d6`; SV Fort +5, Ref +9, Will +6; FP 2; DSP 4; Rep +3; Str 10, Dex 15,
+Mid-Level Bounty Hunter: Scout 4/Scoundrel 2/Bounty Hunter 2; Init +6 (+2 Dex, +4 Improved Initiative); Defense 17 (+5 class, +2 Dex); DR 3; Spd 10 m; VP/WP 47/12; Atk +6/+1 melee (`1d4`, knife) or +8/+3 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Trailblazing, heart +1, uncanny dodge (Dex bonus to Defense), illicit barter, lucky (1/day), target bonus +1, sneak attack +`1d6`; SV Fort +5, Ref +9, Will +6; FP 2; DSP 4; Rep +3; Str 10, Dex 15,
 
 Con 12, Int 13, Wis 14, Cha 10. Challenge Code D.
 
@@ -1435,18 +1394,11 @@ Skills: Computer Use +10, Gather Information +10, Hide +12, Intimidate +4, Liste
 
 Feats: Armor Proficiency (light), Improved Initiative, Quick Draw, Track, Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
-High-Level Bounty Hunter: Scout 4/Scoundrel 2/Bounty Hunter 6; Init +7 (+3 Dex, +4 Improved Initiative); Defense 19 (+6 class, +3 Dex); DR 3; Spd 10 m; VP 73/12; Atk +10/+5 melee (104, knife) or +12/+7 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Trailblazing, heart +1, uncanny dodge (Dex bonus to Defense}, illicit barter, lucky (1/day), target bonus +3, sneak attack +`3d6`; SV Fort +6, Ref +11, Will +7; FP 3; DSP 9; Rep +5; Str 10, Dex 16, Con 12, Int 13, Wis 14, Cha 10. Challenge Code E. Equipment: Landspeeder, YT-1300 or Firespray-31 space transport, heavy blaster pistol, knife, datapad with open bounties, guild membership badge, combat jumpsuit. Skills: Astrogate +8, Bluff +7, Computer Use +10, Gather Information +10, Hide +12, Intimidate +9, Listen +10, Move Silently +13, Pilot +12, Repair +4, Search +8, Spot +10. Feats: Armor Proficiency (light), Improved Initiative, Quick Draw, Point Blank Shot, Track, Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
+High-Level Bounty Hunter: Scout 4/Scoundrel 2/Bounty Hunter 6; Init +7 (+3 Dex, +4 Improved Initiative); Defense 19 (+6 class, +3 Dex); DR 3; Spd 10 m; VP/WP 73/12; Atk +10/+5 melee (`1d4`, knife) or +12/+7 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Trailblazing, heart +1, uncanny dodge (Dex bonus to Defense), illicit barter, lucky (1/day), target bonus +3, sneak attack +`3d6`; SV Fort +6, Ref +11, Will +7; FP 3; DSP 9; Rep +5; Str 10, Dex 16, Con 12, Int 13, Wis 14, Cha 10. Challenge Code E. Equipment: Landspeeder, YT-1300 or Firespray-31 space transport, heavy blaster pistol, knife, datapad with open bounties, guild membership badge, combat jumpsuit. Skills: Astrogate +8, Bluff +7, Computer Use +10, Gather Information +10, Hide +12, Intimidate +9, Listen +10, Move Silently +13, Pilot +12, Repair +4, Search +8, Spot +10. Feats: Armor Proficiency (light), Improved Initiative, Quick Draw, Point Blank Shot, Track, Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
 Clone Trooper To counter the threat of the Geonosian droid armies, the Republic deploys an army of cloned warriors. The clones’ creators, the Kaminoans, conceived the clones from a single genetic blueprint (that of the bounty hunter Jango Fett), making a few alterations to ensure the troopers’ rapid maturation and unwavering obedience.
 
 The first legions of clone troopers saw battle on Geonosis against the droid armies of the Separatists and their allies (the Trade Federation, the Commerce Guild, the Corporate
-
-## BOUNTY HUNTER
-
-s
-|
-
-f— Is 7) 0 u Z 7)
 
 <!-- page 343 -->
 
@@ -1460,13 +1412,11 @@ Int 10, Wis 8, Cha 9. Challenge Code C.
 
 Equipment: Clone trooper armor, blaster rifle, comlink.
 
-Skills: Intimidate +3,
-
-Profession (clone trooper) tn +3, Search +2, Spot +2.
+Skills: Intimidate +3, Profession (clone trooper) +3, Search +2, Spot +2.
 
 Feats: Armor Proficiencies (light, medium, powered), Point Blank Shot, Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
-Mid-Level Clone Trooper: Human Thug 8; Init +2 (De: Defense 14 (+2 class, +2 Dex); DR 5; Spd 8 m; VP 0/12 Atk +9/+4 melee (`1d3+1`, unarmed) or +10/+5 ranged (`3d8`/19-20, blaster rifle); SQ Immunities (see above); SV Fort +7, Ref +4, Will +1; FP 1; DSP 1; Rep +2; Str 12, Dex 14, Con 12, Int 10, Wis 8, Cha 9. Challenge Code C.
+Mid-Level Clone Trooper: Human Thug 8; Init +2 (Dex); Defense 14 (+2 class, +2 Dex); DR 5; Spd 8 m; VP/WP 0/12; Atk +9/+4 melee (`1d3+1`, unarmed) or +10/+5 ranged (`3d8`/19-20, blaster rifle); SQ Immunities (see above); SV Fort +7, Ref +4, Will +1; FP 1; DSP 1; Rep +2; Str 12, Dex 14, Con 12, Int 10, Wis 8, Cha 9. Challenge Code C.
 
 Equipment: Clone trooper armor, blaster rifle, comlink.
 
@@ -1482,15 +1432,17 @@ Equipment: Clone trooper armor, blaster rifle, comlink.
 
 Skills: Climb +3, Intimidate +3, Jump +1, Profession (clone trooper) +3, Search +3, Spot +2.
 
-Feats: Armor Proficiencies (light, medium, powered), Point Blank Shot, Toughness, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple CLONE TROOPER weapons).
+Feats: Armor Proficiencies (light, medium, powered), Point Blank Shot, Toughness, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons).
 
-Con Artist Most con artists start with simple scams. As they grow more } skilled, their schemes become more complex; thus, the shift in class from scoundrel to noble.
+## Con Artist
+
+Most con artists start with simple scams. As they grow more skilled, their schemes become more complex; thus, the shift in class from scoundrel to noble.
 
 Low-Level Con Artist: Scoundrel 4; Init +1 (Dex); Defense 14 (+3 class, +1 Dex); Spd 10 m; VP/WP 16/10; Atk +2
 
 <!-- page 344 -->
 
-melee (`1d3-1`, unarmed) or +4 ranged (`3d4` or DC 10 stun, hold-out blaster); SQ Mlicit barter, lucky (1/day), precise attack +1; SV Fort +1, Ref +5, Will +3; FP 1; DSP 1; Rep +1; Str 8, Dex 13, Con 10, Int 12, Wis 14, Cha 16. Challenge Code C.
+melee (`1d3-1`, unarmed) or +4 ranged (`3d4` or DC 10 stun, hold-out blaster); SQ Illicit barter, lucky (1/day), precise attack +1; SV Fort +1, Ref +5, Will +3; FP 1; DSP 1; Rep +1; Str 8, Dex 13, Con 10, Int 12, Wis 14, Cha 16. Challenge Code C.
 
 Equipment: Datapad, bogus credit slips, hold-out blaster.
 
@@ -1502,17 +1454,15 @@ Mid-Level Con Artist: Scoundrel 6/Noble 2; Init +2 (Dex); Defense 17 (+5 class, 
 
 ## Crime Lord
 
-Behind every great enterprise is a great mind. At low levels, acrime lord tries to extend his influence and eam the respect and fear of his fellow criminals. A mid-level crime lord builds the foundations of a syndicate, battling law enforcers and other criminal masterminds who don’t want to see their positions of dominance challenged. As the crime lord reaches the top of his or her “profession,” he is no Jonger concerned with shows of force. The mastermind
+Behind every great enterprise is a great mind. At low levels, acrime lord tries to extend his influence and eam the respect and fear of his fellow criminals. A mid-level crime lord builds the foundations of a syndicate, battling law enforcers and other criminal masterminds who don’t want to see their positions of dominance challenged. As the crime lord reaches the top of his or her “profession,” he is no longer concerned with shows of force. The mastermind
 
 steps into the background—perhaps even establishing a “legitimate” business—and lets others run the empire. The crime lord's name alone ensures compliance with his wishes.
 
-low-Level Crime Lord: Scoundrel 2/Noble 2; Init +1 (Dex); Defense 14 (+3 class, +1 Dex); Spd 10 m; VP/WP 12/9; Atk +2 melee (`1d4`, knife) or +3 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Mlicit barter, lucky (1/day), favor +1, inspire confidence (1/day); SV Fort +1, Ref +6, Will +4; iP 1; DSP 1; Rep +1; Str 10, Dex 12, Con 9, Int 14, Wis 13, Cha 15. Challenge Code C. Equipment: Modest estate and skiff, blaster pistol, knife. Skills: Appraise +6, Bluff +6, Computer Use +6, Diplomacy +1, Forgery +6, Gather Information +7, Hide +6, Intimidate +7, Knowledge (streetwise) +7, Listen +7, Move Silently +6, Pilot +5, Search +6, Sense Motive +6, Spot +7.
+Low-Level Crime Lord: Scoundrel 2/Noble 2; Init +1 (Dex); Defense 14 (+3 class, +1 Dex); Spd 10 m; VP/WP 12/9; Atk +2 melee (`1d4`, knife) or +3 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (1/day), favor +1, inspire confidence (1/day); SV Fort +1, Ref +6, Will +4; FP 1; DSP 1; Rep +1; Str 10, Dex 12, Con 9, Int 14, Wis 13, Cha 15. Challenge Code C. Equipment: Modest estate and skiff, blaster pistol, knife. Skills: Appraise +6, Bluff +6, Computer Use +6, Diplomacy +1, Forgery +6, Gather Information +7, Hide +6, Intimidate +7, Knowledge (streetwise) +7, Listen +7, Move Silently +6, Pilot +5, Search +6, Sense Motive +6, Spot +7.
 
 Feats: Alertness, Great Fortitude, Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-Mid-Level Crime Lord: Scoundrel 5/Noble 2/Crime Lord 1; nit +1 (Dex); Defense 17 (+6 class, +1 Dex); Spd 10 m; WP 22/9; Atk +4 melee (`1d4`, knife) or +6 ranged (`3d6`
-
-or DC 15 stun, blaster pistol); SQ Mlicit barter, lucky (1/day), precise atteck +1, favor +1, inspire confidence (1/day), contact; SV Fort +2, Ref +8, Will +7; FP 2; DSP 2; Rep +6; Str 10, Dex 12, Con 9, Int 14, Wis 13, Cha 16. Challenge Code D.
+Mid-Level Crime Lord: Scoundrel 5/Noble 2/Crime Lord 1; Init +1 (Dex); Defense 17 (+6 class, +1 Dex); Spd 10 m; VP/WP 22/9; Atk +4 melee (`1d4`, knife) or +6 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (1/day), precise attack +1, favor +1, inspire confidence (1/day), contact; SV Fort +2, Ref +8, Will +7; FP 2; DSP 2; Rep +6; Str 10, Dex 12, Con 9, Int 14, Wis 13, Cha 16. Challenge Code D.
 
 Equipment: Luxurious estate and skiff, henchmen, spies, blaster pistol, knife.
 
@@ -1520,7 +1470,7 @@ Skills: Appraise +9, Bluff +11, Computer Use +9, Diplomacy +12, Forgery +9, Gath
 
 Feats: Alertness, Great Fortitude, Infamy, Skill Emphasis (Diplomacy), Weapon Focus (blaster pistol), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-High-Level Crime Lord: Scoundrel 5/Noble 2/Crime Lord 5; Init +1 (Dex); Defense 19 (+8 class, +1 Dex); Spd 10 m; VP/WP 32/9; Atk +6/+1 melee (104, knife) or +7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Mlicit barter, lucky (1/day), precise attack +1, favor +3, inspire confidence (1/day), contacts (2), resource access, inspire fear -2, minions; SV Fort +3, Ref +10, Will +11; FP 3; DSP 4;
+High-Level Crime Lord: Scoundrel 5/Noble 2/Crime Lord 5; Init +1 (Dex); Defense 19 (+8 class, +1 Dex); Spd 10 m; VP/WP 32/9; Atk +6/+1 melee (`1d4`, knife) or +7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (1/day), precise attack +1, favor +3, inspire confidence (1/day), contacts (2), resource access, inspire fear -2, minions; SV Fort +3, Ref +10, Will +11; FP 3; DSP 4;
 
 Rep +9; Str 10, Dex 12, Con 9, Int 14, Wis 14, Cha 16. Challenge Code E.
 
@@ -1532,19 +1482,13 @@ Feats: Alertness, Great Fortitude, Infamy, Influence, Iron Will, Skill Emphasis 
 
 ## Dark Jedi Guardian
 
-Until a Jedi apprentice is fully trained, the call of the dark side is always a temptation. Some give in. Even experienced Jedi can fail prey to fear and hatred and become lost. Tragically, for these Jedi, the pull of the dark side is so strong that they come to embrace the strange and terrible new powers the dark side promises them.
+Until a Jedi apprentice is fully trained, the call of the dark side is always a temptation. Some give in. Even experienced Jedi can fall prey to fear and hatred and become lost. Tragically, for these Jedi, the pull of the dark side is so strong that they come to embrace the strange and terrible new powers the dark side promises them.
 
 In the Old Republic Era, dark Jedi are apostates, hiding from their former comrades on the fringes of the galaxy, in lawless places where they can trade their talents for power and glory, or simply survival. During the Rebellion Era, the Jedi themselves are so scarce that dark Jedi are almost nonexistent, though it is possible that a few linger still. These few have escaped the Empire's purge of the Jedi Order, and some even serve the Emperor. During The New Jedi Order era, some of the students of the Jedi academy bridle at Master Luke Skywalker's inflexibility and fall prey to the same foibles that Jedi students in the Old Republic once did,
 
-Low-Level Dark Jedi Guardian: Jedi Guardian 4; Init +3 (Dex); Defense 17 (+4 class, +3 Dex); Spd 10 m; VP/WP 34/14; Atk +7 melee (`2d8+1`/19-20, lightsaber) or +7 ranged; SQ Deflect (defense +1), deflect (attack -4, redirect
+Low-Level Dark Jedi Guardian: Jedi Guardian 4; Init +3 (Dex); Defense 17 (+4 class, +3 Dex); Spd 10 m; VP/WP 34/14; Atk +7 melee (`2d8+1`/19-20, lightsaber) or +7 ranged; SQ Deflect (defense +1), deflect (attack -4, redirect 2/round); SV Fort +6,
 
-ta
-
-ce fe 7) 0 — nv
-
-<!-- page 345 -->
-
-2/round); SV Fort +6, Ref +7, Will +1; FP 3; DSP 5; Rep +1; Str 13, Dex 16, Con 14, Int 10, Wis 8, Cha 12. Challenge Code D.
+<!-- page 345 --> Ref +7, Will +1; FP 3; DSP 5; Rep +1; Str 13, Dex 16, Con 14, Int 10, Wis 8, Cha 12. Challenge Code D.
 
 Equipment: Lightsaber, sinister clothes.
 
@@ -1556,23 +1500,13 @@ Feats: Exotic Weapon Proficiency (lightsaber), Force Sensitive, Power Attack, We
 
 Force Feats: Alter, Control, Dissipate Energy, Sense.
 
-(Dex); Defense 19 (+6 class, +3 Dex); Spd 10 m; VP/WP
-
-64/14; Atk +12/+7 melee (`3d8+1`/19-20, lightsaber) or
-
-+11/+6 ranged; SQ Deflect (defense +1), deflect (attack -4, irect 4/round), deflect (extend defense and attack),
-
-se lightsaber damage +`1d8`; SV Fort +8, Ref +9,
-
-Will +3; FP 5; DSP 12; Rep +2; Str 13, Dex 16, Con 14,
-
-Int 10, Wis 9, Cha 12. Challenge Code E.
+Mid-Level Dark Jedi Guardian: Jedi Guardian 8; Init +3 (Dex); Defense 19 (+6 class, +3 Dex); Spd 10 m; VP/WP 64/14; Atk +12/+7 melee (`3d8+1`/19-20, lightsaber) or +11/+6 ranged; SQ Deflect (defense +1), deflect (attack -4, redirect 4/round), deflect (extend defense and attack), increase lightsaber damage +`1d8`; SV Fort +8, Ref +9, Will +3; FP 5; DSP 12; Rep +2; Str 13, Dex 16, Con 14, Int 10, Wis 9, Cha 12. Challenge Code E.
 
 Equipment: Lightsaber’, sinister clothes,
 
 *The dark Jedi guardian constructed the lightsaber himself and gains a +1 circumstance bonus on attack rolls with the weapon.
 
-Skills: Climb +3, Craft (lightsaber) +4, Knowledge Jedi lore) +2, Tumble +5.
+Skills: Climb +3, Craft (lightsaber) +4, Knowledge (Jedi lore) +2, Tumble +5.
 
 Force Skills: Affect Mind +4, Battlemind +5, Enhance Ability +5, Fear +3, Force Stealth +4, Heal Self +4, Move Object +4.
 
@@ -1610,13 +1544,13 @@ Low-Level Dark Side Adept: Force Adept 4; Init +0; Defense 14 (+4 class); Spd 10
 
 Equipment: Spear, blaster pistol.
 
-Skills: Intimidate +4, Sense Motive +9, Survival +5. Force Skills: Affect Mind +9, Alchemy +6, Fear +9, Force Defense +8, Force Grip +5, Move Object +9, See Force +9. Feats: Force-Sensitive, Iron Will, Weapon Group Profitiencies (blaster pistols, primitive weapons, simple weapons). Force Feats: Alter, Control, Force Mind, Sense.
+Skills: Intimidate +4, Sense Motive +9, Survival +5. Force Skills: Affect Mind +9, Alchemy +6, Fear +9, Force Defense +8, Force Grip +5, Move Object +9, See Force +9. Feats: Force-Sensitive, Iron Will, Weapon Group Proficiencies (blaster pistols, primitive weapons, simple weapons). Force Feats: Alter, Control, Force Mind, Sense.
 
-Mid-Level Dark Side Adept: Force Adept 6/Dark Side Devotee 2; Init +0; Defense 19 (+9 class); Spd 10 m; VP/WP 52/14; Atk +4 melee (`1d8`+`1d4-1`, spear) or +5 ranged (`3d6` ‘or DC 15 stun, blaster pistol); SQ Force weapon +`1d8`, dark side talisman +2; SV Fort +7, Ref +5, Will +10; FP 4; DSP 12; Rep +2; Str 9, Dex 11, Con 14, Int 14, Wis 15, Cha 14. Challenge Code C.
+Mid-Level Dark Side Adept: Force Adept 6/Dark Side Devotee 2; Init +0; Defense 19 (+9 class); Spd 10 m; VP/WP 52/14; Atk +4 melee (`1d8`+`1d4-1`, spear) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Force weapon +`1d8`, dark side talisman +2; SV Fort +7, Ref +5, Will +10; FP 4; DSP 12; Rep +2; Str 9, Dex 11, Con 14, Int 14, Wis 15, Cha 14. Challenge Code C.
 
 Equipment: Spear, blaster pistol, dark side talisman. Skills: Intimidate +6, Sense Motive +11, Survival +7. Force Skills: Affect Mind +13, Alchemy +10, Fear +11, Force Defense +13, Force Grip +10, Heal Self +11, Move Object +13, See Force +11.
 
-Feats: Force-Sensitive, Skill Emphasis (Force Grip), Skill Emphasis (Heal Self), Weapon Group Proficiencies (blaster jistols, primitive weapons, simple weapons).
+Feats: Force-Sensitive, Skill Emphasis (Force Grip), Skill Emphasis (Heal Self), Weapon Group Proficiencies (blaster pistols, primitive weapons, simple weapons).
 
 Force Feats: Alter, Burst of Speed, Control, Force Mind, Sense.
 
@@ -1646,29 +1580,25 @@ Skills: Computer Use +9, Knowledge (alien species) +6, Knowledge (biology) +9, K
 
 Feats: Skill Emphasis (Knowledge [medicine]), Skill Emphasis (Treat Injury), Surgery, Weapon Group Proficiencies (simple weapons).
 
-Mid-Level Doctor: Tech Specialist 8; Init +1 (Dex); Defense 16 (+5 class, +1 Dex); Spd 10 m; VP/WP 30/10; Atk +5/+0 melee (143-1, unarmed) or +7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Research, instant mastery (Knowledge [alien species]), tech specialty (medical specialist +1), expert (Knowledge [medicine]), tech specialty (surgical specialist +1); SV Fort +3, Ref +4, Will +7; FP 2; DSP 0;
+Mid-Level Doctor: Tech Specialist 8; Init +1 (Dex); Defense 16 (+5 class, +1 Dex); Spd 10 m; VP/WP 30/10; Atk +5/+0 melee (`1d3-1`, unarmed) or +7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Research, instant mastery (Knowledge [alien species]), tech specialty (medical specialist +1), expert (Knowledge [medicine]), tech specialty (surgical specialist +1); SV Fort +3, Ref +4, Will +7; FP 2; DSP 0;
 
 Rep +2; Str 8, Dex 13, Con 10, Int 14, Wis 16, Cha 12. Challenge Code D.
 
 Equipment: Uniform, medpac, surgery kit, blaster pistol.
 
-Skills: Computer Use +9, Craft (medpac) +6, Knowledge {alien species) +12, Knowledge (biology) +12, Knowledge (medicine) +13, Profession (doctor) +15, Search +11, Treat Injury +17.
+Skills: Computer Use +9, Craft (medpac) +6, Knowledge (alien species) +12, Knowledge (biology) +12, Knowledge (medicine) +13, Profession (doctor) +15, Search +11, Treat Injury +17.
 
-Feats: Skill Emphasis (Knowledge [biology)), Skill Emphasis (Knowledge [medicine]), Skill Emphasis (Profession [doctor]), Skill Emphasis (Treat Injury), Surgery, Weapon Group Proficiencies (blaster pistols, simple weapons).
-
-FS th
-
-ee) SL NINOddOo ONV SSi11v
+Feats: Skill Emphasis (Knowledge [biology]), Skill Emphasis (Knowledge [medicine]), Skill Emphasis (Profession [doctor]), Skill Emphasis (Treat Injury), Surgery, Weapon Group Proficiencies (blaster pistols, simple weapons).
 
 <!-- page 347 -->
 
-High-Level Doctor: Tech Specialist 12; Init +1 (Dex); Defense 18 (+7 class, +1 Dex); Spd 10 m; VP/WP 44/10; Atk +8/+3 melee (`1d3-1`, unarmed) or +10/+5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Research, instant mastery (Knowledge [alien species}), tech specialty (medical specialist +1), expert (Knowledge [medicine]), tech specialty (surgical specialist +2), expert (Knowledge [biology]); SV Fort +5, Ref +6, Will +10; FP 4; DSP 0; Rep +6; Str 8, Dex 13, Con 10, Int 15, Wis 16, Cha 12. Challenge Code:
+High-Level Doctor: Tech Specialist 12; Init +1 (Dex); Defense 18 (+7 class, +1 Dex); Spd 10 m; VP/WP 44/10; Atk +8/+3 melee (`1d3-1`, unarmed) or +10/+5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Research, instant mastery (Knowledge [alien species]), tech specialty (medical specialist +1), expert (Knowledge [medicine]), tech specialty (surgical specialist +2), expert (Knowledge [biology]); SV Fort +5, Ref +6, Will +10; FP 4; DSP 0; Rep +6; Str 8, Dex 13, Con 10, Int 15, Wis 16, Cha 12. Challenge Code E.
 
 Equipment: Uniform, medpac, surgery kit, blaster pistol.
 
 Skills: Computer Use +13, Craft (medpac) +10, Knowledge (alien species) +15, Knowledge (biology) +17, Knowledge (medicine) +17, Profession (doctor) +17, Search +15, Treat Injury +21.
 
-Feats: Fame, Iron Will, Skill Emphasis (Knowledge [life sciences]}, Skill Emphasis (Knowledge [medicine]), Skill Emphasis (Profession [doctor]), Skill Emphasis (Treat Injury), Surgery, Weapon Group Proficiencies (blaster pistols, simple weapons).
+Feats: Fame, Iron Will, Skill Emphasis (Knowledge [life sciences]), Skill Emphasis (Knowledge [medicine]), Skill Emphasis (Profession [doctor]), Skill Emphasis (Treat Injury), Surgery, Weapon Group Proficiencies (blaster pistols, simple weapons).
 
 ## Elite Trooper
 
@@ -1682,7 +1612,7 @@ Skills: Climb +0, Computer Use +2, Demolitions +5, Intimidate +3, Listen +2, Rep
 
 Feats: Armor Proficiencies (light, medium), Combat Reflexes, Point Blank Shot, Precise Shot, Weapon Focus (blaster rifle), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-Mid-Level Elite Trooper: Soldier 5/Scout 2/Elite Trooper 1; Init +3 (Dex); Defense 18 (+5 class, +3 Dex); DR 4; Spd 8 m; VP/WP 62/14; Atk +9/+4 melee (`2d6+2`, vibroblade) or +11/+6 ranged (348/19-20, blaster rifle) or +9/+9/+4 ranged (`3d8`/ 19-20, blaster rifle with Rapid Shot); SQ Trailblazing; SV Fort +10, Ref +7, Will +4; FP 2; DSP 0; Rep +1; Str 14, Dex 16, Con 14, Int 12, Wis 10, Cha 8. Challenge Code D.
+Mid-Level Elite Trooper: Soldier 5/Scout 2/Elite Trooper 1; Init +3 (Dex); Defense 18 (+5 class, +3 Dex); DR 4; Spd 8 m; VP/WP 62/14; Atk +9/+4 melee (`2d6+2`, vibroblade) or +11/+6 ranged (`3d8`/19-20, blaster rifle) or +9/+9/+4 ranged (`3d8`/19-20, blaster rifle with Rapid Shot); SQ Trailblazing; SV Fort +10, Ref +7, Will +4; FP 2; DSP 0; Rep +1; Str 14, Dex 16, Con 14, Int 12, Wis 10, Cha 8. Challenge Code D.
 
 Equipment: Padded battle armor, blaster rifle, vibroblade, multichannel comlink, datapad (with maps), field kit.
 
@@ -1702,9 +1632,7 @@ Feats: Armor Proficiencies (light, medium, heavy), Dodge, Point Blank Shot, Prec
 
 Once a paragon of virtue, the fallen Jedi has turned from the Jedi Code to pursue other goals or wander the galaxy, Though not necessarily an evil person, the fallen Jedi found the Jedi Code too limiting or unrealistic, or perhaps didn’t have the dedication to continue his or her studies.
 
-Low-Level Fallen Jedi: Jedi Guardian 4; Init +7 (+3 Dex, +4 Improved Initiative); Defense 17 (+4 class, +3 Dex); Spd 10 m; VP/WP. 30/13; Atk +7 melee (`2d8+2`/ 19-20, li saber) or +7 ranged (`3d6` or `1d6`/DC 15 stun, blaster pistol}; SQ Deflect (defense +1), deflect (attack -4, redirect 2/day); SV Fort +5, Ref +7, Will +2; FP 3; DSP 1; Rep +1; Str 14,
-
-Dex 16, Con 13, Int 12, Wis 10, Cha 8. Challenge Code C.
+Low-Level Fallen Jedi: Jedi Guardian 4; Init +7 (+3 Dex, +4 Improved Initiative); Defense 17 (+4 class, +3 Dex); Spd 10 m; VP/WP 30/13; Atk +7 melee (`2d8+2`/19-20, lightsaber) or +7 ranged (`3d6` or `1d6`/DC 15 stun, blaster pistol); SQ Deflect (defense +1), deflect (attack -4, redirect 2/day); SV Fort +5, Ref +7, Will +2; FP 3; DSP 1; Rep +1; Str 14, Dex 16, Con 13, Int 12, Wis 10, Cha 8. Challenge Code C.
 
 Equipment: Lightsaber, blaster pistol.
 
@@ -1726,7 +1654,7 @@ Skills: Astrogate +4, Computer Use +4, Hide +5, Intimidate +4, Move Silently +5,
 
 Force Skills: Affect Mind +3, Battlemind +9, Enhance Ability +7, Force Defense +5, Force Stealth +6, Move Object +4.
 
-Feats: Exotic Weapon Proficiency (lightsaber), Improved Initiative, Force-Sensitive, Martial Artist, Starship Operation (space transport), Weapon Finesse (lightsaber), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons),
+Feats: Exotic Weapon Proficiency (lightsaber), Improved Initiative, Force-Sensitive, Martial Artist, Starship Operation (space transport), Weapon Finesse (lightsaber), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
 Force Feats: Alter, Burst of Speed, Control, Sense.
 
@@ -1734,27 +1662,23 @@ Force Feats: Alter, Burst of Speed, Control, Sense.
 
 Like con artists, gamblers avoid physical confrontation, preferring to take their chances at the sabacc table or jubilee wheel instead of the battlefield. Although typically armed (a standard precaution when dealing with sore losers), astute gamblers usually rely on their charming demeanor, flexing their negotiation skills instead of their muscles.
 
-Low-Level Gambler: Scoundrel 4; Init +2 (Dex); Defense 15 (+3 class, +2 Dex); Spd 10 m; VP/WP 16/10; Atk +2 melee (`1d3-1`, unarmed) or +5 ranged (344 or `1d4`/DC 10 stun, hold-out blaster); SQ Illicit barter, lucky (1/day), precise attack +1; SV Fort +1, Ref +6, Will +3; FP 1; DSP 0; Rep +1; Str 8, Dex 14, Con 10, Int 12, Wis 14, Cha 15. Challenge Code C,
+Low-Level Gambler: Scoundrel 4; Init +2 (Dex); Defense 15 (+3 class, +2 Dex); Spd 10 m; VP/WP 16/10; Atk +2 melee (`1d3-1`, unarmed) or +5 ranged (`3d4` or `1d4`/DC 10 stun, hold-out blaster); SQ Illicit barter, lucky (1/day), precise attack +1; SV Fort +1, Ref +6, Will +3; FP 1; DSP 0; Rep +1; Str 8, Dex 14, Con 10, Int 12, Wis 14, Cha 15. Challenge Code C.
 
-Equipment: Hold-out blaster, nice clothes, sabace cards, 5,000 credits.
+Equipment: Hold-out blaster, nice clothes, sabacc cards, 5,000 credits.
 
-Skills: Appraise +8, Bluff +9, Computer Use +8, Diplomacy +5, Forgery +8, Gamble 9, Profession (gambler) +12, Search +3, Sense Motive +4, Sleight of Hand +12, Spot +7.
+Skills: Appraise +8, Bluff +9, Computer Use +8, Diplomacy +5, Forgery +8, Gamble +9, Profession (gambler) +12, Search +3, Sense Motive +4, Sleight of Hand +12, Spot +7.
 
 Feats: Sharp-Eyed, Skill Emphasis (Profession [gambler]), Skill Emphasis (Sleight of Hand), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
 ## Independent Droid
 
-Routine memory wipes prevent droids from developing personality quirks, which in turn ensures that they behave in a fashion consistent with their programming. However, neglecting or refusing to memory-wipe a droid might lead the droid to develop independent thought. Independent (roids have been known to abandon, betray, or even kill their masters to ensure their continuance and “growth.”
+Routine memory wipes prevent droids from developing personality quirks, which in turn ensures that they behave in a fashion consistent with their programming. However, neglecting or refusing to memory-wipe a droid might lead the droid to develop independent thought. Independent droids have been known to abandon, betray, or even kill their masters to ensure their continuance and “growth.”
 
-Independent, free-thinking droids sometimes wander the galaxy looking for adventure, employment, replacement arts and upgrades, noble causes, or even other independent droids, They often—but not always—choose professions ‘based on their basic programming.
+Independent, free-thinking droids sometimes wander the galaxy looking for adventure, employment, replacement parts and upgrades, noble causes, or even other independent droids. They often—but not always—choose professions based on their basic programming.
 
-Three independent droids are detailed below: a low-level 3P0 Series protocol droid with a penchant for exploring, a ‘mid-level J9 Series worker drone turned starfighter pilot and slanetary defender, and a high-level 2-1B Series medical roid thrust into the roles of field medic and Rebel.
+Three independent droids are detailed below: a low-level 3P0 Series protocol droid with a penchant for exploring, a mid-level J9 Series worker drone turned starfighter pilot and planetary defender, and a high-level 2-1B Series medical droid thrust into the roles of field medic and Rebel.
 
-ow-Level Independent Droid: 3P0 Series Protocol Droid,
-
-lass); VP/WP. 17/13; DR 3; Atk +2 melee (143, hand) or +2 inged (`3d6` or DC 15 stun, blaster pistol); SQ Quirk (inquis-
-
-itive), trailblazing, heart +1; SV Fort +3, Ref +2, Will +4; FP 0; DSP 0; Rep +0; Str 10, Dex 11, Con 13, Int 18, Wis 10, Cha 10. Challenge Code B.
+Low-Level Independent Droid: 3P0 Series Protocol Droid, Expert 2/Scout 2; Init +0 (Dex); Defense 14 (+4 class); VP/WP 17/13; DR 3; Atk +2 melee (`1d3`, hand) or +2 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Quirk (inquisitive), trailblazing, heart +1; SV Fort +3, Ref +2, Will +4; FP 0; DSP 0; Rep +0; Str 10, Dex 11, Con 13, Int 18, Wis 10, Cha 10. Challenge Code B.
 
 Equipment: Translator unit (DC 5), recording unit (audiorecorder), vocabulator, blaster pistol, light armor casing.
 
@@ -1768,27 +1692,25 @@ Equipment: Armored flight suit, translator unit (DC 5), recording unit (audiorec
 
 Skills: Astrogate +16, Computer Use +11, Diplomacy +5, Intimidate +6, Knowledge (world lore) +6, Knowledge (alien species) +5, Knowledge (astronomy) +12, Pilot +18, Repair +13, Speak Basic, Speak Binary, Speak Durese, Speak Rodese, Speak Sullustese, Spot +4.
 
-Feats: Ambidexterity, Armor Proficiencies (light, medium), Heroic Surge, Skill Emphasis (Diplomacy), Skill Emphasis. (Pilot), Spacer, Starship Dodge (starfighter), Starship Operation (starfighter), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
+Feats: Ambidexterity, Armor Proficiencies (light, medium), Heroic Surge, Skill Emphasis (Diplomacy), Skill Emphasis (Pilot), Spacer, Starship Dodge (starfighter), Starship Operation (starfighter), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
 High-Level Independent Droid: 2-1B Series Medical Droid, Expert 6/Fringer 3/Soldier 3; Init +4 (Dex); Spd 8 m; Defense 22 (+8 class, +4 Dex); DR 3; VP/WP 32/10; Atk +9/+4 melee (`1d4`, hand) or +13/+8 ranged (`3d8` or DC 18 stun, heavy blaster) or +13/+8 ranged (`3d6` or DC15 stun, weapon-mounted blaster pistol); SQ Quirks (reliable, bad wiring), barter, jury-rig +2; SV Fort +8, Ref +9, Will +11; FP 0; DSP 0; Rep +2; Str 10, Dex 18, Con 10, Int 15, Wis 18, Cha 10. Challenge Code D.
 
 Equipment: Heuristic processor, internal storage, rust inhibitor, sensors (improved sensor package, infrared sensors), secondary battery, vocabulator, weapon mount (blaster pistol), medpac, heavy blaster, light armor casing.
 
-Skills: Astrogate +8, Computer Use +12, Demolitions +5, Diplomacy +7, Gather Information +7, Hide +4, Knowledge {alien species) +6, Knowledge (biology) +9, Knowledge (chemistry) +9, Knowledge (politics) +11, Listen +10, Pilot +11, Profession (doctor) +16, Repair +11, Search +4, Speak Basic, Speak Binary, Speak Huttese, Spot +12, Survival +14, Treat Injury +16.
+Skills: Astrogate +8, Computer Use +12, Demolitions +5, Diplomacy +7, Gather Information +7, Hide +4, Knowledge (alien species) +6, Knowledge (biology) +9, Knowledge (chemistry) +9, Knowledge (politics) +11, Listen +10, Pilot +11, Profession (doctor) +16, Repair +11, Search +4, Speak Basic, Speak Binary, Speak Huttese, Spot +12, Survival +14, Treat Injury +16.
 
-Feats: Alertness, Armor Proficiency (light), Ambidexterity, Point Blank Shot, Precise Shot, Skill Emphasis (Profession {doctor]), Skill Emphasis (Survival), Skill Emphasis (Treat
-
-ta 3
+Feats: Alertness, Armor Proficiency (light), Ambidexterity, Point Blank Shot, Precise Shot, Skill Emphasis (Profession [doctor]), Skill Emphasis (Survival), Skill Emphasis (Treat Injury), Surgery, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, primitive weapons, simple weapons, vibro weapons).
 
 <!-- page 349 -->
 
-Injury), Surgery, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, primitive weapons, simple weapons, vibro weapons).
+## Jedi Investigator
 
-Jedi Investigator The low-level Jedi investigator is entrusted to handle minor disturbances and threats (a gang of outlaws, a low-level darksider, or local unrest) or report on greater threats across the galaxy. A mid-level Jedi investigator handles more serious matters (vicious criminal syndicates, a mid-level darksider, or political unrest) and is authorized to act on the Jedi Council’s behalf when mediating disputes on far-flung worlds. The high-level investigator deals with threats affecting entire planets (hostile invaders, global disasters, a high-level darksider or multiple low- and mid-level darksiders).
+The low-level Jedi investigator is entrusted to handle minor disturbances and threats (a gang of outlaws, a low-level darksider, or local unrest) or report on greater threats across the galaxy. A mid-level Jedi investigator handles more serious matters (vicious criminal syndicates, a mid-level darksider, or political unrest) and is authorized to act on the Jedi Council’s behalf when mediating disputes on far-flung worlds. The high-level investigator deals with threats affecting entire planets (hostile invaders, global disasters, a high-level darksider or multiple low- and mid-level darksiders).
 
 Jedi investigators don’t exist during the Rebellion era but could easily re-emerge in The New Jedi Order era as agents of Luke Skywalker’s Jedi academy.
 
-Low-Level Jedi Investigator: Jedi Consular 4; Init +2 (Dex); Defense 16 (+4 class, +2 Dex); Spd 10 m; VP/WP. 24/10; Atk +4 melee (`2d8+1`/19-20, lightsaber) or +5 ranged (`3d6` or DC 15, blaster pistol); SQ Deflect (defense +1), deflect (attack -4, redirect 2/day); SV Fort +4, Ref +4, Will +4; FP 2; DSP 0; Rep +2; Str 12, Dex 14, Con 10, Int 12, Wis 10, Cha 16. Challenge Code C.
+Low-Level Jedi Investigator: Jedi Consular 4; Init +2 (Dex); Defense 16 (+4 class, +2 Dex); Spd 10 m; VP/WP 24/10; Atk +4 melee (`2d8+1`/19-20, lightsaber) or +5 ranged (`3d6` or DC 15, blaster pistol); SQ Deflect (defense +1), deflect (attack -4, redirect 2/day); SV Fort +4, Ref +4, Will +4; FP 2; DSP 0; Rep +2; Str 12, Dex 14, Con 10, Int 12, Wis 10, Cha 16. Challenge Code C.
 
 Equipment: Lightsaber, blaster pistol, credit chip.
 
@@ -1804,29 +1726,27 @@ Mid-Level Jedi Investigator: Jedi Consular 5/Jedi Investigator 3; Init +2 (Dex);
 
 Equipment: Lightsaber’, blaster pistol, credit chip, recording rod, comlink, protocol droid.
 
-“The Jedi investigator constructed the lightsaber herself and gains a +1 circumstance bonus on attack rolls with the weapon.
+*The Jedi investigator constructed the lightsaber herself and gains a +1 circumstance bonus on attack rolls with the weapon.
 
 Skills: Bluff +6, Computer Use +6, Craft (lightsaber) +5, Diplomacy +11, Gather Information +13, Hide +6, Intimidate +7, Knowledge (bureaucracy) +4, Move Silently +5, Sense Motive +6.
 
 Force Skills: Affect Mind +6, Battlemind +4, Empathy +5, Enhance Senses +8, Farseeing +4, Friendship +6, See Force +5, Telepathy +5.
 
-Feats: Combat Expertise, Exotic Weapon Proficiency
-
-(lightsaber), Force-Sensitive, Skill Emphasis (Gather Information), Stealthy, Weapon Group Proficiencies (blaster pistols, simple weapons).
+Feats: Combat Expertise, Exotic Weapon Proficiency (lightsaber), Force-Sensitive, Skill Emphasis (Gather Information), Stealthy, Weapon Group Proficiencies (blaster pistols, simple weapons).
 
 Force Feats: Aware, Alter, Control, Lightsaber Defense, Sense.
 
-High-Level Jedi Investigator: Jedi Consular 7/Jedi Investigator 5; Init +2 (Dex); Defense 21 (+9 class, +2 Dex); Spd 10 m; VP/WP 65/10; Atk +12/+7 melee (`4d8+1`/19-20, lightsaber) or +12/+7 ranged (346 or DC 15, blaster pistol); SQ Deflect (defense +2), deflect (attack -2, redirect 6/day), deflect (extend defense and attack), profile, target bonus +3, contacts (2), increase lightsaber damage +`1d8`, favor +2; SV Fort +7, Ref +8, Will +9; FP 6; DSP 0; Rep +4; Str 12, Dex 14, Con 10, Int 12, Wis 12, Cha 16. Challenge Code E.
+High-Level Jedi Investigator: Jedi Consular 7/Jedi Investigator 5; Init +2 (Dex); Defense 21 (+9 class, +2 Dex); Spd 10 m; VP/WP 65/10; Atk +12/+7 melee (`4d8+1`/19-20, lightsaber) or +12/+7 ranged (`3d6` or DC 15, blaster pistol); SQ Deflect (defense +2), deflect (attack -2, redirect 6/day), deflect (extend defense and attack), profile, target bonus +3, contacts (2), increase lightsaber damage +`1d8`, favor +2; SV Fort +7, Ref +8, Will +9; FP 6; DSP 0; Rep +4; Str 12, Dex 14, Con 10, Int 12, Wis 12, Cha 16. Challenge Code E.
 
 Equipment: Lightsaber’, blaster pistol, protocol droid, comlink, credit chip, recording rod.
 
-“The Jedi investigator constructed the lightsaber herself and gains a +1 circumstance bonus on attack rolls with the weapon.
+*The Jedi investigator constructed the lightsaber herself and gains a +1 circumstance bonus on attack rolls with the weapon.
 
 Skills: Bluff +8, Computer Use +8, Craft (lightsaber) +6, Diplomacy +12, Gather Information +15, Hide +8, Intimidate +11, Knowledge (bureaucracy) +4, Move Silently +6, Sense Motive +8.
 
 Force Skills: Affect Mind +10, Battlemind +7, Empathy +6, Enhance Senses +10, Farseeing +7, Friendship +7, See Force +8, Telepathy +8.
 
-Feats: Combat Expertise, Exotic Weapon Proficiency (lightsaber), Force-Sensitive, Headstrong, Skill Emphasis (Gather Information), Stealthy, Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, simple weapons),
+Feats: Combat Expertise, Exotic Weapon Proficiency (lightsaber), Force-Sensitive, Headstrong, Skill Emphasis (Gather Information), Stealthy, Weapon Focus (lightsaber), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
 Force Feats: Aware, Alter, Control, Lightsaber Defense, Sense.
 
@@ -1834,7 +1754,7 @@ Force Feats: Aware, Alter, Control, Lightsaber Defense, Sense.
 
 The medic is a common sight in the aftermath of violent events, rushing to save the lives of those too injured to take care of themselves.
 
-Low-Level Medic: Expert 4; Init +1 (Dex); Defense 12 (+1 class, +1 Dex); Spd 10 m; VP/WP 0/9; Atk +3 melee (143, unarmed) or +4 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +0, Ref +2, Will +6; FP. 0; DSP 0; Rep +1; Str 11, Dex 12, Con 9, Int 10, Wis 14, Cha 8, Challenge Code B.
+Low-Level Medic: Expert 4; Init +1 (Dex); Defense 12 (+1 class, +1 Dex); Spd 10 m; VP/WP 0/9; Atk +3 melee (`1d3`, unarmed) or +4 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +0, Ref +2, Will +6; FP 0; DSP 0; Rep +1; Str 11, Dex 12, Con 9, Int 10, Wis 14, Cha 8. Challenge Code B.
 
 Equipment: Diagnostic tools, medical kit, medpac, blaster pistol.
 
@@ -1852,7 +1772,7 @@ Skills: Computer Use +11, Gather Information +10, Knowledge (biology) +11, Profe
 
 Feats: Endurance, Skill Emphasis (Profession [medic]), Skill Emphasis (Treat Injury), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-High-Level Medic: Expert 12; Init +1 (Dex); Defense 15 (+4 class, +1 Dex); Spd 10 m; VP/WP 0/9; Atk +9/+4 melee (`1d3`, unarmed) or +10/+5 ranged (346 or DC 15 stun, blaster pistol); SV Fort +3, Ref +5, Will +11; FP 1; DSP.0; Rep +3; Str 11, Dex 12, Con 9, Int 10, Wis 16, Cha 8. Challenge Code D.
+High-Level Medic: Expert 12; Init +1 (Dex); Defense 15 (+4 class, +1 Dex); Spd 10 m; VP/WP 0/9; Atk +9/+4 melee (`1d3`, unarmed) or +10/+5 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +3, Ref +5, Will +11; FP 1; DSP 0; Rep +3; Str 11, Dex 12, Con 9, Int 10, Wis 16, Cha 8. Challenge Code D.
 
 Equipment: Diagnostic tools, medical kit, medpac, multichannel comlink, blaster pistol.
 
@@ -1862,15 +1782,11 @@ Feats: Dodge, Endurance, Skill Emphasis (Knowledge [biology]), Skill Emphasis (P
 
 ## Mercenary
 
-Wherever there's an armed dispute, you'll find mercenaries: soldiers whose weapons are for sale to the highest bidder,
+Wherever there's an armed dispute, you'll find mercenaries: soldiers whose weapons are for sale to the highest bidder, and who can easily be disavowed and abandoned by their employers if things start going badly.
 
-and who can easily be disavowed and abandoned by their
+Meres are professional soldiers organized into companies and represented by mercenary guilds. During the time of the Rebellion, the Empire placed restrictions on mercenary activities. As a result, many professional soldiers during this era supported the Rebel Alliance. Laws forced mercenary guilds and companies to provide their services to Imperial moffs and governors at whatever rate the moffs and governors deemed reasonable, Corrupt officials took advantage of this situation to deny the mercenary guilds a real income. As a result, many mercenaries went to work for the Rebels, even if they weren't getting paid.
 
-employers if things start going badly.
-
-Meres are professional soldiers organized into companies and represented by mercenary guilds. During the time of the Rebellion, the Empire placed restrictions on mercenary activities. As a result, many professional soldiers during this era supported the Rebel Alliance. Laws forced mercenary guilds and companies to provide their services to Imperial moffs and governors at whatever rate the moffs and governors deemed reasonable, Corrupt officials took advantage of this situation to deny the mercenary guilds a real income. Asa result, many mercenaries went to work for the Rebels, even if they weren't getting paid.
-
-Low-Level Mercenary; Soldier 4; Init +6 (+2 Dex, +4 Improved Initiative); Defense 16 (+4 class, +2 Dex); DR 3; Spd 10 m; VP/WP 34/15; Atk +5 melee (`2d6+1`, vibroblade) or +6 ranged (`3d8` or DC 18 stun, heavy blaster pistol) or +4/+4 ranged (348 or DC 18 stun, heavy blaster pistol with Rapid Shot); SV Fort +6, Ref +3, Will +2; FP 1; DSP 0; Rep +1; Str 13, Dex 15, Con 15, Int 10, Wis 12, Cha 8. Challenge Code C.
+Low-Level Mercenary: Soldier 4; Init +6 (+2 Dex, +4 Improved Initiative); Defense 16 (+4 class, +2 Dex); DR 3; Spd 10 m; VP/WP 34/15; Atk +5 melee (`2d6+1`, vibroblade) or +6 ranged (`3d8` or DC 18 stun, heavy blaster pistol) or +4/+4 ranged (`3d8` or DC 18 stun, heavy blaster pistol with Rapid Shot); SV Fort +6, Ref +3, Will +2; FP 1; DSP 0; Rep +1; Str 13, Dex 15, Con 15, Int 10, Wis 12, Cha 8. Challenge Code C.
 
 Equipment: Combat jumpsuit, heavy blaster pistol, comlink, field kit, guild badge, company insignia.
 
@@ -1878,11 +1794,7 @@ Skills: Computer Use +5, Demolitions +5, Intimidate +4, Survival +5, Treat Injur
 
 Feats: Armor Proficiency (light), Blind-Fight, Improved Initiative, Martial Arts, Point Blank Shot, Rapid Shot, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-Mid-Level Mercenary: Soldier 8; Init +7 (+3 Dex, +4
-
-Improved Initiative); Defense 19 (+6 class, +3 Dex); DR 3; Spd 10 m; VP/WP 64/15; Atk +9/+4 melee (`2d6+1`, vibro- Dade) or +7/+7/+7/+2/-3 ranged (`3d8`/19-20, blaster rifle
-
-with Multishot and Rapid Shot); SV Fort +8, Ref +5, Will +3; FP 2; DSP 0; Rep +2; Str 13, Dex 16, Con 15, Int 10, Wis 12, Cha 8. Challenge Code D.
+Mid-Level Mercenary: Soldier 8; Init +7 (+3 Dex, +4 Improved Initiative); Defense 19 (+6 class, +3 Dex); DR 3; Spd 10 m; VP/WP 64/15; Atk +9/+4 melee (`2d6+1`, vibroblade) or +7/+7/+7/+2/-3 ranged (`3d8`/19-20, blaster rifle with Multishot and Rapid Shot); SV Fort +8, Ref +5, Will +3; FP 2; DSP 0; Rep +2; Str 13, Dex 16, Con 15, Int 10, Wis 12, Cha 8. Challenge Code D.
 
 Equipment: Combat jumpsuit, blaster rifle, multichannel comlink, field kit, macrobinoculars, guild badge, company insignia, landspeeder or airspeeder.
 
@@ -1896,21 +1808,17 @@ Equipment: Padded battle armor, light repeating blaster, multichannel comlink, f
 
 Skills: Computer Use +5, Demolitions +8, Intimidate +8, Knowledge (tactics) +6, Listen +5, Spot +5, Survival +6, Treat Injury +8.
 
-Feats: Armor Proficiencies (light, medium, heavy), Blind- Fight, Dodge, Improved Initiative, Improved Martial Arts, Martial Arts, Mobility, Multishot, Point Blank Shot, Quick Draw, Precise Shot, Rapid Shot, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
+Feats: Armor Proficiencies (light, medium, heavy), Blind-Fight, Dodge, Improved Initiative, Improved Martial Arts, Martial Arts, Mobility, Multishot, Point Blank Shot, Quick Draw, Precise Shot, Rapid Shot, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-Military/Imperial Officer Military academies have long, proud traditions. There are families that have served the galaxy in uniform for twenty or more generations. Among the long-held traditions of the galaxy’s military leaders, the most important one is “Officers lead from the front.” A commander should never issue an order that he or she would not be willing to follow. Ideally, an army officer should fight side by side with infantry troops during a charge, while a naval commander's flagship should be at the front of a fleet engagement. These statistics represent the officer who went to the Academy, and who then followed the command track during his service. Admired, respected, and in some cases, feared, the officers of the Imperial Army and Imperial Navy are drawn from prestigious families with long histories of military service. Few are promoted up from the lower ranks. Most are inducted straight into officer training academies, instructed in doctrine, leadership, and tactics, and then awarded commissions. There, if they distinguish themselves, they finally get a chance to rise through the upper echelons—but rarely do they find occasion to dirty their hands.
+## Military/Imperial Officer
 
-Low-Level Military Officer: Noble 2/Soldier 2; Init +1 (Dex); Defense 15 (+4 class, +1 Dex); Spd 10 m; VP/WP 25/10; Atk +3 melee (`1d3`, unarmed) or +5 ranged (`3d6` or
-
-to
-
-em “a j 0 al u Pe aa “
+Military academies have long, proud traditions. There are families that have served the galaxy in uniform for twenty or more generations. Among the long-held traditions of the galaxy’s military leaders, the most important one is “Officers lead from the front.” A commander should never issue an order that he or she would not be willing to follow. Ideally, an army officer should fight side by side with infantry troops during a charge, while a naval commander's flagship should be at the front of a fleet engagement. These statistics represent the officer who went to the Academy, and who then followed the command track during his service. Admired, respected, and in some cases, feared, the officers of the Imperial Army and Imperial Navy are drawn from prestigious families with long histories of military service. Few are promoted up from the lower ranks. Most are inducted straight into officer training academies, instructed in doctrine, leadership, and tactics, and then awarded commissions. There, if they distinguish themselves, they finally get a chance to rise through the upper echelons—but rarely do they find occasion to dirty their hands.
 
 <!-- page 351 -->
 
-DC 15 stun, blaster pistol); SQ Favor +1, inspire confidence; SV Fort +2, Ref +5, Will +6; FP 2; DSP 1; Rep +2; Str 10, Dex 12, Con 10, Int 13, Wis 12, Cha 14. Challenge Code C.
+Low-Level Military Officer: Noble 2/Soldier 2; Init +1 (Dex); Defense 15 (+4 class, +1 Dex); Spd 10 m; VP/WP 25/10; Atk +3 melee (`1d3`, unarmed) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Favor +1, inspire confidence; SV Fort +2, Ref +5, Will +6; FP 2; DSP 1; Rep +2; Str 10, Dex 12, Con 10, Int 13, Wis 12, Cha 14. Challenge Code C.
 
-Equipment: Blaster pistol, code cylinder, comlink, data~ pad, uniform, rank insignia.
+Equipment: Blaster pistol, code cylinder, comlink, datapad, uniform, rank insignia.
 
 Skills: Astrogate +3, Computer Use +6, Diplomacy +7, Knowledge (bureaucracy) +6, Knowledge (tactics) +6, Knowledge (history) +6, Intimidate +4, Pilot +3, Profession (officer) +6, Repair +3, Sense Motive +6, Survival +2.
 
@@ -1920,55 +1828,55 @@ Mid-Level Military Officer: Noble 2/Soldier 4/Officer 2; Init +1 (Dex); Defense 
 
 Equipment: Blaster pistol, code cylinder, comlink, datapad, uniform, rank insignia.
 
-Skills; Astrogate +4, Bluff +8, Computer Use +6, Diplomacy +8, Gather Information +9, Knowledge (bureaucracy) +6, Knowledge (tactics) +8, Knowledge (history) +6, Intimidate +12, Pilot +5, Profession (officer) +10, Repair +3, Sense Motive +8, Survival +2.
+Skills: Astrogate +4, Bluff +8, Computer Use +6, Diplomacy +8, Gather Information +9, Knowledge (bureaucracy) +6, Knowledge (tactics) +8, Knowledge (history) +6, Intimidate +12, Pilot +5, Profession (officer) +10, Repair +3, Sense Motive +8, Survival +2.
 
 Feats: Armor Proficiency (light), Persuasive, Point Blank Shot, Precise Shot, Skill Emphasis (Gather Information), Skill Emphasis (Profession [officer]), Weapon Focus (blaster pistol), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-High-Level Military Officer: Noble 2/Soldier 4/Officer 6; Init +1 (Dex); Defense 18 (+7 class, +1 Dex); Spd 10 m; VP/WP 71/10; Atk +9/+4 melee (`1d3`, unarmed) or +11/+6 ranged (346 or DC 15 stun, blaster pistol); SQ Favor +1, inspire confidence, leadership, requisition suppli ties; SV Fort +5, Ref +8, Will +9; FP 6; DSP 8; Rep +6; Str 10, Dex 12, Con 10, Int 13, Wis 12, Cha 16. Challenge Code E.
+High-Level Military Officer: Noble 2/Soldier 4/Officer 6; Init +1 (Dex); Defense 18 (+7 class, +1 Dex); Spd 10 m; VP/WP 71/10; Atk +9/+4 melee (`1d3`, unarmed) or +11/+6 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Favor +1, inspire confidence, leadership, requisition supplies; SV Fort +5, Ref +8, Will +9; FP 6; DSP 8; Rep +6; Str 10, Dex 12, Con 10, Int 13, Wis 12, Cha 16. Challenge Code E.
 
 Equipment: Blaster pistol, code cylinder, multichannel comlink, datapad, uniform, rank insignia, capital ship to command.
 
 Skills: Astrogate +4, Bluff +13, Computer Use +10, Diplomacy +13, Gather Information +14, Knowledge (bureaucracy) +10, Knowledge (tactics) +12, Knowledge (history) +6, Intimidate +13, Pilot +5, Profession (officer) +10, Repair +3, Sense Motive +12, Survival +2.
 
-Feats: Armor Proficiency (light), Frightful Presence, Persuasive, Point Blank Shot, Precise Shot, Skill Emphasis (Gather Information), Skill Emphasis (Profession [officer]), Starship Operation (capital ship), Starship Operation (space transport), Weapon Focus (blaster pistol), Weapon Group. Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
+Feats: Armor Proficiency (light), Frightful Presence, Persuasive, Point Blank Shot, Precise Shot, Skill Emphasis (Gather Information), Skill Emphasis (Profession [officer]), Starship Operation (capital ship), Starship Operation (space transport), Weapon Focus (blaster pistol), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
 ## Outlaw
 
-Outlaws range from bloodthirsty killers motivated by greed to desperate idealists motivated by a personal sense of honor and justice. Forced to exist on the fringes of the
-
-galaxy, they drift from backwater to backwater, staying one step ahead of their pursuers.
+Outlaws range from bloodthirsty killers motivated by greed to desperate idealists motivated by a personal sense of honor and justice. Forced to exist on the fringes of the galaxy, they drift from backwater to backwater, staying one step ahead of their pursuers.
 
 High-level outlaws emerge at the helm of their own, movements, either through accident or design. People with similar motivations and philosophies seek them out. Some outlaws willingly assume leadership of other disaffected and rejected people, forming bandit gangs or political movements with a tendency toward violence like the Rebel Alliance in its early days.
 
-Low-Level Outlay nger 2/Scoundrel 2; Init +6 (+2 Dex, +4 Improved Initiative); Defense 16 (+4 class, +2 Dex); Spd 10 m; VP/WP 27/14; Atk +3 melee (`1d4+1`, knife) or +4 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Barter, illicit barter, lucky (1/day); SV Fort +5, Ref +7, Will -1; FP 1; DSP 0; Rep +0; Str 12, Dex 15, Con 14, Int 10, Wis 9, Cha 13. Challenge Code C.
+Low-Level Outlaw: Fringer 2/Scoundrel 2; Init +6 (+2 Dex, +4 Improved Initiative); Defense 16 (+4 class, +2 Dex); Spd 10 m; VP/WP 27/14; Atk +3 melee (`1d4+1`, knife) or +4 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Barter, illicit barter, lucky (1/day); SV Fort +5, Ref +7, Will -1; FP 1; DSP 0; Rep +0; Str 12, Dex 15, Con 14, Int 10, Wis 9, Cha 13. Challenge Code C.
 
 Equipment: Blaster pistol, knife, nondescript landspeeder or airspeeder.
 
 Skills: Bluff +4, Gather Information +4, Hide +6, Intimidate +3, Knowledge (streetwise) +3, Listen +4, Pilot +6, Repair +4, Search +4, Spot +5, Survival +3.
 
-s: Alertness, Improved Initiative, Point Blank Shot, Weapon Group Proficiencies (blaster pistols, primitive weapons, simple weapons).
+Feats: Alertness, Improved Initiative, Point Blank Shot, Weapon Group Proficiencies (blaster pistols, primitive weapons, simple weapons).
 
-Mid-Level Outlaw: Fringer 4/Scoundrel 4; Init +7 (+3 Dex, +4 Improved Initiative); Defense 18 (+5 class, +3 Dex); Spd 10 m; VP/WP 48/14; Atk +7/+2 melee (`2d4+1`, vibrodagger) or +9/+4 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Barter, illicit barter, lucky (1/day), jury-rig +2, precise attack +1; SV Fort +7, Ref +9, Will +1; FP 2; DSP; Rep +1; Str 12, Dex 16, Con 14, Int 10, Wis 9, Cha 13. Challenge Code D.
+Mid-Level Outlaw: Fringer 4/Scoundrel 4; Init +7 (+3 Dex, +4 Improved Initiative); Defense 18 (+5 class, +3 Dex); Spd 10 m; VP/WP 48/14; Atk +7/+2 melee (`2d4+1`, vibrodagger) or +9/+4 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Barter, illicit barter, lucky (1/day), jury-rig +2, precise attack +1; SV Fort +7, Ref +9, Will +1; FP 2; DSP 0; Rep +1; Str 12, Dex 16, Con 14, Int 10, Wis 9, Cha 13. Challenge Code D.
 
 Equipment: Blaster pistol, vibrodagger, nondescript landspeeder or airspeeder.
 
 Skills: Bluff +7, Gather Information +9, Hide +9, Intimidate +5, Knowledge (streetwise) +7, Listen +4, Pilot +11, Repair +8, Search +7, Spot +7, Survival +5.
 
-Feats: Alertness, Improved Initiative, Point Blank Shot, Skill Emphasis (Gather Information), Weapon Group. Proficiencies (blaster pistols, primitive weapons, simple weapons, vibro weapons).
+Feats: Alertness, Improved Initiative, Point Blank Shot, Skill Emphasis (Gather Information), Weapon Group Proficiencies (blaster pistols, primitive weapons, simple weapons, vibro weapons).
 
-High-Level Qutlaw: Fringer 6/Scoundrel 6; Init +7 (+3 Des, +4 Improved Initiative); Defense 20 (+7 class, +3 Dex); Spd 10 m; VP/WP 84/14; Atk +8/+3 melee (`2d6+1`, vibroblade) or +11/+6 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Barter, illicit barter, lucky (2/day), jury-rig +4, precise attack +1; SV Fort +9, Ref +11, Will +3; FP 3; DSP 1; Rep +5; Str 12, Dex 16, Con 14, Int 10, Wis 9, Cha 14, Challenge Code E.
+High-Level Outlaw: Fringer 6/Scoundrel 6; Init +7 (+3 Dex, +4 Improved Initiative); Defense 20 (+7 class, +3 Dex); Spd 10 m; VP/WP 84/14; Atk +8/+3 melee (`2d6+1`, vibroblade) or +11/+6 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Barter, illicit barter, lucky (2/day), jury-rig +4, precise attack +1; SV Fort +9, Ref +11, Will +3; FP 3; DSP 1; Rep +5; Str 12, Dex 16, Con 14, Int 10, Wis 9, Cha 14. Challenge Code E.
 
 Equipment: Heavy blaster pistol, vibroblade, nondescript landspeeder or airspeeder.
 
 Skills: Bluff +12, Gather Information +12, Hide +10, Intimidate +9, Knowledge (streetwise) +11, Listen +7, Pilot +15, Repair +11, Search +8, Spot +8, Survival +7.
 
-Feats: Alertness, Dodge, Fame (or Infamy), Improved Initiative, Point Blank Shot, Precise Shot, Skill Emphasis (Gather Information), Weapon Group Proficiencies (blaster pistols, primitive weapons, simple weapons, vibro weapons),
+Feats: Alertness, Dodge, Fame (or Infamy), Improved Initiative, Point Blank Shot, Precise Shot, Skill Emphasis (Gather Information), Weapon Group Proficiencies (blaster pistols, primitive weapons, simple weapons, vibro weapons).
 
 <!-- page 352 -->
 
-Pirate Pirates prey on space travelers in remote planetary systems or along hyperspace lanes, attacking vessels, stealing cargo shipments, and either holding crew and passengers for ransom or selling them into slavery. The most brutal pirates don’t even bother with captives, “spacing” them instead. The low-level pirate is one of the tougher crewmembers on pirate vessels. (The common pirate is a Ist-level thug.) A mid-level pirate commands a pirate ship, usually no larger than a Corellian corvette. The high-level pirate offered here leads fleets of small freighters or perhaps even a capital ship or two. Such infamous figures are hated and feared throughout the regions of space in which they operate.
+## Pirate
 
-Low-Level Pirate: Scoundrel 3/Soldier 1; Init +6 (+2 Dex, +4 Improved Initiative); Defense 16 (+4 class, +2 Dex); Spd 10 m; VP/WP 23/11; Atk +4 melee (`2d6+1`, vibroblade) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Mlicit barter, lucky (1/day), precise attack +1; SV Fort +3, Ref +5, Will +0; FP 1; DSP 1; Rep +1; Str 12, Dex 15, Con 11, Int 14, Wis 8, Cha 13. Challenge Code C.
+Pirates prey on space travelers in remote planetary systems or along hyperspace lanes, attacking vessels, stealing cargo shipments, and either holding crew and passengers for ransom or selling them into slavery. The most brutal pirates don’t even bother with captives, “spacing” them instead. The low-level pirate is one of the tougher crewmembers on pirate vessels. (The common pirate is a 1st-level thug.) A mid-level pirate commands a pirate ship, usually no larger than a Corellian corvette. The high-level pirate offered here leads fleets of small freighters or perhaps even a capital ship or two. Such infamous figures are hated and feared throughout the regions of space in which they operate.
+
+Low-Level Pirate: Scoundrel 3/Soldier 1; Init +6 (+2 Dex, +4 Improved Initiative); Defense 16 (+4 class, +2 Dex); Spd 10 m; VP/WP 23/11; Atk +4 melee (`2d6+1`, vibroblade) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (1/day), precise attack +1; SV Fort +3, Ref +5, Will +0; FP 1; DSP 1; Rep +1; Str 12, Dex 15, Con 11, Int 14, Wis 8, Cha 13. Challenge Code C.
 
 Equipment: Blaster pistol, vibroblade.
 
@@ -1976,25 +1884,21 @@ Skills: Astrogate +9, Bluff +7, Computer Use +8, Disable Device +8, Gather Infor
 
 Feats: Armor Proficiency (light), Improved Initiative, Quick Draw, Weapon Group Proficiencies (blaster pistols, blaster fifles, heavy weapons, simple weapons, vibro weapons).
 
-Mid-Level Pirate: Scoundrel 5/Soldier 3; Init +6 (+2 Dex, +4 Improved Initiative); Defense 18 (+6 class, +2 Dex); Spd 10m; VP/WP 52/12; Atk +7/+2 melee (`2d6+1`, vibroblade) or +8/+3 ranged (`3d8` or DC 18 stun, heavy blaster pistol); §Q Illicit barter, lucky (1/day), precise attack +1; SV Fort +5, Ref +7, Will +1; FP 2; DSP 2; Rep +5; Str 12, Dex 15, Con 12, Int 14, Wis 8, Cha 13. Challenge Code D.
+Mid-Level Pirate: Scoundrel 5/Soldier 3; Init +6 (+2 Dex, +4 Improved Initiative); Defense 18 (+6 class, +2 Dex); Spd 10m; VP/WP 52/12; Atk +7/+2 melee (`2d6+1`, vibroblade) or +8/+3 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Illicit barter, lucky (1/day), precise attack +1; SV Fort +5, Ref +7, Will +1; FP 2; DSP 2; Rep +5; Str 12, Dex 15, Con 12, Int 14, Wis 8, Cha 13. Challenge Code D.
 
 Equipment: Heavy blaster pistol, vibroblade, YT-1300 or firespray-31 transport.
 
 Skills: Astrogate +13, Bluff +10, Computer Use +12, Disable Device +10, Gather Information +9, Intimidate +13, Pilot +13, Repair +12, Search +9, Spot +7.
 
-Feats: Armor Proficiencies (light, medium), Heroic Surge, inproved Initiative, Infamy, Quick Draw, Skill Emphasis intimidate), Starship Operation (space transport), Weapon Sroup Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
+Feats: Armor Proficiencies (light, medium), Heroic Surge, Improved Initiative, Infamy, Quick Draw, Skill Emphasis (Intimidate), Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-High-Level Pirate: Scoundrel 8/Soldier 4; Init +6 (+2 Dex, 4 Improved Initiative); Defense 19 (+7 class, +2 Dex); Spd 0m; VP/WP.77/12; Atk +11/+6 melee (`2d6+1`, vibroblade) +12/+7 ranged (`3d8` or DC 18 stun, heavy blaster pistol); Ilicit barter, lucky (2/day), precise attack +1; SV Fort +7, +9, Will +3; FP 3; DSP 3; Rep +6; Str 12, Dex 15, Con
+High-Level Pirate: Scoundrel 8/Soldier 4; Init +6 (+2 Dex, +4 Improved Initiative); Defense 19 (+7 class, +2 Dex); Spd 10 m; VP/WP 77/12; Atk +11/+6 melee (`2d6+1`, vibroblade) or +12/+7 ranged (`3d8` or DC 18 stun, heavy blaster pistol); SQ Illicit barter, lucky (2/day), precise attack +1; SV Fort +7, Ref +9, Will +3; FP 3; DSP 3; Rep +6; Str 12, Dex 15, Con 12, Int 14, Wis 8, Cha 13. Challenge Code E.
 
-)2, Int 14, Wis 8, Cha 13. Challenge Code E.
+Equipment: Heavy blaster pistol, vibroblade, modified YT-1300 or Firespray-31 transport, support ships.
 
-Equipment: Heavy blaster pistol, vibroblade, modified --1300 or Firespray-31 transport, support ships.
+Skills: Astrogate +13, Bluff +10, Computer Use +12, Disable Device +10, Gather Information +9, Intimidate +15, Pilot +16, Repair +12, Search +9, Spot +7.
 
-Skills: Astrogate +13, Bluff +10, Computer Use +12, sable Device +10, Gather Information +9, Intimidate +15, lot +16, Repair +12, Search +9, Spot +7.
-
-Feats: Armor Proficiencies (light, medium), Headstrong, “oie Surge, Improved Initiative, Infamy, Quick Draw, Point
-
-Blank Shot, Skill Emphasis (Intimidate), Skill Emphasis (Pilot), Starship Dodge (space transport), Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
+Feats: Armor Proficiencies (light, medium), Headstrong, Heroic Surge, Improved Initiative, Infamy, Quick Draw, Point Blank Shot, Skill Emphasis (Intimidate), Skill Emphasis (Pilot), Starship Dodge (space transport), Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
 ## Republic Peace Officer
 
@@ -2002,7 +1906,7 @@ Sometimes known as the Republic Guard, Republic peace officers are the authorize
 
 The peace officers presented here represent the Republic’s police forces. The 2nd- and 4th-level versions are the common patrolling officers, while the 6th-level peace officer is akin to a sergeant, in command of a small squad.
 
-Low-Level Republic Peace Officer: Thug 2; Init +0; Defense 10 (+0 class); DR 2; Spd 10 m; VP/WP 0/11; Atk +2 melee (DC 15 stun, stun baton) or +2 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +5, Ref +0, Will -1; FP.0; DSP 0; Rep +0; Str 10, Dex 11, Con 11, Int 10, Wis 9, Cha 11. Challenge Code A.
+Low-Level Republic Peace Officer: Thug 2; Init +0; Defense 10 (+0 class); DR 2; Spd 10 m; VP/WP 0/11; Atk +2 melee (DC 15 stun, stun baton) or +2 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +5, Ref +0, Will -1; FP 0; DSP 0; Rep +0; Str 10, Dex 11, Con 11, Int 10, Wis 9, Cha 11. Challenge Code A.
 
 Equipment: Blast helmet and vest, blaster pistol, stun baton, comlink.
 
@@ -2010,15 +1914,15 @@ Skills: Intimidate +3, Profession (peace officer) +2.
 
 Feats: Armor Proficiency (light), Great Fortitude, Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-Mid-Level Republic Peace Officer: Thug 4; Init +1 (Dex); Defense 12 (+1 class, +1 Dex); DR 2; Spd 10 m; VP/WP 0/11; Atk +4 melee (DC 15 stun, stun baton) or +6 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +6, Ref +2, Will +0; FP 1; DSP. 0; Rep +1; Str 10, Dex 12, Con 11, Int 10, Wis 9, Cha 11. Challenge Code B.
+Mid-Level Republic Peace Officer: Thug 4; Init +1 (Dex); Defense 12 (+1 class, +1 Dex); DR 2; Spd 10 m; VP/WP 0/11; Atk +4 melee (DC 15 stun, stun baton) or +6 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +6, Ref +2, Will +0; FP 1; DSP 0; Rep +1; Str 10, Dex 12, Con 11, Int 10, Wis 9, Cha 11. Challenge Code B.
 
 Equipment: Blast helmet and vest, blaster pistol, stun baton, comlink.
 
-Skills: intimidate +4, Profession (peace officer) +3.
+Skills: Intimidate +4, Profession (peace officer) +3.
 
 Feats: Armor Proficiency (light), Great Fortitude, Weapon Focus (blaster pistol), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-High-Level Republic Peace Officer: Thug 6; Init +1 (Dex); Defense 13 (+2 class, +1 Dex); DR 2; Spd 10 m; VP/WP 0/14; Atk +6/+1 melee (DC 15 stun, stun baton) or +8/+3 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +7, Ref +3, Will +1; FP 1; DSP0; Rep +1; Str 10, Dex 12, Con 11, Int 10, Wis 9, Cha 11. Challenge Code C.
+High-Level Republic Peace Officer: Thug 6; Init +1 (Dex); Defense 13 (+2 class, +1 Dex); DR 2; Spd 10 m; VP/WP 0/14; Atk +6/+1 melee (DC 15 stun, stun baton) or +8/+3 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +7, Ref +3, Will +1; FP 1; DSP 0; Rep +1; Str 10, Dex 12, Con 11, Int 10, Wis 9, Cha 11. Challenge Code C.
 
 Equipment: Blast helmet and vest, blaster pistol, stun baton, multichannel comlink.
 
@@ -2028,31 +1932,21 @@ Feats: Armor Proficiency (light), Great Fortitude, Toughness, Weapon Focus (blas
 
 ## Slicer
 
-Slicers use their expert computer skills to write code, bypass security systems, steal data, decrypt encoded files, and scour the HoloNet for transmissions that might be worth something to somebody. They lurk in the shadows of a digital
-
-ae
-
-eee) SLNINOddO ONV SoIT1v
-
-iD
-
-ratniata
+Slicers use their expert computer skills to write code, bypass security systems, steal data, decrypt encoded files, and scour the HoloNet for transmissions that might be worth something to somebody. They lurk in the shadows of a digital universe, relying on specialized computers, subterfuge, and aliases to probe and violate rival systems while maintaining anonymity. Slicers can be intelligence operatives, HoloNet watchdogs, corporate spies, criminal hackers, expert saboteurs, or freelancers.
 
 <!-- page 353 -->
 
-universe, relying on specialized computers, subterfuge, and aliases to probe and violate rival systems while maintaining anonymity. Slicers can be intelligence operatives, HoloNet watchdogs, corporate spies, criminal hackers, expert saboteurs, or freelancers,
+The low-level slicer has at least one known alias. She can write complex programs, decrypt basic codes, and circumvent basic security systems. The mid-level slicer is known to digital watchdogs by a number of different aliases and might be hunted by various individuals and organizations that have fallen prey to her digital depredations. She can write complex programs, decrypt complex codes, and thwart topnotch security systems. The high-level slicer is legendary in the digital universe, with skills few others can match.
 
-The low-level slicer has at least one known alias. She can write complex programs, decrypt basic codes, and circumvent basic security systems. The mid-level slicer is known to digital watchdogs by a number of different aliases and might be hunted by various individuals and organizations that have fallen prey to her digital depradations. She can write complex programs, decrypt complex codes, and thwart topnotch security systems. The high-level slicer is legendary in the digital universe, with skills few others can match,
-
-Low-Level Slicer: Tech Specialist 4; Init +2 (Dex); Defense 15 (+3 class, +2 Dex); Spd 10 m; VP/WP 15/10; Atk +3 melee (143, unarmed) or +5 ranged; SQ Research, instant mastery (Knowledge [technology|), tech specialty (computer ecialist +1); SV Fort +1, Ref +4, Will +4; FP 1; DSP 0; Rep Str 10, Dex 14, Con 10, Int 15, Wis 14, Cha 12. Challenge Code C.
+Low-Level Slicer: Tech Specialist 4; Init +2 (Dex); Defense 15 (+3 class, +2 Dex); Spd 10 m; VP/WP 15/10; Atk +3 melee (`1d3`, unarmed) or +5 ranged; SQ Research, instant mastery (Knowledge [technology]), tech specialty (computer specialist +1); SV Fort +1, Ref +4, Will +4; FP 1; DSP 0; Rep +1; Str 10, Dex 14, Con 10, Int 15, Wis 14, Cha 12. Challenge Code C.
 
 Equipment: Secured computer (accessing its programs without the proper codes requires a Computer Use check, DC 25).
 
-Skills: Computer Use +15, Craft (electronic devices) +9, Disable Device +12, Knowledge (technology) +7, Profession (computer programmer) +9, Repair +11, ch +9.
+Skills: Computer Use +15, Craft (electronic devices) +9, Disable Device +12, Knowledge (technology) +7, Profession (computer programmer) +9, Repair +11, Search +9.
 
-Feats: Geathead, Skill Emphasis (Computer Use Emphasis (Disable Device), Weapon Group Proficiency (simple weapons).
+Feats: Gearhead, Skill Emphasis (Computer Use), Skill Emphasis (Disable Device), Weapon Group Proficiency (simple weapons).
 
-Mid-Level Slicer: Tech Specialist 8; Init +2 (Dex); Defense 17 (+5 class, +2 Dex); Spd 10 m; VP/WP 28/10; Atk +6/+1 melee (143, unarmed) or +8/+3 ranged; SQ Research, instant mastery (Knowledge [technology]), tech speci: (computer specialist +2), expert (Craft [electronic devices]); SV Fort +3, Ref +5, Will +6; FP 1; DSP 0; Rep +2 (+5 for alias); Str 10, Dex 14, Con 10, Int 16, Wis 14, Cha 12, Challenge Code D.
+Mid-Level Slicer: Tech Specialist 8; Init +2 (Dex); Defense 17 (+5 class, +2 Dex); Spd 10 m; VP/WP 28/10; Atk +6/+1 melee (`1d3`, unarmed) or +8/+3 ranged; SQ Research, instant mastery (Knowledge [technology]), tech specialty (computer specialist +2), expert (Craft [electronic devices]); SV Fort +3, Ref +5, Will +6; FP 1; DSP 0; Rep +2 (+5 for alias); Str 10, Dex 14, Con 10, Int 16, Wis 14, Cha 12. Challenge Code D.
 
 Equipment: Secured computer (accessing its programs without the proper codes requires a Computer Use check, DC 30).
 
@@ -2060,15 +1954,15 @@ Skills: Computer Use +21, Craft (electronic devices) +16, Disable Device +17, Kn
 
 Feats: Fame*, Gearhead, Low Profile, Skill Emphasis (Computer Use), Skill Emphasis (Disable Device), Skill Emphasis (Repair), Weapon Group Proficiency (simple weapons). *The Fame feat applies only to the slicer's digital alias or pseudonym.
 
-High-Level Slicer: Tech Specialist 12; Init +2 (Dex); Defense 19 (+7 class, +2 Dex); Spd 10 m; VP/WP 42/10; Atk +9/+4 melee (143, unarmed) or +11/+6 ranged; SQ research, instant mastery (Knowledge [technology]), tech specialty (computer specialist +3), expert (Craft [electronic devices}), expert (Knowledge [technology}); SV Fort +5, Ref +7, Will +7; FP 3; DSP 0; Rep +3 (+6 for alias); Str 10, Dex 14, Con 10, Int 17, Wis 14, Cha 12. Challenge Code E.
-
-i |
+High-Level Slicer: Tech Specialist 12; Init +2 (Dex); Defense 19 (+7 class, +2 Dex); Spd 10 m; VP/WP 42/10; Atk +9/+4 melee (`1d3`, unarmed) or +11/+6 ranged; SQ Research, instant mastery (Knowledge [technology]), tech specialty (computer specialist +3), expert (Craft [electronic devices]), expert (Knowledge [technology]); SV Fort +5, Ref +7, Will +7; FP 3; DSP 0; Rep +3 (+6 for alias); Str 10, Dex 14, Con 10, Int 17, Wis 14, Cha 12. Challenge Code E.
 
 Equipment: Secured computer (accessing its programs without the proper codes requires a Computer Use check, DC 35), landspeeder or airspeeder.
 
 Skills: Computer Use +24, Craft (electronic devices) +20, Demolitions +5, Disable Device +21, Knowledge (technology) +17, Profession (computer programmer) +15, Repair +19, Search +20.
 
-Fe ‘autious, Fame", Gearhead, Low Profile, Skill Emphasis (Computer Use), Skill Emphasis (Disable Device), Skill Emphasis (Repair), Skill Emphasis (Search), Weapon Group Proficiency (simple weapons). "The Fame feat applies only to the slicer's digital alias or pseudonym.
+Feats: Cautious, Fame*, Gearhead, Low Profile, Skill Emphasis (Computer Use), Skill Emphasis (Disable Device), Skill Emphasis (Repair), Skill Emphasis (Search), Weapon Group Proficiency (simple weapons).
+
+*The Fame feat applies only to the slicer’s digital alias or pseudonym.
 
 ## Smuggler
 
@@ -2076,7 +1970,7 @@ Smugglers come in all different stripes. Some smuggle illegal goods strictly for
 
 The lowest-level smuggler is a small-time independent operator or low-ranking member of a smuggling ring. The mid-level smuggler is skilled enough to run minor blockades and stymie all but the most talented customs officials. She has also earned a reputation for specializing in a specific kind of cargo and is rumored to know a number of secret space lanes. The high-level smuggler is so famous in law enforcement and criminal circles that she soon must start thinking about retiring or leading her own smuggling ring.
 
-Low-Level Smuggler: Scoundrel 4; Init +2 (Dex); Defense 15 (+3 class, +2 Dex); Spd 10 m; VP/WP. 16/10; Atk +2 melee (`1d3-1`, unarmed) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); $Q Mlicit barter, lucky (1/day), precise attack +1; SV Fort +1, Ref +6, Will +2; FP 1; DSP 0; Rep +1; Str 8, Dex 14, Con 10, Int 14, Wis 12, Cha 15. Challenge Code C.
+Low-Level Smuggler: Scoundrel 4; Init +2 (Dex); Defense 15 (+3 class, +2 Dex); Spd 10 m; VP/WP 16/10; Atk +2 melee (`1d3-1`, unarmed) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (1/day), precise attack +1; SV Fort +1, Ref +6, Will +2; FP 1; DSP 0; Rep +1; Str 8, Dex 14, Con 10, Int 14, Wis 12, Cha 15. Challenge Code C.
 
 Equipment: Blaster pistol, YT-1300 transport (owned by someone else), illegal cargo, forged shipping permits.
 
@@ -2084,7 +1978,7 @@ Skills: Appraise +7, Astrogate +11, Bluff +11, Computer Use +7, Forgery +8, Gath
 
 Feats: Skill Emphasis (Astrogate), Skill Emphasis (Bluff), Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-Mid-Level Smuggler: Scoundrel 4/Scout 4; Init +6 (+2 Dex, +4 Improved Initiative); Defense 16 (+4 class, +2 Dex); Spd 10 m; VP/WP 34/10; Atk +5/+0 melee (`1d3-1`, unarmed) or +8/+3 ranged (346 or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (1/day), precise attack +1, trailblazing, heart +1, uncanny dodge (Dex bonus to Defense); SV Fort +3, Ref +8, Will +4; FP 2; DSP 0; Rep +2; Str 8, Dex 14, Con 10, Int 14, Wis 13, Cha 15. Challenge Code D.
+Mid-Level Smuggler: Scoundrel 4/Scout 4; Init +6 (+2 Dex, +4 Improved Initiative); Defense 16 (+4 class, +2 Dex); Spd 10 m; VP/WP 34/10; Atk +5/+0 melee (`1d3-1`, unarmed) or +8/+3 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (1/day), precise attack +1, trailblazing, heart +1, uncanny dodge (Dex bonus to Defense); SV Fort +3, Ref +8, Will +4; FP 2; DSP 0; Rep +2; Str 8, Dex 14, Con 10, Int 14, Wis 13, Cha 15. Challenge Code D.
 
 Equipment: Blaster pistol, YT-1300 transport, illegal cargo, forged shipping permits.
 
@@ -2092,49 +1986,43 @@ Skills: Appraise +7, Astrogate +13, Bluff +11, Computer Use +9, Forgery +8, Gath
 
 <!-- page 354 -->
 
-Feats: Improved Initiative, Skill Emphasis (Astrogate), Skill Emphasis (Bluff), Skill Emphasis (Survival), Starship Operation {space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
+Feats: Improved Initiative, Skill Emphasis (Astrogate), Skill Emphasis (Bluff), Skill Emphasis (Survival), Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
-(+2 Dex, +4 Improved Initiative); Defense 18 (+6 class,
-
-+2 Dex); Spd 10 m; VP/WP 50/10; Atk +7/+2 melee (`1d3-1`, unarmed) or +10/+5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Mlicit barter, lucky (2/day), precise attack +1, trailblazing, heart +1, uncanny dodge (Dex bonus to Defense), skill mastery (Pilot), extreme effort +3, evasion; SV Fort +5, Ref +10, Will +7; FP 3; DSP 0; Rep +2; Str 8, Dex 14, Con 10, Int 14, Wis 14, Cha 15. Challenge Code E.
+High-Level Smuggler: Scoundrel 4/Scout 4/Fringer 4; Init +6 (+2 Dex, +4 Improved Initiative); Defense 18 (+6 class, +2 Dex); Spd 10 m; VP/WP 50/10; Atk +7/+2 melee (`1d3-1`, unarmed) or +10/+5 ranged (`3d6` or DC 15 stun, blaster pistol); SQ Illicit barter, lucky (2/day), precise attack +1, trailblazing, heart +1, uncanny dodge (Dex bonus to Defense), skill mastery (Pilot), extreme effort +3, evasion; SV Fort +5, Ref +10, Will +7; FP 3; DSP 0; Rep +2; Str 8, Dex 14, Con 10, Int 14, Wis 14, Cha 15. Challenge Code E.
 
 Equipment: Blaster pistol, modified YT-1300 transport, illegal cargo, forged shipping permits.
 
 Skills: Appraise +10, Astrogate +17, Bluff +13, Computer Use +9, Diplomacy +6, Forgery +8, Gather Information +12, Hide +12, Knowledge (business) +11, Listen +7, Move Silently +10, Pilot +18, Repair +15, Sense Motive +6, Spot +10, Survival +6.
 
-Feats: Dodge, Improved Initiative, Point Blank Shot, Skill Emphasis (Astrogate), Skill Emphasis (Bluff), Skill Emphasis Pilot), Skill Emphasis (Survival), Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
+Feats: Dodge, Improved Initiative, Point Blank Shot, Skill Emphasis (Astrogate), Skill Emphasis (Bluff), Skill Emphasis (Pilot), Skill Emphasis (Survival), Starship Operation (space transport), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
-Spy Three major types of professional spies exist in the Star Wars galaxy: industrial spies, government spies, and freelancers. Industrial spies usually work for an interstellar corporation and either steal information or sabotage a company’s competitors. Government spies work to root out spies from enemy governments or infiltrate those governments to gain their secrets. The freelance spy sells himself to the highest bidder and is rarely loyal to anyone but himself and his paying clients. The Bothan spynet is among the most famous organizations of freelance spies.
+## Spy
+
+Three major types of professional spies exist in the Star Wars galaxy: industrial spies, government spies, and freelancers. Industrial spies usually work for an interstellar corporation and either steal information or sabotage a company’s competitors. Government spies work to root out spies from enemy governments or infiltrate those governments to gain their secrets. The freelance spy sells himself to the highest bidder and is rarely loyal to anyone but himself and his paying clients. The Bothan spynet is among the most famous organizations of freelance spies.
 
 The low-level spy is a typical field operative or industrial spy. The mid-level spy can often be found coordinating a spy ring and has a reputation in “professional circles.”
 
 Low-Level Spy: Scoundrel 2/Scout 2; Init +1 (Dex); Defense 13 (+2 class, +1 Dex); Spd 10 m; VP/WP 14/8; Atk +2 melee (`1d3`, unarmed) or +3 ranged (`3d4` or DC 10 stun, hold-out blaster); SQ Illicit barter, lucky (1/day), trailblazing; SV Fort +1, Ref +6, Will +4; FP 1; DSP 1; Rep +0; Str 10, Dex 13, Con 8, Int 12, Wis 14, Cha 16. Challenge Code C.
 
-Equipment: Hold-out blaster, forged identification, code cylinder, security kit, electronic listening devices,
+Equipment: Hold-out blaster, forged identification, code cylinder, security kit, electronic listening devices.
 
 Skills: Bluff +6, Computer Use +8, Disable Device +8, Disguise +8, Forgery +6, Gather Information +11, Hide +8, Knowledge (technology) +5, Listen +7, Move Silently +7, Search +6, Spot +6.
 
 Feats: Low Profile, Skill Emphasis (Gather Information), Track, Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
-Mid-Level Spy: Scoundrel 6/Scout 2; Init +1 (Dex); Defense 16 (+4 class, +2 Dex); Spd 10 m; VP/WP 33/8; Atk +5/+0
-
-melee (`1d4`, unarmed) or +7/+2 ranged (344 or DC 10 stun, hold-out blaster); SQ Illicit barter, lucky (2/day), trailblazing, precise attack +1; SV Fort +3, Ref +9, Will +6; FP 2; DSP 2; Rep +0; Str 10, Dex 14, Con 8, Int 12, Wis 14, Cha 16. Challenge Code D.
+Mid-Level Spy: Scoundrel 6/Scout 2; Init +1 (Dex); Defense 16 (+4 class, +2 Dex); Spd 10 m; VP/WP 33/8; Atk +5/+0 melee (`1d4`, unarmed) or +7/+2 ranged (`3d4` or DC 10 stun, hold-out blaster); SQ Illicit barter, lucky (2/day), trailblazing, precise attack +1; SV Fort +3, Ref +9, Will +6; FP 2; DSP 2; Rep +0; Str 10, Dex 14, Con 8, Int 12, Wis 14, Cha 16. Challenge Code D.
 
 Equipment: Hold-out blaster, forged identification, code cylinder, deluxe security kit, electronic listening devices, airspeeder or landspeeder.
 
 Skills: Bluff +10, Computer Use +15, Disable Device +12, Disguise +12, Forgery +8, Gather Information +15, Hide +12, Knowledge (technology) +5, Listen +11, Move Silently +11, Search +6, Spot +8.
 
-Feats: Dodge, Low Profile, Martial Arts, Skill Emphasis {Computer Use), Skill Emphasis (Gather Information), Track, Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
+Feats: Dodge, Low Profile, Martial Arts, Skill Emphasis (Computer Use), Skill Emphasis (Gather Information), Track, Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
 ## Starfighter Pilot
 
 The low-level starfighter pilot is an accomplished pilot who has not yet mastered the art of war, The high-level pilot is truly a rare breed: the survivor of many battles who has honed his skill. The type of fighter this ace prefers to fly functions like an extension of his or her being. Wedge Antilles and Baron Soontir Fel are pilots of this caliber.
 
-Low-Level Starfighter Pilot: Soldier 4; Init +7 (+3 Dex,
-
-+4 Improved Initiative); Defense 17 (+4 class, +3 Dex); DR 2; Spd 10 m; VP/WP 30/12; Atk +5 melee (`1d3+1`, unarmed) or +7 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +5,
-
-Ref +4, Will +0; FP 1; DSP 0; Rep +1; Str 13, Dex 16, Con 12, Int 14, Wis 8, Cha 10. Challenge Code C.
+Low-Level Starfighter Pilot: Soldier 4; Init +7 (+3 Dex, +4 Improved Initiative); Defense 17 (+4 class, +3 Dex); DR 2; Spd 10 m; VP/WP 30/12; Atk +5 melee (`1d3+1`, unarmed) or +7 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +5, Ref +4, Will +0; FP 1; DSP 0; Rep +1; Str 13, Dex 16, Con 12, Int 14, Wis 8, Cha 10. Challenge Code C.
 
 Equipment: Padded flight suit, blaster pistol, field kit.
 
@@ -2142,7 +2030,7 @@ Skills: Astrogate +9, Computer Use +8, Demolitions +6, Knowledge (world lore) +7
 
 Feats: Armor Proficiency (light), Heroic Surge, Improved Initiative, Point Blank Shot, Skill Emphasis (Pilot), Starship Operation (starfighter), Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 
-High-Level Starfighter Pilot: Soldier 6/Starship Ace 6; Init +8 (+4 Dex, +4 Improved Initiative); Defense 24 (+10 class, +4 Dex}; DR 2; Spd 10 m; VP/WP 76/12; Atk +11/+6 melee (`1d3+1`, unarmed) or +14/+9 ranged (`3d6` or DC 15 stun, blaster pistol) or +12/+12/+7 (`3d6` or DC 15 stun, blaster pistol and Rapid Shot); SQ Starship defense +5, familiarity +3, starship evasion; SV Fort +9, Ref +11, Will +4; FP 3; DSP 0; Rep +5; Str 13, Dex 18, Con 12, Int 14, Wis 8, Cha 10, Challenge Code E.
+High-Level Starfighter Pilot: Soldier 6/Starship Ace 6; Init +8 (+4 Dex, +4 Improved Initiative); Defense 24 (+10 class, +4 Dex); DR 2; Spd 10 m; VP/WP 76/12; Atk +11/+6 melee (`1d3+1`, unarmed) or +14/+9 ranged (`3d6` or DC 15 stun, blaster pistol) or +12/+12/+7 (`3d6` or DC 15 stun, blaster pistol and Rapid Shot); SQ Starship defense +5, familiarity +3, starship evasion; SV Fort +9, Ref +11, Will +4; FP 3; DSP 0; Rep +5; Str 13, Dex 18, Con 12, Int 14, Wis 8, Cha 10. Challenge Code E.
 
 Equipment: Padded flight suit, blaster pistol, field kit, astromech droid.
 
@@ -2154,17 +2042,15 @@ Feats: Armor Proficiency (light), Heroic Surge, Improved Initiative, Point Blank
 
 <!-- page 355 -->
 
-Stormtrooper Stormtroopers are the elite troops of the Empire, soldiers trained to fight and die without fear or question. Garbed in distinctive white armor and armed with the best ordnance available, squads of stormtroopers strike terror into the hearts of civilians throughout the galaxy, enforcing the Emperor's will with ruthless zeal and efficiency.
+## Stormtrooper
+
+Stormtroopers are the elite troops of the Empire, soldiers trained to fight and die without fear or question. Garbed in distinctive white armor and armed with the best ordnance available, squads of stormtroopers strike terror into the hearts of civilians throughout the galaxy, enforcing the Emperor's will with ruthless zeal and efficiency.
 
 Stormtroopers are a separate force from the troops of Imperial Forces and do not answer directly to Imperial military officers. They possess obedience and a lasting devotion to the Emperor. Stormtroopers cannot be bribed, blackmailed, or seduced. Any such attempt automatically fails; no check or saving throw is necessary.
 
 After recognizing the need for troopers with special equipment and training, the Emperor ordered the development of additional types of stormtroopers. These include cold assault stormtroopers (snowtroopers), aquatic assault stormtroopers (seatroopers), zero-g assault stormtroopers (spacetroopers), desert assault stormtroopers (sandtroopers), scout stormtroopers (scout troopers), infiltration stormtroopers (storm commandos), radiation-shielded stormtroopers (radtroopers), and stormtroopers that function as heavy-weapon platforms (dark troopers).
 
-Low-Level Stormtrooper: Human Thug 4; Init +0; Defense 12 (+2 class); DR 5; Spd 8 m; VP/WP 0/12; Atk +5 melee (`1d3+1`, unarmed) or +4 ranged (`3d8`/19-20, blaster rifle); SQ Immunities (see above); SV Fort +5, Ref +1,
-
-Will +1; FP 0; DSP 1; Rep +1; Str 12, Dex 11, Con 12,
-
-Int 10, Wis 10, Cha 10. Challenge Code B.
+Low-Level Stormtrooper: Human Thug 4; Init +0; Defense 12 (+2 class); DR 5; Spd 8 m; VP/WP 0/12; Atk +5 melee (`1d3+1`, unarmed) or +4 ranged (`3d8`/19-20, blaster rifle); SQ Immunities (see above); SV Fort +5, Ref +1, Will +1; FP 0; DSP 1; Rep +1; Str 12, Dex 11, Con 12, Int 10, Wis 10, Cha 10. Challenge Code B.
 
 Equipment: Stormtrooper armor, blaster rifle, frag grenade, grappling hook, comlink, utility belt.
 
@@ -2172,41 +2058,39 @@ Skills: Climb -1, Intimidate +2, Jump -1, Knowledge (politics) +2, Profession (s
 
 Feats: Armor Proficiencies (light, medium, powered), Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
-Mid-Level Starmtrooper: Human Thug 8; Init +1 (Dex); Defense 14 (+3 class, +1 Dex); DR 5; Spd 8 m; VP/WP 0/15; Atk +9/+4 melee (`1d3+1`, unarmed) or +9/+4 ranged (`3d8`/ 19-20, blaster rifle); SQ Immunities (see above); SV Fort +7, Ref +3, Will +2; FP 1; DSP 2; Rep +2; Str 12, Dex 12, Con 12, Int 10, Wis 10, Cha 10. Challenge Code C.
+Mid-Level Stormtrooper: Human Thug 8; Init +1 (Dex); Defense 14 (+3 class, +1 Dex); DR 5; Spd 8 m; VP/WP 0/15; Atk +9/+4 melee (`1d3+1`, unarmed) or +9/+4 ranged (`3d8`/ 19-20, blaster rifle); SQ Immunities (see above); SV Fort +7, Ref +3, Will +2; FP 1; DSP 2; Rep +2; Str 12, Dex 12, Con 12, Int 10, Wis 10, Cha 10. Challenge Code C.
 
 Equipment: Stormtrooper armor, blaster rifle, frag grenade, 2 stun grenades, grappling hook, comlink, utility belt.
 
 Skills: Climb +0, Intimidate +3, Jump +0, Knowledge (politics) +2, Profession (stormtrooper) +3, Search +2, Spot +2.
 
-Feats: Armor Proficiencies (light, medium, powered), Toughness, Weapon Group Proficiencies (blaster pistols, blaster
-
-rifles, simple weapons). STORMTROOPER
+Feats: Armor Proficiencies (light, medium, powered), Toughness, Weapon Group Proficiencies (blaster pistols, blaster rifles, simple weapons).
 
 <!-- page 356 -->
 
 High-Level Stormtrooper: Human Thug 12; Init +1 (Dex); Defense 15 (+4 class, +1 Dex); DR 5; Spd 8 m; VP/WP 0/16; Atk +13/+8/+3 melee (`1d3+1`, unarmed) or +13/+8/+3 ranged (`3d8`/19-20, blaster rifle); SQ Immunities (see above); SV Fort +9, Ref +5, Will +4; FP 2; DSP 3; Rep +3; Str 12, Dex 12, Con 13, Int 10, Wis 10, Cha 10. Challenge Code D.
 
-Equipment: Stormtrooper armor, blaster rifle, 2 frag grenades, 2 stun grenades, grappling hook, comiink, utility belt, medpac.
+Equipment: Stormtrooper armor, blaster rifle, 2 frag grenades, 2 stun grenades, grappling hook, comlink, utility belt, medpac.
 
-Skills: Climb +2, Intimidate +4, Jump +1, Knowledge (politics) +3, Profession (stormtrooper) +4, Search +3,
-
-Spot +2.
+Skills: Climb +2, Intimidate +4, Jump +1, Knowledge (politics) +3, Profession (stormtrooper) +4, Search +3, Spot +2.
 
 Feats: Armor Proficiencies (light, medium, powered), Point Blank Shot, Toughness, Weapon Group Proficiencies (blaster pistols, blaster rifles, heavy weapons, simple weapons).
 
-Technician The low-level technician can be found in charge of maintaining systems at a minor space station or colony, or in the technical planning department of a city or major starport. He might be the trusty sidekick of a smuggler—the one who keeps a tramp freighter running on string and adhesive chemicals.
+## Technician
+
+The low-level technician can be found in charge of maintaining systems at a minor space station or colony, or in the technical planning department of a city or major starport. He might be the trusty sidekick of a smuggler—the one who keeps a tramp freighter running on string and adhesive chemicals.
 
 The mid-level technician might be the head engineer on an important space station or a senator's personal yacht.
 
-Low-Level Technician: Expert 4; Init +1 (Dex); Defense 12 (+1 class, +1 Dex); Spd 10 m; VP/WP 0/9; Atk +3 melee (`1d3`, unarmed) or +4 ranged (346 or DC 15 stun, blaster pistol); SV Fort +0, Ref +2, Will +4; FP 0; DSP 0; Rep +1; Str 11, Dex 12, Con 9, Int 14, Wis 10, Cha 8. Challenge Code B.
+Low-Level Technician: Expert 4; Init +1 (Dex); Defense 12 (+1 class, +1 Dex); Spd 10 m; VP/WP 0/9; Atk +3 melee (`1d3`, unarmed) or +4 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +0, Ref +2, Will +4; FP 0; DSP 0; Rep +1; Str 11, Dex 12, Con 9, Int 14, Wis 10, Cha 8. Challenge Code B.
 
 Equipment: Blaster pistol, tool kit, comlink.
 
 Skills: Astrogate +9, Computer Use +11, Craft (droids) +7, Craft (electronic devices) +7, Craft (starship systems) +7, Demolitions +5, Disable Device +9, Pilot +5, Repair +11.
 
-Feats: Gearhead, Skill Emphasis (Repair), Weapon Group. Proficiencies (blaster pistols, simple weapons).
+Feats: Gearhead, Skill Emphasis (Repair), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-Mid-Level Technician: Expert 8; Init +1 (Dex); Defense 13 [+2 class, +1 Dex); Spd 10 m; VP/WP 0/9; Atk +6/+1 melee (`1d3`, unarmed) or +7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +1, Ref +3, Will +6; FP 0; DSP 0; Rep +2; Str 11, Dex 12, Con 9, Int 15, Wis 10, Cha 8. Challenge Code C.
+Mid-Level Technician: Expert 8; Init +1 (Dex); Defense 13 (+2 class, +1 Dex); Spd 10 m; VP/WP 0/9; Atk +6/+1 melee (`1d3`, unarmed) or +7/+2 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +1, Ref +3, Will +6; FP 0; DSP 0; Rep +2; Str 11, Dex 12, Con 9, Int 15, Wis 10, Cha 8. Challenge Code C.
 
 Equipment: Blaster pistol, tool kit, comlink.
 
@@ -2228,7 +2112,7 @@ Skills: Intimidate +3.
 
 Feats: Armor Proficiency (light), Toughness, Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-Mid-Level Thug: Thug 4; Init +0; Defense 11 (+1 class); Spd 10 m; VP/WP 0/15; Atk +6 melee (`1d6+1`, baton) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +5, Ref +1, Will +1; FP.0; DSP 1; Rep +1; Str 14, Dex 11, Con 12, Int 8, Wis 10, Cha 9. Challenge Code B.
+Mid-Level Thug: Thug 4; Init +0; Defense 11 (+1 class); Spd 10 m; VP/WP 0/15; Atk +6 melee (`1d6+1`, baton) or +5 ranged (`3d6` or DC 15 stun, blaster pistol); SV Fort +5, Ref +1, Will +1; FP 0; DSP 1; Rep +1; Str 14, Dex 11, Con 12, Int 8, Wis 10, Cha 9. Challenge Code B.
 
 Equipment: Blaster pistol, baton.
 
@@ -2248,7 +2132,7 @@ Feats: Armor Proficiency (light), Toughness (x2), Weapon Focus (blaster pistol),
 
 The typical trader might be a gruff ship-part dealer at the Chandrila starport, an underhanded Trade Federation cargo broker, or a brave Corellian trailblazer who plies the space lanes looking for lost colonies that might be interested in a hold full of outdated comlinks.
 
-Low-Level Trader: Diplomat 4; Init +0; Defense 11 (+1 class); Spd 10 m; VP/WP 0/9; Atk +1 melee (`1d3-1`, unarmed) or +2 ranged (344 or DC 10 stun, hold-out blaster); SV Fort +0, Ref +1, Will +5; FP 0; DSP 0; Rep +1; Str 8, Dex 10, Con 9, Int 12, Wis 12, Cha 13. Challenge Code A.
+Low-Level Trader: Diplomat 4; Init +0; Defense 11 (+1 class); Spd 10 m; VP/WP 0/9; Atk +1 melee (`1d3-1`, unarmed) or +2 ranged (`3d4` or DC 10 stun, hold-out blaster); SV Fort +0, Ref +1, Will +5; FP 0; DSP 0; Rep +1; Str 8, Dex 10, Con 9, Int 12, Wis 12, Cha 13. Challenge Code A.
 
 Equipment: Hold-out blaster pistol, datapad (with inventory and order lists).
 
@@ -2256,47 +2140,45 @@ Skills: Appraise +8, Bluff +6, Computer Use +6, Diplomacy +10, Gather Informatio
 
 Feats: Skill Emphasis (Appraise), Skill Emphasis (Diplomacy), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-355 i fe Z 0 u u ia Z af “
-
 <!-- page 357 -->
 
-Mid-Level Trader: Diplomat 8;
-
-Init +0; Defense 12 (+2 class);
-
-Spd 10 m; VP/WP 0/9; Atk +3 melee (`1d3-1`, unarmed) or +4 ranged
-
-(`3d4` or DC 10 stun, hold-out blaster); SV Fort +1, Ref +2, Will +7; FP 0;
-
-DSP 0; Rep +3; Str 8, Dex 10, Con 9, Int 12, Wis 12, Cha 14. Challenge Code B.
+Mid-Level Trader: Diplomat 8; Init +0; Defense 12 (+2 class); Spd 10 m; VP/WP 0/9; Atk +3 melee (`1d3-1`, unarmed) or +4 ranged (`3d4` or DC 10 stun, hold-out blaster); SV Fort +1, Ref +2, Will +7; FP 0; DSP 0; Rep +3; Str 8, Dex 10, Con 9, Int 12, Wis 12, Cha 14. Challenge Code B.
 
 Equipment: Hold-out blaster, datapad (with inventory and orders lists).
 
 Skills: Appraise +10, Bluff +10, Computer Use +10, Diplomacy +13, Gather Information +10, Profession (trader) +11, Sense Motive +10.
 
-Feats: Skill Emphasis (Appraise), Skill Emphasis (Diplomacy), Skill Emphasis (Profession [trader]), Weapon Group Proficiencies (blaster pistols, simple weapons)
+Feats: Skill Emphasis (Appraise), Skill Emphasis (Diplomacy), Skill Emphasis (Profession [trader]), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-High-Level Trader: Diplomat 12; Init +0; Defense 14 (+4 class);
+High-Level Trader: Diplomat 12; Init +0; Defense 14 (+4 class); Spd 10 m; VP/WP 0/9; Atk +5/+0 melee (`1d3-1`, unarmed) or +6/+1 ranged (`3d4` or DC 10 stun, hold-out blaster); SV Fort +3, Ref +4, Will +9; FP 1; DSP 0; Rep +6; Str 8, Dex 10, Con 9, Int 12, Wis 12, Cha 15. Challenge Code B.
 
-Spd 10 m; VP/WP 0/9; Atk +5/+0 melee (103-1, unarmed) or +6/+1 ranged (`3d4` or DC 10 stun, hold-out blaster); SV Fort +3, Ref +4, Will +9; FP 1; DSP 0; Rep +6; Str 8, Dex 10, Con 9, Int 12, Wis 12, Cha 15, Challenge Code B.
+Equipment: Hold-out blaster, datapad (with inventory and orders lists), multichannel comlink.
 
-Equipment: Hold-out blaster, data: pad (with inventory and orders lists), multichannel comlink.
-
-Skills: Appraise +13, Bluff +16, Computer Use +13, Diplomacy +15,
-
-Gather Information +13, Profession (trader) +14, Sense Motive +13
+Skills: Appraise +13, Bluff +16, Computer Use +13, Diplomacy +15, Gather Information +13, Profession (trader) +14, Sense Motive +13.
 
 Feats: Fame (or Infamy), Skill Emphasis (Appraise), Skill Emphasis (Bluff), Skill Emphasis (Diplomacy), Skill Emphasis (Profession [trader]), Weapon Group Proficiencies (blaster pistols, simple weapons).
 
-Yuuzhan Vong Warrior The foot soldiers of the Yuuzhan Vong are fanatical warriors who fight and die in the service of their warlords and their gods. On the battlefield, they maneuver close to take advantage of their deadly melee weapons, particularly their lethal living weapon, the amphistaff. A Yuuzhan Vong warrior never cries out in pain. Death or dismemberment means nothing to the Yuuzhan Vong warrior—so long as he has dealt at least as much damage to his foe,
+## Yuuzhan Vong Warrior
 
-The 2nd-level Yuuzhan Vong soldier is a veteran of a few battles and has learned to take full advantage of his
+The foot soldiers of the Yuuzhan Vong are fanatical warriors who fight and die in the service of their warlords and their gods. On the battlefield, they maneuver close to take advantage of their deadly melee weapons, particularly their lethal living weapon, the amphistaff. A Yuuzhan Vong warrior never cries out in pain. Death or dismemberment means nothing to the Yuuzhan Vong warrior—so long as he has dealt at least as much damage to his foe.
+
+The 2nd-level Yuuzhan Vong soldier is a veteran of a few battles and has learned to take full advantage of his weapon's capabilities. The 4th-level soldier is often a squad leader or a warlord's personal guard; his prowess on the field of battle makes him a fearsome foe indeed.
+
+Yuuzhan Vong soldiers receive the Exotic Weapon Proficiency (amphistaff) feat instead of the Weapon Group Proficiency feats for blaster pistols, heavy weapons, and vibro weapons. These latter devices do not exist among the Yuuzhan Vong and are considered unclean.
 
 The Yuuzhan Vong employ a wide variety of bioengineered creatures, rather than more traditional technology. Their most commonly used gear is described below and on the following page.
 
 Amphistaff: A serpentine creature that can become rigid as stone, and is generally employed as a quarterstaff. It is able to contract the muscles around its head and tail, forming razor-sharp edges, becoming a two-headed spear. Properly stimulated, the amphistatf can either relax its body and act as a whip, or spit potent venom up to 20 meters away. Configurations that deal piercing or slashing damage also inject poison into the target. Using the two-headed spear, whip, whip-spear, or venom spitter configuration requires the Exotic Weapon Proficiency (amphistaff) feat. Using the quarterstaff configuration requires the Weapon Group Proficiency (simple weapons) feat.
 
-Amphistaff Critical Configuration Damage Range Increment Size Weight Type Quarterstaff `1d6`/`1d6` 20 - Large 2kg — Bludgeoning Two-headed spear —`1d6`/ 20 4m Large 2kg Piercing, `1d6` plus poison slashing Whip `1d4` plus poison Special Large 2kg — Slashing Whip-spear `1d4`/ Special Large 2kg — Piercing, `1d6` plus poison slashing Venom spitter Poison - 20m large 2kg
+**Amphistaff**
+
+| Configuration | Damage | Critical | Range Increment | Size | Weight | Type |
+|---|---|---|---|---|---|---|
+| Quarterstaff | `1d6`/`1d6` | 20 | — | Large | 2 kg | Bludgeoning |
+| Two-headed spear | `1d6`/`1d6` plus poison | 20 | 4 m | Large | 2 kg | Piercing, slashing |
+| Whip | `1d4` plus poison | 20 | Special | Large | 2 kg | Slashing |
+| Whip-spear | `1d4`/`1d6` plus poison | 20 | Special | Large | 2 kg | Piercing, slashing |
+| Venom spitter | Poison | — | 20 m | Large | 2 kg | — |
 
 Poison Type Initial Damage Secondary Damage Injury (bite) DC 22 `1d4` Dex `1d8` Dex Contact (spit) DC 20 Blindness Special
 
@@ -2304,7 +2186,7 @@ The special secondary effect of the contact poison is a gradual loss of Constitu
 
 For unknown reasons, Twi'leks are particularly susceptible to Yuuzhan Vong poison and suffer a -5 penalty on their saves.
 
-rash Jelly: An amorphous blob that has highly adhesive properties. Any creature struck by a blorash becomes stuck, suffering a -2 penalty on attack rolls and a -4 penalty to effective Dexterity. The target must succeed at a Reflex saving throw (DC 15) to avoid being pinned in place and unable to move; a successful save still only allows the target to move at half speed. Removing the blorash requires a Strength check (DC 25), or dealing 12 points of damage to the creature with either a slashing or energy weapon. The blorash can also be removed with a successful Intelligence check (DC 15).
+Blorash Jelly: An amorphous blob that has highly adhesive properties. Any creature struck by a blorash becomes stuck, suffering a -2 penalty on attack rolls and a -4 penalty to effective Dexterity. The target must succeed at a Reflex saving throw (DC 15) to avoid being pinned in place and unable to move; a successful save still only allows the target to move at half speed. Removing the blorash requires a Strength check (DC 25), or dealing 12 points of damage to the creature with either a slashing or energy weapon. The blorash can also be removed with a successful Intelligence check (DC 15).
 
 Gnullith: An organic breathing filter, the gnullith is capable of allowing the wearer to respirate in any noncorrosive gaseous or liquid environment. Shaped like a starfish with a long, central proboscis, the gnullith is worn over the mouth and nose, allowing it to insert its proboscis down its wearer's throat. The process is extremely uncomfortable: Donning the gnullith requires a successful Fortitude saving throw (DC 15). This can be attempted once per round.
 
@@ -2312,74 +2194,47 @@ Ooglith Masquer: This bio-organism allows the wearer to cover his or her body wi
 
 Razorbug: A bioengineered weapon resembling a fist-sized, disk-shaped insect, its edges are extremely sharp. Yuuzhan Vong throw them at opponents, and the bug deploys its wings, acting as a kind of guidance system (adding +1 to the attack bonus). A character with the
 
-continued on page 357
-
 <!-- page 358 -->
 
 deflect special ability can use a lightsaber to destroy a razorbug in flight (though it cannot be deflected at another target using this ability). If the razorbug misses its target (and isn’t destroyed or otherwise rendered unusable), it returns to its owner's hand at the end of the follow round. A razorbug that strikes its target uses its appendages to dig even farther into the wound, dealing damage again at the end of the following round without rolling another attack, unless the bug is removed from the wound first. (This requires an attack action.) Note that because the razorbug propels itself, its user does not gain a Strength or Dexterity bonus, either on the attack or on damage. A razorbug has the following weapon profile:
 
-## Damage Critical Range © Weight =‘ Type
+| Damage | Critical | Range Increment | Weight | Type |
+|---|---|---|---|---|
+| `2d4` | 20 | 10 m | 0.5 kg | Slashing |
 
-Thud Bug: Another bioengineered weapon, it is similar to the razorbug. When released, the creature flies toward the nearest enemy at high speed. The target must succeed at a Reflex saving throw (DC 18) to avoid the living projectile. Alternatively, a character with the deflect special ability can use a lightsaber to destroy the thud bug (though it cannot be deflected at another target using this ability). If the thud bug hits its target, it deals 246 damage, and the victim must make a Strength check (DC 15) or be knocked prone. The target must continue attempting to avoid or deflect the thud bug each round until the thud bug strikes or is destroyed, or the target is prone, at which point the creature becomes dormant again.
+Thud Bug: Another bioengineered weapon, it is similar to the razorbug. When released, the creature flies toward the nearest enemy at high speed. The target must succeed at a Reflex saving throw (DC 18) to avoid the living projectile. Alternatively, a character with the deflect special ability can use a lightsaber to destroy the thud bug (though it cannot be deflected at another target using this ability). If the thud bug hits its target, it deals `2d6` damage, and the victim must make a Strength check (DC 15) or be knocked prone. The target must continue attempting to avoid or deflect the thud bug each round until the thud bug strikes or is destroyed, or the target is prone, at which point the creature becomes dormant again.
 
 Tizowyrm: Yuuzhan Vong speak their own language, but these tiny symbionts, carried inside the ear, store phonic information and constantly communicate it to their wearers. Effectively, anyone wearing a tizowyrm gains the skill Speak Language for a specific language. All tizowyrms encountered among the Praetorite Vong confer the skill Speak Basic, or some other intragalactic tongue; the Yuuzhan Vong obviously have no need of tizowyrms that grant the skill Speak Yuuzhan Vong.
 
 Tsaisi: This weapon is a narrower, smaller version of the amphistaff. Using its twoheaded dagger, lash, lash-dagger, and venom spitter configurations requires the Exotic Weapon Proficiency (tsaisi) feat. Using the baton configuration requires the Weapon Group Proficiency (simple weapons) feat. The tsaisi’s profile is given below.
 
-## Tsaisi Range
+**Tsaisi**
 
-## Configuration Damage Critical Increment Size Weight Type
-
-Two-headed dagger `1d6`/ 20 4m Small 1kg — Piercing, `1d6` plus poison* slashing
-
-lash `1d2` plus poison* 20 Special Small kg Slashing
-
-Lash-dagger `1d4`/ 20. Special + Small 1kg Piercing, `1d6` plus poison* slashing
+| Configuration | Damage | Critical | Range Increment | Size | Weight | Type |
+|---|---|---|---|---|---|---|
+| Two-headed dagger | `1d6`/`1d6` plus poison* | 20 | 4 m | Small | 1 kg | Piercing, slashing |
+| Lash | `1d2` plus poison* | 20 | Special | Small | 1 kg | Slashing |
+| Lash-dagger | `1d4`/`1d6` plus poison* | 20 | Special | Small | 1 kg | Piercing, slashing |
 
 *See amphistaff description on previous page for details about Yuuzhan Vong poison.
 
-Villip: Created in pairs, these leathery lumps of flesh maintain contact with each other ‘over even interstellar distances. The Yuuzhan Vong use villips to communicate across long distances in the fashion they call “villip-speak.” The user “awakens” a villip by stroking it, after which it stimulates its twin to awaken as well. Each then unfolds along the sole break in its membranous tissue, and puckers its flesh into the shape of the owner of the villip at the other end. In effect, the villip shows its operator the features of the person he or she is communicating with (presumably; the villip adopts a particular form when it is first joined to its original owner, and thereafter has no way of knowing who is actually operating it). In addition, the villip emulates the voice of its twin’s owner, completing the eerie illusion of direct communication with the other party. The villip “speaks” whatever language is being spoken to its twin—it does not perform any translation function. Awakening a villip requires a successful Intelligence check (DC 15).
+Villip: Created in pairs, these leathery lumps of flesh maintain contact with each other over even interstellar distances. The Yuuzhan Vong use villips to communicate across long distances in the fashion they call “villip-speak.” The user “awakens” a villip by stroking it, after which it stimulates its twin to awaken as well. Each then unfolds along the sole break in its membranous tissue, and puckers its flesh into the shape of the owner of the villip at the other end. In effect, the villip shows its operator the features of the person he or she is communicating with (presumably; the villip adopts a particular form when it is first joined to its original owner, and thereafter has no way of knowing who is actually operating it). In addition, the villip emulates the voice of its twin’s owner, completing the eerie illusion of direct communication with the other party. The villip “speaks” whatever language is being spoken to its twin—it does not perform any translation function. Awakening a villip requires a successful Intelligence check (DC 15).
 
-Vonduun Crabshell Armor: The armor of the Yuuzhan Vong warrior, it has the follow- : DR 3, maximum Dexterity +4, armor check penalty -3, speed 10 m/6 m.
+Vonduun Crabshell Armor: The armor of the Yuuzhan Vong warrior, it has the following profile: DR 3, maximum Dexterity +4, armor check penalty -3, speed 10 m/6 m.
 
-weapon’s capabilities. The 4th-level
-
-soldier is often a squad le:
-
-ora warlord’s personal guard; his prowess on the field of battle makes him a fearsome foe indeed
-
-Yuuzhan Vong soldiers receive the Exotic Weapon Proficiency (amphistaff) feat instead of the Weapon Group Proficiency feats for blaster pistols,
-
-heavy weapons, and vibro weapons. These latter devices do not exist among the Yuuzhan Vong and are
-
-considered unclean.
-
-Low-Level Yuuzhan Vong Warrior: Soldier 2; Init +0; Defense 13 (+3 class); DR 3; Spd 10 m; VP/WP 18/12; Atk +3 melee (`1d6+1` plus poison, amphistaff) or +3 ranged (`2d6`, thud bug); SQ Amphistaff poison; immune to Force, Sense, and Alter; SV Fort +6,
-
-Ref +0, Will -1; FP 0; DSP 4; Rep +1; S Dex 12, Con 12, Int 10, Wis 8, Cha 10. Challenge Code B.
+Low-Level Yuuzhan Vong Warrior: Soldier 2; Init +0; Defense 13 (+3 class); DR 3; Spd 10 m; VP/WP 18/12; Atk +3 melee (`1d6+1` plus poison, amphistaff) or +3 ranged (`2d6`, thud bug); SQ Amphistaff poison; immune to Force, Sense, and Alter; SV Fort +6, Ref +0, Will -1; FP 0; DSP 4; Rep +1; Str 12, Dex 12, Con 12, Int 10, Wis 8, Cha 10. Challenge Code B.
 
 Equipment: Vonduun crabshell armor, amphistaff, thud bugs (x2) blorash jelly.
 
 Skills: Climb -1, Intimidate +5, Jump -1, Knowledge (politics) +4, Pilot +5, Survival +4.
 
-Feats: Armor Proficiency (light), Exotic Weapon Proficiency (amphistaff), Great Fortitude, Two-Weapon
+Feats: Armor Proficiency (light), Exotic Weapon Proficiency (amphistaff), Great Fortitude, Two-Weapon Fighting, Weapon Group Proficiency (simple weapons).
 
-Fighting, Weapon Group Proficiency (simple weapons).
-
-Mid-Level Yuuzhan Vong Warrior: Soldier 4; Init +0; Defense 14 (+4 class); DR 3; Spd 10 m; VP/WP 30/12; Atk +5 melee (`1d6+1` plus poison, taff) or +5 ranged (`2d6`, thud bug); SQ Amphistaff poison; immune to Force, Sense, and Alter; SV Fort +7, Ref +1, Will +0; FP 0; DSP 8; Rep +1; Str 13, Dex 12, Con 12, Int 10, Wis 8, Cha 10. Challenge Code C.
+Mid-Level Yuuzhan Vong Warrior: Soldier 4; Init +0; Defense 14 (+4 class); DR 3; Spd 10 m; VP/WP 30/12; Atk +5 melee (`1d6+1` plus poison, amphistaff) or +5 ranged (`2d6`, thud bug); SQ Amphistaff poison; immune to Force, Sense, and Alter; SV Fort +7, Ref +1, Will +0; FP 0; DSP 8; Rep +1; Str 13, Dex 12, Con 12, Int 10, Wis 8, Cha 10. Challenge Code C.
 
 Equipment: Vonduun crabshell armor, amphistaff, thud bugs (x2), blorash jelly, razorbugs (x2).
 
-Skills: Climb +1, Intimidate +6, Jump +1, Knowledge (politics) +4, Pilot +6, S
+Skills: Climb +1, Intimidate +6, Jump +1, Knowledge (politics) +4, Pilot +6, Survival +5.
 
-Feats: Armor Proficiency (light), Exotic Weapon Proficiency (amphi-
-
-ival +5.
-
-staff), Great Fortitude, Quickness, Power Attack, Two-Weapon Fighting, Weapon Group Proficiency (simple weapons).
-
-0
-
-|
-1 zZ 4 i
+Feats: Armor Proficiency (light), Exotic Weapon Proficiency (amphistaff), Great Fortitude, Quickness, Power Attack, Two-Weapon Fighting, Weapon Group Proficiency (simple weapons).
 
