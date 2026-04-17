@@ -4,137 +4,196 @@
 
 <!-- page 383 -->
 
-il ]OENUER iy WEIGHT
+## Character Record Sheet
 
-ABILITY MP MODIFIER
+| Field | |
+|---|---|
+| **Name** | |
+| **Species** | |
+| **Class(es) / Level** | |
+| **Age** | |
+| **Gender** | |
+| **Height** | |
+| **Weight** | |
+| **Force Points** | |
+| **Dark Side Points** | |
+| **Reputation** | |
+| **Experience Points** | |
 
-gs
+---
 
-CROSS SKIL UME eae") THROWS cuss N i
+## Ability Scores
 
-= OOOO emO-OOO00 ee ee
+| Ability | Score | Modifier |
+|---|---|---|
+| **Strength (Str)** | | |
+| **Dexterity (Dex)** | | |
+| **Constitution (Con)** | | |
+| **Intelligence (Int)** | | |
+| **Wisdom (Wis)** | | |
+| **Charisma (Cha)** | | |
 
-WEAPON
+---
 
-|ARMOR/ protective TEM ——
+## Combat Statistics
 
-‘ACTER RECORD SHEET
+| Statistic | Value |
+|---|---|
+| **Defense** | |
+| **Initiative** | |
+| **Speed** | m |
+| **Vitality Points** | / |
+| **Wound Points** | / |
+| **Damage Reduction** | |
+| **Base Attack Bonus** | |
+| **Melee Attack Bonus** | |
+| **Ranged Attack Bonus** | |
 
-) STAR.WARS
+---
 
-ia
+## Saving Throws
 
-saws
+| Save | Base | Ability | Misc | Total |
+|---|---|---|---|---|
+| **Fortitude** (Con) | | | | |
+| **Reflex** (Dex) | | | | |
+| **Will** (Wis) | | | | |
 
-KEY _ABIUTY
+---
 
-ABILITY MODIFIER nx HA TR" iNT
+## Skills
 
-je INT
+*Max ranks (class skill) = character level + 3. Max ranks (cross-class) = half that.*
 
-WAX RANKS,
+| Skill | Key Ability | Class Skill | Ranks | Ability Mod | Misc | Total |
+|---|---|---|---|---|---|---|
+| Astrogate | Int | | | | | |
+| Balance | Dex\* | | | | | |
+| Bluff | Cha | | | | | |
+| Climb | Str\* | | | | | |
+| Computer Use | Int | | | | | |
+| Craft | Int | | | | | |
+| Demolitions | Int | | | | | |
+| Diplomacy | Cha | | | | | |
+| Disable Device | Int | | | | | |
+| Disguise | Cha | | | | | |
+| Escape Artist | Dex\* | | | | | |
+| Forgery | Int | | | | | |
+| Gather Information | Cha | | | | | |
+| Handle Animal | Cha | | | | | |
+| Hide | Dex\* | | | | | |
+| Intimidate | Cha | | | | | |
+| Jump | Str\* | | | | | |
+| Knowledge | Int | | | | | |
+| Listen | Wis | | | | | |
+| Move Silently | Dex\* | | | | | |
+| Pilot | Dex | | | | | |
+| Profession | Wis | | | | | |
+| Read/Write Language | — | | | | | |
+| Repair | Int | | | | | |
+| Search | Int | | | | | |
+| Sense Motive | Wis | | | | | |
+| Sleight of Hand | Dex\* | | | | | |
+| Speak Language | — | | | | | |
+| Spot | Wis | | | | | |
+| Survival | Wis | | | | | |
+| Swim | Str\*\* | | | | | |
+| Treat Injury | Wis | | | | | |
+| Tumble | Dex\* | | | | | |
 
-RANKS
+\* Armor check penalty applies.  
+\*\* Double armor check penalty applies.
 
-DARK SIDE POINTS
+---
 
-Ho) ist em
+## Force Skills
 
-oui anIFER
+*Only available to Force-sensitive characters. Skills marked †† earn a dark side point when used to harm.*
+
+| Force Skill | Key Ability | Class Skill | Ranks | Ability Mod | Misc | Total |
+|---|---|---|---|---|---|---|
+| Affect Mind | Alter | | | | | |
+| Battlemind | Control | | | | | |
+| Drain Energy ††@® | Alter | | | | | |
+| Empathy | Force | | | | | |
+| Enhance Ability | Force | | | | | |
+| Farseeing | Force | | | | | |
+| Fear ††@® | Alter | | | | | |
+| Force Defense | Control | | | | | |
+| Force Grip ††@® | Alter | | | | | |
+| Force Lightning ††@® | Alter | | | | | |
+| Force Stealth | Control | | | | | |
+| Force Strike | Alter | | | | | |
+| Friendship | Force | | | | | |
+| Heal Another | Alter | | | | | |
+| Heal Self | Control | | | | | |
+| Illusion | Alter | | | | | |
+| Move Object | Alter | | | | | |
+| See Force | Sense | | | | | |
+| Telepathy | Sense | | | | | |
+
+---
+
+## Feats
+
+| Feat | Notes |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+---
 
 <!-- page 384 -->
 
-TOTAL WEIGHT CARRIED
+## Weapons
 
-e) e)
+| Weapon | Attack Bonus | Damage | Critical | Range | Size | Weight | Type |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
 
-HECK GIRDLE IF CHARALTER
+---
 
-[e) (e)
+## Armor / Protective Items
 
-ATE (N THE LANGUAG!
+| Item | Defense Bonus | Max Dex | Check Penalty | Speed | Weight |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
 
-8 ALSO LITE
+---
 
-cs ——|
+## Equipment
 
-Alter Control O Sense © Compassion Attuned O Aware Focus © Burst of Speed O Force Mind O Farce Flight O Force Speed Impraved Force Mind
+| Item | Weight | Notes |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
-) Force Whirlwind ) Knight Mind
+**Total Weight Carried:** ______  
+**Light Load Max:** ______  **Medium Load Max:** ______  **Heavy Load Max:** ______
 
-Mind Trick
+---
 
-© Knight Speed © Master Speed Master Mind )Dissipate Energy Link ) Lightsaber Defense Malavolent ) Knight Deten Master Defeng Mettle Rage Force Mastery CO High Force Mastery
+## Languages
 
-Precise Shot Rapid Shot Multishot
+| Language | Speak | Read/Write |
+|---|---|---|
+| | ☐ | ☐ |
+| | ☐ | ☐ |
+| | ☐ | ☐ |
 
-© Acrobatic O Aeertness O Ambidexterity ) Animal Affinity Shot on the Run ) Armor Praficiency (ight) Power Attack
+---
 
-Armor Proficiency (medium) Ch
-
-Armor Proficiency (heavy) Armar Proficiency (powered)
-
-) Improved Bantha Rush
-
-Athletic © Sunder Blind-Fight © Quick Draw Cautious © Dhickness (J
-
-© Combat Expertise © Improved Disarm
-
-© Rugged
-
-O Run
-
-kill Emp ill Emphasis Skill Emphasis
-
-© Improved Trip ) © Whirlwind Attack © Combat Refloxes
-
-Dodge Sharp-Eyed Nobility Spacer Spring Attack nina
-
-Endurance Exotic Neapon Proficiency
-
-Starship Dodge arship Dodge
-
-Fame arship Operation Force-Sensitive O Starship Operation
-
-O Frightful Presence Steady
-
-© Bearhead Stealthy
-
-O Great Fortitude Surgery
-
-O Headstrong Toughness [ J
-
-CO Heroic Surge Track
-
-O Improved Critical Trick
-
-© Improved Initiative Trustworthy
-
-© Infamy Two-Weapon Fighting
-
-© Influence © Improved Two-Weapon Fighting
-
-© Iron Will Weapon Finesse
-
-Weapon Finesse Weapon Fines Weapon Focus
-
-) Weapon Focus
-
-Lightning Reflexes D Low Prafile © Martial Arts Defensive Martial Arts © Improved Martial Arts © Advanced Martial Arts O Mimic O Nimble © Persuasive ) Paint Blank Shot Far Shot (
-
-© Weapon Facus © Weapan Group © Weapon 6 © Weapon Group © Weapon Group Weapon Group Tero-6 Training
-
-WAX RANKS —
-
-Ea ———— _
-
-CROSS SKILL KEY ABILITY MISC. CLASS. AME FEAT ABIUTY MODIFIER RANKS woairen
-
-‘Mifect Mind Alter + + s Battlemind Cantal + + = Dain Energy #>@® Alter + + = Empathy Force + + = Enhance Ability Force * + . Fareeeing ‘ + = Fear > @® + + 2 Force Defense + + * force Brp +@ + + . Force Lightning «> A + + . Force Stealth « Control ~ + hi = Force Strike 4 Alter + + . Friendship 4 Force + + = Heal Alter + + L Heal Sef Contra + a Musion Mier CHA + + — Move Object +> Alter INT -
-
-Force «> Sense + + Telepathy Sense WIS * + Sills marked 4+» can be used untrained (0 sil ranks). “Armor check penalty, any app
-
-TG lsu of this skill earns a dark side point
-
-007 Lucastil Lid BTM Unod under autharetin
+## Notes / Biography
 
